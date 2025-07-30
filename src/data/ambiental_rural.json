@@ -1,0 +1,2191 @@
+{
+    "questions": [
+        {
+            "question": "De acordo com a Doutrina Nacional de Inteligência de Segurança Pública (DNISP), qual das seguintes opções NÃO é uma espécie de Inteligência de Segurança Pública (ISP) conceituada?",
+            "answerOptions": [
+                {
+                    "text": "Inteligência Policial Militar",
+                    "rationale": "Inteligência Policial Militar é explicitamente mencionada como uma espécie de ISP na DNISP.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência Bombeiro Militar",
+                    "rationale": "Inteligência Bombeiro Militar é uma das espécies de ISP conceituadas pela DNISP.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência Fiscal Tributária",
+                    "rationale": "O texto lista Inteligência Policial Judiciária, Inteligência Policial Militar, Inteligência Bombeiro Militar e Inteligência Policial Rodoviária, mas não Inteligência Fiscal Tributária.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Inteligência Policial Rodoviária",
+                    "rationale": "Inteligência Policial Rodoviária é uma espécie de ISP conceituada pela DNISP.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise a lista de espécies de Inteligência de Segurança Pública mencionadas na introdução do documento.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual é a natureza fundamental da Inteligência Policial Militar, conforme a Política de Inteligência da PMDF (POLINT/PMDF)?",
+            "answerOptions": [
+                {
+                    "text": "Uma atividade de caráter público, exercida por entidades civis e militares.",
+                    "rationale": "A POLINT/PMDF a define como 'exclusivamente estatal', não abrangendo entidades civis de forma geral para essa atividade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma atividade exclusivamente estatal, de natureza sigilosa e permanente, visando ao assessoramento do processo decisório.",
+                    "rationale": "A Inteligência Policial Militar é descrita como uma atividade 'exclusivamente estatal, de natureza sigilosa que consiste no exercício permanente de ações especializadas destinadas à produção, difusão, salvaguarda e proteção de dados, conhecimentos e ativos da instituição, visando ao assessoramento do processo decisório'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Uma função restrita à obtenção de dados indisponíveis para a coleta ordinária.",
+                    "rationale": "Embora inclua a obtenção de dados indisponíveis, essa é apenas uma das funções, não a definição fundamental da atividade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um processo de análise de dados focado apenas na redução de vulnerabilidades internas.",
+                    "rationale": "A atividade visa tanto a redução de vulnerabilidades quanto a neutralização de ameaças externas e a identificação de oportunidades, além de ter um escopo mais amplo que a mera análise.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas características essenciais da Inteligência Policial Militar em sua definição mais abrangente, especialmente em relação ao Estado e seu propósito.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "O que caracteriza a Inteligência de Alerta, dentro da classificação por recorte temporal da produção de conhecimento?",
+            "answerOptions": [
+                {
+                    "text": "Manter autoridades decisórias continuamente atualizadas sobre fatos em progresso.",
+                    "rationale": "Essa é a descrição da Inteligência Corrente, não da Inteligência de Alerta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Assessorar continuamente o processo decisório sobre temas de interesse da ordem pública.",
+                    "rationale": "Esta descrição corresponde à Inteligência Explanativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Oferecer cenários sobre o futuro para assessorar o direcionamento do processo decisório.",
+                    "rationale": "Essa é a finalidade da Inteligência Prospectiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Antecipar fatos, eventos, situações ou fenômenos que possam impactar a ordem pública, a fim de possibilitar tempo hábil para evitar ameaças ou mitigar seus efeitos.",
+                    "rationale": "A Inteligência de Alerta visa 'antecipar fatos, eventos, situações ou fenômenos que possam impactar a ordem pública' para que os tomadores de decisão tenham tempo hábil para agir preventivamente ou mitigar os impactos.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Foque no objetivo principal da Inteligência de Alerta em relação ao tempo e à ação do decisor.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual é a principal atribuição da Contrainteligência Policial Militar?",
+            "answerOptions": [
+                {
+                    "text": "Obtenção e análise de dados para produção de conhecimentos sobre oportunidades e ameaças à missão constitucional da PMDF.",
+                    "rationale": "Essa é a definição da Inteligência Policial Militar, o outro ramo da atividade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prevenção e contraposição de ações adversas que ameacem a salvaguarda dos ativos institucionais, especialmente a proteção de dados e da imagem da PMDF.",
+                    "rationale": "A Contrainteligência Policial Militar 'produz conhecimentos e desenvolve ações especializadas destinadas à prevenção e contraposição (detecção, avaliação, obstrução e neutralização) de ações adversas que constituam ameaças à salvaguarda dos ativos institucionais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Elaboração de cenários futuros e prognósticos para assessorar o direcionamento estratégico.",
+                    "rationale": "Essa atribuição está mais alinhada à Inteligência Prospectiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apoio à execução de ações operacionais com foco em decisões imediatas ou de curto prazo.",
+                    "rationale": "Esta é uma função da Inteligência Operacional.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do ramo da inteligência focado na proteção contra ameaças e na salvaguarda dos recursos institucionais.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Segundo a classificação por propósito, qual tipo de Inteligência tem o objetivo de construir conjuntos de fundamentos e referências para compreensão e contextualização de temas, servindo como subsídio para outras análises?",
+            "answerOptions": [
+                {
+                    "text": "Inteligência Estratégica",
+                    "rationale": "A Inteligência Estratégica foca na compreensão de dinâmicas e variáveis para assessorar objetivos estratégicos, não na construção de fundamentos de base.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência Tática",
+                    "rationale": "A Inteligência Tática está relacionada à implementação de políticas públicas em ações táticas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência Operacional",
+                    "rationale": "A Inteligência Operacional apoia o emprego de recursos da PMDF em ações operacionais e decisões imediatas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência de Base",
+                    "rationale": "A Inteligência de Base tem como propósito 'construir conjuntos de fundamentos e referências para compreensão e contextualização dos temas acompanhados, servindo como subsídio para outras análises'.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Pense no tipo de inteligência que estabelece os alicerces e o contexto para análises mais focadas.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual dos seguintes não é considerado um instrumento essencial da Inteligência Policial Militar, conforme listado na POLINT/PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Doutrina Nacional de Inteligência de Segurança Pública",
+                    "rationale": "A Doutrina Nacional de Inteligência de Segurança Pública é um instrumento essencial listado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comitês de Ética em Pesquisa",
+                    "rationale": "Comitês de Ética em Pesquisa não são listados como instrumentos essenciais da Inteligência Policial Militar no texto.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Policiamento Orientado pela Inteligência",
+                    "rationale": "O Policiamento Orientado pela Inteligência é explicitamente listado como um instrumento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O SIPOM e as agências de Inteligência que o integram",
+                    "rationale": "O SIPOM e suas agências são considerados instrumentos essenciais da Inteligência Policial Militar.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise a lista de instrumentos essenciais da Inteligência Policial Militar mencionada na seção 3 do documento.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual pressuposto da Atividade de Inteligência Policial Militar é alicerçado em um conjunto sólido de valores profissionais e exige o emprego de meios sigilosos?",
+            "answerOptions": [
+                {
+                    "text": "Atividade de Estado de caráter permanente",
+                    "rationale": "Este pressuposto se refere à exclusividade e perenidade da atividade, não aos meios sigilosos e valores profissionais de forma tão direta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conduta ética",
+                    "rationale": "A conduta ética se refere aos princípios orientadores do comportamento, mas não necessariamente ao emprego de meios sigilosos como característica intrínseca.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atividade especializada",
+                    "rationale": "A Política Nacional de Inteligência 'assevera que a Inteligência é uma atividade especializada e tem o seu exercício alicerçado em um conjunto sólido de valores profissionais e em uma doutrina comum, bem como exige o emprego de meios sigilosos'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Interação entre as agências de inteligência",
+                    "rationale": "Este pressuposto foca na cooperação entre agências, não na natureza especializada e sigilosa da atividade em si.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no pressuposto que enfatiza o uso de métodos e meios específicos e confidenciais.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Uma das subespécies da Inteligência Policial Militar no DF, o Serviço Velado, possui qual atribuição principal?",
+            "answerOptions": [
+                {
+                    "text": "Produção exclusiva de Inteligência Estratégica e de Base.",
+                    "rationale": "O Serviço Velado é essencialmente voltado para o assessoramento de Inteligência de Alerta, Corrente, Tática e Operacional, embora seus dados possam subsidiar outros tipos de inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Investigar crimes militares e transgressões disciplinares em Procedimentos Administrativos Disciplinares.",
+                    "rationale": "Esta é a atribuição principal da Inteligência Policial Militar Judiciária (IPMJ).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Obter e/ou validar dados em ambiente operacional, essencialmente para assessoramento de Inteligência de Alerta e Corrente e de Inteligência Tática e Operacional.",
+                    "rationale": "O Serviço Velado é definido como uma fração das Agências de Inteligência com a atribuição de 'obter e/ou validar dados em ambiente operacional, essencialmente voltada para o assessoramento de Inteligência de Alerta e Corrente e de Inteligência Tática e Operacional'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Realizar a coordenação e o controle de todas as agências de inteligência do SIPOM.",
+                    "rationale": "A coordenação e controle são pressupostos da atividade de inteligência em um nível mais amplo, não a atribuição do Serviço Velado em si.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Concentre-se na função do Serviço Velado em campo e nos tipos de inteligência que ele mais diretamente apoia.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual das seguintes ameaças é descrita como aquela que 'demanda integração entre as Agências do SIPOM e outros sistemas de inteligência, a fim de potencializar a identificação de redes criminais'?",
+            "answerOptions": [
+                {
+                    "text": "Criminalidade violenta",
+                    "rationale": "A criminalidade violenta exige atenção, mas a descrição de 'integração entre agências' para identificar 'redes criminais' é mais específica para outra ameaça.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Crimes ambientais",
+                    "rationale": "Crimes ambientais são importantes, mas o texto não os descreve com essa demanda específica por integração de redes criminais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Crime organizado",
+                    "rationale": "O texto afirma que o enfrentamento do 'crime organizado' 'demanda integração entre as Agências do SIPOM e outros sistemas de inteligência, a fim de potencializar a identificação de redes criminais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ações contrárias ao Estado Democrático de Direito",
+                    "rationale": "Essas ações são sérias, mas a descrição de integração para identificar 'redes criminais' é mais alinhada ao crime organizado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no tipo de criminalidade que opera em grande escala e exige colaboração entre diferentes órgãos de inteligência para ser combatida.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual é um dos objetivos principais da Política de Inteligência da PMDF (POLINT/PMDF)?",
+            "answerOptions": [
+                {
+                    "text": "Atuar na repressão imediata de toda e qualquer criminalidade, independentemente da análise de inteligência prévia.",
+                    "rationale": "O foco da POLINT é subsidiar o processo decisório e o planejamento, não apenas a repressão imediata sem análise.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conscientizar apenas o público externo acerca da importância da atividade de Inteligência Policial Militar.",
+                    "rationale": "Um dos objetivos é 'conscientizar o público interno e externo', não apenas o externo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reduzir a necessidade de interação entre as agências de inteligência para otimizar recursos.",
+                    "rationale": "As diretrizes e pressupostos enfatizam a interação e coordenação entre as agências.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Acompanhar e avaliar conjunturas de interesse, detectando e neutralizando ameaças e identificando riscos e oportunidades para subsidiar o processo decisório.",
+                    "rationale": "Este é um dos objetivos explícitos da POLINT/PMDF, visando a contribuição para a segurança do Estado e da sociedade através da produção de conhecimentos e assessoramento ao processo decisório.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Considere o papel da inteligência no apoio à tomada de decisões e à estratégia institucional da PMDF.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Além da função informacional, quais são outras funções importantes da Atividade de Inteligência no âmbito da PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o monitoramento de redes sociais e a coleta de notícias.",
+                    "rationale": "A coleta de notícias e monitoramento de redes sociais são partes da obtenção de dados, mas não abrangem a totalidade das funções adicionais da Inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Obtenção de dados indisponíveis, proteção de conhecimentos sensíveis e prevenção/neutralização de ações adversas.",
+                    "rationale": "Além da produção de conhecimento, a Atividade de Inteligência deve agir para 'obtenção de dados indisponíveis, proteção de conhecimentos, informações e dados sensíveis e também das pessoas, áreas, instalações e meios que os guardem ou veiculem, bem como prevenção, detecção, identificação, avaliação, obstrução e neutralização de ações adversas'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Exclusivamente a fiscalização de eventos e manifestações públicas.",
+                    "rationale": "A fiscalização de eventos é uma aplicação, mas não representa a totalidade das funções da Atividade de Inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apoio logístico e administrativo para as operações policiais.",
+                    "rationale": "O apoio logístico e administrativo não é uma função central da Atividade de Inteligência, que foca na informação e proteção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas responsabilidades da Inteligência que vão além de simplesmente informar, focando na proteção e na proatividade.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual é a principal diferença de propósito entre a Inteligência Tática e a Inteligência Operacional?",
+            "answerOptions": [
+                {
+                    "text": "Inteligência Tática foca em decisões de curto prazo, enquanto Operacional em planejamento estratégico.",
+                    "rationale": "A Inteligência Tática apoia ações táticas de políticas públicas, e a Operacional apoia decisões imediatas ou de curto prazo no emprego de recursos, o oposto do que é afirmado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência Tática reúne dados para execução de ações táticas, e a Operacional oferece contextualização para o emprego de recursos da PMDF em ações operacionais e decisões imediatas.",
+                    "rationale": "A Inteligência Tática tem o propósito de reunir dados para 'execução das ações táticas', enquanto a Inteligência Operacional visa a 'contextualização, tratar dados e/ou produzir conhecimentos voltados ao emprego de recursos da PMDF, em apoio à execução de ações operacionais', com foco em decisões imediatas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Inteligência Tática lida com crimes de menor potencial ofensivo, e a Operacional com crimes de alta complexidade.",
+                    "rationale": "A distinção entre Inteligência Tática e Operacional está no nível de planejamento e execução, não na gravidade dos crimes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência Tática é para uso interno da PMDF, e a Operacional é para compartilhamento com outras forças.",
+                    "rationale": "Ambas as inteligências são para uso interno e podem ser compartilhadas conforme as necessidades de cooperação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o nível de decisão e a temporalidade de cada tipo de inteligência: um para 'ações' e outro para 'emprego de recursos' e 'decisões imediatas'.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "O que são os 'Sensores de Inteligência' no contexto da POLINT/PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Equipamentos tecnológicos utilizados para a coleta secreta de informações.",
+                    "rationale": "Sensores de Inteligência são pessoas, policiais militares, e não equipamentos tecnológicos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Policiais militares que, em razão de suas funções, obtêm e compartilham dados e informações úteis com a Atividade de Inteligência.",
+                    "rationale": "Sensores de Inteligência são definidos como 'aqueles policiais militares que, em razão de suas funções, obtêm dados e informações sobre fatos, eventos, situações ou fenômenos e, oportunamente, os compartilham com a Atividade de Inteligência'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Agências de Inteligência com atuação especializada em contrainteligência.",
+                    "rationale": "As agências de inteligência são estruturas organizacionais do SIPOM, enquanto os sensores são indivíduos que contribuem com informações.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Unidades de elite responsáveis por operações de inteligência de alto risco.",
+                    "rationale": "Embora a inteligência possa envolver operações de alto risco, 'Sensores de Inteligência' referem-se a todos os policiais militares que contribuem com informações.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no papel de cada policial militar na contribuição de informações para a inteligência, independentemente de ser um especialista em inteligência.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Um dos pressupostos da Atividade de Inteligência Policial Militar é o 'Sigilo'. Qual o principal objetivo desse sigilo?",
+            "answerOptions": [
+                {
+                    "text": "Esconder as ações da polícia da população em geral.",
+                    "rationale": "O sigilo visa a proteção da atividade, não a ocultação de todas as ações policiais da população.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Preservar os profissionais de inteligência no exercício de suas atividades e os órgãos a que estão vinculados.",
+                    "rationale": "O sigilo da atividade de Inteligência Policial Militar 'visa a preservar os profissionais de inteligência no exercício de suas atividades e os órgãos a que estão vinculados'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Impedir o acesso de outras agências de segurança a informações confidenciais.",
+                    "rationale": "A interação entre agências de inteligência é um pressuposto, indicando compartilhamento de informações, não impedimento total.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Garantir que a inteligência atue de forma totalmente independente de qualquer controle externo.",
+                    "rationale": "A atividade de inteligência opera sob amparo legal e constitucional, não de forma totalmente independente de controle.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere por que a natureza sigilosa é fundamental para a segurança e eficácia das operações de inteligência.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "A Inteligência Policial Militar Judiciária (IPMJ) tem como um de seus focos principais a prevenção, neutralização e repressão de quais tipos de crimes e infrações?",
+            "answerOptions": [
+                {
+                    "text": "Apenas crimes contra a vida cometidos por civis.",
+                    "rationale": "A IPMJ é específica para procedimentos administrativos disciplinares e crimes militares, não se restringindo a crimes contra a vida de civis.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Crimes ambientais e crimes cibernéticos.",
+                    "rationale": "Crimes ambientais e cibernéticos são ameaças gerais, mas a IPMJ tem um foco mais específico na esfera disciplinar e militar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Crimes militares e transgressões disciplinares.",
+                    "rationale": "A IPMJ é 'orientada para produção e salvaguarda de conhecimentos necessários para assessorar o processo decisório nos Procedimentos Administrativos Disciplinares e nas ações para prever, prevenir, neutralizar e reprimir crimes militares e transgressões disciplinares'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Contrabando e tráfico de drogas de âmbito transnacional.",
+                    "rationale": "Esses são focos da inteligência em relação ao crime organizado, mas não o principal foco exclusivo da IPMJ.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no domínio de atuação específico da Inteligência Policial Militar Judiciária, especialmente em relação ao âmbito interno da instituição.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "O Policiamento Orientado pela Inteligência é baseado na obtenção, validação e/ou processamento de dados para qual finalidade principal?",
+            "answerOptions": [
+                {
+                    "text": "Exclusivamente para a realização de operações sigilosas de contrainteligência.",
+                    "rationale": "O policiamento orientado pela inteligência tem um escopo mais amplo, focado no planejamento e execução de atividades de polícia ostensiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Identificar origens, padrões, dinâmicas e desdobramentos de crimes, contravenções e incivilidades, subsidiando a tomada de decisão no planejamento e execução de políticas públicas e ações policiais.",
+                    "rationale": "O Policiamento Orientado pela Inteligência é 'baseado na obtenção, validação e/ou processamento de dados capazes de identificar origens, padrões, dinâmicas e desdobramentos de crimes, contravenções, incivilidades e outras ações adversas... utilizados como insumos para a tomada de decisão no âmbito do planejamento, execução e avaliação de políticas públicas, bem como de operações e ações policiais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Formular cenários futuros para assessoramento do direcionamento estratégico da Corporação.",
+                    "rationale": "Formular cenários futuros é uma atribuição da Inteligência Prospectiva, não o foco principal do Policiamento Orientado pela Inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Determinar as necessidades de efetivo e equipamentos da PMDF anualmente.",
+                    "rationale": "Embora a inteligência possa apoiar decisões sobre recursos, essa não é a definição principal do Policiamento Orientado pela Inteligência.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere como a inteligência impacta diretamente a forma como o policiamento ostensivo é planejado e executado.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "A Política de Inteligência da PMDF (POLINT/PMDF) foi elaborada com base em diversas normas. Qual das seguintes leis instituiu o Sistema Brasileiro de Inteligência (SISBIN) e criou a Agência Brasileira de Inteligência (ABIN)?",
+            "answerOptions": [
+                {
+                    "text": "Lei n.º 14.751, de 12 de dezembro de 2023",
+                    "rationale": "Esta lei institui a Lei Orgânica Nacional das Polícias Militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lei n.º 9.883, de 07 de dezembro de 1999",
+                    "rationale": "A Lei n.º 9.883, de 07 de dezembro de 1999, é a norma que institui o Sistema Brasileiro de Inteligência (SISBIN) e cria a Agência Brasileira de Inteligência (ABIN).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decreto Federal n.º 8.793, de 29 de junho de 2016",
+                    "rationale": "Este decreto fixa a Política Nacional de Inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Decreto Federal n.º 10.777, de 24 de agosto de 2021",
+                    "rationale": "Este decreto institui a Política Nacional de Inteligência de Segurança Pública.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque nas leis de âmbito federal que criaram as estruturas fundamentais de inteligência no Brasil.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual é a descrição da ameaça de 'Ações contrárias ao Estado Democrático de Direito' conforme a POLINT/PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Apenas atos de vandalismo em prédios públicos.",
+                    "rationale": "Ações contrárias ao Estado Democrático de Direito têm um escopo muito mais amplo do que apenas atos de vandalismo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ações que atentem contra o pacto federativo, direitos e garantias fundamentais, dignidade da pessoa humana, cidadania e meio ambiente, além de outros atos que representem risco à integridade do Estado.",
+                    "rationale": "São consideradas ações contrárias ao Estado Democrático de Direito aquelas que 'atentem contra o pacto federativo, a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, os direitos e as garantias fundamentais, a dignidade da pessoa humana, a cidadania e o meio ambiente, além de outros atos ou atividades que representem ou possam representar risco aos preceitos constitucionais relacionados à integridade do Estado'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Crimes financeiros e lavagem de dinheiro.",
+                    "rationale": "Crimes financeiros são uma ameaça distinta, relacionada ao crime organizado, mas não definem as ações contrárias ao Estado Democrático de Direito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desastres naturais com impacto na infraestrutura urbana.",
+                    "rationale": "Desastres naturais são outra categoria de ameaça, não ações contra o Estado Democrático de Direito.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas ameaças que minam os fundamentos da própria estrutura governamental e social, conforme a Constituição.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Um dos objetivos da POLINT/PMDF é 'Impulsionar o Policiamento Orientado pela Inteligência'. Qual diretriz corresponde diretamente a essa ação?",
+            "answerOptions": [
+                {
+                    "text": "Especialização, capacitação continuada e treinamento dos integrantes do SIPOM.",
+                    "rationale": "Esta é uma diretriz importante, mas mais geral para o SIPOM, não especificamente para impulsionar o Policiamento Orientado pela Inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Integração com Órgãos e Agências de Inteligência – locais, nacionais e internacionais.",
+                    "rationale": "A integração é fundamental, mas não é a diretriz mais direta para impulsionar o Policiamento Orientado pela Inteligência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desenvolvimento do Policiamento Orientado pela Inteligência, incrementando ações de prevenção e repressão qualificada de crimes, contravenções, incivilidades e ações adversas.",
+                    "rationale": "A diretriz 'Desenvolvimento do Policiamento Orientado pela Inteligência, incrementando ações de prevenção e repressão qualificada de crimes, contravenções, incivilidades e ações adversas contra a ordem pública, a incolumidade das pessoas e do patrimônio e o meio ambiente' corresponde diretamente ao objetivo de impulsionar essa modalidade de policiamento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Execução de Operações de Inteligência exploratórias e sistemáticas para obtenção de dados.",
+                    "rationale": "A execução de operações de inteligência é uma ferramenta, mas não a diretriz que define o impulsionamento do policiamento orientado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a diretriz que explicitamente menciona o 'Policiamento Orientado pela Inteligência' e suas implicações práticas.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "Qual é a principal distinção entre 'Inteligência Policial Militar' (o ramo da atividade) e 'Contrainteligência Policial Militar'?",
+            "answerOptions": [
+                {
+                    "text": "Inteligência se foca em operações internas da PMDF, e Contrainteligência em ameaças externas ao DF.",
+                    "rationale": "Ambos os ramos podem lidar com ameaças internas e externas à PMDF e ao DF.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência produz conhecimentos para oportunidades e ameaças à missão, enquanto Contrainteligência foca na prevenção e contraposição de ações adversas à salvaguarda dos ativos institucionais.",
+                    "rationale": "A 'Inteligência Policial Militar é o ramo da atividade voltado para a obtenção e análise de dados e informações para a produção e a difusão de conhecimentos relativos a fatos... que se constituam ou indiquem oportunidades ou ameaças'. Já a 'Contrainteligência Policial Militar é o ramo da atividade que produz conhecimentos e desenvolve ações especializadas destinadas à prevenção e contraposição... de ações adversas que constituam ameaças à salvaguarda dos ativos institucionais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Inteligência lida apenas com dados de domínio público, e Contrainteligência com dados sigilosos.",
+                    "rationale": "Ambos os ramos utilizam dados de diversas fontes, incluindo sigilosas, conforme a necessidade da atividade especializada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência é responsável pela coleta de dados, e Contrainteligência apenas pela análise.",
+                    "rationale": "Ambos os ramos envolvem coleta e análise de dados, mas com propósitos distintos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos objetivos primários de cada ramo: um busca conhecimento geral sobre o ambiente, o outro busca proteger a instituição de ações danosas.",
+            "subject": "inteligencia_pmdf"
+        },
+        {
+            "question": "De acordo com o texto, qual é a principal característica da definição de liderança atualmente?",
+            "answerOptions": [
+                {
+                    "text": "É um conceito universalmente aceito e pacífico.",
+                    "rationale": "O texto afirma que a definição de liderança 'ainda não é pacífica hoje'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É um assunto simples, com poucas teorias que o expliquem.",
+                    "rationale": "O texto menciona que é um 'assunto complexo' e que 'engloba diversas teorias'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É um fenômeno complexo e sua definição ainda não é pacífica, abrangendo diversas teorias.",
+                    "rationale": "O texto descreve a liderança como um 'assunto complexo' e um 'fenômeno amplo que engloba diversas teorias que tentam explicá-lo', e que sua definição 'ainda não é pacífica hoje'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É um processo de coação e imposição de vontade do líder sobre o grupo.",
+                    "rationale": "Embora a influência possa ter graus como a coação, a definição geral de liderança não se resume a isso. O texto foca em 'influenciar as atividades' e 'dar propósito'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção à introdução do tópico 'Liderança' e como ela é descrita em termos de complexidade e aceitação.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Independentemente do conceito adotado, quais são os quatro fatores que sempre estarão presentes quando da manifestação do fenômeno da liderança?",
+            "answerOptions": [
+                {
+                    "text": "Recursos, tempo, planejamento e feedback.",
+                    "rationale": "Esses são elementos da gestão, mas não os fatores fundamentais da manifestação da liderança segundo o texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma situação, o líder, os liderados e a interação entre líder e liderados.",
+                    "rationale": "O texto afirma que 'quatro fatores sempre estarão presentes quando da manifestação desse fenômeno: - uma situação - o líder - os liderados e - a interação entre líder e liderados'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Carisma, autoridade, poder e disciplina.",
+                    "rationale": "Carisma, autoridade e poder são conceitos relacionados, mas não são os quatro fatores essenciais listados. Disciplina é uma função do líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comunicação, motivação, delegação e decisão.",
+                    "rationale": "Essas são funções importantes do líder, mas não os quatro fatores que definem a ocorrência da liderança.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos elementos essenciais que precisam existir para que a liderança se manifeste, envolvendo os atores e o ambiente.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual dos seguintes não é um dos graus de influenciação mencionados no texto?",
+            "answerOptions": [
+                {
+                    "text": "A coação (pressão e força).",
+                    "rationale": "A coação é um dos graus de influenciação listados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A persuasão (argumentação).",
+                    "rationale": "A persuasão é um dos graus de influenciação listados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A barganha (negociação).",
+                    "rationale": "O texto lista coação, persuasão, sugestão e emulação, mas não barganha.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A emulação (procurar ser igual ao outro para ganhá-lo imitação).",
+                    "rationale": "A emulação é um dos graus de influenciação listados.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a seção que detalha os diferentes 'graus de influenciação'.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Segundo Chiavenato, quais são as três bases de autoridade do líder?",
+            "answerOptions": [
+                {
+                    "text": "Autoridade legal, autoridade política e autoridade financeira.",
+                    "rationale": "Chiavenato não lista autoridade política ou financeira.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bases em fundamentos racionais (regras normativas), bases tradicionais e bases carismáticas.",
+                    "rationale": "O texto afirma: 'Segundo CHIAVENATO existem três bases de autoridade do líder: – base em fundamentos racionais (regras normativas, autoridade legal) – bases tradicionais (passada de geração para geração) – bases carismáticas (heroísmo, caráter exemplar, popularidade)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Poder de mando, poder de decisão e poder de influência.",
+                    "rationale": "Poder de mando e decisão são manifestações de autoridade, e poder de influência é um conceito ligado, mas não são as bases de autoridade segundo Chiavenato.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência, experiência e adaptabilidade.",
+                    "rationale": "Essas são características úteis para um líder, mas não as bases de autoridade segundo Chiavenato.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos tipos de autoridade que um líder pode ter, conforme o teórico Chiavenato.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Uma das principais funções do líder é 'Motivar o liderado'. De acordo com o texto, o que significa 'motivar'?",
+            "answerOptions": [
+                {
+                    "text": "Impor tarefas e exigir o cumprimento por meio de punições.",
+                    "rationale": "Motivação está ligada a estimular a ação de forma positiva, não a imposição ou punição.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Estimular o indivíduo para a ação, fazendo-o tomar o objetivo do trabalho como um motivo pessoal.",
+                    "rationale": "Segundo Serra (1982), 'motivar é, pois, estimular o individuo para a ação, fazendo-o tomar o objetivo do trabalho como um motivo pessoal'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Realizar todas as tarefas em vez dos subordinados para agilizar o processo.",
+                    "rationale": "Isso seria o oposto de motivar e de delegar tarefas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas comunicar os objetivos, sem se preocupar com o engajamento pessoal.",
+                    "rationale": "A motivação vai além da simples comunicação, envolvendo o engajamento do indivíduo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Concentre-se na definição de 'motivar' apresentada na seção sobre a função de motivação do líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Segundo o texto, qual é a importância da 'interação' para que a liderança ocorra?",
+            "answerOptions": [
+                {
+                    "text": "É importante apenas para a comunicação formal, sem impacto nos sentimentos.",
+                    "rationale": "A interação permite o trânsito de informações, ideias, pensamentos, sentimentos e emoções, não apenas a comunicação formal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É vital para que ocorra a liderança, permitindo a tramitação de informações, ideias, pensamentos, sentimentos e emoções entre os membros do grupo.",
+                    "rationale": "O texto afirma que 'A interação é vital para que ocorra a liderança de um indivíduo em relação a um grupo. É o processo pelo qual informações, ideias, pensamentos, sentimentos e emoções tramitam entre os membros do grupo, permitindo a inter-relação entre eles'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É um fator secundário, pois o líder pode influenciar independentemente da comunicação com os liderados.",
+                    "rationale": "A interação é descrita como 'vital', e a liderança é dirigida através da comunicação humana.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não é necessária, pois a liderança se manifesta apenas pela presença do líder.",
+                    "rationale": "O texto contradiz isso ao listar a interação como um dos quatro fatores essenciais e vitais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reveja os quatro fatores que sempre estão presentes na liderança, com foco na dinâmica entre líder e liderados.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Sobre a função de 'Delegar Tarefas', o que o verdadeiro líder deve ter perfeita consciência?",
+            "answerOptions": [
+                {
+                    "text": "Que deve ser onisciente e onipotente, sabendo e podendo fazer tudo sozinho.",
+                    "rationale": "O texto afirma o oposto: 'O melhor dos líderes jamais conseguirá ser onisciente e onipotente'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "De que não precisa dividir tarefas, pois um bom líder faz tudo sozinho.",
+                    "rationale": "O texto menciona a necessidade de 'divisão de tarefas' quando o objetivo requer esforço de mais de uma pessoa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Daquilo que pode e deve fazer sozinho, como também daquilo que pode e deve atribuir a um liderado.",
+                    "rationale": "O texto indica que 'O verdadeiro líder deve ter perfeita consciência daquilo que pode e deve fazer sozinho, como também daquilo que pode e deve atribuir a um liderado'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que a delegação de tarefas é um sinal de fraqueza do líder.",
+                    "rationale": "A delegação é apresentada como uma necessidade e uma habilidade importante para o líder.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na capacidade de um líder de gerenciar a si mesmo e a sua equipe de forma eficiente, reconhecendo limites e oportunidades de colaboração.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é a definição de 'Comunicação' apresentada no texto?",
+            "answerOptions": [
+                {
+                    "text": "Apenas a transmissão de ordens do líder para os subordinados.",
+                    "rationale": "A definição é mais ampla, envolvendo compreensão e compartilhamento de ideias e sentimentos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A transferência de informação e compreensão de uma pessoa para outra, uma ponte de significação para partilhar o que sentem e sabem.",
+                    "rationale": "Segundo WERTHER & DAVIS (1983), a comunicação é 'a transferência de informação e compreensão de uma pessoa para outra. É um modo de alcançar os outros com ideias, fatos, pensamentos e valores. É uma ponte de significação entre pessoas para que elas possam partilhar o que sentem e sabem'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O ato de persuadir o grupo a seguir cegamente as instruções do líder.",
+                    "rationale": "Persuasão é um grau de influência, mas a comunicação é um processo de transferência de compreensão mútua.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O processo de tomada de decisão em grupo.",
+                    "rationale": "Tomar decisão é outra função do líder, não a definição de comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Relembre a citação de Werther & Davis sobre o que a comunicação realmente envolve.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é um dos principais desafios que o líder enfrenta ao lidar com o 'Trabalho em Equipe'?",
+            "answerOptions": [
+                {
+                    "text": "Garantir que todos os membros da equipe tenham objetivos e interesses individuais idênticos.",
+                    "rationale": "O texto afirma que as pessoas 'possuindo diferentes objetivos e interesses individuais' e que 'Surgem os conflitos'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Evitar qualquer tipo de conflito na equipe a todo custo.",
+                    "rationale": "O texto reconhece que os conflitos surgem e que o líder precisa 'Gerir os conflitos', não necessariamente evitá-los por completo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gerir os conflitos que surgem devido aos diferentes objetivos e interesses individuais, e dar o norte e impor a voga para a equipe.",
+                    "rationale": "O texto indica que 'Uma equipe de trabalho é composta de várias pessoas e estas possuindo diferentes objetivos e interesses individuais -> Surgem os conflitos. O líder precisa: – Gerir os conflitos – Dar o norte – Impor a Voga'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Realizar o trabalho sozinho para evitar desentendimentos.",
+                    "rationale": "Isso contradiz o conceito de trabalho em equipe e a necessidade de delegação de tarefas.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos desafios inerentes a um grupo de indivíduos com diferentes perspectivas e como o líder atua para harmonizá-los.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual das seguintes vantagens a disciplina, quando bem aplicada, NÃO oferece, conforme o texto?",
+            "answerOptions": [
+                {
+                    "text": "O fomento do espírito de respeito mútuo entre ele e os liderados.",
+                    "rationale": "Esta é uma das vantagens listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A conservação da justiça.",
+                    "rationale": "Esta é uma das vantagens listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O ensinamento e orientação para os liderados a desempenharem eficientemente suas tarefas.",
+                    "rationale": "Esta é uma das vantagens listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A garantia de que o líder nunca tomará decisões equivocadas.",
+                    "rationale": "O texto afirma que 'O líder não é um ser perfeito, portanto, certas vezes tomará decisões equivocadas'. A disciplina não garante a infalibilidade do líder.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Revise as três vantagens explícitas da disciplina no final da seção 'Disciplina'.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual das quatro correntes de pensamento sobre liderança foca principalmente no que o líder é e o que ele faz?",
+            "answerOptions": [
+                {
+                    "text": "A corrente centrada nos seguidores.",
+                    "rationale": "Esta corrente foca nos liderados, não no líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A corrente centrada na situação.",
+                    "rationale": "Esta corrente foca no contexto da liderança.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A corrente integradora.",
+                    "rationale": "Esta corrente busca combinar elementos de todas as outras, não se focando 'principalmente' no líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A corrente centrada na figura do líder.",
+                    "rationale": "O texto afirma que essa corrente 'foca principalmente no que o líder é e o que ele faz'.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Relembre os títulos das quatro correntes e seu foco principal.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "A Teoria Inatista defende que o líder é um indivíduo predestinado ou abençoado para exercer a liderança. Qual dos fatores abaixo essa teoria desconsidera?",
+            "answerOptions": [
+                {
+                    "text": "A influência do meio ambiente.",
+                    "rationale": "A Teoria Inatista desconsidera 'a influência do meio ambiente', vendo a liderança como um atributo da personalidade inato.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Os fatores relacionados à hereditariedade.",
+                    "rationale": "Essa teoria defende os fatores relacionados à hereditariedade como determinantes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A existência de grupos e povos.",
+                    "rationale": "A teoria aborda a liderança de 'grupos e povos'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A capacidade de submeter inimigos pela força.",
+                    "rationale": "Isso é mencionado como uma característica do líder sob essa teoria, não algo desconsiderado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que a Teoria Inatista ignora ao atribuir a liderança a um dom ou destino.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "A Teoria do Grande Homem é muito influenciada por qual visão da liderança?",
+            "answerOptions": [
+                {
+                    "text": "Uma visão burocrática e formal.",
+                    "rationale": "Essa teoria se opõe a uma visão meramente burocrática; ela enfatiza o carisma e heroísmo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma visão pragmática e orientada para resultados.",
+                    "rationale": "O foco não é a pragmática, mas sim a figura heróica do líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma visão messiânica e carismática.",
+                    "rationale": "O texto afirma que essa teoria é 'muito influenciada por uma visão messiânica e carismática da liderança'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Uma visão científica e comportamental.",
+                    "rationale": "Essa teoria é mais antiga e menos focada em aspectos científicos e comportamentais como as teorias posteriores.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o termo 'Grande Homem' e o que ele sugere sobre a natureza do líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é a principal premissa da Teoria dos Traços de Personalidade?",
+            "answerOptions": [
+                {
+                    "text": "A liderança é aprendida através da experiência e do treinamento contínuo.",
+                    "rationale": "Essa teoria foca em traços inatos, não na aprendizagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A posse de certos traços de caráter e de personalidade permite o acesso ao poder e o exercício da liderança.",
+                    "rationale": "O texto afirma que 'a posse de certos traços de caráter e de personalidade permite àqueles que os possuam o acesso ao poder'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O líder surge em momentos de crise, independentemente de suas qualidades pessoais.",
+                    "rationale": "Essa é mais alinhada à Teoria do Grande Homem, e os traços são importantes para essa teoria.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O estilo de liderança é determinado exclusivamente pela situação.",
+                    "rationale": "Essa é a premissa da corrente centrada na situação, não dos traços.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que essa teoria valoriza no indivíduo que o torna um líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "No estilo de liderança autocrático, uma das conclusões da Pesquisa de Iowa foi que o trabalho dos liderados é geralmente paralisado quando o líder se ausenta. Qual é a principal razão para isso?",
+            "answerOptions": [
+                {
+                    "text": "Os liderados aproveitam a ausência para descansar e socializar.",
+                    "rationale": "Embora isso possa acontecer, a principal razão é a falta de iniciativa e dependência gerada pelo estilo autocrático.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A falta de autonomia e iniciativa dos liderados, por temor à atitude do líder.",
+                    "rationale": "O texto afirma que 'Quando o líder necessita se ausentar, o trabalho dos liderados é geralmente paralisado' e que 'Não há iniciativa, por temor à atitude do líder'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A comunicação é tão franca que eles não sabem o que fazer sem o líder.",
+                    "rationale": "A comunicação não é franca no estilo autocrático; é ditada pelo líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eles esperam o líder tomar todas as decisões, mesmo as mais simples.",
+                    "rationale": "Esta é uma consequência da falta de iniciativa e autonomia, mas não a razão principal apontada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reflita sobre como a centralização da autoridade e o medo de represálias afetam a proatividade dos liderados nesse estilo.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "A pesquisa de Iowa concluiu que o estilo democrático de liderança promove a 'independência do líder'. O que essa independência significa na prática?",
+            "answerOptions": [
+                {
+                    "text": "Que o líder não precisa mais interagir com a equipe.",
+                    "rationale": "O líder continua sendo um membro do grupo e interagindo, mas a equipe se torna menos dependente de sua presença constante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que o trabalho progride em ritmo suave e seguro, sem sofrer interrupções bruscas na ausência do líder.",
+                    "rationale": "O texto afirma que 'O trabalho progride em ritmo suave, seguro, sem sofrer interrupções bruscas na ausência do líder (independência do líder)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que as decisões são tomadas unilateralmente pelo grupo, sem a participação do líder.",
+                    "rationale": "As decisões são debatidas em grupo, com a participação do líder como membro, não sem ele.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que os liderados são totalmente autônomos e não precisam de orientação.",
+                    "rationale": "Embora haja autonomia e responsabilidade, o líder ainda dá o norte e gerencia o grupo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no impacto da ausência do líder em um ambiente democrático, onde a equipe tem mais autonomia.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é a principal característica do líder no estilo Laissez-faire, segundo o texto?",
+            "answerOptions": [
+                {
+                    "text": "Ele centraliza todas as decisões e determina as tarefas.",
+                    "rationale": "Essa é a característica do estilo autocrático.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ele envolve os subordinados nos processos decisórios e incentiva a participação.",
+                    "rationale": "Essa é a característica do estilo democrático.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ele procura deixar o grupo completamente à vontade para deliberar sobre os trabalhos e a forma de executá-los.",
+                    "rationale": "O texto descreve o líder de estilo laissez-faire como aquele que 'procura deixar o grupo completamente à vontade para deliberar sobre os trabalhos a serem realizados e a forma de executá-los'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ele foca na qualidade e é voltado para o indivíduo, consultando mas decidindo sozinho.",
+                    "rationale": "Essa é uma característica do estilo democrático (consultivo).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do significado do termo 'laissez-faire' em relação à intervenção do líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Para que o método da liderança liberal (Laissez-faire) tenha sucesso, o que URIS (1967) afirma ser necessário para a pessoa que está sendo orientada?",
+            "answerOptions": [
+                {
+                    "text": "Que ela seja totalmente dependente e insegura, necessitando de um líder firme.",
+                    "rationale": "Essa é uma condição para o estilo autocrático ser útil, não o laissez-faire.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que ela seja carismática e capaz de submeter os outros pela força.",
+                    "rationale": "Isso se refere à Teoria do Grande Homem/Inatista, não às condições para o laissez-faire.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que ela precise capacitar-se muito bem profissionalmente, ser responsável e objetiva na forma de se comunicar.",
+                    "rationale": "URIS (1967) afirma que 'a pessoa que está sendo orientada, de acordo com o método da liderança liberal, para ter sucesso precisa capacitar-se muito bem profissionalmente. Ela precisa ser responsável e objetiva na forma de se comunicar'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que ela se comporte de forma apática e sem iniciativa.",
+                    "rationale": "Essa é uma consequência negativa do estilo autocrático, não uma condição para o sucesso do laissez-faire.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o tipo de ambiente que o estilo laissez-faire cria e que tipo de liderado se adaptaria melhor a ele.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual a principal diferença entre a Liderança Direta e a Liderança Indireta?",
+            "answerOptions": [
+                {
+                    "text": "A Liderança Direta ocorre apenas em situações de crise, enquanto a Indireta é para o dia a dia.",
+                    "rationale": "O texto não associa as formas de liderança a situações de crise ou rotina.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A Liderança Direta foca na produtividade, e a Indireta no relacionamento.",
+                    "rationale": "Essa distinção não é feita no texto para essas formas de liderança.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A Liderança Direta envolve o líder influenciando diretamente os liderados, enquanto a Indireta ocorre por intermédio de outros líderes subordinados.",
+                    "rationale": "O texto afirma que na 'Liderança Direta... o líder influencia diretamente os liderados, falando a eles com frequência e fornecendo exemplos pessoais', e na 'Liderança Indireta, o líder exerce a sua influência atuando por intermédio de outros líderes a ele subordinados'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A Liderança Direta é sempre autocrática, e a Indireta é sempre democrática.",
+                    "rationale": "As formas de liderança não se correlacionam diretamente com os estilos de liderança de forma exclusiva.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no caminho que a influência do líder percorre para chegar aos liderados em cada uma das formas.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual Decreto Distrital foi responsável pela criação do Batalhão de Polícia Militar Ambiental (BPMA/PMDF) em sua denominação atual?",
+            "answerOptions": [
+                {
+                    "text": "Decreto Distrital nº 11.124/1988",
+                    "rationale": "Este decreto criou a Companhia de Polícia Militar Florestal, que foi a precursora do BPMA, mas não o BPMA na sua denominação atual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Decreto Distrital nº 31.793/2010",
+                    "rationale": "O Decreto Distrital nº 31.793/2010 foi o responsável pela criação do BPMA/PMDF na estrutura da PMDF.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decreto nº 41.167/2020",
+                    "rationale": "Este decreto regulamenta as responsabilidades atuais do BPMA, mas não foi o de sua criação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Portaria PMDF Nº 802/2012",
+                    "rationale": "Esta portaria regulamentou a atividade e o emprego operacional do GTA, não a criação do BPMA.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção aos anos e ao que cada decreto ou portaria estabeleceu em relação ao BPMA.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Conforme o Decreto nº 41.167/2020, qual é uma das responsabilidades do BPMA/PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Exclusivamente o policiamento urbano e o combate à criminalidade comum.",
+                    "rationale": "A responsabilidade do BPMA é o policiamento ambiental, que inclui áreas rurais e urbanas, mas não se limita à criminalidade comum, focando em crimes ambientais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A execução do policiamento ambiental, incluindo o policiamento florestal, de mananciais, fluvial e lacustre.",
+                    "rationale": "O Decreto nº 41.167/2020 (art. 39, I) estabelece que o BPMA é responsável pela execução do policiamento ambiental, abrangendo as áreas mencionadas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A emissão de licenças ambientais para atividades econômicas no DF.",
+                    "rationale": "A emissão de licenças ambientais é função de órgãos de controle ambiental (como o IBRAM), não da polícia militar ambiental.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A coordenação de operações de resgate em desastres naturais de grande porte.",
+                    "rationale": "Embora possam apoiar, essa não é a principal responsabilidade definida no decreto, que foca no policiamento ambiental.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no escopo das atividades do BPMA relacionadas diretamente à proteção do meio ambiente.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Para um policial militar pertencer ao Radiopatrulhamento Ambiental (RPA) e permanecer lotado no BPMA, qual curso é fundamental?",
+            "answerOptions": [
+                {
+                    "text": "Curso de Operações no Cerrado (COCer)",
+                    "rationale": "O COCer é fundamental para o Grupamento de Operações no Cerrado (GOC), não especificamente para o RPA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Curso de Policiamento Ambiental (CPA)",
+                    "rationale": "O texto afirma que para pertencer ao RPA e permanecer no BPMA, é fundamental realizar o Curso de Policiamento Ambiental (CPA).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Curso de Operações Lacustres",
+                    "rationale": "Este curso é fundamental para operar na Companhia Lacustre.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Curso de Patrulhamento Tático Ambiental (CPTA)",
+                    "rationale": "Não há menção a um CPTA como requisito específico para o RPA no texto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o curso básico e abrangente que qualifica para o policiamento ambiental em geral e a lotação na unidade.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual grupamento do BPMA tem por missão precípua realizar o policiamento preventivo e repressivo voltado aos crimes ambientais de maior complexidade e risco no bioma Cerrado?",
+            "answerOptions": [
+                {
+                    "text": "Radiopatrulhamento Ambiental (RPA)",
+                    "rationale": "O RPA realiza prevenção e combate a crimes ambientais em geral, mas não é focado especificamente em 'maior complexidade e risco no bioma Cerrado'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Companhia Lacustre",
+                    "rationale": "A Companhia Lacustre é responsável pelo policiamento de espelho d'água, especialmente o Lago Paranoá.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grupamento de Operações no Cerrado (GOC)",
+                    "rationale": "O GOC tem como missão precípua 'realizar o policiamento preventivo e repressivo voltado aos crimes ambientais de maior complexidade e risco no bioma Cerrado'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Grupo Tático Ambiental (GTA)",
+                    "rationale": "O GTA é o policiamento tático especializado em áreas rurais e urbanas, atendendo demandas do COPOM, mas o GOC tem o foco específico no Cerrado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O nome do grupamento já indica a sua área de especialização principal.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a área aproximada do espelho d'água do Lago Paranoá, policiado pela Companhia Lacustre?",
+            "answerOptions": [
+                {
+                    "text": "Cerca de 118,87 quilômetros quadrados.",
+                    "rationale": "Essa é a extensão das margens do lago, não a área do espelho d'água.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aproximadamente 37,5 quilômetros quadrados.",
+                    "rationale": "O texto informa que o 'Lago Paranoá tem aproximadamente 37,5 quilômetros quadrados de área'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cerca de 100 quilômetros quadrados.",
+                    "rationale": "O valor não corresponde ao informado no texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Menos de 20 quilômetros quadrados.",
+                    "rationale": "O valor é significativamente maior do que 20 km².",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique o dado numérico específico fornecido para a área do lago.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O Grupo Tático Ambiental (GTA) do BPMA foi criado com qual objetivo principal?",
+            "answerOptions": [
+                {
+                    "text": "Promover exclusivamente programas de educação ambiental para a comunidade.",
+                    "rationale": "Essa é a responsabilidade do PREALG, não do GTA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prevenir e reprimir os crimes comuns e ambientais em todas as áreas rurais e urbanas do Distrito Federal, atuando como policiamento tático especializado.",
+                    "rationale": "O GTA foi criado com o objetivo de 'prevenir e reprimir os crimes comuns e ambientais em todas as áreas rurais e urbanas do Distrito Federal. Atua como policiamento tático especializado'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Realizar o resgate de animais silvestres e fiscalizar a fauna por todo o DF.",
+                    "rationale": "O resgate de animais silvestres é uma atribuição do RPA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apoiar exclusivamente operações de outros órgãos de proteção ambiental (IBAMA, IBRAM).",
+                    "rationale": "O GTA também atende demandas do COPOM e apoia outras unidades da PMDF, não se limitando a outros órgãos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque na natureza 'tática' e no escopo de atuação do GTA em relação aos tipos de crimes e áreas.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a responsabilidade específica do Programa de Educação Ambiental Lobo-Guará (PREALG) dentro do BPMA?",
+            "answerOptions": [
+                {
+                    "text": "Realizar operações de combate ao desmatamento ilegal no Cerrado.",
+                    "rationale": "O combate a crimes ambientais é função de outros grupamentos, como GOC e RPA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desenvolver a Educação Ambiental no âmbito da Corporação e do Distrito Federal, por meio de projetos como o Curso de Guardião Ambiental e Teatro Lobo Guará.",
+                    "rationale": "O PREALG é 'responsável específico do BPMA pelo desenvolvimento da Educação Ambiental no âmbito da Corporação e do Distrito Federal por meio dos seguintes projetos: Curso de Guardião Ambiental, Teatro Lobo Guará e Saber Cerrado'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Atuar como força de pronto emprego em ocorrências de alto risco em áreas protegidas.",
+                    "rationale": "Essa é uma característica mais alinhada ao GOC ou GTA, não ao PREALG.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Coordenar a logística e o fornecimento de equipamentos para as operações do BPMA.",
+                    "rationale": "A coordenação logística não é a responsabilidade principal do PREALG, que é focado em educação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O nome do programa já sugere sua principal área de atuação dentro da temática ambiental.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual organismo internacional foi criado em 1945, após a Segunda Guerra Mundial, e é mencionado como parte do contexto histórico da legislação ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Organização Mundial da Saúde (OMS)",
+                    "rationale": "A OMS foi criada em 1948, mas não é o organismo principal mencionado no contexto de legislação ambiental global pós-guerra no texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fundo Monetário Internacional (FMI)",
+                    "rationale": "O FMI foca em questões financeiras globais e não é o organismo mencionado como parte do contexto ambiental inicial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Organização das Nações Unidas (ONU)",
+                    "rationale": "A ONU foi criada em 1945 e é o organismo central mencionado como parte do contexto de acordos e tratados internacionais relacionados ao meio ambiente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Banco Mundial (BM)",
+                    "rationale": "O Banco Mundial, embora importante, não é o organismo principal citado no contexto histórico da criação da ONU e conferências ambientais iniciais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na principal organização internacional criada logo após a 2ª Guerra Mundial para promover a paz e a cooperação, que depois se envolveria com o meio ambiente.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "A Declaração de Estocolmo e o Programa das Nações Unidas sobre o Meio Ambiente (PNUMA) resultaram de qual conferência?",
+            "answerOptions": [
+                {
+                    "text": "Conferência do Rio-92 (Eco-92)",
+                    "rationale": "A Rio-92 ocorreu em 1992, enquanto a Declaração de Estocolmo é de 1972.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conferência das Nações Unidas sobre o Meio Ambiente Humano (1972)",
+                    "rationale": "A Conferência das Nações Unidas sobre o Meio Ambiente Humano, realizada em 1972, resultou na Declaração de Estocolmo e na criação do PNUMA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Conferência de Joanesburgo (2002)",
+                    "rationale": "A Conferência de Joanesburgo ocorreu em 2002, muito depois da criação da Declaração de Estocolmo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Protocolo de Quioto (1997)",
+                    "rationale": "O Protocolo de Quioto é um tratado sobre mudanças climáticas de 1997, não a conferência que gerou a Declaração de Estocolmo e o PNUMA.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Atente-se ao ano em que a Declaração de Estocolmo foi estabelecida e qual grande evento da ONU isso marca.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O BPMA/PMDF já esteve subordinado a quais comandos antes do atual CPEsp (Comando de Policiamento Especializado)?",
+            "answerOptions": [
+                {
+                    "text": "Comando de Operações Táticas (COT) e Comando de Policiamento de Trânsito (CPTran).",
+                    "rationale": "Esses comandos não são mencionados como anteriores ao BPMA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comando de Missões Especiais (CME), atual CPME, e Comando de Policiamento Ambiental (CPAm - extinto).",
+                    "rationale": "O texto afirma que o BPMA 'já esteve subordinados aos antigos Comando de Missões Especiais (CME), atual CPME, e Comando de Policiamento Ambiental (CPAm - extinto)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Comando Geral da PMDF e Diretoria de Ensino.",
+                    "rationale": "O Comando Geral é o comando máximo da PMDF, e a Diretoria de Ensino tem outra função; não são os comandos de policiamento especializado anteriores.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comando de Policiamento Metropolitano (CPM) e Comando de Policiamento Regional (CPR).",
+                    "rationale": "Não há menção a esses comandos como subordinados diretos anteriores do BPMA no contexto de policiamento especializado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise o histórico legal do BPMA e os comandos pelos quais ele passou, especificamente os especializados.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O conceito de 'desenvolvimento sustentável', que integra proteção ecológica, desenvolvimento social e econômico, foi formalmente estabelecido em qual conferência da ONU?",
+            "answerOptions": [
+                {
+                    "text": "Conferência das Nações Unidas sobre o Meio Ambiente Humano (Estocolmo, 1972)",
+                    "rationale": "A Conferência de Estocolmo de 1972 focou na relação entre o homem e o meio ambiente, mas o conceito de 'desenvolvimento sustentável' foi popularizado posteriormente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conferência da ONU sobre o Meio Ambiente e o Desenvolvimento – RIO ECO/92 (1992)",
+                    "rationale": "O texto afirma que a RIO ECO/92 (1992) estabeleceu o conceito de 'desenvolvimento sustentável' como a integração de proteção ecológica, desenvolvimento social e econômico.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rio +20 (2012)",
+                    "rationale": "A Rio +20 ocorreu em 2012 e revisou o progresso do desenvolvimento sustentável, mas não foi onde o conceito foi estabelecido inicialmente no contexto fornecido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conferência das Partes (COP 21 - Acordo de Paris)",
+                    "rationale": "A COP 21 (2015) focou no clima e aquecimento global, com o Acordo de Paris, mas não na definição original de desenvolvimento sustentável.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção ao ano em que o termo 'desenvolvimento sustentável' foi destacado na cronologia das conferências da ONU.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual dos seguintes não é um tipo de Unidade de Conservação (UC) de Proteção Integral (PI), conforme a Lei do SNUC?",
+            "answerOptions": [
+                {
+                    "text": "ESEC (Estação Ecológica)",
+                    "rationale": "A ESEC é uma UC de Proteção Integral (PI).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "REBio (Reserva Biológica)",
+                    "rationale": "A REBio é uma UC de Proteção Integral (PI).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "APA (Área de Proteção Ambiental)",
+                    "rationale": "A APA é uma UC de Uso Sustentável (US), não de Proteção Integral (PI).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "PARNA (Parque Nacional)",
+                    "rationale": "O PARNA é uma UC de Proteção Integral (PI).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se da divisão das UCs em Proteção Integral (PI) e Uso Sustentável (US) e seus respectivos exemplos.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual a principal atribuição da Polícia Militar, mencionada na Lei Federal nº 14.751/2023 (Lei Orgânica Nacional das Polícias Militares), relacionada à legislação ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Exclusivamente a fiscalização de grandes empreendimentos industriais.",
+                    "rationale": "A atribuição é mais ampla e não exclusiva a grandes empreendimentos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas a condução de investigações criminais de crimes ambientais.",
+                    "rationale": "A competência da PM é de lavratura de auto de infração e poder de polícia administrativa, não primariamente investigações criminais que são da polícia judiciária.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A competência legal de lavratura de auto de infração ambiental, poder de polícia administrativa ambiental e Educação Ambiental (EA).",
+                    "rationale": "O Art. 5º, VII da Lei Federal nº 14.751/2023 estabelece a competência da PM para lavratura de auto de infração ambiental, poder de polícia administrativa ambiental e EA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Criar novas Unidades de Conservação e definir suas categorias.",
+                    "rationale": "A criação de UCs e definição de categorias são responsabilidades de órgãos ambientais e do poder legislativo, não da PM.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção ao Art. 5º, VII da nova Lei Orgânica Nacional das Polícias Militares e suas competências.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "De acordo com a Lei de Crimes Ambientais (Lei Federal nº 9.605/1998), qual das seguintes opções NÃO é considerada uma pena restritiva de direitos para Pessoas Jurídicas (PJ)?",
+            "answerOptions": [
+                {
+                    "text": "Prestação de serviços à comunidade (PSC).",
+                    "rationale": "PSC é uma pena restritiva de direitos para PJ.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Interdição temporária de direitos.",
+                    "rationale": "Interdição temporária de direitos é uma pena restritiva de direitos para PJ.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Detenção.",
+                    "rationale": "Detenção é uma pena privativa de liberdade aplicada a Pessoas Físicas (PF), não a Pessoas Jurídicas (PJ). As PJs recebem penas restritivas de direitos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Suspensão parcial ou total de atividades.",
+                    "rationale": "Suspensão parcial ou total de atividades é uma pena restritiva de direitos para PJ.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se da diferença de responsabilização criminal entre Pessoas Físicas e Pessoas Jurídicas na Lei de Crimes Ambientais.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Conforme o Art. 29 da Lei de Crimes Ambientais (Lei Federal nº 9.605/1998), qual das ações abaixo, se praticada sem a devida permissão, licença ou autorização da autoridade competente, configura o crime de 'caça ilegal' e permite a lavratura de TCO?",
+            "answerOptions": [
+                {
+                    "text": "Pescar espécies aquáticas em desacordo com a licença obtida.",
+                    "rationale": "O Art. 29 refere-se à fauna silvestre, não a espécies aquáticas de pesca, que são tratadas em outro artigo da LCA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matar, perseguir, caçar ou apanhar espécimes da fauna silvestre, nativos ou em rota migratória.",
+                    "rationale": "O Art. 29 descreve exatamente essas ações como crime de 'caça ilegal', com pena de detenção de seis meses a um ano e multa, sendo passível de TCO.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Degradar floresta considerada de preservação permanente.",
+                    "rationale": "Degradar floresta é um crime contra a flora, tratado em outra seção da LCA (Art. 38 em diante).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Transportar produtos e objetos oriundos da flora sem origem legal.",
+                    "rationale": "O transporte de produtos da flora é tratado em outra seção da LCA (Art. 46 em diante), não no Art. 29 sobre fauna.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque na descrição precisa do Art. 29, que se refere aos crimes contra a fauna silvestre.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "A Política Nacional do Meio Ambiente (PNMA) de 1981 instituiu quais importantes instrumentos de gestão ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o Novo Código Florestal e as Áreas de Preservação Permanente (APPs).",
+                    "rationale": "O Novo Código Florestal é de 2012, e as APPs são um de seus conceitos, não da PNMA de 1981.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O 'direito ao meio ambiente ecologicamente equilibrado' na Constituição Federal.",
+                    "rationale": "O direito ao meio ambiente equilibrado foi estabelecido pela CF de 1988, não pela PNMA de 1981.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As Áreas de Proteção Ambiental (APAs), o Sistema Nacional do Meio Ambiente (SISNAMA) e o Conselho Nacional do Meio Ambiente (CONAMA).",
+                    "rationale": "A PNMA de 1981 instituiu as APAs, o SISNAMA e o CONAMA, fundamentais para a gestão ambiental no Brasil.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O Sistema Nacional de Unidades de Conservação da Natureza (SNUC) e suas categorias.",
+                    "rationale": "O SNUC foi instituído pela Lei Federal nº 9.985/2000, não pela PNMA de 1981.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos principais marcos criados pela PNMA de 1981 para a estrutura ambiental brasileira.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a característica principal das Unidades de Conservação (UCs) de 'Proteção Integral' (PI)?",
+            "answerOptions": [
+                {
+                    "text": "Permitem o uso direto e extensivo dos recursos naturais, desde que de forma sustentável.",
+                    "rationale": "Essa é a característica das UCs de Uso Sustentável.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Têm como objetivo principal preservar a natureza, permitindo apenas o uso indireto dos recursos naturais.",
+                    "rationale": "O texto define as UCs de PI como aquelas que visam 'preservar a natureza, uso indireto dos recursos naturais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Focam na pesquisa científica e na visitação pública com fins recreativos, sem restrição de uso de recursos.",
+                    "rationale": "Embora a pesquisa e visitação possam ocorrer, o uso de recursos é restrito (indireto).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "São criadas apenas em nível estadual, sem a possibilidade de abrangência federal.",
+                    "rationale": "As UCs podem ser federais ou estaduais, independentemente de serem de PI ou US.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no grau de proteção e no tipo de uso permitido em UCs onde a 'natureza' é o foco principal.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O que o Decreto Federal nº 6.514/2008 regulamenta, materializando o poder de polícia administrativo?",
+            "answerOptions": [
+                {
+                    "text": "Apenas as definições de crimes ambientais para Pessoas Físicas.",
+                    "rationale": "As definições de crimes ambientais estão na Lei Federal nº 9.605/1998.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As infrações e sanções administrativas ambientais e o processo administrativo federal para apuração destas infrações.",
+                    "rationale": "O Decreto Federal nº 6.514/2008 trata das 'infrações e sanções administrativas – materialização do poder de polícia administrativo e processo administrativo federal para apuração destas infrações'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "As regras para a destinação de animais silvestres apreendidos.",
+                    "rationale": "A destinação de animais apreendidos é tratada no Art. 25 da Lei de Crimes Ambientais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os critérios para as Áreas de Preservação Permanente (APPs) no Novo Código Florestal.",
+                    "rationale": "Os critérios de APP estão no Novo Código Florestal (Lei Federal nº 12.651/2012).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque no aspecto 'administrativo' da aplicação da legislação ambiental e nas penalidades.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Conforme o § 1º, inciso III, do Art. 29 da Lei de Crimes Ambientais, incorre nas mesmas penas de 'caça ilegal' quem pratica qual das seguintes ações?",
+            "answerOptions": [
+                {
+                    "text": "Realiza pesca predatória em período de defeso.",
+                    "rationale": "Pesca predatória é tratada em outros artigos da LCA, não no § 1º do Art. 29.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vende, expõe à venda, exporta ou adquire, guarda, tem em cativeiro ou depósito, utiliza ou transporta ovos, larvas ou espécimes da fauna silvestre, provenientes de criadouros não autorizados ou sem licença.",
+                    "rationale": "O § 1º, inciso III, do Art. 29 da LCA descreve exatamente essas condutas, equiparando-as ao crime de 'caça ilegal'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Corta árvores em floresta de preservação permanente sem autorização.",
+                    "rationale": "O corte de árvores é crime contra a flora, tratado em outra seção da LCA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Polui corpos hídricos causando dano à saúde humana.",
+                    "rationale": "Poluição é crime ambiental específico, tratado em outros artigos da LCA (Art. 54).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Atente-se às ações relacionadas ao comércio, posse ou transporte ilegal de fauna silvestre ou seus produtos.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a principal distinção entre as Unidades de Conservação de 'Proteção Integral' (PI) e as de 'Uso Sustentável' (US)?",
+            "answerOptions": [
+                {
+                    "text": "As de Proteção Integral são apenas federais, enquanto as de Uso Sustentável são apenas estaduais.",
+                    "rationale": "Ambas as categorias podem ser criadas em níveis federal e estadual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "PI foca na preservação da natureza com uso indireto dos recursos, e US busca o uso sustentável de parte dos recursos naturais.",
+                    "rationale": "Essa é a definição do texto: PI visa 'preservar a natureza, uso indireto dos recursos naturais', e US visa 'uso sustentável de parcela dos seus recursos naturais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "PI permite a caça e pesca controladas, enquanto US proíbe qualquer tipo de exploração.",
+                    "rationale": "O oposto é verdadeiro: PI proíbe o uso direto, enquanto US permite o uso sustentável, que pode incluir algumas formas controladas de exploração.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "PI não tem área de reserva legal, e US sempre exige reserva legal.",
+                    "rationale": "Áreas de Reserva Legal são conceitos do Código Florestal aplicáveis a propriedades rurais, não uma distinção primária entre categorias de UCs.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Concentre-se no tipo de 'uso' permitido ou restrito em cada categoria de Unidade de Conservação.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Conforme o § 4º do Art. 29 da Lei de Crimes Ambientais, a pena para o crime de 'caça ilegal' é aumentada de metade se for praticado em qual das seguintes situações?",
+            "answerOptions": [
+                {
+                    "text": "Durante o dia, com licença de caça válida.",
+                    "rationale": "A pena é aumentada se o crime é praticado 'durante a noite' ou 'com abuso de licença', não durante o dia com licença válida.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Contra espécie comum e fora de unidade de conservação.",
+                    "rationale": "A pena é aumentada se for 'contra espécie rara ou considerada ameaçada de extinção' ou 'em unidade de conservação'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em período proibido à caça ou com emprego de métodos que provocam destruição em massa.",
+                    "rationale": "O § 4º do Art. 29 lista 'em período proibido à caça' e 'com emprego de métodos ou instrumentos capazes de provocar destruição em massa' como situações que aumentam a pena de metade.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mediante utilização de explosivos.",
+                    "rationale": "O uso de explosivos para pesca é um crime de pesca ilegal (Art. 35), não uma agravante específica do crime de caça ilegal no Art. 29.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise as condições listadas no § 4º do Art. 29 para o aumento de pena na caça ilegal.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Quando o crime de maus-tratos a animais, previsto no Art. 32 da LCA, se refere a cão ou gato, qual é a pena e se cabe ou não TCO?",
+            "answerOptions": [
+                {
+                    "text": "Detenção, de três meses a um ano, e multa; cabe TCO.",
+                    "rationale": "Esta é a pena para o caput do Art. 32, mas não para maus-tratos a cães ou gatos, que têm pena aumentada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reclusão, de 2 a 5 anos, multa e proibição da guarda; NÃO CABE TCO.",
+                    "rationale": "O § 1º-A do Art. 32, incluído pela Lei nº 14.064/2020, estabelece reclusão de 2 a 5 anos, multa e proibição da guarda para maus-tratos a cães ou gatos, e nesse caso NÃO CABE TCO, devendo ser lavrado Flagrante e encaminhado à DP.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reclusão, de um a cinco anos, e multa; cabe TCO.",
+                    "rationale": "Essa pena e a possibilidade de TCO não correspondem ao descrito para cães ou gatos no Art. 32.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Detenção, de um a três anos; NÃO CABE TCO.",
+                    "rationale": "Essa pena é referente a outros crimes da LCA, não especificamente a maus-tratos a cães ou gatos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção à alteração de pena e à observação sobre o TCO quando a vítima é um cão ou gato.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual das seguintes ações, relacionadas à pesca ilegal, possui pena de reclusão de um a cinco anos e NÃO CABE TCO, conforme a Lei de Crimes Ambientais?",
+            "answerOptions": [
+                {
+                    "text": "Pescar em período no qual a pesca seja proibida.",
+                    "rationale": "Pescar em período proibido (Art. 34) tem pena de detenção de um a três anos ou multa, e NÃO CABE TCO, mas não a mesma pena de reclusão do Art. 35.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pescar em lugares interditados por órgão competente.",
+                    "rationale": "Esta ação também se enquadra no Art. 34, com pena de detenção, não reclusão de um a cinco anos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pescar mediante a utilização de explosivos ou substâncias tóxicas.",
+                    "rationale": "O Art. 35 descreve essas condutas, com pena de reclusão de um a cinco anos, e NÃO CABE TCO.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transportar ou comercializar pescado com tamanho menor que o permitido.",
+                    "rationale": "Esta ação se enquadra no Art. 34 (por petrechos, técnicas ou métodos não permitidos), mas com pena de detenção, não reclusão do Art. 35.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque nas técnicas de pesca mais destrutivas que resultam em penas mais graves.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O que o Art. 36 da Lei de Crimes Ambientais (LCA) define como 'pesca'?",
+            "answerOptions": [
+                {
+                    "text": "Qualquer ato de captura de animais silvestres, exceto aves.",
+                    "rationale": "A definição é específica para grupos aquáticos e vegetais hidróbios, não para fauna silvestre em geral.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todo ato tendente a retirar, extrair, coletar, apanhar, apreender ou capturar espécimes dos grupos dos peixes, crustáceos, moluscos e vegetais hidróbios, suscetíveis ou não de aproveitamento econômico, ressalvadas as espécies ameaçadas de extinção.",
+                    "rationale": "O Art. 36 da LCA define a pesca exatamente conforme essa descrição.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas a captura de peixes em rios ou lagos para fins comerciais.",
+                    "rationale": "A definição inclui outros grupos e não se restringe a fins comerciais, nem apenas a rios e lagos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A utilização de explosivos para a coleta de moluscos e crustáceos.",
+                    "rationale": "A utilização de explosivos é um método de pesca proibido, não a definição do que é pesca em si.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos grupos de espécies aquáticas e vegetais abrangidos pela definição legal de pesca.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual das seguintes situações é considerada uma excludente de crimes contra a fauna, conforme o Art. 37 da LCA?",
+            "answerOptions": [
+                {
+                    "text": "A caça de qualquer animal silvestre em áreas protegidas, desde que sem fins comerciais.",
+                    "rationale": "A caça em áreas protegidas não é uma excludente; a caça ilegal em UC é agravante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A caça por ser nocivo o animal, desde que assim caracterizado pelo órgão competente (ex: caça legalizada de javali com autorização do IBAMA).",
+                    "rationale": "O Art. 37, c), prevê como excludente o abate de animal por ser nocivo, desde que caracterizado pelo órgão competente, citando o exemplo da caça legalizada do javali.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A coleta de ovos e larvas de espécies silvestres para fins de pesquisa científica sem autorização.",
+                    "rationale": "Mesmo para pesquisa, a coleta geralmente exige autorização da autoridade competente para não configurar crime.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O abate de animais silvestres para venda em mercados ilegais, alegando subsistência.",
+                    "rationale": "A subsistência é uma excludente (Art. 37, a), mas não se aplica a venda ilegal ou a qualquer tipo de abate.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas justificativas específicas que a lei prevê para não configurar um crime contra a fauna.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a principal distinção em relação ao TCO para crimes contra a flora, como a destruição ou dano à floresta de proteção permanente (Arts. 38 e 39) e dano em Unidades de Conservação (Art. 40)?",
+            "answerOptions": [
+                {
+                    "text": "Para esses crimes, sempre cabe TCO, independentemente da pena.",
+                    "rationale": "O texto indica que para os Arts. 38, 39 e 40, NÃO CABE TCO, sendo necessária a condução à Delegacia de Polícia (DP).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não cabe TCO para esses crimes, sendo a apuração feita via Flagrante e encaminhamento à Delegacia de Polícia (DP).",
+                    "rationale": "O texto afirma que para os crimes dos Arts. 38, 39 e 40, NÃO CABE TCO, e a condução deve ser feita à DP.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cabe TCO apenas se o crime for cometido em modalidade culposa.",
+                    "rationale": "A modalidade culposa pode reduzir a pena, mas não altera a determinação de não caber TCO para esses artigos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A lavratura do TCO depende da apresentação imediata de autorização legal do órgão competente.",
+                    "rationale": "A apresentação de autorização legal impede a autuação/condução, mas não define se 'cabe TCO' para esses crimes específicos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a indicação explícita sobre a aplicação do TCO para os crimes contra a flora mencionados nos Arts. 38, 39 e 40.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Os crimes relacionados a 'fogo nas vegetações', como provocar incêndio em mata ou floresta (Art. 41) ou fabricar/soltar balões (Art. 42), possuem qual característica em relação ao TCO?",
+            "answerOptions": [
+                {
+                    "text": "Cabe TCO em ambos os casos, pois as penas são leves.",
+                    "rationale": "O texto informa que 'Não cabem TCO' para os Arts. 41 e 42.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "NÃO CABEM TCO, sendo necessária a condução à Delegacia de Polícia (DP) em caso de flagrante.",
+                    "rationale": "O texto explicitamente afirma que 'Não cabem TCO – Flagrante e DP' para os crimes dos Arts. 41 e 42.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cabe TCO apenas para o crime de soltar balões, não para provocar incêndio.",
+                    "rationale": "Ambos os crimes (Arts. 41 e 42) não são passíveis de TCO.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A lavratura do TCO é facultativa, dependendo da gravidade do incêndio.",
+                    "rationale": "A legislação ambiental estabelece critérios claros para TCO, e a gravidade pode afetar a pena, mas não a admissibilidade do TCO em si para esses crimes.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque na informação sobre TCO para os crimes que envolvem fogo e balões.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O Art. 51 da LCA trata da 'ilegalidade de comercialização ou utilização de motosserra em vegetações'. Qual a pena e se cabe ou não TCO para este crime?",
+            "answerOptions": [
+                {
+                    "text": "Reclusão, de um a cinco anos; NÃO CABE TCO.",
+                    "rationale": "Essa pena é para crimes mais graves, como pesca com explosivos, não para motosserra.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Detenção, de três meses a um ano, e multa; CABE TCO e apreensão do maquinário.",
+                    "rationale": "O Art. 51 prevê 'Pena de três meses a 1 ano de detenção, e multa' e indica que 'CABE TCO e apreensão do maquinário'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Detenção, de seis meses a um ano, e multa; NÃO CABE TCO.",
+                    "rationale": "A pena está incorreta e o TCO cabe para este crime.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas multa, sem previsão de detenção ou TCO.",
+                    "rationale": "Há previsão de detenção e multa, e o TCO cabe.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a pena e a indicação de TCO especificamente para o uso ilegal de motosserra.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Conforme o Art. 53 da LCA, qual das seguintes situações NÃO é uma agravante de pena para crimes contra a flora?",
+            "answerOptions": [
+                {
+                    "text": "O crime é cometido durante a noite ou em feriado.",
+                    "rationale": "Cometer o crime 'durante a noite, em domingo ou feriado' é uma agravante listada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Do fato resulta a diminuição de águas naturais ou a erosão do solo.",
+                    "rationale": "A 'diminuição de águas naturais' e 'erosão do solo' resultantes do fato são agravantes listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O crime é cometido contra espécies raras ou ameaçadas de extinção, ainda que a ameaça ocorra somente no local da infração.",
+                    "rationale": "Esta é uma agravante explícita no Art. 53.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O crime é cometido com a utilização de motosserra, sem licença ou registro.",
+                    "rationale": "A utilização ilegal de motosserra (Art. 51) é um crime em si, com pena específica e TCO, não uma agravante para outros crimes contra a flora no Art. 53.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Compare as situações apresentadas com a lista de agravantes de pena no Art. 53, especificamente para crimes contra a flora.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Em relação ao crime de 'poluição de qualquer natureza' (Art. 54 da LCA), qual é a sua principal característica prática para a atuação policial militar?",
+            "answerOptions": [
+                {
+                    "text": "É um crime que sempre permite a lavratura de TCO, dada a sua complexidade.",
+                    "rationale": "O texto afirma que, na prática, 'não cabe TCO' para o Art. 54.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A pena é de detenção, de um a quatro anos, e multa, e não admite modalidade culposa.",
+                    "rationale": "A pena é de reclusão, de um a quatro anos, e multa, e 'admite redução pela metade da pena em sede de culpa da conduta'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não cabe TCO, sendo necessária a condução, apuração e perícia devido à sua complexidade.",
+                    "rationale": "O texto afirma que, na prática, 'não cabe TCO - condução, apuração e perícia', indicando a complexidade do tipo penal.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É um crime que não exige perícia para sua comprovação, apenas a constatação visual da poluição.",
+                    "rationale": "O texto menciona a necessidade de 'apuração e perícia' para esse crime, o que indica que a constatação visual sozinha pode não ser suficiente.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere a complexidade do tipo penal e o procedimento policial necessário para sua apuração.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "O Art. 55 da LCA, que trata da 'pesquisa, lavra ou extração de recursos minerais sem autorização legal', possui qual característica em relação ao TCO?",
+            "answerOptions": [
+                {
+                    "text": "NÃO CABE TCO, pois a pena é de reclusão.",
+                    "rationale": "A pena é de detenção (6 meses a um ano) e multa, e CABE TCO.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "CABE TCO, e a pena é de detenção de 6 meses a um ano e multa.",
+                    "rationale": "O texto afirma que a pena é de 'detenção de 6 meses a um ano e multa' e que 'CABE TCO'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não se aplica à atuação da Polícia Militar, apenas a órgãos de fiscalização federal.",
+                    "rationale": "A Lei Orgânica Nacional das PMs (14.751/2023) confere competência de polícia administrativa ambiental à PM, tornando este artigo aplicável à sua atuação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É um crime com pena de reclusão de um a quatro anos, e não cabe TCO.",
+                    "rationale": "Essa pena e a impossibilidade de TCO são para o Art. 56, não para o Art. 55.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a pena cominada e a indicação de TCO para o crime de extração mineral sem autorização.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a principal diferença prática para a atuação policial militar entre o crime do Art. 55 ('extração de minerais sem autorização') e o do Art. 56 ('substâncias tóxicas, perigosas ou nocivas') da LCA, em termos de TCO?",
+            "answerOptions": [
+                {
+                    "text": "Ambos os crimes não admitem TCO, e exigem sempre apuração e perícia.",
+                    "rationale": "O Art. 55 CABE TCO, enquanto o Art. 56 NÃO CABE TCO e exige apuração e perícia.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O Art. 55 CABE TCO, enquanto o Art. 56 NÃO CABE TCO e exige condução, apuração e perícia.",
+                    "rationale": "O Art. 55 possui pena de detenção e 'CABE TCO'. Já o Art. 56 possui pena de reclusão e, na prática, 'não cabe TCO - condução, apuração e perícia'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O Art. 56 admite TCO se a substância não for nuclear ou radioativa.",
+                    "rationale": "O Art. 56, mesmo em sua forma básica, NÃO CABE TCO.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O Art. 55 exige perícia imediata, enquanto o Art. 56 pode ser constatado visualmente.",
+                    "rationale": "Ambos os crimes podem necessitar de apuração e perícia, mas o TCO é a principal distinção prática apontada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Foque na informação sobre a aplicabilidade do TCO para cada um desses artigos e as consequências para o procedimento policial.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "De acordo com o Art. 60 da Lei de Crimes Ambientais (LCA), construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, obras ou serviços potencialmente poluidores sem licença ou autorização dos órgãos ambientais competentes configura qual tipo de crime e qual o procedimento em relação ao TCO?",
+            "answerOptions": [
+                {
+                    "text": "Crime com pena de reclusão e NÃO CABE TCO, devido à sua complexidade.",
+                    "rationale": "O Art. 60 prevê pena de detenção de um a seis meses ou multa, e indica que CABE TCO.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Crime com pena de detenção, de um a seis meses, ou multa, CABE TCO e apreensão do maquinário.",
+                    "rationale": "O texto descreve exatamente essa pena e a aplicabilidade de TCO e apreensão para o crime do Art. 60 da LCA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É uma infração administrativa, não um crime ambiental, portanto, não cabe TCO.",
+                    "rationale": "O Art. 60 está na Seção III da LCA, que trata de 'Crimes Ambientais', não apenas infrações administrativas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Crime de perigo concreto, com pena de reclusão, necessitando de perícia para comprovação.",
+                    "rationale": "O Art. 60 é uma norma de perigo abstrato e tem pena de detenção, não reclusão.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se da natureza do crime (perigo abstrato) e das penas mais leves que geralmente permitem TCO.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Conforme os Arts. 62 e 63 da LCA, qual é o procedimento para os crimes de danos a estruturas de edificação ou local protegido (por lei, ato administrativo ou decisão judicial)?",
+            "answerOptions": [
+                {
+                    "text": "Cabe TCO, pois a pena é de detenção.",
+                    "rationale": "Os Arts. 62 e 63 preveem pena de reclusão de 1 a 3 anos e multa, e expressamente indicam 'NÃO CABE TCO'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "NÃO CABE TCO, sendo necessária a apuração via flagrante e condução à Delegacia de Polícia (DP).",
+                    "rationale": "O texto afirma que para os crimes dos Arts. 62 e 63, 'NÃO CABE TCO, flagrante e DP' é o procedimento correto.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É uma infração administrativa que pode ser resolvida com advertência e multa.",
+                    "rationale": "Estes são crimes previstos na Seção IV da LCA ('Dos Crimes Contra o Ordenamento Territorial e o Patrimônio Cultural'), não meras infrações administrativas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas o proprietário do imóvel pode iniciar a ação penal para esses crimes.",
+                    "rationale": "A LCA prevê ação penal pública incondicionada para a maioria dos crimes ambientais, não dependendo da iniciativa da vítima.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere a gravidade do dano a patrimônios protegidos e a implicação disso para o Termo Circunstanciado de Ocorrência.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual é a principal diferença entre 'pichação' e 'grafite', conforme o Art. 65 da LCA, em termos de procedimento policial?",
+            "answerOptions": [
+                {
+                    "text": "Pichação é crime com pena de reclusão, enquanto grafite é infração administrativa.",
+                    "rationale": "Pichação é crime com pena de detenção de três meses a um ano e multa, e grafite não é crime se autorizado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pichação CABE TCO e não se confunde com grafite, que é manifestação artística autorizada e não crime.",
+                    "rationale": "O texto afirma que 'pichação' (Art. 65) 'CABE TCO e não se confunde com grafite – modalidade de manifestação artística devidamente autorizada por responsável legal'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ambos são crimes, mas o grafite tem pena menor e sempre cabe TCO.",
+                    "rationale": "O grafite, se autorizado, não é considerado crime pelo Art. 65.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas a pichação em monumentos históricos configura crime, o grafite é sempre permitido.",
+                    "rationale": "Pichação em qualquer local, sem autorização, é crime. Grafite é permitido apenas se devidamente autorizado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no fator que legaliza ou criminaliza a inscrição em muros e edificações.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "De acordo com a análise preliminar apresentada, qual a proporção aproximada de crimes na LCA que são considerados de menor potencial ofensivo, conforme o Art. 61 da Lei de Juizados Especiais Cíveis e Criminais?",
+            "answerOptions": [
+                {
+                    "text": "Cerca de 25% dos crimes.",
+                    "rationale": "O texto indica uma porcentagem maior de crimes de menor potencial ofensivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cerca de 40% dos crimes.",
+                    "rationale": "O texto menciona que 'cerca de 40% dos crimes previstos na LCA são considerados de menor potencial ofensivo'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mais de 60% dos crimes.",
+                    "rationale": "O texto indica que a maioria dos crimes (24 de 40 ocorrências estimadas) possui penas maiores que os de menor potencial ofensivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Menos de 10% dos crimes.",
+                    "rationale": "A porcentagem é significativamente maior do que 10%.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Relembre a estatística sobre a classificação dos crimes da LCA apresentada no texto.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "No Estudo de Caso I (criação irregular de aves silvestres sem maus-tratos), qual o procedimento administrativo correto a ser realizado pela equipe policial militar ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Liberar os animais no local e registrar um RAP para futuras denúncias, sem TCO.",
+                    "rationale": "Mesmo sem maus-tratos, a criação irregular de fauna silvestre sem autorização é crime (Art. 29 da LCA) e exige providências como TCO e apreensão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Oferecimento do TCO, apreensão das aves e gaiolas, e destinação das aves para entidades como CETAS/IBAMA.",
+                    "rationale": "A criação irregular de fauna silvestre (Art. 29) é crime de menor potencial ofensivo que CABE TCO, apreensão e destinação dos animais apreendidos conforme o Art. 25 da LCA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Prisão em flagrante delito do morador e encaminhamento imediato à PCDF, sem necessidade de TCO.",
+                    "rationale": "A pena para o Art. 29 permite TCO, e não há indicação de que não seja crime de menor potencial ofensivo para justificar prisão em flagrante direto para PCDF neste caso.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas orientar o morador a procurar regularização e acompanhar a situação em visitas futuras.",
+                    "rationale": "A infração já está configurada e exige a aplicação da lei, não apenas orientação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Analise a natureza do crime (criação de fauna silvestre) e a aplicabilidade do TCO, bem como o destino dos animais.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "No Estudo de Caso II (desmatamento em área de possível área protegida com curso hídrico), qual o procedimento correto a ser adotado pela equipe policial militar ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Oferecer TCO ao operador do trator, apreender o maquinário e aguardar perícia do local.",
+                    "rationale": "O desmatamento em área protegida (como Parque Nacional) e proximidade com curso hídrico (APP) envolve crimes contra a flora e UCs (Arts. 38/39/40), que geralmente NÃO CABEM TCO e exigem flagrante e DP.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Realizar prisão em flagrante delito do operador, apreender o trator, encaminhar à Delegacia de Polícia (DP) e requisitar perícia.",
+                    "rationale": "Desmatamento em UCs e APP são crimes graves (Arts. 38, 39, 40) que NÃO CABEM TCO, exigindo prisão em flagrante, apreensão do maquinário e requisição de perícia para apuração completa.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas registrar a ocorrência e orientar o operador a cessar a atividade, sem apreensões ou conduções.",
+                    "rationale": "Trata-se de um crime ambiental grave em andamento, exigindo ação imediata e aplicação da lei.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apreender o trator, mas liberar o operador por alegar desconhecimento da lei.",
+                    "rationale": "A alegação de desconhecimento da lei não exime o infrator da responsabilidade penal. A apreensão do maquinário é correta, mas a liberação do operador estaria incorreta.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere a localização do desmatamento (Parque Nacional, curso hídrico) e a gravidade da conduta para definir o procedimento policial.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "No Estudo de Caso III (construção em reserva legal com documentação vs. perfuração de poço artesiano), qual seria a ação adequada da equipe policial militar ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Apreender a máquina perfuratriz e conduzir o cidadão à Delegacia de Polícia (DP) pela perfuração ilegal do poço.",
+                    "rationale": "A perfuração de poço artesiano sem autorização legal configura crime ambiental (Art. 55), que CABE TCO e apreensão do maquinário, não necessariamente condução à DP se a pena for de menor potencial ofensivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apreender a máquina perfuratriz, lavrar TCO para o crime de extração mineral sem autorização legal (Art. 55), e verificar a legalidade da construção na reserva legal.",
+                    "rationale": "A perfuração de poço artesiano sem autorização é crime (Art. 55) que CABE TCO e apreensão. A construção, se devidamente autorizada, não configura crime. A verificação da legalidade da construção é crucial.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Considerar tudo legal, pois o cidadão apresentou documentação para a construção e sabia operar a máquina.",
+                    "rationale": "A documentação da construção não se estende à perfuração do poço. Saber operar a máquina não substitui a necessidade de autorização legal para a perfuração.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Orientar o cidadão a buscar a autorização para o poço artesiano e registrar a ocorrência para acompanhamento.",
+                    "rationale": "O crime de extração mineral sem autorização (Art. 55) já está em curso e exige ação imediata.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Diferencie as duas situações apresentadas e a necessidade de autorização para cada atividade, em especial a perfuração do poço.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "No Estudo de Caso IV (animais silvestres mortos, arma e munições, caçador profissional de javali), qual o procedimento adequado da equipe policial militar ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Liberar o condutor e os animais, pois ele alegou ser caçador profissional de javali e tinha documentação da arma.",
+                    "rationale": "Embora tenha licença para javali, o porte de paca, tatu-galinha e capivara mortos configura crime ambiental (Art. 29) e possivelmente uma agravante. A alegação não justifica a posse ilegal de fauna silvestre.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apreender os animais e a arma de fogo, e encaminhar o condutor à Delegacia de Polícia (DP) devido à complexidade e possíveis agravantes.",
+                    "rationale": "O Art. 29 (§5º) sobre caça profissional aumenta a pena até o triplo, indicando 'NÃO CABE TCO – Flagrante e DP'. A apreensão dos animais ilegais e da arma é fundamental.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas apreender os animais que não são javalis e lavrar TCO, liberando a arma se estiver documentada.",
+                    "rationale": "A caça ilegal, especialmente em caso de profissionalismo e presença de diversas espécies, exige procedimento mais grave que TCO. A arma é instrumento do crime, mesmo que documentada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aplicar multa administrativa e liberar o condutor, visto que se trata de caça e não maus-tratos.",
+                    "rationale": "Trata-se de crime ambiental (Art. 29), não apenas de infração administrativa. A situação envolve crimes contra a fauna e a pena pode ser agravada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere todas as espécies encontradas (não apenas o javali), a condição de 'caçador profissional' e a presença de arma de fogo para determinar a gravidade e o procedimento.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "No Estudo de Caso V (criação de periquitos-rei anilhados e periquitos australianos sem anilha com documentação), qual seria a conduta apropriada da equipe policial militar ambiental?",
+            "answerOptions": [
+                {
+                    "text": "Apreender todos os animais por estarem em cativeiro e encaminhar o morador para lavratura de TCO.",
+                    "rationale": "Os periquitos-rei estão devidamente anilhados e autorizados. Os periquitos australianos são exóticos e com documentação fiscal, não configurando crime.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verificar a documentação dos periquitos-rei e dos periquitos australianos. Se a documentação estiver regular para todas as aves, não há crime, e a equipe deve orientar o cidadão e registrar a ocorrência como finalizada.",
+                    "rationale": "Com a apresentação das documentações de autorização para as aves silvestres anilhadas e nota fiscal para as exóticas, não há irregularidade, e a equipe deve finalizar a ocorrência sem apreensões ou conduções.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apreender apenas os 'periquitos australianos' por estarem sem anilha, mesmo com nota fiscal.",
+                    "rationale": "Periquitos australianos são espécies exóticas, e a anilha não é o requisito principal para sua legalidade; a nota fiscal e a origem legal são. A ausência de anilha para espécies exóticas domesticadas não é, por si só, um crime como para as silvestres.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prender o morador em flagrante por criação de animais sem licença, independente da documentação.",
+                    "rationale": "A apresentação de documentação válida para as aves silvestres (anilhadas) e para as exóticas (nota fiscal) demonstra a legalidade da criação, não havendo flagrante.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Diferencie a legislação para espécies nativas (com anilhas/autorização) e exóticas (com nota fiscal/origem legal), e a importância da documentação apresentada.",
+            "subject": "legislacao_ambiental"
+        },
+        {
+            "question": "Qual das seguintes sugestões NÃO é útil para a atividade profissional do policial militar ambiental, conforme o texto?",
+            "answerOptions": [
+                {
+                    "text": "Ler sempre a lei seca e ter bom material de apoio ao alcance.",
+                    "rationale": "Essas são sugestões úteis para a capacitação e consulta do policial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Registrar imagens, vídeos e localização das ocorrências.",
+                    "rationale": "Registrar informações como imagens, vídeos e lat-long é uma sugestão útil para documentação das ocorrências.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Evitar o estudo e a capacitação contínua, confiando apenas na experiência prática.",
+                    "rationale": "O texto sugere 'Estudar, se capacitar e praticar sempre que possível, pois o esquecimento é inerente à falta de teoria e de prática', indicando a necessidade de capacitação contínua.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Praticar sempre que possível para evitar o esquecimento da teoria e da prática.",
+                    "rationale": "A prática constante é uma sugestão importante para o desenvolvimento profissional, segundo o texto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas recomendações sobre a manutenção e aprimoramento do conhecimento e das habilidades do policial.",
+            "subject": "legislacao_ambiental"
+        }
+    ]
+}

@@ -1,0 +1,517 @@
+{
+    "questions": [
+        {
+            "question": "De acordo com o texto, qual é a principal característica da definição de liderança atualmente?",
+            "answerOptions": [
+                {
+                    "text": "É um conceito universalmente aceito e pacífico.",
+                    "rationale": "O texto afirma que a definição de liderança 'ainda não é pacífica hoje'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É um assunto simples, com poucas teorias que o expliquem.",
+                    "rationale": "O texto menciona que é um 'assunto complexo' e que 'engloba diversas teorias'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É um fenômeno complexo e sua definição ainda não é pacífica, abrangendo diversas teorias.",
+                    "rationale": "O texto descreve a liderança como um 'assunto complexo' e um 'fenômeno amplo que engloba diversas teorias que tentam explicá-lo', e que sua definição 'ainda não é pacífica hoje'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É um processo de coação e imposição de vontade do líder sobre o grupo.",
+                    "rationale": "Embora a influência possa ter graus como a coação, a definição geral de liderança não se resume a isso. O texto foca em 'influenciar as atividades' e 'dar propósito'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção à introdução do tópico 'Liderança' e como ela é descrita em termos de complexidade e aceitação.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Independentemente do conceito adotado, quais são os quatro fatores que sempre estarão presentes quando da manifestação do fenômeno da liderança?",
+            "answerOptions": [
+                {
+                    "text": "Recursos, tempo, planejamento e feedback.",
+                    "rationale": "Esses são elementos da gestão, mas não os fatores fundamentais da manifestação da liderança segundo o texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma situação, o líder, os liderados e a interação entre líder e liderados.",
+                    "rationale": "O texto afirma que 'quatro fatores sempre estarão presentes quando da manifestação desse fenômeno: - uma situação - o líder - os liderados e - a interação entre líder e liderados'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Carisma, autoridade, poder e disciplina.",
+                    "rationale": "Carisma, autoridade e poder são conceitos relacionados, mas não são os quatro fatores essenciais listados. Disciplina é uma função do líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comunicação, motivação, delegação e decisão.",
+                    "rationale": "Essas são funções importantes do líder, mas não os quatro fatores que definem a ocorrência da liderança.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos elementos essenciais que precisam existir para que a liderança se manifeste, envolvendo os atores e o ambiente.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual dos seguintes não é um dos graus de influenciação mencionados no texto?",
+            "answerOptions": [
+                {
+                    "text": "A coação (pressão e força).",
+                    "rationale": "A coação é um dos graus de influenciação listados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A persuasão (argumentação).",
+                    "rationale": "A persuasão é um dos graus de influenciação listados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A barganha (negociação).",
+                    "rationale": "O texto lista coação, persuasão, sugestão e emulação, mas não barganha.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A emulação (procurar ser igual ao outro para ganhá-lo imitação).",
+                    "rationale": "A emulação é um dos graus de influenciação listados.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a seção que detalha os diferentes 'graus de influenciação'.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Segundo Chiavenato, quais são as três bases de autoridade do líder?",
+            "answerOptions": [
+                {
+                    "text": "Autoridade legal, autoridade política e autoridade financeira.",
+                    "rationale": "Chiavenato não lista autoridade política ou financeira.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bases em fundamentos racionais (regras normativas), bases tradicionais e bases carismáticas.",
+                    "rationale": "O texto afirma: 'Segundo CHIAVENATO existem três bases de autoridade do líder: – base em fundamentos racionais (regras normativas, autoridade legal) – bases tradicionais (passada de geração para geração) – bases carismáticas (heroísmo, caráter exemplar, popularidade)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Poder de mando, poder de decisão e poder de influência.",
+                    "rationale": "Poder de mando e decisão são manifestações de autoridade, e poder de influência é um conceito ligado, mas não são as bases de autoridade segundo Chiavenato.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inteligência, experiência e adaptabilidade.",
+                    "rationale": "Essas são características úteis para um líder, mas não as bases de autoridade segundo Chiavenato.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos tipos de autoridade que um líder pode ter, conforme o teórico Chiavenato.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Uma das principais funções do líder é 'Motivar o liderado'. De acordo com o texto, o que significa 'motivar'?",
+            "answerOptions": [
+                {
+                    "text": "Impor tarefas e exigir o cumprimento por meio de punições.",
+                    "rationale": "Motivação está ligada a estimular a ação de forma positiva, não a imposição ou punição.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Estimular o indivíduo para a ação, fazendo-o tomar o objetivo do trabalho como um motivo pessoal.",
+                    "rationale": "Segundo Serra (1982), 'motivar é, pois, estimular o individuo para a ação, fazendo-o tomar o objetivo do trabalho como um motivo pessoal'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Realizar todas as tarefas em vez dos subordinados para agilizar o processo.",
+                    "rationale": "Isso seria o oposto de motivar e de delegar tarefas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas comunicar os objetivos, sem se preocupar com o engajamento pessoal.",
+                    "rationale": "A motivação vai além da simples comunicação, envolvendo o engajamento do indivíduo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Concentre-se na definição de 'motivar' apresentada na seção sobre a função de motivação do líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Segundo o texto, qual é a importância da 'interação' para que a liderança ocorra?",
+            "answerOptions": [
+                {
+                    "text": "É importante apenas para a comunicação formal, sem impacto nos sentimentos.",
+                    "rationale": "A interação permite o trânsito de informações, ideias, pensamentos, sentimentos e emoções, não apenas a comunicação formal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É vital para que ocorra a liderança, permitindo a tramitação de informações, ideias, pensamentos, sentimentos e emoções entre os membros do grupo.",
+                    "rationale": "O texto afirma que 'A interação é vital para que ocorra a liderança de um indivíduo em relação a um grupo. É o processo pelo qual informações, ideias, pensamentos, sentimentos e emoções tramitam entre os membros do grupo, permitindo a inter-relação entre eles'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É um fator secundário, pois o líder pode influenciar independentemente da comunicação com os liderados.",
+                    "rationale": "A interação é descrita como 'vital', e a liderança é dirigida através da comunicação humana.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não é necessária, pois a liderança se manifesta apenas pela presença do líder.",
+                    "rationale": "O texto contradiz isso ao listar a interação como um dos quatro fatores essenciais e vitais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reveja os quatro fatores que sempre estão presentes na liderança, com foco na dinâmica entre líder e liderados.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Sobre a função de 'Delegar Tarefas', o que o verdadeiro líder deve ter perfeita consciência?",
+            "answerOptions": [
+                {
+                    "text": "Que deve ser onisciente e onipotente, sabendo e podendo fazer tudo sozinho.",
+                    "rationale": "O texto afirma o oposto: 'O melhor dos líderes jamais conseguirá ser onisciente e onipotente'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "De que não precisa dividir tarefas, pois um bom líder faz tudo sozinho.",
+                    "rationale": "O texto menciona a necessidade de 'divisão de tarefas' quando o objetivo requer esforço de mais de uma pessoa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Daquilo que pode e deve fazer sozinho, como também daquilo que pode e deve atribuir a um liderado.",
+                    "rationale": "O texto indica que 'O verdadeiro líder deve ter perfeita consciência daquilo que pode e deve fazer sozinho, como também daquilo que pode e deve atribuir a um liderado'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que a delegação de tarefas é um sinal de fraqueza do líder.",
+                    "rationale": "A delegação é apresentada como uma necessidade e uma habilidade importante para o líder.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na capacidade de um líder de gerenciar a si mesmo e a sua equipe de forma eficiente, reconhecendo limites e oportunidades de colaboração.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é a definição de 'Comunicação' apresentada no texto?",
+            "answerOptions": [
+                {
+                    "text": "Apenas a transmissão de ordens do líder para os subordinados.",
+                    "rationale": "A definição é mais ampla, envolvendo compreensão e compartilhamento de ideias e sentimentos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A transferência de informação e compreensão de uma pessoa para outra, uma ponte de significação para partilhar o que sentem e sabem.",
+                    "rationale": "Segundo WERTHER & DAVIS (1983), a comunicação é 'a transferência de informação e compreensão de uma pessoa para outra. É um modo de alcançar os outros com ideias, fatos, pensamentos e valores. É uma ponte de significação entre pessoas para que elas possam partilhar o que sentem e sabem'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O ato de persuadir o grupo a seguir cegamente as instruções do líder.",
+                    "rationale": "Persuasão é um grau de influência, mas a comunicação é um processo de transferência de compreensão mútua.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O processo de tomada de decisão em grupo.",
+                    "rationale": "Tomar decisão é outra função do líder, não a definição de comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Relembre a citação de Werther & Davis sobre o que a comunicação realmente envolve.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é um dos principais desafios que o líder enfrenta ao lidar com o 'Trabalho em Equipe'?",
+            "answerOptions": [
+                {
+                    "text": "Garantir que todos os membros da equipe tenham objetivos e interesses individuais idênticos.",
+                    "rationale": "O texto afirma que as pessoas 'possuindo diferentes objetivos e interesses individuais' e que 'Surgem os conflitos'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Evitar qualquer tipo de conflito na equipe a todo custo.",
+                    "rationale": "O texto reconhece que os conflitos surgem e que o líder precisa 'Gerir os conflitos', não necessariamente evitá-los por completo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gerir os conflitos que surgem devido aos diferentes objetivos e interesses individuais, e dar o norte e impor a voga para a equipe.",
+                    "rationale": "O texto indica que 'Uma equipe de trabalho é composta de várias pessoas e estas possuindo diferentes objetivos e interesses individuais -> Surgem os conflitos. O líder precisa: – Gerir os conflitos – Dar o norte – Impor a Voga'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Realizar o trabalho sozinho para evitar desentendimentos.",
+                    "rationale": "Isso contradiz o conceito de trabalho em equipe e a necessidade de delegação de tarefas.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos desafios inerentes a um grupo de indivíduos com diferentes perspectivas e como o líder atua para harmonizá-los.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual das seguintes vantagens a disciplina, quando bem aplicada, NÃO oferece, conforme o texto?",
+            "answerOptions": [
+                {
+                    "text": "O fomento do espírito de respeito mútuo entre ele e os liderados.",
+                    "rationale": "Esta é uma das vantagens listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A conservação da justiça.",
+                    "rationale": "Esta é uma das vantagens listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O ensinamento e orientação para os liderados a desempenharem eficientemente suas tarefas.",
+                    "rationale": "Esta é uma das vantagens listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A garantia de que o líder nunca tomará decisões equivocadas.",
+                    "rationale": "O texto afirma que 'O líder não é um ser perfeito, portanto, certas vezes tomará decisões equivocadas'. A disciplina não garante a infalibilidade do líder.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Revise as três vantagens explícitas da disciplina no final da seção 'Disciplina'.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual das quatro correntes de pensamento sobre liderança foca principalmente no que o líder é e o que ele faz?",
+            "answerOptions": [
+                {
+                    "text": "A corrente centrada nos seguidores.",
+                    "rationale": "Esta corrente foca nos liderados, não no líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A corrente centrada na situação.",
+                    "rationale": "Esta corrente foca no contexto da liderança.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A corrente integradora.",
+                    "rationale": "Esta corrente busca combinar elementos de todas as outras, não se focando 'principalmente' no líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A corrente centrada na figura do líder.",
+                    "rationale": "O texto afirma que essa corrente 'foca principalmente no que o líder é e o que ele faz'.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Relembre os títulos das quatro correntes e seu foco principal.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "A Teoria Inatista defende que o líder é um indivíduo predestinado ou abençoado para exercer a liderança. Qual dos fatores abaixo essa teoria desconsidera?",
+            "answerOptions": [
+                {
+                    "text": "A influência do meio ambiente.",
+                    "rationale": "A Teoria Inatista desconsidera 'a influência do meio ambiente', vendo a liderança como um atributo da personalidade inato.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Os fatores relacionados à hereditariedade.",
+                    "rationale": "Essa teoria defende os fatores relacionados à hereditariedade como determinantes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A existência de grupos e povos.",
+                    "rationale": "A teoria aborda a liderança de 'grupos e povos'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A capacidade de submeter inimigos pela força.",
+                    "rationale": "Isso é mencionado como uma característica do líder sob essa teoria, não algo desconsiderado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que a Teoria Inatista ignora ao atribuir a liderança a um dom ou destino.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "A Teoria do Grande Homem é muito influenciada por qual visão da liderança?",
+            "answerOptions": [
+                {
+                    "text": "Uma visão burocrática e formal.",
+                    "rationale": "Essa teoria se opõe a uma visão meramente burocrática; ela enfatiza o carisma e heroísmo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma visão pragmática e orientada para resultados.",
+                    "rationale": "O foco não é a pragmática, mas sim a figura heróica do líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma visão messiânica e carismática.",
+                    "rationale": "O texto afirma que essa teoria é 'muito influenciada por uma visão messiânica e carismática da liderança'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Uma visão científica e comportamental.",
+                    "rationale": "Essa teoria é mais antiga e menos focada em aspectos científicos e comportamentais como as teorias posteriores.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o termo 'Grande Homem' e o que ele sugere sobre a natureza do líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é a principal premissa da Teoria dos Traços de Personalidade?",
+            "answerOptions": [
+                {
+                    "text": "A liderança é aprendida através da experiência e do treinamento contínuo.",
+                    "rationale": "Essa teoria foca em traços inatos, não na aprendizagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A posse de certos traços de caráter e de personalidade permite o acesso ao poder e o exercício da liderança.",
+                    "rationale": "O texto afirma: 'a posse de certos traços de caráter e de personalidade permite àqueles que os possuam o acesso ao poder'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O líder surge em momentos de crise, independentemente de suas qualidades pessoais.",
+                    "rationale": "Essa é mais alinhada à Teoria do Grande Homem, e os traços são importantes para essa teoria.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O estilo de liderança é determinado exclusivamente pela situação.",
+                    "rationale": "Essa é a premissa da corrente centrada na situação, não dos traços.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que essa teoria valoriza no indivíduo que o torna um líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "No estilo de liderança autocrático, uma das conclusões da Pesquisa de Iowa foi que o trabalho dos liderados é geralmente paralisado quando o líder se ausenta. Qual é a principal razão para isso?",
+            "answerOptions": [
+                {
+                    "text": "Os liderados aproveitam a ausência para descansar e socializar.",
+                    "rationale": "Embora isso possa acontecer, a principal razão é a falta de iniciativa e dependência gerada pelo estilo autocrático.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A falta de autonomia e iniciativa dos liderados, por temor à atitude do líder.",
+                    "rationale": "O texto afirma que 'Quando o líder necessita se ausentar, o trabalho dos liderados é geralmente paralisado' e que 'Não há iniciativa, por temor à atitude do líder'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A comunicação é tão franca que eles não sabem o que fazer sem o líder.",
+                    "rationale": "A comunicação não é franca no estilo autocrático; é ditada pelo líder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eles esperam o líder tomar todas as decisões, mesmo as mais simples.",
+                    "rationale": "Esta é uma consequência da falta de iniciativa e autonomia, mas não a razão principal apontada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reflita sobre como a centralização da autoridade e o medo de represálias afetam a proatividade dos liderados nesse estilo.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "A pesquisa de Iowa concluiu que o estilo democrático de liderança promove a 'independência do líder'. O que essa independência significa na prática?",
+            "answerOptions": [
+                {
+                    "text": "Que o líder não precisa mais interagir com a equipe.",
+                    "rationale": "O líder continua sendo um membro do grupo e interagindo, mas a equipe se torna menos dependente de sua presença constante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que o trabalho progride em ritmo suave e seguro, sem sofrer interrupções bruscas na ausência do líder.",
+                    "rationale": "O texto afirma que 'O trabalho progride em ritmo suave, seguro, sem sofrer interrupções bruscas na ausência do líder (independência do líder)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que as decisões são tomadas unilateralmente pelo grupo, sem a participação do líder.",
+                    "rationale": "As decisões são debatidas em grupo, com a participação do líder como membro, não sem ele.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que os liderados são totalmente autônomos e não precisam de orientação.",
+                    "rationale": "Embora haja autonomia e responsabilidade, o líder ainda dá o norte e gerencia o grupo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no impacto da ausência do líder em um ambiente democrático, onde a equipe tem mais autonomia.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual é a principal característica do líder no estilo Laissez-faire, segundo o texto?",
+            "answerOptions": [
+                {
+                    "text": "Ele centraliza todas as decisões e determina as tarefas.",
+                    "rationale": "Essa é a característica do estilo autocrático.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ele envolve os subordinados nos processos decisórios e incentiva a participação.",
+                    "rationale": "Essa é a característica do estilo democrático.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ele procura deixar o grupo completamente à vontade para deliberar sobre os trabalhos e a forma de executá-los.",
+                    "rationale": "O texto descreve o líder de estilo laissez-faire como aquele que 'procura deixar o grupo completamente à vontade para deliberar sobre os trabalhos a serem realizados e a forma de executá-los'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ele foca na qualidade e é voltado para o indivíduo, consultando mas decidindo sozinho.",
+                    "rationale": "Essa é uma característica do estilo democrático (consultivo).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do significado do termo 'laissez-faire' em relação à intervenção do líder.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Para que o método da liderança liberal (Laissez-faire) tenha sucesso, o que URIS (1967) afirma ser necessário para a pessoa que está sendo orientada?",
+            "answerOptions": [
+                {
+                    "text": "Que ela seja totalmente dependente e insegura, necessitando de um líder firme.",
+                    "rationale": "Essa é uma condição para o estilo autocrático ser útil, não o laissez-faire.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que ela seja carismática e capaz de submeter os outros pela força.",
+                    "rationale": "Isso se refere à Teoria do Grande Homem/Inatista, não às condições para o laissez-faire.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que ela precise capacitar-se muito bem profissionalmente, ser responsável e objetiva na forma de se comunicar.",
+                    "rationale": "URIS (1967) afirma que 'a pessoa que está sendo orientada, de acordo com o método da liderança liberal, para ter sucesso precisa capacitar-se muito bem profissionalmente. Ela precisa ser responsável e objetiva na forma de se comunicar'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que ela se comporte de forma apática e sem iniciativa.",
+                    "rationale": "Essa é uma consequência negativa do estilo autocrático, não uma condição para o sucesso do laissez-faire.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o tipo de ambiente que o estilo laissez-faire cria e que tipo de liderado se adaptaria melhor a ele.",
+            "subject": "chefia_lideranca"
+        },
+        {
+            "question": "Qual a principal diferença entre a Liderança Direta e a Liderança Indireta?",
+            "answerOptions": [
+                {
+                    "text": "A Liderança Direta ocorre apenas em situações de crise, enquanto a Indireta é para o dia a dia.",
+                    "rationale": "O texto não associa as formas de liderança a situações de crise ou rotina.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A Liderança Direta foca na produtividade, e a Indireta no relacionamento.",
+                    "rationale": "Essa distinção não é feita no texto para essas formas de liderança.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A Liderança Direta envolve o líder influenciando diretamente os liderados, enquanto a Indireta ocorre por intermédio de outros líderes subordinados.",
+                    "rationale": "O texto afirma que na 'Liderança Direta... o líder influencia diretamente os liderados, falando a eles com frequência e fornecendo exemplos pessoais', e na 'Liderança Indireta, o líder exerce a sua influência atuando por intermédio de outros líderes a ele subordinados'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A Liderança Direta é sempre autocrática, e a Indireta é sempre democrática.",
+                    "rationale": "As formas de liderança não se correlacionam diretamente com os estilos de liderança de forma exclusiva.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no caminho que a influência do líder percorre para chegar aos liderados em cada uma das formas.",
+            "subject": "chefia_lideranca"
+        }
+    ]
+}

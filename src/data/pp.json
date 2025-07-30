@@ -1,0 +1,544 @@
+{
+    "questions": [
+        {
+            "question": "De acordo com o Art. 29 do CTB, quando veículos de emergência, como os de polícia, estão em serviço de urgência e com dispositivos de alarme sonoro e iluminação intermitente acionados, qual a atitude esperada dos demais condutores?",
+            "answerOptions": [
+                {
+                    "text": "Acelerar para abrir caminho.",
+                    "rationale": "Esta ação é incorreta e pode causar acidentes. O correto é facilitar a passagem, não acelerar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Manter-se na faixa da esquerda e buzinar.",
+                    "rationale": "Manter-se na faixa da esquerda impede a livre passagem. O correto é ir para a direita e, se necessário, parar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Deixar livre a passagem pela faixa da esquerda, indo para a direita da via e parando, se necessário.",
+                    "rationale": "Conforme o Art. 29, VII, alínea 'a', esta é a conduta esperada para facilitar a passagem de veículos de emergência.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sair da via e estacionar imediatamente.",
+                    "rationale": "Embora parar possa ser necessário, a prioridade é mover-se para a direita da via, não necessariamente sair e estacionar.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se das regras de prioridade no trânsito para veículos de emergência.",
+            "subject": "pp"
+        },
+        {
+            "question": "Em qual situação as viaturas policiais PODEM transitar em todo e qualquer local (contramão, calçadas, acostamento e canteiro central)?",
+            "answerOptions": [
+                {
+                    "text": "A qualquer momento, por serem veículos policiais.",
+                    "rationale": "As prerrogativas são específicas para situações de urgência/emergência, não para qualquer momento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Somente em situações de treinamento com autorização superior.",
+                    "rationale": "A permissão para transitar nessas condições está ligada à urgência/emergência do serviço, não apenas ao treinamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas quando estão em situação de URGÊNCIA/EMERGÊNCIA e com seus dispositivos regulamentares (alarmes sonoros e luminosos) acionados.",
+                    "rationale": "O texto do estudo dirigido e o CTB preveem essas prerrogativas somente sob estas condições rigorosas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Quando o trânsito estiver muito congestionado, mesmo sem urgência.",
+                    "rationale": "A prerrogativa de livre circulação não se aplica apenas a congestionamentos, mas sim a situações de urgência e emergência.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas condições que justificam as exceções às regras normais de trânsito para viaturas.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual o conceito de Dirigir ou Pilotar Defensivamente?",
+            "answerOptions": [
+                {
+                    "text": "Apenas reagir a situações de risco inesperadas.",
+                    "rationale": "A direção defensiva vai além da reação; ela envolve a prevenção e o planejamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dirigir ou pilotar para evitar acidentes, apesar das ações incorretas dos outros e das condições adversas, planejando todas as ações com antecedência.",
+                    "rationale": "Esta definição engloba a essência da direção defensiva: prevenção, antecipação e cautela, independentemente das ações de terceiros ou das condições.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Conduzir o veículo em alta velocidade para chegar mais rápido ao destino.",
+                    "rationale": "Alta velocidade sem controle e prevenção de riscos não é um princípio de direção defensiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ignorar as condições adversas e focar apenas no próprio comportamento.",
+                    "rationale": "Ignorar as condições adversas é o oposto da direção defensiva, que as considera para planejar a condução.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na palavra 'defensiva' e o que ela implica em termos de comportamento no trânsito.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual dos itens abaixo NÃO é um 'elemento' da Direção Defensiva?",
+            "answerOptions": [
+                {
+                    "text": "Conhecimento",
+                    "rationale": "Conhecimento é um dos cinco elementos da Direção Defensiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atenção",
+                    "rationale": "Atenção é um dos cinco elementos da Direção Defensiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Velocidade",
+                    "rationale": "Velocidade é uma condição de trânsito, não um dos elementos fundamentais que compõem a direção defensiva.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Habilidade",
+                    "rationale": "Habilidade é um dos cinco elementos da Direção Defensiva.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se dos 5 elementos principais que constituem a prática da direção defensiva.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual dos itens abaixo NÃO é uma 'Condição Adversa' na Direção Defensiva?",
+            "answerOptions": [
+                {
+                    "text": "Luz",
+                    "rationale": "Luz (ex: excesso, falta, ofuscamento) é uma condição adversa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tempo",
+                    "rationale": "Tempo (ex: chuva, neblina) é uma condição adversa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conhecimento",
+                    "rationale": "Conhecimento é um dos 'elementos' da direção defensiva, e não uma 'condição adversa' que surge no ambiente externo ou no veículo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Veículo",
+                    "rationale": "Veículo (ex: problemas mecânicos) é uma condição adversa.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que são os fatores externos ou internos ao veículo e condutor que podem dificultar a condução.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual a distância recomendada entre a parte posterior do joelho e o assento para garantir a circulação sanguínea adequada e evitar fadiga?",
+            "answerOptions": [
+                {
+                    "text": "Pelo menos um dedo de distância.",
+                    "rationale": "Um dedo pode não ser suficiente para garantir a circulação ideal e evitar a pressão em nervos e veias.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não deve haver distância, o joelho deve tocar o assento.",
+                    "rationale": "O contato direto e constante pode causar pressão, dores e comprometer a circulação, levando à fadiga.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pelo menos três dedos de distância.",
+                    "rationale": "Esta distância é a ideal para evitar a compressão de nervos e veias, garantindo uma boa circulação e prevenindo fadiga e dores.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O máximo de distância possível.",
+                    "rationale": "Distância excessiva pode comprometer o controle dos pedais e a postura geral, levando a outros problemas.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na importância da circulação sanguínea nas pernas durante a condução.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual a posição correta das mãos no volante, correspondente aos ponteiros de um relógio?",
+            "answerOptions": [
+                {
+                    "text": "12h00 ou 6h00.",
+                    "rationale": "Estas posições não permitem o controle eficiente e rápido do volante em situações de emergência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10h10 ou 9h15.",
+                    "rationale": "Essas posições permitem um controle ideal do volante, garantindo agilidade e eficiência para manobras de emergência.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "8h00 ou 4h00.",
+                    "rationale": "Embora próximas, estas posições podem limitar a amplitude de movimento e a rapidez de resposta em comparação com 10h10 ou 9h15.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Com uma mão apenas, no topo do volante.",
+                    "rationale": "Conduzir com apenas uma mão é um vício de postura e reduz significativamente o controle do veículo, sendo perigoso.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se da posição que oferece maior controle e liberdade de movimento para o volante.",
+            "subject": "pp"
+        },
+        {
+            "question": "Para que o Airbag seja eficaz em um acidente, qual item de segurança é **necessário** utilizar?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o freio de mão.",
+                    "rationale": "O freio de mão é para estacionamento e não tem relação com a eficácia do airbag durante uma colisão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O cinto de segurança.",
+                    "rationale": "O cinto de segurança é fundamental para manter o ocupante na posição correta e garantir que o airbag complemente sua proteção, evitando lesões graves.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O sistema de som do veículo.",
+                    "rationale": "O sistema de som não tem nenhuma relação com a segurança passiva e a eficácia do airbag.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ajustar apenas o espelho retrovisor.",
+                    "rationale": "O ajuste do retrovisor é para visibilidade e não impacta diretamente a eficácia do airbag na contenção do corpo em uma colisão.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no dispositivo que impede o corpo de ser projetado contra o airbag de forma indevida.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual sistema de auxílio à frenagem tem a função de auxiliar o ABS e o EBD, induzindo pressão máxima no freio quando o motorista pisa no pedal bruscamente?",
+            "answerOptions": [
+                {
+                    "text": "ESP - Eletronic Stability Program.",
+                    "rationale": "O ESP atua no controle da estabilidade do veículo, freando rodas individualmente e controlando o motor, mas não é o que induz a pressão máxima no freio em uma pisada brusca.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "BOS - Brake Override System.",
+                    "rationale": "O BOS atua quando o freio e o acelerador são acionados simultaneamente, reduzindo a rotação do motor, não induzindo a pressão máxima do freio.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "BAS - Brake Assist System.",
+                    "rationale": "O BAS (Assistente de Frenagem de Emergência) é projetado para reconhecer uma pisada brusca no freio e aplicar a força máxima necessária, complementando o ABS e o EBD.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "EBD - Eletronic Brake Force Distribuition.",
+                    "rationale": "O EBD distribui eletronicamente a força de frenagem entre os eixos, mas não é o sistema que induz a pressão máxima em uma pisada brusca inicial.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do sistema que 'auxilia' o motorista a aplicar a força de frenagem correta em emergências.",
+            "subject": "pp"
+        },
+        {
+            "question": "Ao realizar uma frenagem emergencial em um veículo SEM ABS, qual o procedimento correto?",
+            "answerOptions": [
+                {
+                    "text": "Pressionar o pedal do freio continuamente até parar.",
+                    "rationale": "Em veículos sem ABS, pressionar continuamente pode causar o travamento das rodas, perda de controle e arrastamento dos pneus.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pressionar o pedal do freio por determinado tempo, soltar e pressionar novamente, repetindo o procedimento.",
+                    "rationale": "Esta técnica, conhecida como 'bombear o freio', é a correta para veículos sem ABS, pois evita o travamento e permite manter a dirigibilidade.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pressionar a embreagem e o freio ao mesmo tempo.",
+                    "rationale": "A embreagem não deve ser utilizada na frenagem emergencial para carros sem ABS, pois pode comprometer a capacidade de frenagem do motor.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pressionar apenas a embreagem.",
+                    "rationale": "Pressionar apenas a embreagem desconecta o motor da transmissão, eliminando o freio motor e não promovendo a parada do veículo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense em como evitar o travamento das rodas em veículos que não possuem o sistema ABS.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual das fases NÃO faz parte da realização de uma curva eficaz?",
+            "answerOptions": [
+                {
+                    "text": "Aproximação.",
+                    "rationale": "A fase de aproximação é fundamental para ajustar velocidade e marcha antes de entrar na curva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desaceleração brusca.",
+                    "rationale": "A desaceleração deve ocorrer ANTES da curva e de forma controlada, não bruscamente DURANTE a curva, pois isso pode levar à perda de controle.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Tangenciamento.",
+                    "rationale": "A fase de tangenciamento é onde se busca o ápice da curva, mantendo uma aceleração leve.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Saída de curva.",
+                    "rationale": "A fase de saída é onde se aumenta a aceleração gradualmente e direciona o veículo para fora da curva.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se da sequência de ações para uma curva segura e controlada.",
+            "subject": "pp"
+        },
+        {
+            "question": "Na 'curva de raio decrescente', o que acontece com o raio da curva?",
+            "answerOptions": [
+                {
+                    "text": "O raio da curva se mantém constante.",
+                    "rationale": "Esta é a característica da 'curva de raio constante' ou 'contínuo'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O raio da curva aumenta no decorrer da curva.",
+                    "rationale": "Esta é a característica da 'curva de raio crescente'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O raio da curva diminui no decorrer da curva.",
+                    "rationale": "Em uma curva de raio decrescente, o traçado se fecha, tornando-a mais difícil e perigosa, aumentando o risco de acidentes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A curva se transforma em uma reta.",
+                    "rationale": "Uma curva nunca se transforma em uma reta, mas pode ter um raio que diminui ou aumenta.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O próprio nome 'decrescente' já dá uma pista sobre o que acontece com o raio.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual a regra de trajetória para uma 'curva de raio constante/contínuo'?",
+            "answerOptions": [
+                {
+                    "text": "Dentro – Fora – Dentro.",
+                    "rationale": "Esta não é a regra padrão para a maioria das curvas de raio constante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fora – Dentro – Fora.",
+                    "rationale": "Esta é a regra geral para curvas de raio constante, buscando o maior raio possível para maior segurança e estabilidade.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dentro – Dentro – Fora.",
+                    "rationale": "Esta trajetória é ineficiente e pode gerar menor segurança ao invés de buscar o maior raio da curva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fora – Fora – Dentro.",
+                    "rationale": "Essa trajetória não otimiza a passagem pela curva e pode comprometer a segurança.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense em como maximizar o raio da curva para maior segurança.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual o principal risco de objetos soltos no interior do veículo durante o serviço policial?",
+            "answerOptions": [
+                {
+                    "text": "Apenas distrair o condutor.",
+                    "rationale": "Embora possam distrair, o risco principal é muito mais grave.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Causar ruídos incômodos.",
+                    "rationale": "O ruído é uma consequência menor comparado ao perigo físico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atingir os ocupantes, lesionando ou matando-os, em caso de frenagem brusca, colisão ou capotamento.",
+                    "rationale": "Objetos soltos podem se transformar em projéteis perigosos em eventos súbitos, causando lesões graves ou fatais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Aumentar o consumo de combustível.",
+                    "rationale": "Objetos soltos não afetam significativamente o consumo de combustível.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere o que acontece com objetos não fixados dentro de um carro em movimento rápido ou em caso de impacto.",
+            "subject": "pp"
+        },
+        {
+            "question": "Em movimentos constantes de mudança de direção, o que a força que impulsiona o veículo pode causar ao retornar com mais intensidade?",
+            "answerOptions": [
+                {
+                    "text": "Aumentar a estabilidade do veículo.",
+                    "rationale": "O retorno intenso da força de transposição de peso tende a desestabilizar, não aumentar a estabilidade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diminuir a velocidade.",
+                    "rationale": "A transposição de peso está mais relacionada à estabilidade e controle direcional do que à desaceleração.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Acarretar o tombamento da viatura.",
+                    "rationale": "A força de transposição de peso, especialmente em curvas rápidas ou mudanças de direção bruscas, pode levar ao desequilíbrio e tombamento do veículo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Melhorar a aderência dos pneus.",
+                    "rationale": "A transposição de peso descontrolada pode, na verdade, diminuir a aderência em algumas rodas, levando à perda de controle.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no efeito que o deslocamento de massa tem na estabilidade lateral de um veículo em movimento.",
+            "subject": "pp"
+        },
+        {
+            "question": "De acordo com a Portaria PMDF 1.037/2017, qual o tipo de veículo classificado como 'VPI'?",
+            "answerOptions": [
+                {
+                    "text": "Veículo de Suporte Operacional.",
+                    "rationale": "VSO é a sigla para Veículo de Suporte Operacional.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Veículo de Patrulha e Interceptação.",
+                    "rationale": "VPI significa Veículo de Patrulha e Interceptação, conforme a portaria citada.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Veículo de Missões Críticas.",
+                    "rationale": "VMC é a sigla para Veículo de Missões Críticas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Veículo de Patrulha e Cerco.",
+                    "rationale": "VPC é a sigla para Veículo de Patrulha e Cerco.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se das siglas e suas classificações conforme a Portaria PMDF.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual a posição do câmbio seletor (automático) para dar a partida no motor, conforme os procedimentos para ligar o veículo?",
+            "answerOptions": [
+                {
+                    "text": "R (Reverse)",
+                    "rationale": "A posição 'R' (ré) não permite a partida do motor.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "D (Drive)",
+                    "rationale": "A posição 'D' (condução normal) não permite a partida do motor em veículos automáticos por segurança.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "P (Park) ou N (Neutro)",
+                    "rationale": "Estas são as únicas posições que permitem a partida do motor em veículos automáticos, garantindo que o veículo não se mova inesperadamente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "- (Diminuir Marcha)",
+                    "rationale": "'-' é para reduzir marcha no modo manual/sequencial, não para dar partida.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas posições que garantem a segurança ao ligar um carro automático.",
+            "subject": "pp"
+        },
+        {
+            "question": "Para desligar um veículo automático, qual a primeira ação a ser tomada após parar completamente o carro?",
+            "answerOptions": [
+                {
+                    "text": "Colocar a transmissão na posição P (Park).",
+                    "rationale": "A posição 'N' (neutro) vem antes do 'P' (park) no processo de desligamento para garantir a sequência correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ligar o motor novamente.",
+                    "rationale": "Ligar o motor não faz parte do procedimento de desligamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Colocar a transmissão na posição N (Neutro).",
+                    "rationale": "Após pisar no freio e parar o carro, o primeiro passo é colocar a transmissão em 'N' (Neutro) antes de acionar o freio de estacionamento e, finalmente, 'P'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Soltar o freio de estacionamento.",
+                    "rationale": "Soltar o freio de estacionamento é parte do procedimento para LIGAR o veículo, não para desligar.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na sequência lógica de ações para desligar um veículo automático de forma segura.",
+            "subject": "pp"
+        },
+        {
+            "question": "O que a sigla 'CAFLOPES' representa para a inspeção de 1º Escalão?",
+            "answerOptions": [
+                {
+                    "text": "Calibragem, Freios, Luzes, Óleo, Pneus, Escapamento, Suspensão.",
+                    "rationale": "Esta opção inclui alguns itens corretos, mas não abrange todos os pontos da sigla 'CAFLOPES'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Combustível, Arrefecimento, Freios, Luzes / Limpadores de para-brisas, Óleo, Pneus, Equipamentos obrigatórios, Suspensão.",
+                    "rationale": "Esta opção abrange todos os itens representados pela sigla 'CAFLOPES' conforme descrito no material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Controle, Aceleração, Freios, Limpeza, Operação, Pneus, Segurança.",
+                    "rationale": "Esta opção não corresponde aos elementos da sigla 'CAFLOPES'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Carroceria, Aquecimento, Fluido, Lâmpadas, Óleo, Para-brisas, Escapamento, Segurança.",
+                    "rationale": "Esta opção não corresponde aos elementos da sigla 'CAFLOPES'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se de cada letra da sigla e a qual sistema do veículo ela se refere.",
+            "subject": "pp"
+        },
+        {
+            "question": "Qual a calibragem correta para os pneus de uma viatura GM Trailblazer, de acordo com a Subseção de Pilotagem Policial (SSPP)?",
+            "answerOptions": [
+                {
+                    "text": "30-35 LIBRAS.",
+                    "rationale": "Esta calibragem é para TOYOTA COROLLA e MITSHUBISHI ASX.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "36-38 LIBRAS.",
+                    "rationale": "Esta calibragem é para MITSHUBISHI L200.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "40-42 LIBRAS.",
+                    "rationale": "De acordo com o material, a calibragem da GM TRAILBLAZER é de 40-42 LIBRAS.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não há calibragem específica, depende do condutor.",
+                    "rationale": "Existem calibragens específicas para cada modelo de viatura, conforme as diretrizes da SSPP.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte a tabela de calibragem específica para cada modelo de viatura.",
+            "subject": "pp"
+        }
+    ]
+}

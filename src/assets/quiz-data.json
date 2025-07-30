@@ -1,0 +1,1565 @@
+{
+    "discipline": "Abordagem Policial",
+    "questions": [
+        {
+            "question": "Qual é a definição concisa de comunicação interpessoal, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "A troca de ideias entre máquinas.",
+                    "rationale": "A comunicação interpessoal refere-se à interação entre indivíduos, não entre máquinas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A transmissão de informações de um indivíduo para um grupo grande.",
+                    "rationale": "Embora possa envolver grupos, a definição concisa se foca na troca entre dois ou mais indivíduos, sem especificar o tamanho do grupo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A troca de informações entre dois ou mais indivíduos.",
+                    "rationale": "Esta opção reflete diretamente a definição apresentada no texto para comunicação interpessoal.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A comunicação interna dentro de uma organização.",
+                    "rationale": "Comunicação interna é um tipo específico, mas a definição geral de comunicação interpessoal abrange interações mais amplas do que apenas o ambiente organizacional.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no número mínimo de pessoas envolvidas na comunicação interpessoal."
+        },
+        {
+            "question": "Quais são alguns dos meios de passar e receber mensagens na comunicação interpessoal mencionados no texto?",
+            "answerOptions": [
+                {
+                    "text": "Apenas fala e escrita.",
+                    "rationale": "O texto menciona fala, escrita, mímica e meios modernos, o que torna esta opção incompleta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Notícias de jornal e rádio.",
+                    "rationale": "Embora sejam meios de comunicação, o texto foca nos modos de interação direta ou mediada por tecnologia entre indivíduos, como SMS e e-mails.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fala, escrita, mímica e meios modernos como SMS e e-mails.",
+                    "rationale": "Esta opção engloba todos os exemplos de meios de comunicação interpessoal citados no capítulo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sinais de fumaça e código morse.",
+                    "rationale": "Estes são meios de comunicação, mas não são os exemplos específicos dados no texto para comunicação interpessoal moderna.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere tanto os métodos tradicionais quanto os tecnológicos citados."
+        },
+        {
+            "question": "Qual a importância da comunicação interpessoal na atividade policial militar, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "É importante apenas para a comunicação interna da corporação.",
+                    "rationale": "O texto destaca a importância para as relações humanas e o sucesso em ocorrências, que vão além da comunicação puramente interna.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É uma ferramenta estratégica para o sucesso em boa parte das ocorrências policiais.",
+                    "rationale": "O texto afirma que a habilidade na comunicação interpessoal é uma ferramenta estratégica para o sucesso em boa parte das ocorrências policiais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não tem grande relevância, pois o foco é o uso da força física.",
+                    "rationale": "O texto contradiz esta afirmação, enfatizando a comunicação como uma ferramenta estratégica e até um nível de uso da força.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Serve apenas para registrar ocorrências.",
+                    "rationale": "Registrar ocorrências é uma das funções, mas a importância da comunicação interpessoal na atividade policial militar vai muito além, impactando o sucesso das interações e desfechos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no papel da comunicação nas 'relações humanas' dentro da atividade policial."
+        },
+        {
+            "question": "Por que a verbalização é considerada um nível de uso da força em uma ação ou intervenção policial?",
+            "answerOptions": [
+                {
+                    "text": "Porque é a última opção antes do uso de armas letais.",
+                    "rationale": "Embora possa ser uma alternativa à força física, o texto não a posiciona como 'última opção' antes de armas letais, mas sim como algo que pode ser usado a qualquer tempo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque permite mudanças de comportamentos, ideias e sentimentos, facilitando a cooperação.",
+                    "rationale": "O texto explica claramente que a comunicação (verbalização) possibilita essas mudanças e facilita a cooperação, o que a torna um nível de uso da força.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Porque envolve gritos e ameaças para intimidar o indivíduo.",
+                    "rationale": "O texto não associa a verbalização a gritos e ameaças, mas sim a um meio de comunicação que busca mudanças de comportamento e cooperação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque é uma forma de demonstrar autoridade sem diálogo.",
+                    "rationale": "A verbalização, por sua natureza, envolve diálogo e não a ausência dele para demonstrar autoridade, mas sim para mediar e resolver situações.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Qual o efeito desejado da verbalização nas interações policiais?"
+        },
+        {
+            "question": "Qual das seguintes opções NÃO é um meio moderno de comunicação interpessoal mencionado no texto?",
+            "answerOptions": [
+                {
+                    "text": "SMS.",
+                    "rationale": "SMS é explicitamente mencionado como um meio moderno de comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "E-mails.",
+                    "rationale": "E-mails são explicitamente mencionados como um meio moderno de comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefone fixo com discagem manual.",
+                    "rationale": "O texto lista meios 'decorrentes da tecnologia' como SMS, e-mails, fotos, vídeos e mensagens instantâneas, não se referindo a tecnologias mais antigas como o telefone fixo com discagem manual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mensagens instantâneas de aplicativos.",
+                    "rationale": "Mensagens instantâneas de aplicativos são explicitamente mencionadas como um meio moderno de comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos exemplos específicos de 'meios modernos' citados."
+        },
+        {
+            "question": "A que se refere a 'complexidade das relações humanas' no contexto da atividade policial militar, segundo o texto?",
+            "answerOptions": [
+                {
+                    "text": "Apenas à interação entre policiais de diferentes patentes.",
+                    "rationale": "A complexidade das relações humanas na atividade policial vai além das hierarquias internas, envolvendo as interações com o público em geral.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Às diversas interações e dinâmicas que os policiais enfrentam com os cidadãos e em ocorrências.",
+                    "rationale": "O texto afirma que a essência da atividade policial militar 'envolve a complexidade das relações humanas', referindo-se às interações em geral enfrentadas pelos policiais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "À burocracia do sistema jurídico.",
+                    "rationale": "A burocracia é uma complexidade, mas o texto se refere especificamente às 'relações humanas' na essência da atividade policial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aos desafios logísticos de uma operação policial.",
+                    "rationale": "Desafios logísticos são parte da operação, mas 'complexidade das relações humanas' se refere à interação interpessoal, não à logística.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Qual o foco principal da atividade policial militar em relação às pessoas?"
+        },
+        {
+            "question": "Qual o principal benefício da comunicação para a atividade policial militar, conforme o texto?",
+            "answerOptions": [
+                {
+                    "text": "Aumentar a burocracia.",
+                    "rationale": "O texto não menciona o aumento da burocracia como um benefício da comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diminuir o número de ocorrências.",
+                    "rationale": "Embora a boa comunicação possa ajudar a prevenir algumas situações, o texto foca em como ela facilita a cooperação e o sucesso nas ocorrências, não diretamente na diminuição do número delas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Possibilitar mudanças de comportamentos, ideias, sentimentos e facilitar a cooperação.",
+                    "rationale": "O texto destaca que a comunicação tem o poder de impactar comportamentos, ideias e sentimentos, além de facilitar a cooperação.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Garantir o uso exclusivo da força letal.",
+                    "rationale": "A comunicação é apresentada como uma alternativa e um nível de força que busca a cooperação, e não o uso exclusivo da força letal.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que a comunicação permite que aconteça entre as pessoas."
+        },
+        {
+            "question": "O que o texto sugere sobre a 'habilidade na comunicação interpessoal' para os policiais militares?",
+            "answerOptions": [
+                {
+                    "text": "É uma característica inata e não pode ser desenvolvida.",
+                    "rationale": "O texto implica que é uma 'habilidade', o que sugere que pode ser desenvolvida e aprimorada, não que seja inata e imutável.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É indiscutivelmente uma ferramenta estratégica para o sucesso.",
+                    "rationale": "O texto afirma que a habilidade na comunicação interpessoal é 'indiscutivelmente ferramentas estratégicas para o sucesso em boa parte das ocorrências policiais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É menos importante que o treinamento físico.",
+                    "rationale": "O texto não compara a importância da comunicação com o treinamento físico, mas destaca a relevância estratégica da primeira.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É relevante apenas para policiais em cargos de liderança.",
+                    "rationale": "O texto atribui importância geral à comunicação para a atividade policial militar, não restringindo-a a cargos de liderança.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Qual a qualificação da comunicação interpessoal em termos de sua utilidade para a polícia?"
+        },
+        {
+            "question": "De acordo com o texto, qual é a base da comunicação interpessoal?",
+            "answerOptions": [
+                {
+                    "text": "A memorização de protocolos de comunicação.",
+                    "rationale": "Embora protocolos sejam importantes em alguns contextos, a base da comunicação interpessoal é a troca de mensagens, não apenas a memorização.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A capacidade de falar vários idiomas.",
+                    "rationale": "A fluência em idiomas é útil, mas a base da comunicação interpessoal é mais fundamental: a capacidade de transmitir e receber mensagens.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Passar e receber mensagens entre indivíduos.",
+                    "rationale": "O texto afirma que, 'basicamente, trata-se de passar e receber mensagens entre indivíduos'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O uso exclusivo de tecnologia avançada.",
+                    "rationale": "A comunicação interpessoal pode usar tecnologia, mas também métodos tradicionais como fala e mímica, não sendo exclusiva da tecnologia.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O que a comunicação interpessoal essencialmente envolve em termos de mensagens?"
+        },
+        {
+            "question": "O fato de a verbalização ser considerada um nível de uso da força indica que:",
+            "answerOptions": [
+                {
+                    "text": "É sempre a primeira e única forma de interação policial.",
+                    "rationale": "O texto diz que pode ser usada 'a qualquer tempo', não exclusivamente como primeira ou única forma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ela pode ter um impacto significativo no comportamento e no desfecho de uma situação.",
+                    "rationale": "Ao ser considerada um nível de força, a verbalização tem o poder de influenciar o comportamento e o desfecho, sendo uma ferramenta eficaz para tal.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É uma alternativa para evitar qualquer tipo de contato.",
+                    "rationale": "A verbalização é uma forma de contato, um tipo de interação, e não uma maneira de evitar todo e qualquer contato.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas policiais com treinamento especializado podem verbalizar.",
+                    "rationale": "O texto não impõe essa restrição, mas sim a apresenta como uma ferramenta geral na atividade policial.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no objetivo da verbalização quando classificada como 'uso da força'."
+        },
+        {
+            "question": "Qual é o papel do Policial Militar destacado no desempenho de suas funções durante o relacionamento com o público?",
+            "answerOptions": [
+                {
+                    "text": "Executante de ordens superiores.",
+                    "rationale": "Embora seja um executor de ordens, o texto enfatiza o papel específico do policial na interação com o público como mediador de conflitos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fiscalizador de trânsito.",
+                    "rationale": "A fiscalização de trânsito é uma das funções, mas o texto generaliza o relacionamento com o público e destaca a mediação de conflitos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mediador de conflitos.",
+                    "rationale": "O texto afirma que o profissional Policial Militar 'destacando-se aqui seu papel de mediador de conflitos'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Regulador de normas internas.",
+                    "rationale": "A regulação de normas internas foca no ambiente interno da corporação, enquanto o texto aborda o relacionamento com o público.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na função do policial que lida com desentendimentos entre pessoas."
+        },
+        {
+            "question": "Quem é o 'Emissor' no processo de comunicação?",
+            "answerOptions": [
+                {
+                    "text": "A pessoa que recebe a mensagem.",
+                    "rationale": "A pessoa que recebe a mensagem é o Receptor, não o Emissor.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A pessoa que produz e emite a mensagem, iniciando o ato comunicativo.",
+                    "rationale": "O texto define o Emissor como 'a pessoa que produz e emite a mensagem, iniciando o ato comunicativo'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O local onde a mensagem é transmitida.",
+                    "rationale": "O local de transmissão da mensagem é o Canal de Comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O conteúdo da informação transmitida.",
+                    "rationale": "O conteúdo da informação transmitida é a Mensagem.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense em quem 'envia' a informação."
+        },
+        {
+            "question": "O que representa a 'Mensagem' no processo de comunicação?",
+            "answerOptions": [
+                {
+                    "text": "O receptor da informação.",
+                    "rationale": "O receptor é quem recebe a mensagem, não a mensagem em si.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O canal pelo qual a informação é enviada.",
+                    "rationale": "O canal é o meio de transmissão, não o conteúdo da informação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O conjunto de informações transmitidas pelo emissor.",
+                    "rationale": "O texto define a Mensagem como 'o conjunto de informações transmitidas pelo emissor' e 'o conteúdo'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A intenção psicológica do emissor.",
+                    "rationale": "A intenção psicológica é um fator a ser observado, mas não a definição da Mensagem.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no 'conteúdo' da comunicação."
+        },
+        {
+            "question": "Qual é o principal objetivo da comunicação, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "Que o emissor consiga falar mais alto que o receptor.",
+                    "rationale": "O volume de voz é um fator, mas o objetivo principal está relacionado à compreensão, não à intensidade da voz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que o destinatário compreenda aquilo que o emissor deseja transmitir com a mensagem.",
+                    "rationale": "O texto afirma claramente: 'O objetivo da comunicação é que o destinatário compreenda aquilo que o emissor deseja transmitir com a mensagem'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que a mensagem seja complexa e detalhada.",
+                    "rationale": "O texto sugere simplicidade e adequação do detalhamento, não complexidade como objetivo principal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que o canal de comunicação seja o mais moderno possível.",
+                    "rationale": "A modernidade do canal não é o objetivo da comunicação, mas sim a compreensão da mensagem transmitida.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no resultado desejado da interação entre emissor e receptor."
+        },
+        {
+            "question": "Qual dos seguintes não é um fator a ser observado no processo comunicativo, segundo o texto?",
+            "answerOptions": [
+                {
+                    "text": "A cor da roupa do emissor.",
+                    "rationale": "A cor da roupa não é mencionada como um elemento da apresentação pessoal que afeta a comunicação no texto, embora a apresentação pessoal em si seja importante.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adequação da linguagem de acordo com a realidade do receptor.",
+                    "rationale": "A adequação da linguagem é explicitamente mencionada como um fator importante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Volume e tom de voz.",
+                    "rationale": "Volume e tom de voz são mencionados como fatores a serem observados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Expressão e movimentos corporais.",
+                    "rationale": "Expressão e movimentos corporais são elementos da comunicação não verbal a serem observados.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos elementos listados especificamente para a comunicação não verbal ou outros fatores gerais."
+        },
+        {
+            "question": "A 'simplicidade' na comunicação refere-se a quê?",
+            "answerOptions": [
+                {
+                    "text": "A utilização de jargões técnicos para demonstrar conhecimento.",
+                    "rationale": "A simplicidade busca uma linguagem de fácil compreensão, o que é o oposto do uso de jargões técnicos complexos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Falar o mínimo possível, sem detalhes.",
+                    "rationale": "A simplicidade implica ser prático e direto, mas sem omitir o que é útil, o que pode incluir um nível adequado de detalhamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A utilização de uma linguagem de fácil compreensão pelo destinatário, observando seu perfil e realidade.",
+                    "rationale": "O texto define a simplicidade como 'a utilização de uma linguagem de fácil compreensão pelo destinatário, onde se observa o perfil, a realidade do interlocutor'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A prioridade de comunicação escrita em vez da falada.",
+                    "rationale": "A simplicidade se aplica tanto à linguagem falada quanto à escrita, não priorizando uma sobre a outra.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do objetivo de tornar a mensagem acessível ao ouvinte."
+        },
+        {
+            "question": "Por que 'como falar' é tão relevante quanto 'o que falar' na comunicação?",
+            "answerOptions": [
+                {
+                    "text": "Porque a quantidade de palavras é mais importante que o conteúdo.",
+                    "rationale": "O texto enfatiza que o 'como falar' (a voz) é decisivo, o que não se relaciona com a quantidade de palavras, mas sim com a forma da entrega da mensagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque o tom de voz e o volume podem afetar o resultado comunicativo.",
+                    "rationale": "O texto afirma que 'A voz é outro recurso decisivo no resultado comunicativo' e que '“Como falar” é tão relevante quanto “o que falar”', implicando que aspectos como tom e volume são cruciais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Porque o que é falado não tem grande importância.",
+                    "rationale": "O texto diz que 'Como falar' é TÃO relevante quanto 'o que falar', o que significa que o conteúdo ainda é muito importante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque o objetivo é sempre impressionar o receptor com a eloquência.",
+                    "rationale": "O objetivo principal é a compreensão da mensagem, não necessariamente impressionar com eloquência, mas sim garantir a eficácia da comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos aspectos da 'voz' mencionados como recursos decisivos."
+        },
+        {
+            "question": "O que a 'adequação da linguagem' permite ao falante?",
+            "answerOptions": [
+                {
+                    "text": "Utilizar sempre a mesma forma de comunicação, independentemente do receptor.",
+                    "rationale": "A adequação da linguagem envolve a adaptação, não a manutenção da mesma forma de comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adaptar seu arsenal linguístico conforme o contexto social e situação do discurso.",
+                    "rationale": "O texto define a adequação da linguagem como um recurso que 'permite ao falante adaptar seu arsenal linguístico conforme o contexto social e situação do discurso'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sempre usar uma linguagem formal e técnica.",
+                    "rationale": "A adequação da linguagem pode envolver formalidade ou informalidade, dependendo do contexto, e não apenas o uso técnico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas comunicar-se por escrito para evitar mal-entendidos.",
+                    "rationale": "A adequação da linguagem se aplica a todas as formas de comunicação, não apenas à escrita.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na flexibilidade da linguagem de acordo com a situação."
+        },
+        {
+            "question": "Um exemplo de 'Canal de Comunicação' mencionado no texto é:",
+            "answerOptions": [
+                {
+                    "text": "O emissor.",
+                    "rationale": "O emissor é quem envia a mensagem, não o meio pelo qual ela é transmitida.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O conteúdo da mensagem.",
+                    "rationale": "O conteúdo é a mensagem em si, não o canal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um jornal.",
+                    "rationale": "O texto cita 'jornal, livro, revista, televisão, telefone' como exemplos de canais de comunicação.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A simplicidade da linguagem.",
+                    "rationale": "A simplicidade da linguagem é um fator para a compreensão da mensagem, não um canal de comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no 'meio' físico ou eletrônico por onde a mensagem viaja."
+        },
+        {
+            "question": "Qual é a relação entre a 'intenção psicológica do emissor' e o processo de comunicação?",
+            "answerOptions": [
+                {
+                    "text": "É o fator que determina se a mensagem será verbal ou não verbal.",
+                    "rationale": "A intenção psicológica influencia o objetivo da comunicação, mas não diretamente o formato verbal ou não verbal da mensagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É a motivação da comunicação, podendo ser objetiva, conceitual ou transformadora.",
+                    "rationale": "O texto afirma que 'Observa-se também a intenção psicológica do emissor, a motivação da comunicação, que pode ser, por exemplo, objetiva, conceitual ou transformadora'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É o principal elemento da comunicação não verbal.",
+                    "rationale": "A intenção psicológica é a motivação, não um elemento da comunicação não verbal, que inclui expressões, gestos, etc.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Define o volume e tom de voz a serem utilizados.",
+                    "rationale": "A intenção pode influenciar a forma como a voz é usada, mas a definição principal da intenção psicológica é a motivação geral da comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que 'motiva' o emissor a se comunicar."
+        },
+        {
+            "question": "Qual é a definição concisa de comunicação interpessoal, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "A troca de ideias entre máquinas.",
+                    "rationale": "A comunicação interpessoal refere-se à interação entre indivíduos, não entre máquinas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A transmissão de informações de um indivíduo para um grupo grande.",
+                    "rationale": "Embora possa envolver grupos, a definição concisa se foca na troca entre dois ou mais indivíduos, sem especificar o tamanho do grupo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A troca de informações entre dois ou mais indivíduos.",
+                    "rationale": "Esta opção reflete diretamente a definição apresentada no texto para comunicação interpessoal.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A comunicação interna dentro de uma organização.",
+                    "rationale": "Comunicação interna é um tipo específico, mas a definição geral de comunicação interpessoal abrange interações mais amplas do que apenas o ambiente organizacional.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no número mínimo de pessoas envolvidas na comunicação interpessoal."
+        },
+        {
+            "question": "Quais são alguns dos meios de passar e receber mensagens na comunicação interpessoal mencionados no texto?",
+            "answerOptions": [
+                {
+                    "text": "Apenas fala e escrita.",
+                    "rationale": "O texto menciona fala, escrita, mímica e meios modernos, o que torna esta opção incompleta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Notícias de jornal e rádio.",
+                    "rationale": "Embora sejam meios de comunicação, o texto foca nos modos de interação direta ou mediada por tecnologia entre indivíduos, como SMS e e-mails.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fala, escrita, mímica e meios modernos como SMS e e-mails.",
+                    "rationale": "Esta opção engloba todos os exemplos de meios de comunicação interpessoal citados no capítulo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sinais de fumaça e código morse.",
+                    "rationale": "Estes são meios de comunicação, mas não são os exemplos específicos dados no texto para comunicação interpessoal moderna.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere tanto os métodos tradicionais quanto os tecnológicos citados."
+        },
+        {
+            "question": "Qual a importância da comunicação interpessoal na atividade policial militar, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "É importante apenas para a comunicação interna da corporação.",
+                    "rationale": "O texto destaca a importância para as relações humanas e o sucesso em ocorrências, que vão além da comunicação puramente interna.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É uma ferramenta estratégica para o sucesso em boa parte das ocorrências policiais.",
+                    "rationale": "O texto afirma que a habilidade na comunicação interpessoal é uma ferramenta estratégica para o sucesso em boa parte das ocorrências policiais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não tem grande relevância, pois o foco é o uso da força física.",
+                    "rationale": "O texto contradiz esta afirmação, enfatizando a comunicação como uma ferramenta estratégica e até um nível de uso da força.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Serve apenas para registrar ocorrências.",
+                    "rationale": "Registrar ocorrências é uma das funções, mas a importância da comunicação interpessoal na atividade policial militar vai muito além, impactando o sucesso das interações e desfechos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no papel da comunicação nas 'relações humanas' dentro da atividade policial."
+        },
+        {
+            "question": "Por que a verbalização é considerada um nível de uso da força em uma ação ou intervenção policial?",
+            "answerOptions": [
+                {
+                    "text": "Porque é a última opção antes do uso de armas letais.",
+                    "rationale": "Embora possa ser uma alternativa à força física, o texto não a posiciona como 'última opção' antes de armas letais, mas sim como algo que pode ser usado a qualquer tempo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque permite mudanças de comportamentos, ideias e sentimentos, facilitando a cooperação.",
+                    "rationale": "O texto explica claramente que a comunicação (verbalização) possibilita essas mudanças e facilita a cooperação, o que a torna um nível de uso da força.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Porque envolve gritos e ameaças para intimidar o indivíduo.",
+                    "rationale": "O texto não associa a verbalização a gritos e ameaças, mas sim a um meio de comunicação que busca mudanças de comportamento e cooperação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque é uma forma de demonstrar autoridade sem diálogo.",
+                    "rationale": "A verbalização, por sua natureza, envolve diálogo e não a ausência dele para demonstrar autoridade, mas sim para mediar e resolver situações.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Qual o efeito desejado da verbalização nas interações policiais?"
+        },
+        {
+            "question": "Qual das seguintes opções NÃO é um meio moderno de comunicação interpessoal mencionado no texto?",
+            "answerOptions": [
+                {
+                    "text": "SMS.",
+                    "rationale": "SMS é explicitamente mencionado como um meio moderno de comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "E-mails.",
+                    "rationale": "E-mails são explicitamente mencionados como um meio moderno de comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefone fixo com discagem manual.",
+                    "rationale": "O texto lista meios 'decorrentes da tecnologia' como SMS, e-mails, fotos, vídeos e mensagens instantâneas, não se referindo a tecnologias mais antigas como o telefone fixo com discagem manual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mensagens instantâneas de aplicativos.",
+                    "rationale": "Mensagens instantâneas de aplicativos são explicitamente mencionadas como um meio moderno de comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos exemplos específicos de 'meios modernos' citados."
+        },
+        {
+            "question": "A que se refere a 'complexidade das relações humanas' no contexto da atividade policial militar, segundo o texto?",
+            "answerOptions": [
+                {
+                    "text": "Apenas à interação entre policiais de diferentes patentes.",
+                    "rationale": "A complexidade das relações humanas na atividade policial vai além das hierarquias internas, envolvendo as interações com o público em geral.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Às diversas interações e dinâmicas que os policiais enfrentam com os cidadãos e em ocorrências.",
+                    "rationale": "O texto afirma que a essência da atividade policial militar 'envolve a complexidade das relações humanas', referindo-se às interações em geral enfrentadas pelos policiais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "À burocracia do sistema jurídico.",
+                    "rationale": "A burocracia é uma complexidade, mas o texto se refere especificamente às 'relações humanas' na essência da atividade policial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aos desafios logísticos de uma operação policial.",
+                    "rationale": "Desafios logísticos são parte da operação, mas 'complexidade das relações humanas' se refere à interação interpessoal, não à logística.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Qual o foco principal da atividade policial militar em relação às pessoas?"
+        },
+        {
+            "question": "Qual o principal benefício da comunicação para a atividade policial militar, conforme o texto?",
+            "answerOptions": [
+                {
+                    "text": "Aumentar a burocracia.",
+                    "rationale": "O texto não menciona o aumento da burocracia como um benefício da comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diminuir o número de ocorrências.",
+                    "rationale": "Embora a boa comunicação possa ajudar a prevenir algumas situações, o texto foca em como ela facilita a cooperação e o sucesso nas ocorrências, não diretamente na diminuição do número delas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Possibilitar mudanças de comportamentos, ideias, sentimentos e facilitar a cooperação.",
+                    "rationale": "O texto destaca que a comunicação tem o poder de impactar comportamentos, ideias e sentimentos, além de facilitar a cooperação.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Garantir o uso exclusivo da força letal.",
+                    "rationale": "A comunicação é apresentada como uma alternativa e um nível de força que busca a cooperação, e não o uso exclusivo da força letal.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que a comunicação permite que aconteça entre as pessoas."
+        },
+        {
+            "question": "O que o texto sugere sobre a 'habilidade na comunicação interpessoal' para os policiais militares?",
+            "answerOptions": [
+                {
+                    "text": "É uma característica inata e não pode ser desenvolvida.",
+                    "rationale": "O texto implica que é uma 'habilidade', o que sugere que pode ser desenvolvida e aprimorada, não que seja inata e imutável.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É indiscutivelmente uma ferramenta estratégica para o sucesso.",
+                    "rationale": "O texto afirma que a habilidade na comunicação interpessoal é 'indiscutivelmente ferramentas estratégicas para o sucesso em boa parte das ocorrências policiais'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É menos importante que o treinamento físico.",
+                    "rationale": "O texto não compara a importância da comunicação com o treinamento físico, mas destaca a relevância estratégica da primeira.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É relevante apenas para policiais em cargos de liderança.",
+                    "rationale": "O texto atribui importância geral à comunicação para a atividade policial militar, não restringindo-a a cargos de liderança.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Qual a qualificação da comunicação interpessoal em termos de sua utilidade para a polícia?"
+        },
+        {
+            "question": "De acordo com o texto, qual é a base da comunicação interpessoal?",
+            "answerOptions": [
+                {
+                    "text": "A memorização de protocolos de comunicação.",
+                    "rationale": "Embora protocolos sejam importantes em alguns contextos, a base da comunicação interpessoal é a troca de mensagens, não apenas a memorização.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A capacidade de falar vários idiomas.",
+                    "rationale": "A fluência em idiomas é útil, mas a base da comunicação interpessoal é mais fundamental: a capacidade de transmitir e receber mensagens.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Passar e receber mensagens entre indivíduos.",
+                    "rationale": "O texto afirma que, 'basicamente, trata-se de passar e receber mensagens entre indivíduos'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O uso exclusivo de tecnologia avançada.",
+                    "rationale": "A comunicação interpessoal pode usar tecnologia, mas também métodos tradicionais como fala e mímica, não sendo exclusiva da tecnologia.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O que a comunicação interpessoal essencialmente envolve em termos de mensagens?"
+        },
+        {
+            "question": "O fato de a verbalização ser considerada um nível de uso da força indica que:",
+            "answerOptions": [
+                {
+                    "text": "É sempre a primeira e única forma de interação policial.",
+                    "rationale": "O texto diz que pode ser usada 'a qualquer tempo', não exclusivamente como primeira ou única forma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ela pode ter um impacto significativo no comportamento e no desfecho de uma situação.",
+                    "rationale": "Ao ser considerada um nível de força, a verbalização tem o poder de influenciar o comportamento e o desfecho, sendo uma ferramenta eficaz para tal.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É uma alternativa para evitar qualquer tipo de contato.",
+                    "rationale": "A verbalização é uma forma de contato, um tipo de interação, e não uma maneira de evitar todo e qualquer contato.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas policiais com treinamento especializado podem verbalizar.",
+                    "rationale": "O texto não impõe essa restrição, mas sim a apresenta como uma ferramenta geral na atividade policial.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no objetivo da verbalização quando classificada como 'uso da força'."
+        },
+        {
+            "question": "Qual é o papel do Policial Militar destacado no desempenho de suas funções durante o relacionamento com o público?",
+            "answerOptions": [
+                {
+                    "text": "Executante de ordens superiores.",
+                    "rationale": "Embora seja um executor de ordens, o texto enfatiza o papel específico do policial na interação com o público como mediador de conflitos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fiscalizador de trânsito.",
+                    "rationale": "A fiscalização de trânsito é uma das funções, mas o texto generaliza o relacionamento com o público e destaca a mediação de conflitos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mediador de conflitos.",
+                    "rationale": "O texto afirma que o profissional Policial Militar 'destacando-se aqui seu papel de mediador de conflitos'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Regulador de normas internas.",
+                    "rationale": "A regulação de normas internas foca no ambiente interno da corporação, enquanto o texto aborda o relacionamento com o público.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na função do policial que lida com desentendimentos entre pessoas."
+        },
+        {
+            "question": "Quem é o 'Emissor' no processo de comunicação?",
+            "answerOptions": [
+                {
+                    "text": "A pessoa que recebe a mensagem.",
+                    "rationale": "A pessoa que recebe a mensagem é o Receptor, não o Emissor.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A pessoa que produz e emite a mensagem, iniciando o ato comunicativo.",
+                    "rationale": "O texto define o Emissor como 'a pessoa que produz e emite a mensagem, iniciando o ato comunicativo'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O local onde a mensagem é transmitida.",
+                    "rationale": "O local de transmissão da mensagem é o Canal de Comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O conteúdo da informação transmitida.",
+                    "rationale": "O conteúdo da informação transmitida é a Mensagem.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense em quem 'envia' a informação."
+        },
+        {
+            "question": "O que representa a 'Mensagem' no processo de comunicação?",
+            "answerOptions": [
+                {
+                    "text": "O receptor da informação.",
+                    "rationale": "O receptor é quem recebe a mensagem, não a mensagem em si.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O canal pelo qual a informação é enviada.",
+                    "rationale": "O canal é o meio de transmissão, não o conteúdo da informação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O conjunto de informações transmitidas pelo emissor.",
+                    "rationale": "O texto define a Mensagem como 'o conjunto de informações transmitidas pelo emissor' e 'o conteúdo'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A intenção psicológica do emissor.",
+                    "rationale": "A intenção psicológica é um fator a ser observado, mas não a definição da Mensagem.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no 'conteúdo' da comunicação."
+        },
+        {
+            "question": "Qual é o principal objetivo da comunicação, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "Que o emissor consiga falar mais alto que o receptor.",
+                    "rationale": "O volume de voz é um fator, mas o objetivo principal está relacionado à compreensão, não à intensidade da voz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que o destinatário compreenda aquilo que o emissor deseja transmitir com a mensagem.",
+                    "rationale": "O texto afirma claramente: 'O objetivo da comunicação é que o destinatário compreenda aquilo que o emissor deseja transmitir com a mensagem'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Que a mensagem seja complexa e detalhada.",
+                    "rationale": "O texto sugere simplicidade e adequação do detalhamento, não complexidade como objetivo principal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Que o canal de comunicação seja o mais moderno possível.",
+                    "rationale": "A modernidade do canal não é o objetivo da comunicação, mas sim a compreensão da mensagem transmitida.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no resultado desejado da interação entre emissor e receptor."
+        },
+        {
+            "question": "Qual dos seguintes não é um fator a ser observado no processo comunicativo, segundo o texto?",
+            "answerOptions": [
+                {
+                    "text": "A cor da roupa do emissor.",
+                    "rationale": "A cor da roupa não é mencionada como um elemento da apresentação pessoal que afeta a comunicação no texto, embora a apresentação pessoal em si seja importante.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adequação da linguagem de acordo com a realidade do receptor.",
+                    "rationale": "A adequação da linguagem é explicitamente mencionada como um fator importante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Volume e tom de voz.",
+                    "rationale": "Volume e tom de voz são mencionados como fatores a serem observados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Expressão e movimentos corporais.",
+                    "rationale": "Expressão e movimentos corporais são elementos da comunicação não verbal a serem observados.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos elementos listados especificamente para a comunicação não verbal ou outros fatores gerais."
+        },
+        {
+            "question": "A 'simplicidade' na comunicação refere-se a quê?",
+            "answerOptions": [
+                {
+                    "text": "A utilização de jargões técnicos para demonstrar conhecimento.",
+                    "rationale": "A simplicidade busca uma linguagem de fácil compreensão, o que é o oposto do uso de jargões técnicos complexos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Falar o mínimo possível, sem detalhes.",
+                    "rationale": "A simplicidade implica ser prático e direto, mas sem omitir o que é útil, o que pode incluir um nível adequado de detalhamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A utilização de uma linguagem de fácil compreensão pelo destinatário, observando seu perfil e realidade.",
+                    "rationale": "O texto define a simplicidade como 'a utilização de uma linguagem de fácil compreensão pelo destinatário, onde se observa o perfil, a realidade do interlocutor'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A prioridade de comunicação escrita em vez da falada.",
+                    "rationale": "A simplicidade se aplica tanto à linguagem falada quanto à escrita, não priorizando uma sobre a outra.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do objetivo de tornar a mensagem acessível ao ouvinte."
+        },
+        {
+            "question": "Por que 'como falar' é tão relevante quanto 'o que falar' na comunicação?",
+            "answerOptions": [
+                {
+                    "text": "Porque a quantidade de palavras é mais importante que o conteúdo.",
+                    "rationale": "O texto enfatiza que o 'como falar' (a voz) é decisivo, o que não se relaciona com a quantidade de palavras, mas sim com a forma da entrega da mensagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque o tom de voz e o volume podem afetar o resultado comunicativo.",
+                    "rationale": "O texto afirma que 'A voz é outro recurso decisivo no resultado comunicativo' e que '“Como falar” é tão relevante quanto “o que falar”', implicando que aspectos como tom e volume são cruciais.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Porque o que é falado não tem grande importância.",
+                    "rationale": "O texto diz que 'Como falar' é TÃO relevante quanto 'o que falar', o que significa que o conteúdo ainda é muito importante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque o objetivo é sempre impressionar o receptor com a eloquência.",
+                    "rationale": "O objetivo principal é a compreensão da mensagem, não necessariamente impressionar com eloquência, mas sim garantir a eficácia da comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos aspectos da 'voz' mencionados como recursos decisivos."
+        },
+        {
+            "question": "O que a 'adequação da linguagem' permite ao falante?",
+            "answerOptions": [
+                {
+                    "text": "Utilizar sempre a mesma forma de comunicação, independentemente do receptor.",
+                    "rationale": "A adequação da linguagem envolve a adaptação, não a manutenção da mesma forma de comunicação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adaptar seu arsenal linguístico conforme o contexto social e situação do discurso.",
+                    "rationale": "O texto define a adequação da linguagem como um recurso que 'permite ao falante adaptar seu arsenal linguístico conforme o contexto social e situação do discurso'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sempre usar uma linguagem formal e técnica.",
+                    "rationale": "A adequação da linguagem pode envolver formalidade ou informalidade, dependendo do contexto, e não apenas o uso técnico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas comunicar-se por escrito para evitar mal-entendidos.",
+                    "rationale": "A adequação da linguagem se aplica a todas as formas de comunicação, não apenas à escrita.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na flexibilidade da linguagem de acordo com a situação."
+        },
+        {
+            "question": "Um exemplo de 'Canal de Comunicação' mencionado no texto é:",
+            "answerOptions": [
+                {
+                    "text": "O emissor.",
+                    "rationale": "O emissor é quem envia a mensagem, não o meio pelo qual ela é transmitida.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O conteúdo da mensagem.",
+                    "rationale": "O conteúdo é a mensagem em si, não o canal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um jornal.",
+                    "rationale": "O texto cita 'jornal, livro, revista, televisão, telefone' como exemplos de canais de comunicação.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A simplicidade da linguagem.",
+                    "rationale": "A simplicidade da linguagem é um fator para a compreensão da mensagem, não um canal de comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no 'meio' físico ou eletrônico por onde a mensagem viaja."
+        },
+        {
+            "question": "Qual é a relação entre a 'intenção psicológica do emissor' e o processo de comunicação?",
+            "answerOptions": [
+                {
+                    "text": "É o fator que determina se a mensagem será verbal ou não verbal.",
+                    "rationale": "A intenção psicológica influencia o objetivo da comunicação, mas não diretamente o formato verbal ou não verbal da mensagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É a motivação da comunicação, podendo ser objetiva, conceitual ou transformadora.",
+                    "rationale": "O texto afirma que 'Observa-se também a intenção psicológica do emissor, a motivação da comunicação, que pode ser, por exemplo, objetiva, conceitual ou transformadora'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É o principal elemento da comunicação não verbal.",
+                    "rationale": "A intenção psicológica é a motivação, não um elemento da comunicação não verbal, que inclui expressões, gestos, etc.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Define o volume e tom de voz a serem utilizados.",
+                    "rationale": "A intenção pode influenciar a forma como a voz é usada, mas a definição principal da intenção psicológica é a motivação geral da comunicação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no que 'motiva' o emissor a se comunicar."
+        },
+        {
+            "question": "Qual é a técnica mais comumente utilizada para atuar em ocorrências ou efetuar prisões, e qual o seu impacto quando realizada corretamente?",
+            "answerOptions": [
+                {
+                    "text": "O uso da força física, que garante a submissão imediata.",
+                    "rationale": "O texto foca na verbalização como técnica principal e afirma que ela minimiza resultados negativos, não o uso da força física.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A verbalização, que minimiza os resultados negativos durante uma abordagem policial.",
+                    "rationale": "O texto afirma que a verbalização é a técnica mais comum e que, realizada corretamente, 'minimiza os resultados durante uma abordagem policial'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A utilização de armas letais para controle da situação.",
+                    "rationale": "O texto promove a verbalização como forma de evitar o uso da força física ou letal, não como a técnica mais comum.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comandos complexos e detalhados para o suspeito.",
+                    "rationale": "O texto sugere comandos claros e curtos, e não foca na complexidade como a técnica mais comum para atuar.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na primeira técnica mencionada para atuação em ocorrências."
+        },
+        {
+            "question": "Ao proceder a abordagem verbal, como o policial deve tratar o suspeito e qual tipo de linguagem deve utilizar?",
+            "answerOptions": [
+                {
+                    "text": "Com rigor e utilizando linguagem vulgar para intimidar.",
+                    "rationale": "O texto desaconselha linguagem vulgar e ameaçadora, e sugere dignidade e respeito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Com dignidade e respeito, utilizando linguagem profissional.",
+                    "rationale": "O texto orienta: 'Trate-o com dignidade e respeito, utilizando linguagem profissional'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "De forma autoritária, sem se preocupar com o olhar do suspeito.",
+                    "rationale": "Embora a autoridade seja importante, o texto ressalta que o olhar do suspeito não é ofensa e que o tratamento deve ser digno.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "De modo informal para gerar empatia.",
+                    "rationale": "A linguagem deve ser profissional, o que nem sempre significa informalidade, e o foco é dignidade e respeito.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reflita sobre o tipo de conduta e vocabulário esperados de um profissional."
+        },
+        {
+            "question": "Qual é a reação esperada do policial ao proferir comandos como 'PARADO! POLÍCIA!' considerando a imprevisibilidade do suspeito?",
+            "answerOptions": [
+                {
+                    "text": "Esperar obediência imediata, pois a ordem é clara.",
+                    "rationale": "O texto explicitamente afirma que é difícil prever a reação e que o suspeito pode obedecer, correr ou atirar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Estar sempre preparado para tudo, pois o momento é tenso, crítico e cheio de riscos.",
+                    "rationale": "O texto conclui a seção sobre imprevisibilidade com a frase: 'AO ABORDAR VERBALMENTE UM SUSPEITO ESTEJA PREPARADO PARA TUDO'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ajustar o nível da voz de acordo com a reação do suspeito.",
+                    "rationale": "Embora o tom seja importante, a principal orientação é estar preparado para qualquer cenário, não apenas ajustar a voz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Recuar se o suspeito não obedecer imediatamente.",
+                    "rationale": "O texto não sugere recuo imediato, mas sim firmeza e insistência, mantendo o profissionalismo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na advertência final da seção sobre imprevisibilidade da reação do suspeito."
+        },
+        {
+            "question": "Qual a importância de o policial tomar a iniciativa na abordagem verbal?",
+            "answerOptions": [
+                {
+                    "text": "Garantir que o suspeito não tenha tempo para fugir.",
+                    "rationale": "Embora a fuga seja uma preocupação, a iniciativa verbal visa principalmente proteção psicológica e física e favorecer a solução da ocorrência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aquele que fala primeiro ganha importante proteção psicológica e, frequentemente, física, favorecendo a solução da ocorrência.",
+                    "rationale": "O texto afirma: 'Aquele que fala primeiro ganha importante proteção psicológica e, frequentemente, física, que poderá favorecer a solução da ocorrência'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Demonstrar superioridade e intimidação ao suspeito.",
+                    "rationale": "O foco é proteção e solução da ocorrência, não apenas intimidação, e a linguagem deve ser profissional, não ameaçadora.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Impedir que outros policiais verbalizem.",
+                    "rationale": "O texto menciona que 'apenas um dos policiais deve falar', mas a iniciativa do primeiro contato verbal é um benefício para o policial que a toma.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nos benefícios de ser o primeiro a se comunicar em uma abordagem."
+        },
+        {
+            "question": "Por que o uso de linguagem vulgar, 'chula' ou ameaçadora por parte do policial é desaconselhado?",
+            "answerOptions": [
+                {
+                    "text": "Porque pode gerar tédio no suspeito.",
+                    "rationale": "A linguagem vulgar não gera tédio, mas sim pode ser contraproducente, demonstrando falta de profissionalismo e agravando a situação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pode demonstrar falta de profissionalismo, desencadear uma reação negativa e angariar testemunhas contra o policial.",
+                    "rationale": "O texto lista esses como os principais motivos para evitar tal linguagem, incluindo 'falta de profissionalismo', 'desencadear uma reação' e 'angariar antipatizantes (testemunhas)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Porque atrasa o processo de identificação do suspeito.",
+                    "rationale": "O texto não relaciona diretamente a linguagem vulgar ao atraso na identificação, mas sim a problemas de profissionalismo e agravamento da situação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Porque não permite que o policial seja firme.",
+                    "rationale": "O texto ressalta a importância de ser firme, mas distingue firmeza de vulgaridade ou ameaça.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas consequências negativas da linguagem inadequada para a imagem do policial e para o andamento da ocorrência."
+        },
+        {
+            "question": "Se o suspeito não acatar os comandos imediatamente, qual deve ser a postura do policial?",
+            "answerOptions": [
+                {
+                    "text": "Desistir da verbalização e partir imediatamente para o uso da força física.",
+                    "rationale": "O texto orienta a insistir com firmeza e procurar o diálogo, resistindo à tentação de 'bate boca', antes de escalar para o uso da força.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Repetir os comandos, insistir com firmeza, manter o profissionalismo e não se expor a riscos, evitando discutir.",
+                    "rationale": "O texto é claro: 'repita os comandos, insista com firmeza, procure não ficar nervoso caso não seja acatado de imediato. Continue insistindo, mantenha seu profissionalismo e não se exponha a riscos. Procure o diálogo, contudo evite discutir, não entre em “bate boca”'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Aumentar o tone de voz até o suspeito obedecer.",
+                    "rationale": "Embora firmeza seja importante, o texto não sugere apenas aumentar o tom, mas sim manter o profissionalismo e o diálogo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Permitir que o suspeito fale o que quiser sem intervenção.",
+                    "rationale": "O texto diz 'Deixe que ele fale e após, mantenha-se calmo, insistindo em seus comandos', indicando que há um momento para ouvir, mas sem abrir mão dos comandos firmes.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na persistência, controle emocional e na busca por uma solução pacífica."
+        },
+        {
+            "question": "Qual é um dos principais objetivos ao realizar a abordagem verbal, além do controle do suspeito?",
+            "answerOptions": [
+                {
+                    "text": "Aumentar a tensão da ocorrência.",
+                    "rationale": "O objetivo é o oposto: reduzir a necessidade de uso da força.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Demonstrar a superioridade hierárquica do policial.",
+                    "rationale": "Embora o policial tenha autoridade, o objetivo principal da abordagem verbal é a redução da força e o controle, não a demonstração de superioridade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A redução do uso da força.",
+                    "rationale": "O texto afirma explicitamente que 'O que se busca, ao realizar a abordagem verbal, é a redução do uso da força e o controle do suspeito'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Obter informações confidenciais do suspeito.",
+                    "rationale": "O objetivo imediato da abordagem verbal é o controle da situação e a redução da força, não a coleta de informações confidenciais nesse momento específico.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no nível de força que a verbalização visa evitar."
+        },
+        {
+            "question": "Para ganhar a confiança do suspeito e ter controle da situação, o que o policial deve demonstrar?",
+            "answerOptions": [
+                {
+                    "text": "Que é uma pessoa, e não somente um homem/mulher fardado.",
+                    "rationale": "O texto afirma: 'Mostre ao suspeito que você também é uma pessoa, e não somente um homem/ mulher fardado. É muito importante ganhar a confiança do suspeito para ter efetivamente o controle da situação.'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Intolerância a qualquer tipo de desobediência.",
+                    "rationale": "Embora a firmeza seja necessária, a intolerância total pode dificultar a obtenção de confiança.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Concordância com as ações do suspeito.",
+                    "rationale": "O texto ressalta que 'isso não significa concordar com o que ele está fazendo ou que ele esteja certo'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sua capacidade de uso da força letal.",
+                    "rationale": "O objetivo é ganhar confiança e controle sem o uso da força letal, que deve ser evitado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense em como o policial pode criar uma conexão mínima com o suspeito."
+        },
+        {
+            "question": "Qual das seguintes opções NÃO é uma possível razão para o suspeito resistir passivamente, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "O suspeito não escuta ou não compreende (por deficiência auditiva, álcool ou drogas).",
+                    "rationale": "Esta é uma das razões listadas no texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O suspeito não acata para desmerecer ou desafiar a ação policial.",
+                    "rationale": "Esta é uma das razões listadas no texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O suspeito deseja colaborar, mas não sabe como.",
+                    "rationale": "O texto lista razões para resistência ou para ganhar tempo, e não para desejo de colaboração sem saber como.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O suspeito tenta ganhar tempo para esconder algo ou fugir.",
+                    "rationale": "Esta é uma das razões listadas no texto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Releia as quatro razões listadas para a resistência passiva do suspeito."
+        },
+        {
+            "question": "Qual a orientação em relação ao número de policiais que devem verbalizar durante uma abordagem?",
+            "answerOptions": [
+                {
+                    "text": "Todos os policiais devem verbalizar ao mesmo tempo para mostrar força.",
+                    "rationale": "O texto orienta 'Em geral, apenas um dos policiais deve falar'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas um dos policiais deve falar.",
+                    "rationale": "O texto afirma: 'Em geral, apenas um dos policiais deve falar'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O policial de menor patente deve verbalizar primeiro.",
+                    "rationale": "O texto não faz distinção de patente para a verbalização, apenas sugere que um policial fale.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O suspeito deve ser encorajado a falar mais do que o policial.",
+                    "rationale": "Embora o policial deva permitir que o suspeito fale 'após', a prioridade é a emissão de comandos claros pelo policial.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na clareza e na evitação de confusão para o suspeito."
+        },
+        {
+            "question": "De acordo com o Art. 144 da Constituição Federal, qual a principal função das Polícias Militares?",
+            "answerOptions": [
+                {
+                    "text": "Exercer, com exclusividade, as funções de polícia judiciária da União.",
+                    "rationale": "Esta é a competência da Polícia Federal, conforme o § 1º, IV, do Art. 144.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Patrulhamento ostensivo das rodovias federais.",
+                    "rationale": "Esta é a competência da Polícia Rodoviária Federal, conforme o § 2º do Art. 144.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Polícia ostensiva e preservação da ordem pública.",
+                    "rationale": "O § 5º do Art. 144 estabelece que 'Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Segurança dos estabelecimentos penais.",
+                    "rationale": "Esta é a competência das polícias penais, conforme o § 5º-A do Art. 144.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte o parágrafo 5º do Art. 144 da Constituição Federal."
+        },
+        {
+            "question": "O que significa o termo 'Polícia Ostensiva' para as Polícias Militares, conforme o texto?",
+            "answerOptions": [
+                {
+                    "text": "Refere-se apenas à fiscalização de trânsito em áreas urbanas.",
+                    "rationale": "O conceito de Polícia Ostensiva é mais amplo e não se restringe à fiscalização de trânsito nem apenas a áreas urbanas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Instituição policial com agente identificado pela farda, equipamento ou viatura, com poder de polícia amplo e competência residual.",
+                    "rationale": "O texto define a Polícia Ostensiva como uma instituição policial cujo agente é identificado pela farda/equipamento/viatura, possui poder de polícia amplo e competência residual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Somente a apuração de infrações penais, exceto as militares.",
+                    "rationale": "Esta é a função das Polícias Civis, conforme o § 4º do Art. 144.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Exclusividade no patrulhamento de ferrovias federais.",
+                    "rationale": "Esta é a competência da Polícia Ferroviária Federal, conforme o § 3º do Art. 144.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Busque a definição de 'Polícia Ostensiva' e suas características no texto."
+        },
+        {
+            "question": "Qual a diferença fundamental entre 'Abordagem Policial' e 'Busca Pessoal', de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "Abordagem Policial precisa de fundada suspeita, enquanto Busca Pessoal não.",
+                    "rationale": "O texto afirma o oposto: Busca Pessoal precisa de fundada suspeita, e a Abordagem Policial não necessariamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Abordagem Policial é a aproximação e conversa, não necessitando de fundada suspeita, enquanto Busca Pessoal é sobre o corpo do indivíduo e precisa de fundada suspeita.",
+                    "rationale": "O texto explicita essa distinção: 'A Abordagem Policial não precisa de fundada suspeita e trata-se de aproximação e conversa policial/Busca Pessoal é aquela realizada sobre o corpo do indivíduo e precisa de fundada suspeita'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Busca Pessoal é sempre realizada por detetores de metal, e Abordagem Policial é apenas verbal.",
+                    "rationale": "A busca pessoal pode ser manual ou ocular, e a abordagem pode envolver mais do que apenas conversas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não há diferença, os termos são sinônimos.",
+                    "rationale": "O texto claramente estabelece uma diferença entre os dois conceitos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O texto compara os requisitos de 'fundada suspeita' para cada um."
+        },
+        {
+            "question": "Quando é lícito o uso de algemas em um menor de idade, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "Sempre que houver desobediência aos comandos policiais.",
+                    "rationale": "A Súmula Vinculante nº 11, citada no texto, estabelece condições mais específicas do que apenas a desobediência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, com justificativa por escrito.",
+                    "rationale": "O texto remete à Súmula Vinculante nº 11 do STF, que define essas condições e a necessidade de justificativa escrita.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Quando o ECA (Estatuto da Criança e do Adolescente) permite expressamente.",
+                    "rationale": "O texto menciona que o ECA não fala especificamente sobre o uso de algemas, mas sim sobre o respeito à dignidade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em qualquer situação que o policial considerar necessário para garantir a segurança.",
+                    "rationale": "O uso de algemas é restrito a situações específicas e deve ser justificado, não sendo uma decisão arbitrária.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte a Súmula Vinculante nº 11 do STF mencionada no texto."
+        },
+        {
+            "question": "Qual a principal característica do 'Policiaamento Ostensivo', conforme o Decreto Federal nº 88.777/1983?",
+            "answerOptions": [
+                {
+                    "text": "É uma ação policial secreta, sem identificação dos agentes.",
+                    "rationale": "O conceito de policiamento ostensivo é o oposto, sendo perceptível e identificável.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ação policial em que o homem ou fração de tropa são identificados de relance, objetivando a manutenção da ordem pública.",
+                    "rationale": "O texto cita diretamente o Decreto Federal nº 88.777/1983: 'Policiamento Ostensivo - Ação policial, exclusiva das Policias Militares em cujo emprego o homem ou a fração de tropa engajados sejam identificados de relance, quer pela farda quer pelo equipamento, ou viatura, objetivando a manutenção da ordem pública.'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Consiste apenas em atividades móveis de fiscalização e rondas de viaturas.",
+                    "rationale": "Esta descrição refere-se ao 'Patrulhamento Ostensivo', que é uma das formas de exercer o policiamento ostensivo, mas não a sua definição mais ampla.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas a apuração de infrações penais e a polícia judiciária.",
+                    "rationale": "Essas são funções da Polícia Civil, não a principal característica do Policiamento Ostensivo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a definição de Policiamento Ostensivo no Decreto Federal mencionado."
+        },
+        {
+            "question": "O que a Constituição Federal (Art. 5º, XI) estabelece sobre a inviolabilidade do domicílio e quais são as exceções para penetração sem consentimento do morador?",
+            "answerOptions": [
+                {
+                    "text": "A casa é inviolável em qualquer situação, sem exceções.",
+                    "rationale": "O Art. 5º, XI, prevê exceções explícitas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A casa é asilo inviolável, mas pode-se penetrar em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+                    "rationale": "O texto reproduz exatamente o Art. 5º, XI da CF/88.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A casa é inviolável, exceto para buscas e apreensões noturnas com determinação judicial.",
+                    "rationale": "A determinação judicial para penetrar na casa é apenas 'durante o dia'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A casa só pode ser penetrada com a presença de um advogado.",
+                    "rationale": "O texto não impõe a presença de advogado como condição para as exceções previstas.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Releia o Art. 5º, XI, da CF/88, conforme citado no material."
+        },
+        {
+            "question": "Em caso de crime cometido por um diplomata, qual das seguintes ações NÃO é uma etapa recomendada para o policial militar, de acordo com o texto?",
+            "answerOptions": [
+                {
+                    "text": "Cessar a agressão se houver.",
+                    "rationale": "Esta é a primeira ação recomendada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prender o diplomata imediatamente e conduzi-lo coercitivamente à delegacia.",
+                    "rationale": "O texto afirma que a pessoa do agente diplomático é inviolável e não pode ser objeto de detenção ou prisão, e que ele pode se recusar a ir à delegacia 'sem nenhuma possibilidade de conduzi-lo coercitivamente'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reunir provas.",
+                    "rationale": "Esta é uma ação recomendada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Informar ao 5º BPM sobre a ocorrência para comunicação ao Itamaraty.",
+                    "rationale": "Esta é uma ação recomendada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Preste atenção à inviolabilidade do agente diplomático e à possibilidade de condução coercitiva."
+        },
+        {
+            "question": "Qual a diferença entre 'fundada suspeita' e 'fundada razão' para a ação policial?",
+            "answerOptions": [
+                {
+                    "text": "Não há diferença, são termos sinônimos utilizados de forma intercambiável.",
+                    "rationale": "O texto estabelece uma diferença clara entre os dois conceitos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fundada suspeita é para ações mais invasivas como buscas e apreensões, e fundada razão é para abordagens mais leves.",
+                    "rationale": "É o oposto: fundada suspeita justifica abordagens, enquanto fundada razão é para ações mais invasivas como buscas e apreensões.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fundada razão é um nível mais elevado de justificativa, baseada em evidências mais robustas, necessária para ações mais invasivas, enquanto fundada suspeita justifica abordagens ou verificações.",
+                    "rationale": "O texto explica que 'A fundada razão é um nível mais elevado de justificativa em comparação com a fundada suspeita. Refere-se a uma base sólida e mais robusta de evidências ou motivos que justificam ações mais intrusivas ou sérias. A fundada suspeita pode justificar ações como abordagens ou verificações, enquanto a fundada razão é necessária para ações mais invasivas, como buscas e apreensões.'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ambas dependem apenas do entendimento subjetivo do policial militar, sem elementos concretos.",
+                    "rationale": "O texto afirma que a fundada suspeita e fundada razão devem ter 'elementos concretos/objetivos'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Considere qual termo justifica ações mais 'intrusivas' ou 'invasivas'."
+        },
+        {
+            "question": "A Polícia Militar pode realizar policiamento ostensivo em Universidades Federais? Por quê?",
+            "answerOptions": [
+                {
+                    "text": "Não, pois universidades federais são de competência exclusiva da Polícia Federal.",
+                    "rationale": "O texto afirma que a PM pode atuar em universidades federais, pois a CF não restringe essa possibilidade e o poder de polícia não conhece limitação territorial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sim, pois a Constituição Federal não restringe essa possibilidade, e o poder de polícia não conhece limitação territorial dentro da circunscrição do Estado.",
+                    "rationale": "O texto explica que 'A Polícia Militar é a responsável pela realização do policiamento ostensivo e preservação da ordem pública dentro dos campus das Universidades Federais, sobretudo pelo fato de a Constituição Federal não restringir essa possibilidade, e o poder de polícia não conhecer limitação territorial, ainda mais dentro da circunscrição do Estado em que a Polícia Militar atua.'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sim, mas apenas em casos de flagrante delito e com autorização do reitor da universidade.",
+                    "rationale": "A atuação da PM não depende de autorização do reitor para policiamento ostensivo, e não se restringe apenas a flagrantes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não, pois a PM só atua em instituições estaduais.",
+                    "rationale": "O texto contradiz essa afirmação, permitindo a atuação em universidades federais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na abrangência do poder de polícia da PM e nas restrições constitucionais."
+        },
+        {
+            "question": "Qual das características abaixo NÃO pertence ao Poder de Polícia, conforme o Código Tributário Nacional (Lei 5.172/66) citado?",
+            "answerOptions": [
+                {
+                    "text": "Discricionariedade.",
+                    "rationale": "Discricionariedade é uma das características listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Auto Executoriedade.",
+                    "rationale": "Auto Executoriedade é uma das características listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Coercibilidade.",
+                    "rationale": "Coercibilidade é uma das características listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Subjetividade.",
+                    "rationale": "Subjetividade não é uma das características listadas para o Poder de Polícia. O texto enfatiza 'elementos concretos/objetivos' para fundada suspeita, o que contrasta com subjetividade.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Verifique as três características do Poder de Polícia listadas no texto."
+        }
+    ]
+}

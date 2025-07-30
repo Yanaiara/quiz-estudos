@@ -1,0 +1,544 @@
+{
+    "questions": [
+        {
+            "question": "Qual foi o ano em que Juscelino Kubitschek fez a promessa da Nova Capital?",
+            "answerOptions": [
+                {
+                    "text": "1956",
+                    "rationale": "1956 foi o ano de início da construção de Brasília.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1957",
+                    "rationale": "1957 foi o ano em que a NOVACAP criou a Divisão de Segurança Pública.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1955",
+                    "rationale": "O material indica que 1955 foi o ano em que Juscelino Kubitschek fez a promessa da Nova Capital.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1960",
+                    "rationale": "1960 foi o ano da inauguração de Brasília e da Lei 3.751.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do ano da promessa inicial de Juscelino Kubitschek.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual órgão criou a Divisão de Segurança Pública em 1957, durante a construção de Brasília?",
+            "answerOptions": [
+                {
+                    "text": "Governo de Goiás",
+                    "rationale": "Embora houvesse um impasse jurídico com Goiás, não foi este o órgão que criou a Divisão de Segurança Pública.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Presidência da República",
+                    "rationale": "A criação foi feita por uma empresa específica para a construção da capital.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "NOVACAP",
+                    "rationale": "A NOVACAP (Companhia Urbanizadora da Nova Capital) foi responsável pela criação da Divisão de Segurança Pública em 1957.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Departamento Federal de Segurança Pública (DFSP)",
+                    "rationale": "O DFSP viria a ter papel mais tarde com o Serviço de Polícia Metropolitana.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na empresa responsável pela construção e organização inicial de Brasília.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual foi o principal motivo para Israel Pinheiro propor a criação de uma força policial especial para Brasília?",
+            "answerOptions": [
+                {
+                    "text": "Apenas para controlar o uso de álcool na Cidade Livre.",
+                    "rationale": "O problema era mais abrangente do que apenas o uso de álcool.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aumentar a arrecadação de impostos na região.",
+                    "rationale": "A questão principal era a segurança e a ordem pública, não a arrecadação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um impasse jurídico entre o estado de Goiás e a nova capital sobre a necessidade de um aparato policial.",
+                    "rationale": "O impasse jurídico sobre quem deveria prover a segurança na nova capital em construção gerou a necessidade da criação de uma força especial.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para recrutar pessoas com habilidades atléticas para o policiamento.",
+                    "rationale": "O recrutamento foi uma consequência da criação da força, não o motivo da sua proposição.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do contexto político-jurídico da época em relação à segurança da nova capital.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Na primeira fase de recrutamento e seleção da Guarda Especial de Brasília (GEB), quais eram as principais características buscadas nos candidatos?",
+            "answerOptions": [
+                {
+                    "text": "Alto nível de escolaridade e experiência prévia em policiamento.",
+                    "rationale": "O texto menciona que a GEB foi criada às pressas e seus membros eram, em sua maioria, analfabetos ou semi-analfabetos e sem treinamento específico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Coragem, espírito aventureiro, preferencialmente homens mais altos (média de 1,70m) ou com serviço militar prévio, e solteiros.",
+                    "rationale": "Estas eram as características buscadas na primeira fase, dada a natureza improvisada da guarda e a necessidade de dedicação exclusiva.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Curso primário, certificado de reservista de primeira categoria e atestado de bons antecedentes.",
+                    "rationale": "Esses requisitos pertencem à segunda fase de recrutamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Habilidades em capoeira e futebol, independentemente da estatura.",
+                    "rationale": "Embora habilidades atléticas fossem valorizadas, a boa estatura também era um critério.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no caráter improvisado e nas necessidades iniciais da GEB.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "De acordo com a Lei Estadual nº 2.364 de 09 de dezembro de 1958, a Guarda Especial de Brasília (GEB) foi criada com qual característica em relação ao seu prazo de existência?",
+            "answerOptions": [
+                {
+                    "text": "Com prazo indeterminado, até que se tornasse a PMDF.",
+                    "rationale": "A lei previa um prazo fixo, não indeterminado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Com prazo fixo determinado para sua extinção, até a transferência do Distrito Federal.",
+                    "rationale": "O Art. 1º da Lei Estadual nº 2.364 de 1958 estabelecia que a GEB seria criada 'até que se efetive a transferência do Distrito Federal para o Planalto Goiano', indicando um prazo fixo para sua existência.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Com prazo fixo de 10 anos, independentemente da transferência.",
+                    "rationale": "O prazo estava vinculado à transferência do Distrito Federal, não a um período fixo de 10 anos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sem prazo definido, sujeita a avaliações periódicas.",
+                    "rationale": "Havia um prazo claramente definido na lei de sua criação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a Lei Estadual que criou a GEB e o que ela dizia sobre a duração da guarda.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual era o destino dos servidores da GEB após sua atuação até 1966?",
+            "answerOptions": [
+                {
+                    "text": "Eles seriam automaticamente incorporados à Polícia Militar do Distrito Federal (PMDF).",
+                    "rationale": "Não havia incorporação automática; eles deveriam escolher outro órgão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eles deveriam escolher outro órgão público para trabalhar, como PMDF, PCDF ou PF.",
+                    "rationale": "O material afirma que os servidores da GEB deveriam escolher outro órgão público para trabalhar após 1966, incluindo as opções de PMDF, PCDF ou PF.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eles seriam desligados do serviço público.",
+                    "rationale": "Não havia desligamento compulsório, mas sim a opção de realocação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eles seriam transferidos para o Estado da Guanabara.",
+                    "rationale": "A questão da Guanabara se refere à PMDF do Rio de Janeiro, não ao destino dos servidores da GEB.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense nas opções de carreira que foram dadas aos membros da GEB após o período de sua atuação.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual a lei que permitiu a transferência de integrantes do serviço público do Estado da Guanabara para o Governo Federal, conhecidos como 'LEI dos OPTANTES'?",
+            "answerOptions": [
+                {
+                    "text": "Decreto Lei nº 4.483 de 16 de novembro de 1964.",
+                    "rationale": "Este Decreto Lei restabeleceu a Polícia Militar do Distrito Federal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lei nº 4242 de 17 de julho de 1963.",
+                    "rationale": "Esta é a 'LEI dos OPTANTES' que permitiu a transferência de servidores da Guanabara para o Governo Federal, formando o contingente inicial da PMDF pós-inauguração.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Lei 3.751, de 13 de abril de 1960.",
+                    "rationale": "Esta lei previa o 'Serviço de Polícia Metropolitana'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Decreto nº 573 de 25 de janeiro de 1967.",
+                    "rationale": "Este Decreto era sobre a seleção e recrutamento de Oficiais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a lei específica que tratou da transferência de servidores da Guanabara.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Quando o primeiro contingente de policiais militares optantes chegou em Brasília e sob o comando de quem?",
+            "answerOptions": [
+                {
+                    "text": "19 de janeiro de 1966, sob o comando do Capitão Abenante de Mello e Souza.",
+                    "rationale": "O primeiro contingente de 1 oficial e 25 praças chegou em 19 de janeiro de 1966, mas o Capitão Abenante chegou com o contingente maior em 15 de fevereiro de 1966.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15 de fevereiro de 1966, sob o comando do Capitão Abenante de Mello e Souza.",
+                    "rationale": "Nesta data, 150 policiais militares, sob o comando do Capitão Abenante de Mello e Souza, chegaram a Brasília, oriundos da PMEG.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "19 de janeiro de 1966, sob o comando do Capitão Pedroso.",
+                    "rationale": "O Capitão Pedroso não é mencionado como comandante deste contingente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "25 de junho de 1990, sob o comando do Capitão Abenante de Mello e Souza.",
+                    "rationale": "Essa data se refere à transferência da sede do CFAP, muito posterior à chegada dos optantes.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique as datas e os nomes dos comandantes associados à chegada dos optantes.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual o nome do antigo galpão da Fundação Nacional do Bem Estar do Menor onde os optantes se instalaram inicialmente em Brasília?",
+            "answerOptions": [
+                {
+                    "text": "Quartel Pioneiro",
+                    "rationale": "Quartel Pioneiro foi o nome dado ao 1º Batalhão, não ao galpão inicial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Forte Apache",
+                    "rationale": "O antigo galpão foi denominado 'Forte Apache' pelos optantes que ali se instalaram.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Centro de Formação e Aperfeiçoamento (CFA)",
+                    "rationale": "O CFA foi criado posteriormente e em outra localização.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Batalhão de Polícia Militar do Distrito Federal",
+                    "rationale": "O Batalhão foi formado após a chegada de mais combatentes, não era o nome do galpão.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do apelido dado ao local de instalação inicial dos optantes.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "De acordo com a Constituição Federal de 1988, qual a competência da União em relação à PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Apenas legislar sobre as normas gerais de organização e efetivos.",
+                    "rationale": "A competência da União é mais abrangente do que apenas legislar sobre normas gerais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira.",
+                    "rationale": "O Art. 21, XIV, da CF/88 (com redação dada pela EC nº 104, de 2019) atribui expressamente à União a organização, manutenção e assistência financeira para as polícias do DF.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas garantir a segurança interna do Distrito Federal.",
+                    "rationale": "A segurança interna é uma atribuição mais geral, e a competência da União é específica sobre a organização e manutenção das forças.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Subordinar a PMDF diretamente ao Presidente da República.",
+                    "rationale": "A PMDF se subordina aos Governadores dos Estados e do Distrito Federal, conforme o § 6º do Art. 144 da CF/88.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte o Art. 21 da CF/88, que trata das competências da União.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual cor na simbologia da PMDF representa 'Lealdade, caridade, justiça e reputação'?",
+            "answerOptions": [
+                {
+                    "text": "Amarelo",
+                    "rationale": "O amarelo simboliza o ouro.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vermelho",
+                    "rationale": "O vermelho simboliza a vitória, a fortaleza e a ousadia.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Azul",
+                    "rationale": "O azul simboliza lealdade, caridade, justiça e reputação, conforme o material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verde",
+                    "rationale": "O verde não é uma das cores primárias mencionadas na simbologia apresentada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense na cor que tradicionalmente representa valores como lealdade e justiça.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "O que o modelo 'Roy de Maubeuge', simbolizado pelas pistolas cruzadas em Santor, representa historicamente para as polícias militares do Brasil?",
+            "answerOptions": [
+                {
+                    "text": "Apenas a capacidade de combate.",
+                    "rationale": "O símbolo vai além da capacidade de combate, representando virtudes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A força armada e as virtudes da humildade, modéstia, cordialidade e respeito na conduta castrense.",
+                    "rationale": "O modelo Roy de Maubeuge, com as pistolas cruzadas em Santor, simboliza a força armada e as virtudes mencionadas na conduta militar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A origem da Polícia Militar do Distrito Federal na Guarda Real de Polícia.",
+                    "rationale": "Essa é a simbologia da Esfera Armilar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A segurança e proteção exercida pelas polícias militares em todas as Unidades Federativas do Brasil.",
+                    "rationale": "Essa é a simbologia da Rosácea.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do significado completo associado às pistolas cruzadas.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual símbolo da PMDF é descrito como um 'Brasão circular circunstanciado externamente por doze frutos e doze folhas de louro' e representa a segurança e proteção das polícias militares em todas as Unidades Federativas do Brasil?",
+            "answerOptions": [
+                {
+                    "text": "Distintivo básico de Polícia Militar (pistolas cruzadas)",
+                    "rationale": "As pistolas cruzadas têm outra descrição e significado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rosácea",
+                    "rationale": "A Rosácea é o símbolo com a descrição heráldica de um brasão circular com folhas de louro, estrelas e cores específicas, representando a segurança em todas as UFs.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Brasão de Armas do DF",
+                    "rationale": "O Brasão de Armas do DF tem formato baseado nas colunas do Palácio da Alvorada e a Cruz de Brasília.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Esfera Armilar",
+                    "rationale": "A Esfera Armilar simboliza a epopeia marítima portuguesa e as origens da PMDF.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no símbolo que é comum a todas as Polícias Militares do Brasil e tem um formato circular com elementos naturais.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Quem foi o poeta que idealizou o Brasão de Armas do Distrito Federal?",
+            "answerOptions": [
+                {
+                    "text": "Oscar Niemeyer",
+                    "rationale": "Oscar Niemeyer foi o arquiteto que criou a arquitetura da capital, mas não idealizou o brasão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Boris Fausto",
+                    "rationale": "Boris Fausto é um historiador citado no texto, não o idealizador do brasão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Guilherme de Almeida",
+                    "rationale": "O Brasão de Armas do DF foi idealizado pelo poeta Guilherme de Almeida e instituído pelo Decreto nº 11, de 12 de setembro de 1960.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Capitão Eunack",
+                    "rationale": "O Capitão Eunack criou o Brasão da PMDF, não o Brasão de Armas do DF.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do nome do criador do Brasão do DF, que buscou formas modernas.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual símbolo é um emblema pessoal de D. Manuel I, simboliza a bravura e audácia da epopeia marítima portuguesa e é utilizado na PMDF como referência às suas origens?",
+            "answerOptions": [
+                {
+                    "text": "Brasão de Armas do DF",
+                    "rationale": "O Brasão de Armas do DF representa a capital brasileira.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rosácea",
+                    "rationale": "A Rosácea representa a segurança das PMs em todas as UFs.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Esfera Armilar",
+                    "rationale": "A Esfera Armilar é o emblema de D. Manuel I, simbolizando a epopeia marítima portuguesa e as origens da PMDF.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pistolas cruzadas em Santor",
+                    "rationale": "As pistolas cruzadas simbolizam a força armada e virtudes castrenses.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pense no símbolo que remete às grandes navegações e à história de Portugal.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Quem foi o criador do Brasão da PMDF, que ingressou na Polícia Militar em julho de 1958 e fez parte do contingente que chegou a Brasília em 1966?",
+            "answerOptions": [
+                {
+                    "text": "Guilherme de Almeida",
+                    "rationale": "Guilherme de Almeida idealizou o Brasão de Armas do DF.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Capitão Abenante de Mello e Souza",
+                    "rationale": "O Capitão Abenante comandou a chegada de um contingente de optantes, mas não criou o brasão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Capitão Eunack",
+                    "rationale": "O Capitão Eunack é creditado como o criador do Brasão da PMDF.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Boris Fausto",
+                    "rationale": "Boris Fausto é um historiador, não um militar criador de símbolos da PMDF.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do nome do Capitão responsável pela criação do brasão específico da PMDF.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual a data de criação da Polícia Militar do Distrito Federal, inscrita no Brasão da PMDF?",
+            "answerOptions": [
+                {
+                    "text": "1958",
+                    "rationale": "1958 foi o ano da Lei Estadual que criou a GEB.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1960",
+                    "rationale": "1960 foi o ano da inauguração de Brasília e da Lei do Serviço de Polícia Metropolitana.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1809",
+                    "rationale": "O Brasão da PMDF traz a data '1809', que se refere à criação da Guarda Real de Polícia por D. João VI, considerada a origem da PMDF.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1966",
+                    "rationale": "1966 foi o ano da chegada dos optantes e da instalação da PMDF pós-inauguração.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Verifique a data que aparece no Brasão da PMDF, que remete à sua origem mais remota.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Qual evento de destaque na história da PMDF ocorreu em 27 de novembro de 1986 e levou à formação do Patrulhamento Tático Móvel (PATAMO)?",
+            "answerOptions": [
+                {
+                    "text": "O Tirotaço",
+                    "rationale": "O Tirotaço ocorreu em 1990.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O Badernaço",
+                    "rationale": "O Badernaço, ocorrido em 27 de novembro de 1986, foi o evento que gerou a formação do PATAMO.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A Posse e Impeachment de Collor",
+                    "rationale": "Esses eventos ocorreram em 1992.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O Caso NOVACAP",
+                    "rationale": "O Caso NOVACAP ocorreu em 1999.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lembre-se do evento de grande repercussão que marcou a década de 80 e a criação de uma unidade tática.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Em que ano iniciaram as atividades do Colégio Militar Tiradentes?",
+            "answerOptions": [
+                {
+                    "text": "1999",
+                    "rationale": "1999 foi o ano do Caso NOVACAP.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2009",
+                    "rationale": "2009 foi o ano da edição da Lei 12.086.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2010",
+                    "rationale": "2010 foi o ano da criação da Escola de Formação de Praças (EsFP).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2012",
+                    "rationale": "As atividades do Colégio Militar Tiradentes iniciaram em 06 de agosto de 2012.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Procure a data de início das operações do Colégio Militar da PMDF.",
+            "subject": "historia_da_pmdf"
+        },
+        {
+            "question": "Quem foi a primeira mulher a ocupar o cargo de Comandante Geral da PMDF?",
+            "answerOptions": [
+                {
+                    "text": "2º TEN ATRÍCIA",
+                    "rationale": "A 2º TEN Atrícia é a coordenadora do curso, não a Comandante Geral.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "CEL SHEYLA",
+                    "rationale": "A CEL SHEYLA foi nomeada Comandante Geral da PMDF em janeiro de 2019, sendo a primeira mulher a ocupar o cargo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CEL ANDERSON CASTRO",
+                    "rationale": "O CEL ANDERSON CASTRO foi o 1º CMT-GERAL oriundo da APMB, mas é um homem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não há menção de uma mulher no cargo.",
+                    "rationale": "O material explicitamente menciona a CEL SHEYLA como a primeira mulher a ocupar o cargo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure o nome da Comandante Geral que fez história na PMDF.",
+            "subject": "historia_da_pmdf"
+        }
+    ]
+}

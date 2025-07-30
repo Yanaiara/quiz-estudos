@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "question": "De acordo com a Doutrina Nacional de Inteligência de Segurança Pública (DNISP), qual das seguintes opções NÃO é uma espécie de Inteligência de Segurança Pública (ISP) conceituada?",
+      "answerOptions": [
+        {
+          "text": "Inteligência Policial Militar",
+          "rationale": "Inteligência Policial Militar é explicitamente mencionada como uma espécie de ISP na DNISP.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência Bombeiro Militar",
+          "rationale": "Inteligência Bombeiro Militar é uma das espécies de ISP conceituadas pela DNISP.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência Fiscal Tributária",
+          "rationale": "O texto lista Inteligência Policial Judiciária, Inteligência Policial Militar, Inteligência Bombeiro Militar e Inteligência Policial Rodoviária, mas não Inteligência Fiscal Tributária.",
+          "isCorrect": true
+        },
+        {
+          "text": "Inteligência Policial Rodoviária",
+          "rationale": "Inteligência Policial Rodoviária é uma espécie de ISP conceituada pela DNISP.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Revise a lista de espécies de Inteligência de Segurança Pública mencionadas na introdução do documento.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual é a natureza fundamental da Inteligência Policial Militar, conforme a Política de Inteligência da PMDF (POLINT/PMDF)?",
+      "answerOptions": [
+        {
+          "text": "Uma atividade de caráter público, exercida por entidades civis e militares.",
+          "rationale": "A POLINT/PMDF a define como 'exclusivamente estatal', não abrangendo entidades civis de forma geral para essa atividade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uma atividade exclusivamente estatal, de natureza sigilosa e permanente, visando ao assessoramento do processo decisório.",
+          "rationale": "A Inteligência Policial Militar é descrita como uma atividade 'exclusivamente estatal, de natureza sigilosa que consiste no exercício permanente de ações especializadas destinadas à produção, difusão, salvaguarda e proteção de dados, conhecimentos e ativos da instituição, visando ao assessoramento do processo decisório'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uma função restrita à obtenção de dados indisponíveis para a coleta ordinária.",
+          "rationale": "Embora inclua a obtenção de dados indisponíveis, essa é apenas uma das funções, não a definição fundamental da atividade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um processo de análise de dados focado apenas na redução de vulnerabilidades internas.",
+          "rationale": "A atividade visa tanto a redução de vulnerabilidades quanto a neutralização de ameaças externas e a identificação de oportunidades, além de ter um escopo mais amplo que a mera análise.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nas características essenciais da Inteligência Policial Militar em sua definição mais abrangente, especialmente em relação ao Estado e seu propósito.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "O que caracteriza a Inteligência de Alerta, dentro da classificação por recorte temporal da produção de conhecimento?",
+      "answerOptions": [
+        {
+          "text": "Manter autoridades decisórias continuamente atualizadas sobre fatos em progresso.",
+          "rationale": "Essa é a descrição da Inteligência Corrente, não da Inteligência de Alerta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Assessorar continuamente o processo decisório sobre temas de interesse da ordem pública.",
+          "rationale": "Esta descrição corresponde à Inteligência Explanativa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oferecer cenários sobre o futuro para assessorar o direcionamento do processo decisório.",
+          "rationale": "Essa é a finalidade da Inteligência Prospectiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antecipar fatos, eventos, situações ou fenômenos que possam impactar a ordem pública, a fim de possibilitar tempo hábil para evitar ameaças ou mitigar seus efeitos.",
+          "rationale": "A Inteligência de Alerta visa 'antecipar fatos, eventos, situações ou fenômenos que possam impactar a ordem pública' para que os tomadores de decisão tenham tempo hábil para agir preventivamente ou mitigar os impactos.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Foque no objetivo principal da Inteligência de Alerta em relação ao tempo e à ação do decisor.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual é a principal atribuição da Contrainteligência Policial Militar?",
+      "answerOptions": [
+        {
+          "text": "Obtenção e análise de dados para produção de conhecimentos sobre oportunidades e ameaças à missão constitucional da PMDF.",
+          "rationale": "Essa é a definição da Inteligência Policial Militar, o outro ramo da atividade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prevenção e contraposição de ações adversas que ameacem a salvaguarda dos ativos institucionais, especialmente a proteção de dados e da imagem da PMDF.",
+          "rationale": "A Contrainteligência Policial Militar 'produz conhecimentos e desenvolve ações especializadas destinadas à prevenção e contraposição (detecção, avaliação, obstrução e neutralização) de ações adversas que constituam ameaças à salvaguarda dos ativos institucionais'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elaboração de cenários futuros e prognósticos para assessorar o direcionamento estratégico.",
+          "rationale": "Essa atribuição está mais alinhada à Inteligência Prospectiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apoio à execução de ações operacionais com foco em decisões imediatas ou de curto prazo.",
+          "rationale": "Esta é uma função da Inteligência Operacional.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se do ramo da inteligência focado na proteção contra ameaças e na salvaguarda dos recursos institucionais.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Segundo a classificação por propósito, qual tipo de Inteligência tem o objetivo de construir conjuntos de fundamentos e referências para compreensão e contextualização de temas, servindo como subsídio para outras análises?",
+      "answerOptions": [
+        {
+          "text": "Inteligência Estratégica",
+          "rationale": "A Inteligência Estratégica foca na compreensão de dinâmicas e variáveis para assessorar objetivos estratégicos, não na construção de fundamentos de base.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência Tática",
+          "rationale": "A Inteligência Tática está relacionada à implementação de políticas públicas em ações táticas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência Operacional",
+          "rationale": "A Inteligência Operacional apoia o emprego de recursos da PMDF em ações operacionais e decisões imediatas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência de Base",
+          "rationale": "A Inteligência de Base tem como propósito 'construir conjuntos de fundamentos e referências para compreensão e contextualização dos temas acompanhados, servindo como subsídio para outras análises'.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Pense no tipo de inteligência que estabelece os alicerces e o contexto para análises mais focadas.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual dos seguintes não é considerado um instrumento essencial da Inteligência Policial Militar, conforme listado na POLINT/PMDF?",
+      "answerOptions": [
+        {
+          "text": "Doutrina Nacional de Inteligência de Segurança Pública",
+          "rationale": "A Doutrina Nacional de Inteligência de Segurança Pública é um instrumento essencial listado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Comitês de Ética em Pesquisa",
+          "rationale": "Comitês de Ética em Pesquisa não são listados como instrumentos essenciais da Inteligência Policial Militar no texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Policiamento Orientado pela Inteligência",
+          "rationale": "O Policiamento Orientado pela Inteligência é explicitamente listado como um instrumento.",
+          "isCorrect": false
+        },
+        {
+          "text": "O SIPOM e as agências de Inteligência que o integram",
+          "rationale": "O SIPOM e suas agências são considerados instrumentos essenciais da Inteligência Policial Militar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Revise a lista de instrumentos essenciais da Inteligência Policial Militar mencionada na seção 3 do documento.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual pressuposto da Atividade de Inteligência Policial Militar é alicerçado em um conjunto sólido de valores profissionais e exige o emprego de meios sigilosos?",
+      "answerOptions": [
+        {
+          "text": "Atividade de Estado de caráter permanente",
+          "rationale": "Este pressuposto se refere à exclusividade e perenidade da atividade, não aos meios sigilosos e valores profissionais de forma tão direta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conduta ética",
+          "rationale": "A conduta ética se refere aos princípios orientadores do comportamento, mas não necessariamente ao emprego de meios sigilosos como característica intrínseca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Atividade especializada",
+          "rationale": "A Política Nacional de Inteligência 'assevera que a Inteligência é uma atividade especializada e tem o seu exercício alicerçado em um conjunto sólido de valores profissionais e em uma doutrina comum, bem como exige o emprego de meios sigilosos'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Interação entre as agências de inteligência",
+          "rationale": "Este pressuposto foca na cooperação entre agências, não na natureza especializada e sigilosa da atividade em si.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no pressuposto que enfatiza o uso de métodos e meios específicos e confidenciais.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Uma das subespécies da Inteligência Policial Militar no DF, o Serviço Velado, possui qual atribuição principal?",
+      "answerOptions": [
+        {
+          "text": "Produção exclusiva de Inteligência Estratégica e de Base.",
+          "rationale": "O Serviço Velado é essencialmente voltado para o assessoramento de Inteligência de Alerta, Corrente, Tática e Operacional, embora seus dados possam subsidiar outros tipos de inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Investigar crimes militares e transgressões disciplinares em Procedimentos Administrativos Disciplinares.",
+          "rationale": "Esta é a atribuição principal da Inteligência Policial Militar Judiciária (IPMJ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Obter e/ou validar dados em ambiente operacional, essencialmente para assessoramento de Inteligência de Alerta e Corrente e de Inteligência Tática e Operacional.",
+          "rationale": "O Serviço Velado é definido como uma fração das Agências de Inteligência com a atribuição de 'obter e/ou validar dados em ambiente operacional, essencialmente voltada para o assessoramento de Inteligência de Alerta e Corrente e de Inteligência Tática e Operacional'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Realizar a coordenação e o controle de todas as agências de inteligência do SIPOM.",
+          "rationale": "A coordenação e controle são pressupostos da atividade de inteligência em um nível mais amplo, não a atribuição do Serviço Velado em si.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Concentre-se na função do Serviço Velado em campo e nos tipos de inteligência que ele mais diretamente apoia.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual das seguintes ameaças é descrita como aquela que 'demanda integração entre as Agências do SIPOM e outros sistemas de inteligência, a fim de potencializar a identificação de redes criminais'?",
+      "answerOptions": [
+        {
+          "text": "Criminalidade violenta",
+          "rationale": "A criminalidade violenta exige atenção, mas a descrição de 'integração entre agências' para identificar 'redes criminais' é mais específica para outra ameaça.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crimes ambientais",
+          "rationale": "Crimes ambientais são importantes, mas o texto não os descreve com essa demanda específica por integração de redes criminais.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime organizado",
+          "rationale": "O texto afirma que o enfrentamento do 'crime organizado' 'demanda integração entre as Agências do SIPOM e outros sistemas de inteligência, a fim de potencializar a identificação de redes criminais'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ações contrárias ao Estado Democrático de Direito",
+          "rationale": "Essas ações são sérias, mas a descrição de integração para identificar 'redes criminais' é mais alinhada ao crime organizado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no tipo de criminalidade que opera em grande escala e exige colaboração entre diferentes órgãos de inteligência para ser combatida.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual é um dos objetivos principais da Política de Inteligência da PMDF (POLINT/PMDF)?",
+      "answerOptions": [
+        {
+          "text": "Atuar na repressão imediata de toda e qualquer criminalidade, independentemente da análise de inteligência prévia.",
+          "rationale": "O foco da POLINT é subsidiar o processo decisório e o planejamento, não apenas a repressão imediata sem análise.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conscientizar apenas o público externo acerca da importância da atividade de Inteligência Policial Militar.",
+          "rationale": "Um dos objetivos é 'conscientizar o público interno e externo', não apenas o externo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reduzir a necessidade de interação entre as agências de inteligência para otimizar recursos.",
+          "rationale": "As diretrizes e pressupostos enfatizam a interação e coordenação entre as agências.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acompanhar e avaliar conjunturas de interesse, detectando e neutralizando ameaças e identificando riscos e oportunidades para subsidiar o processo decisório.",
+          "rationale": "Este é um dos objetivos explícitos da POLINT/PMDF, visando a contribuição para a segurança do Estado e da sociedade através da produção de conhecimentos e assessoramento ao processo decisório.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Considere o papel da inteligência no apoio à tomada de decisões e à estratégia institucional da PMDF.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Além da função informacional, quais são outras funções importantes da Atividade de Inteligência no âmbito da PMDF?",
+      "answerOptions": [
+        {
+          "text": "Apenas o monitoramento de redes sociais e a coleta de notícias.",
+          "rationale": "A coleta de notícias e monitoramento de redes sociais são partes da obtenção de dados, mas não abrangem a totalidade das funções adicionais da Inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obtenção de dados indisponíveis, proteção de conhecimentos sensíveis e prevenção/neutralização de ações adversas.",
+          "rationale": "Além da produção de conhecimento, a Atividade de Inteligência deve agir para 'obtenção de dados indisponíveis, proteção de conhecimentos, informações e dados sensíveis e também das pessoas, áreas, instalações e meios que os guardem ou veiculem, bem como prevenção, detecção, identificação, avaliação, obstrução e neutralização de ações adversas'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Exclusivamente a fiscalização de eventos e manifestações públicas.",
+          "rationale": "A fiscalização de eventos é uma aplicação, mas não representa a totalidade das funções da Atividade de Inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apoio logístico e administrativo para as operações policiais.",
+          "rationale": "O apoio logístico e administrativo não é uma função central da Atividade de Inteligência, que foca na informação e proteção.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nas responsabilidades da Inteligência que vão além de simplesmente informar, focando na proteção e na proatividade.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual é a principal diferença de propósito entre a Inteligência Tática e a Inteligência Operacional?",
+      "answerOptions": [
+        {
+          "text": "Inteligência Tática foca em decisões de curto prazo, enquanto Operacional em planejamento estratégico.",
+          "rationale": "A Inteligência Tática apoia ações táticas de políticas públicas, e a Operacional apoia decisões imediatas ou de curto prazo no emprego de recursos, o oposto do que é afirmado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência Tática reúne dados para execução de ações táticas, e a Operacional oferece contextualização para o emprego de recursos da PMDF em ações operacionais e decisões imediatas.",
+          "rationale": "A Inteligência Tática tem o propósito de reunir dados para 'execução das ações táticas', enquanto a Inteligência Operacional visa a 'contextualização, tratar dados e/ou produzir conhecimentos voltados ao emprego de recursos da PMDF, em apoio à execução de ações operacionais', com foco em decisões imediatas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Inteligência Tática lida com crimes de menor potencial ofensivo, e a Operacional com crimes de alta complexidade.",
+          "rationale": "A distinção entre Inteligência Tática e Operacional está no nível de planejamento e execução, não na gravidade dos crimes.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência Tática é para uso interno da PMDF, e a Operacional é para compartilhamento com outras forças.",
+          "rationale": "Ambas as inteligências são para uso interno e podem ser compartilhadas conforme as necessidades de cooperação.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Considere o nível de decisão e a temporalidade de cada tipo de inteligência: um para 'ações' e outro para 'emprego de recursos' e 'decisões imediatas'.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "O que são os 'Sensores de Inteligência' no contexto da POLINT/PMDF?",
+      "answerOptions": [
+        {
+          "text": "Equipamentos tecnológicos utilizados para a coleta secreta de informações.",
+          "rationale": "Sensores de Inteligência são pessoas, policiais militares, e não equipamentos tecnológicos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Policiais militares que, em razão de suas funções, obtêm e compartilham dados e informações úteis com a Atividade de Inteligência.",
+          "rationale": "Sensores de Inteligência são definidos como 'aqueles policiais militares que, em razão de suas funções, obtêm dados e informações sobre fatos, eventos, situações ou fenômenos e, oportunamente, os compartilham com a Atividade de Inteligência'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Agências de Inteligência com atuação especializada em contrainteligência.",
+          "rationale": "As agências de inteligência são estruturas organizacionais do SIPOM, enquanto os sensores são indivíduos que contribuem com informações.",
+          "isCorrect": false
+        },
+        {
+          "text": "Unidades de elite responsáveis por operações de inteligência de alto risco.",
+          "rationale": "Embora a inteligência possa envolver operações de alto risco, 'Sensores de Inteligência' referem-se a todos os policiais militares que contribuem com informações.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no papel de cada policial militar na contribuição de informações para a inteligência, independentemente de ser um especialista em inteligência.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Um dos pressupostos da Atividade de Inteligência Policial Militar é o 'Sigilo'. Qual o principal objetivo desse sigilo?",
+      "answerOptions": [
+        {
+          "text": "Esconder as ações da polícia da população em geral.",
+          "rationale": "O sigilo visa a proteção da atividade, não a ocultação de todas as ações policiais da população.",
+          "isCorrect": false
+        },
+        {
+          "text": "Preservar os profissionais de inteligência no exercício de suas atividades e os órgãos a que estão vinculados.",
+          "rationale": "O sigilo da atividade de Inteligência Policial Militar 'visa a preservar os profissionais de inteligência no exercício de suas atividades e os órgãos a que estão vinculados'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Impedir o acesso de outras agências de segurança a informações confidenciais.",
+          "rationale": "A interação entre agências de inteligência é um pressuposto, indicando compartilhamento de informações, não impedimento total.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garantir que a inteligência atue de forma totalmente independente de qualquer controle externo.",
+          "rationale": "A atividade de inteligência opera sob amparo legal e constitucional, não de forma totalmente independente de controle.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Considere por que a natureza sigilosa é fundamental para a segurança e eficácia das operações de inteligência.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "A Inteligência Policial Militar Judiciária (IPMJ) tem como um de seus focos principais a prevenção, neutralização e repressão de quais tipos de crimes e infrações?",
+      "answerOptions": [
+        {
+          "text": "Apenas crimes contra a vida cometidos por civis.",
+          "rationale": "A IPMJ é específica para procedimentos administrativos disciplinares e crimes militares, não se restringindo a crimes contra a vida de civis.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crimes ambientais e crimes cibernéticos.",
+          "rationale": "Crimes ambientais e cibernéticos são ameaças gerais, mas a IPMJ tem um foco mais específico na esfera disciplinar e militar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crimes militares e transgressões disciplinares.",
+          "rationale": "A IPMJ é 'orientada para produção e salvaguarda de conhecimentos necessários para assessorar o processo decisório nos Procedimentos Administrativos Disciplinares e nas ações para prever, prevenir, neutralizar e reprimir crimes militares e transgressões disciplinares'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Contrabando e tráfico de drogas de âmbito transnacional.",
+          "rationale": "Esses são focos da inteligência em relação ao crime organizado, mas não o principal foco exclusivo da IPMJ.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no domínio de atuação específico da Inteligência Policial Militar Judiciária, especialmente em relação ao âmbito interno da instituição.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "O Policiamento Orientado pela Inteligência é baseado na obtenção, validação e/ou processamento de dados para qual finalidade principal?",
+      "answerOptions": [
+        {
+          "text": "Exclusivamente para a realização de operações sigilosas de contrainteligência.",
+          "rationale": "O policiamento orientado pela inteligência tem um escopo mais amplo, focado no planejamento e execução de atividades de polícia ostensiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Identificar origens, padrões, dinâmicas e desdobramentos de crimes, contravenções e incivilidades, subsidiando a tomada de decisão no planejamento e execução de políticas públicas e ações policiais.",
+          "rationale": "O Policiamento Orientado pela Inteligência é 'baseado na obtenção, validação e/ou processamento de dados capazes de identificar origens, padrões, dinâmicas e desdobramentos de crimes, contravenções, incivilidades e outras ações adversas... utilizados como insumos para a tomada de decisão no âmbito do planejamento, execução e avaliação de políticas públicas, bem como de operações e ações policiais'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Formular cenários futuros para assessoramento do direcionamento estratégico da Corporação.",
+          "rationale": "Formular cenários futuros é uma atribuição da Inteligência Prospectiva, não o foco principal do Policiamento Orientado pela Inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Determinar as necessidades de efetivo e equipamentos da PMDF anualmente.",
+          "rationale": "Embora a inteligência possa apoiar decisões sobre recursos, essa não é a definição principal do Policiamento Orientado pela Inteligência.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Considere como a inteligência impacta diretamente a forma como o policiamento ostensivo é planejado e executado.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "A Política de Inteligência da PMDF (POLINT/PMDF) foi elaborada com base em diversas normas. Qual das seguintes leis instituiu o Sistema Brasileiro de Inteligência (SISBIN) e criou a Agência Brasileira de Inteligência (ABIN)?",
+      "answerOptions": [
+        {
+          "text": "Lei n.º 14.751, de 12 de dezembro de 2023",
+          "rationale": "Esta lei institui a Lei Orgânica Nacional das Polícias Militares.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lei n.º 9.883, de 07 de dezembro de 1999",
+          "rationale": "A Lei n.º 9.883, de 07 de dezembro de 1999, é a norma que institui o Sistema Brasileiro de Inteligência (SISBIN) e cria a Agência Brasileira de Inteligência (ABIN).",
+          "isCorrect": true
+        },
+        {
+          "text": "Decreto Federal n.º 8.793, de 29 de junho de 2016",
+          "rationale": "Este decreto fixa a Política Nacional de Inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Decreto Federal n.º 10.777, de 24 de agosto de 2021",
+          "rationale": "Este decreto institui a Política Nacional de Inteligência de Segurança Pública.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Foque nas leis de âmbito federal que criaram as estruturas fundamentais de inteligência no Brasil.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual é a descrição da ameaça de 'Ações contrárias ao Estado Democrático de Direito' conforme a POLINT/PMDF?",
+      "answerOptions": [
+        {
+          "text": "Apenas atos de vandalismo em prédios públicos.",
+          "rationale": "Ações contrárias ao Estado Democrático de Direito têm um escopo muito mais amplo do que apenas atos de vandalismo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ações que atentem contra o pacto federativo, direitos e garantias fundamentais, dignidade da pessoa humana, cidadania e meio ambiente, além de outros atos que representem risco à integridade do Estado.",
+          "rationale": "São consideradas ações contrárias ao Estado Democrático de Direito aquelas que 'atentem contra o pacto federativo, a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, os direitos e as garantias fundamentais, a dignidade da pessoa humana, a cidadania e o meio ambiente, além de outros atos ou atividades que representem ou possam representar risco aos preceitos constitucionais relacionados à integridade do Estado'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crimes financeiros e lavagem de dinheiro.",
+          "rationale": "Crimes financeiros são uma ameaça distinta, relacionada ao crime organizado, mas não definem as ações contrárias ao Estado Democrático de Direito.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desastres naturais com impacto na infraestrutura urbana.",
+          "rationale": "Desastres naturais são outra categoria de ameaça, não ações contra o Estado Democrático de Direito.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nas ameaças que minam os fundamentos da própria estrutura governamental e social, conforme a Constituição.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Um dos objetivos da POLINT/PMDF é 'Impulsionar o Policiamento Orientado pela Inteligência'. Qual diretriz corresponde diretamente a essa ação?",
+      "answerOptions": [
+        {
+          "text": "Especialização, capacitação continuada e treinamento dos integrantes do SIPOM.",
+          "rationale": "Esta é uma diretriz importante, mas mais geral para o SIPOM, não especificamente para impulsionar o Policiamento Orientado pela Inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Integração com Órgãos e Agências de Inteligência – locais, nacionais e internacionais.",
+          "rationale": "A integração é fundamental, mas não é a diretriz mais direta para impulsionar o Policiamento Orientado pela Inteligência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desenvolvimento do Policiamento Orientado pela Inteligência, incrementando ações de prevenção e repressão qualificada de crimes, contravenções, incivilidades e ações adversas.",
+          "rationale": "A diretriz 'Desenvolvimento do Policiamento Orientado pela Inteligência, incrementando ações de prevenção e repressão qualificada de crimes, contravenções, incivilidades e ações adversas contra a ordem pública, a incolumidade das pessoas e do patrimônio e o meio ambiente' corresponde diretamente ao objetivo de impulsionar essa modalidade de policiamento.",
+          "isCorrect": true
+        },
+        {
+          "text": "Execução de Operações de Inteligência exploratórias e sistemáticas para obtenção de dados.",
+          "rationale": "A execução de operações de inteligência é uma ferramenta, mas não a diretriz que define o impulsionamento do policiamento orientado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Procure a diretriz que explicitamente menciona o 'Policiamento Orientado pela Inteligência' e suas implicações práticas.",
+      "subject": "inteligencia_pmdf"
+    },
+    {
+      "question": "Qual é a principal distinção entre 'Inteligência Policial Militar' (o ramo da atividade) e 'Contrainteligência Policial Militar'?",
+      "answerOptions": [
+        {
+          "text": "Inteligência se foca em operações internas da PMDF, e Contrainteligência em ameaças externas ao DF.",
+          "rationale": "Ambos os ramos podem lidar com ameaças internas e externas à PMDF e ao DF.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência produz conhecimentos para oportunidades e ameaças à missão, enquanto Contrainteligência foca na prevenção e contraposição de ações adversas à salvaguarda dos ativos institucionais.",
+          "rationale": "A 'Inteligência Policial Militar é o ramo da atividade voltado para a obtenção e análise de dados e informações para a produção e a difusão de conhecimentos relativos a fatos... que se constituam ou indiquem oportunidades ou ameaças'. Já a 'Contrainteligência Policial Militar é o ramo da atividade que produz conhecimentos e desenvolve ações especializadas destinadas à prevenção e contraposição... de ações adversas que constituam ameaças à salvaguarda dos ativos institucionais'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Inteligência lida apenas com dados de domínio público, e Contrainteligência com dados sigilosos.",
+          "rationale": "Ambos os ramos utilizam dados de diversas fontes, incluindo sigilosas, conforme a necessidade da atividade especializada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inteligência é responsável pela coleta de dados, e Contrainteligência apenas pela análise.",
+          "rationale": "Ambos os ramos envolvem coleta e análise de dados, mas com propósitos distintos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nos objetivos primários de cada ramo: um busca conhecimento geral sobre o ambiente, o outro busca proteger a instituição de ações danosas.",
+      "subject": "inteligencia_pmdf"
+    }
+  ]
+}
