@@ -1,3 +1,2083 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "question": "De acordo com as Regras de Segurança (IG 03/2024), qual é a regra mais fundamental que deve ser aplicada a qualquer arma de fogo?",
+      "answerOptions": [
+        {
+          "text": "Mantenha o dedo fora do guarda-mato o tempo todo.",
+          "rationale": "Essa é uma regra crucial, mas a regra mais fundamental é tratar qualquer arma como se estivesse sempre pronta para o disparo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trate qualquer arma como estando municiada, alimentada e carregada.",
+          "rationale": "A regra de segurança nº 1 do texto estabelece que se deve tratar qualquer arma como estando pronta para disparo, independentemente de inspeção ou de ser um simulador.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sempre aponte o cano da arma para o chão.",
+          "rationale": "O controle do cano é uma regra, mas o texto especifica 'Controle a direção do cano' com consciência do local que pode ser atingido, e não apenas para o chão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Observe o que há antes e após o seu alvo.",
+          "rationale": "Essa é uma regra de segurança importante, mas não a mais fundamental e abrangente de todas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense na primeira regra que deve guiar todas as suas ações ao manusear uma arma.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a principal característica da munição de dotação da PMDF, a CBC Bonded EXPO +P 147 Gr?",
+      "answerOptions": [
+        {
+          "text": "Seu projétil possui um núcleo de chumbo que se separa da jaqueta no impacto para maior fragmentação.",
+          "rationale": "O texto afirma o contrário: o núcleo de chumbo é colado molecularmente à jaqueta para evitar a separação e manter a massa.",
+          "isCorrect": false
+        },
+        {
+          "text": "É uma munição expansiva com projétil não jaquetado para menor penetração.",
+          "rationale": "O projétil é 'jaquetado' e a munição foi projetada para ter 'capacidade de penetração suficiente'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seu projétil jaquetado tem o núcleo de chumbo colado molecularmente, mantendo a massa e garantindo uma penetração e expansão uniformes.",
+          "rationale": "O texto descreve que o projétil 'jaquetado com seu núcleo de chumbo colado molecularmente à jaqueta (bonded)' mantém sua massa após o impacto, garantindo expansão e penetração confiáveis.",
+          "isCorrect": true
+        },
+        {
+          "text": "É uma munição do tipo FMJ (Full Metal Jacket) para menor controle de recuo.",
+          "rationale": "O texto descreve uma munição 'Bonded EXPO', que é expansiva, e não uma munição FMJ.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Atenção ao termo 'bonded' e ao que ele significa para o projétil no momento do impacto.",
+      "subject": "amt"
+    },
+    {
+      "question": "Na pistola CZ P10, qual é o dispositivo de segurança que minimiza os riscos de disparo acidental, evitando o disparo pela inércia do percussor?",
+      "answerOptions": [
+        {
+          "text": "Trava de Gatilho",
+          "rationale": "A trava de gatilho previne acionamentos indesejados do gatilho.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trava do Ferrolho",
+          "rationale": "A trava do ferrolho tem a função de manter o ferrolho aberto após o último disparo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trava do Percussor",
+          "rationale": "A trava do percussor impede o movimento do percussor quando o gatilho não está acionado. A trava antiqueda é que minimiza o disparo por inércia.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trava Antiqueda",
+          "rationale": "O texto especifica que a 'Trava Antiqueda' é o dispositivo que 'Minimiza os riscos de disparo acidental, quando a arma está carregada, evitando o risco de disparo pela inércia do percussor.'",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Lembre-se do dispositivo que atua para prevenir um disparo quando a arma cai.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, qual é a ação que caracteriza uma 'Incapacitação Direta' de um agressor em um confronto armado?",
+      "answerOptions": [
+        {
+          "text": "Choque hipovolêmico, causado por hemorragia grave.",
+          "rationale": "O texto classifica o 'choque hipovolêmico' como uma 'Incapacitação Indireta'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dano no tronco encefálico ou lesão na medula na altura da coluna cervical alta.",
+          "rationale": "O texto define 'Incapacitação Direta' como 'Dano no tronco encefálico e/ou Lesão na medula altura da coluna cervical alta'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ferimento superficial que causa dor intensa, mas não incapacitação imediata.",
+          "rationale": "O objetivo da incapacitação é cessar a agressão de forma imediata e eficaz, o que não ocorreria com um ferimento superficial.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferimento em órgãos vitais do tórax, como o coração ou pulmões.",
+          "rationale": "Ferimentos nesses locais podem levar ao choque hipovolêmico, que é uma 'incapacitação indireta'. A incapacitação direta está relacionada ao sistema nervoso central.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Foque nas lesões que causam uma parada imediata da ação do agressor, atingindo o sistema nervoso central.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a capacidade de munição do carregador da pistola CZ P10 C (compacta)?",
+      "answerOptions": [
+        {
+          "text": "19+1",
+          "rationale": "A capacidade de 19+1 é da P-10 F (Full).",
+          "isCorrect": false
+        },
+        {
+          "text": "15+1",
+          "rationale": "A tabela de 'Especificações Técnicas' informa que a CZ P10 C (compacta) tem uma capacidade de 15+1.",
+          "isCorrect": true
+        },
+        {
+          "text": "12+1",
+          "rationale": "A capacidade de 12+1 é da P-10 S (Subcompacta).",
+          "isCorrect": false
+        },
+        {
+          "text": "10+1",
+          "rationale": "A capacidade de 10+1 não é mencionada na tabela para nenhum dos modelos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Consulte a tabela de especificações técnicas dos diferentes modelos da CZ P10.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, qual é o procedimento mais importante a ser realizado ANTES de desmontar qualquer armamento?",
+      "answerOptions": [
+        {
+          "text": "Lubrificar a arma e o cano.",
+          "rationale": "A lubrificação é uma etapa de manutenção, não uma etapa de segurança pré-desmontagem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gatilhar a arma três vezes para garantir que não haja munição na câmara.",
+          "rationale": "O texto descreve os 'manejos de segurança' como parte do procedimento, mas a inspeção de segurança completa é o passo mais importante.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ocultar a arma e o carregador em um local seguro.",
+          "rationale": "O procedimento deve ser realizado em um local seguro, mas essa não é a ação de segurança principal antes da desmontagem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Realizar a inspeção de segurança.",
+          "rationale": "O texto afirma explicitamente que 'ANTES DE DESMONTAR QUALQUER ARMAMENTO, REALIZE A INSPEÇÃO DE SEGURANÇA'.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Pense no passo que garante que a arma está desmuniciada e é seguro iniciar a desmontagem.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual das seguintes etapas NÃO faz parte do procedimento de Inspeção de Segurança descrito no texto?",
+      "answerOptions": [
+        {
+          "text": "Retirar o carregador da arma.",
+          "rationale": "Esta é a primeira etapa do procedimento de inspeção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fazer a verificação tátil, introduzindo o dedo indicador na câmara e no alojamento do carregador.",
+          "rationale": "Esta é a sexta etapa do procedimento de inspeção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acionar o gatilho com a arma ainda carregada para verificar o funcionamento.",
+          "rationale": "Acionar o gatilho com a arma carregada é uma violação gravíssima de segurança. O procedimento exige a verificação visual e tátil da câmara vazia.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manter a arma aberta fazendo uso do retém do ferrolho.",
+          "rationale": "Esta é a quarta etapa do procedimento de inspeção.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Considere o que é uma prática fundamental de segurança para evitar um disparo acidental durante a inspeção.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a nomenclatura correta para a parte da pistola que serve para reter o ferrolho na posição aberta após o último disparo?",
+      "answerOptions": [
+        {
+          "text": "Gatilho",
+          "rationale": "O gatilho aciona o mecanismo de disparo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Retém do Ferrolho",
+          "rationale": "O texto, na seção de Nomenclaturas, indica que o 'Retém do Ferrolho' é a peça que tem essa função.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trava do Ferrolho",
+          "rationale": "A 'Trava do Ferrolho' é a peça usada no procedimento de desmontagem e não no final do ciclo de disparo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Carregador",
+          "rationale": "O carregador armazena a munição.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Preste atenção ao nome da peça que serve para 'reter' o ferrolho.",
+      "subject": "amt"
+    },
+    {
+      "question": "O calibre 9x19mm foi adotado pela OTAN como padrão. Qual a principal característica de desempenho desse calibre mencionada no texto, que contribui para a incapacitação em um confronto?",
+      "answerOptions": [
+        {
+          "text": "Poder de fogo e impacto, causando dano massivo e instantâneo no alvo.",
+          "rationale": "A incapacitação não é garantida por dano massivo instantâneo, mas sim por lesões específicas no sistema nervoso ou choque hipovolêmico.",
+          "isCorrect": false
+        },
+        {
+          "text": "Capacidade de penetração do projétil e maior controle de recuo.",
+          "rationale": "O texto afirma que 'o objetivo do armamento no calibre 9x19mm reúne características que irão levar a uma incapacitação durante o confronto: capacidade de penetração do projétil e maior controle de recuo, visando agrupamento em disparos sequenciais rápidos.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Menor velocidade do projétil e maior precisão em longas distâncias.",
+          "rationale": "As pistolas no calibre 9x19mm não são projetadas para longas distâncias, e a característica desejada é a combinação de penetração e controle, não menor velocidade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas o choque hidrostático, devido à energia transferida ao corpo.",
+          "rationale": "O texto não se limita ao choque hidrostático e menciona a combinação de penetração e controle como objetivo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nas duas características principais que permitem ao policial ser eficaz em um confronto com disparos múltiplos.",
+      "subject": "amt"
+    },
+    {
+      "question": "Para o porte velado da pistola CZ P10, o texto estabelece que é **obrigatório** o uso de qual tipo de coldre?",
+      "answerOptions": [
+        {
+          "text": "Qualquer coldre de neoprene ou cordura, desde que confortável.",
+          "rationale": "O texto lista coldres de nylon/neoprene como 'problemas' para o porte velado, pois não oferecem a segurança necessária.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um coldre de couro com retenção de botão, pois é mais discreto.",
+          "rationale": "Coldres de couro são citados como 'problemas' para o porte velado, e a retenção por botão não é o nível mínimo ideal para o porte ostensivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coldre específico, com material rígido e proteção contra acesso indesejado à tecla do gatilho.",
+          "rationale": "O texto especifica que para o porte velado é 'Obrigatoriamente: Coldre específico, material rígido, proteção contra acesso indesejado tecla do gatilho.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Portar a arma sem coldre, dentro da calça, pois facilita a ação rápida.",
+          "rationale": "O texto lista 'Sem coldre' como um 'problema' para o porte velado, indicando a falta de segurança.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Preste atenção ao que o texto considera 'obrigatório' para a segurança e ocultação no porte velado.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com os objetivos da SST, qual dos seguintes conhecimentos NÃO é um foco do curso?",
+      "answerOptions": [
+        {
+          "text": "Dotar o aluno de conhecimentos básicos para o correto manuseio do armamento e calibre 9x19mm.",
+          "rationale": "Este é um dos objetivos listados.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apresentar a munição de dotação da PMDF e orientar sobre a desmontagem da arma.",
+          "rationale": "A apresentação da munição e a orientação sobre a desmontagem/montagem são objetivos listados.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conhecer as regras de segurança e identificar os mecanismos de segurança.",
+          "rationale": "Estes são objetivos listados.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apresentar técnicas avançadas de tiro em movimento e em baixa luminosidade.",
+          "rationale": "Os objetivos listados se concentram em 'conhecimentos básicos' e não em técnicas avançadas.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Foque nos 'conhecimentos básicos' mencionados na seção de objetivos.",
+      "subject": "amt"
+    },
+    {
+      "question": "A regra de segurança nº 3 (IG 03/2024) orienta a manter o dedo estendido ao longo da armação. O que é necessário fazer com os dedos polegar e indicador da mão de tiro para armas portáteis, de acordo com essa regra?",
+      "answerOptions": [
+        {
+          "text": "Manter os dedos fora do guarda-mato em todos os momentos.",
+          "rationale": "Essa é a primeira parte da regra, mas não a ação específica para a trava de segurança.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mantê-los em contato constante com a trava de segurança, a fim de aferir, pelo tato, que a arma portátil encontra-se em condição segura.",
+          "rationale": "O texto descreve exatamente essa ação como parte da regra de segurança nº 3 para armas portáteis.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manter os dedos no gatilho para um acionamento mais rápido.",
+          "rationale": "A regra proíbe essa ação, instruindo a manter o dedo fora do guarda-mato até o momento do disparo consciente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manter o dedo polegar no retém do carregador.",
+          "rationale": "Essa ação não faz parte da regra de segurança nº 3.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Atenção ao que a regra diz especificamente sobre a trava de segurança e o tato.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual dos seguintes nomes NÃO é uma alternativa para o calibre 9x19mm?",
+      "answerOptions": [
+        {
+          "text": "9mm Luger",
+          "rationale": "O texto o identifica como '9mm Luger'.",
+          "isCorrect": false
+        },
+        {
+          "text": "9mm Parabellum",
+          "rationale": "O texto o identifica como '9mm Parabellum'.",
+          "isCorrect": false
+        },
+        {
+          "text": "9mm OTAN",
+          "rationale": "O texto o identifica como '9mm NATO', que é a sigla em inglês para OTAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "9mm S&W",
+          "rationale": "O texto menciona o calibre '.40 S&W' como o que o FBI usou por 30 anos, mas '9mm S&W' não é um nome alternativo para o 9x19mm.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Lembre-se dos nomes associados ao criador e à adoção por organizações militares.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que a 'Incapacitação Indireta' por arma de fogo se refere?",
+      "answerOptions": [
+        {
+          "text": "Dano no tronco encefálico.",
+          "rationale": "Isso é uma 'Incapacitação Direta'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lesão na medula na altura da coluna cervical alta.",
+          "rationale": "Isso é uma 'Incapacitação Direta'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Choque hipovolêmico.",
+          "rationale": "O texto define o 'Choque hipovolêmico' como uma 'Incapacitação Indireta'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Incapacitação por dor intensa no local do ferimento.",
+          "rationale": "O texto não menciona essa forma de incapacitação.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense na forma de incapacitação que não atinge diretamente o sistema nervoso central.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a capacidade máxima de munição do carregador para o maior modelo da pistola CZ P10, de acordo com as especificações técnicas?",
+      "answerOptions": [
+        {
+          "text": "12+1, no modelo 'S'.",
+          "rationale": "A capacidade de 12+1 é do modelo 'S', que é o subcompacto, o menor deles.",
+          "isCorrect": false
+        },
+        {
+          "text": "15+1, no modelo 'C'.",
+          "rationale": "A capacidade de 15+1 é do modelo 'C', que é o compacto, não o maior.",
+          "isCorrect": false
+        },
+        {
+          "text": "19+1, no modelo 'F'.",
+          "rationale": "O modelo 'F' (Full) é o maior e sua capacidade é de 19+1, conforme a tabela de especificações.",
+          "isCorrect": true
+        },
+        {
+          "text": "21+1, no modelo 'F'.",
+          "rationale": "Essa capacidade não é mencionada para o modelo 'F'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Busque o modelo com 'maior' dimensão ('F') e sua capacidade correspondente na tabela.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a ação correta para o porte velado da pistola CZ P10, conforme o texto?",
+      "answerOptions": [
+        {
+          "text": "Usar qualquer coldre de cordura ou neoprene para maior conforto.",
+          "rationale": "O texto lista esses tipos de coldre como 'problemas' para o porte velado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Portar a arma sem coldre, pois não há risco de acionamento do gatilho.",
+          "rationale": "O texto lista o porte sem coldre como um 'problema'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Usar um coldre de material rígido, específico para a arma e com proteção contra o acesso ao gatilho.",
+          "rationale": "O texto descreve que o porte velado deve ser feito 'Obrigatoriamente: Coldre específico, material rígido, proteção contra acesso indesejado tecla do gatilho.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Utilizar um coldre com dois níveis de retenção para garantir a segurança da arma.",
+          "rationale": "Dois níveis de retenção são ideais para o porte ostensivo, não necessariamente a descrição completa para o porte velado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Foque no que é 'obrigatório' para o porte velado, visando a segurança e a prevenção de acidentes.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a ordem correta para os primeiros passos do procedimento de Inspeção de Segurança?",
+      "answerOptions": [
+        {
+          "text": "Retirar o carregador, fazer a verificação tátil, manter a arma aberta e fazer a verificação visual.",
+          "rationale": "A ordem correta é: 1) Retirar carregador, 2) Inspeção visual, 3) Guardar carregador, 4) Manter arma aberta, 5) Verificação visual, 6) Verificação tátil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Retirar o carregador da arma, inspecionar visualmente a mesa transportadora, guardar o carregador e manter a arma aberta.",
+          "rationale": "Esta é a ordem correta para os primeiros quatro passos do procedimento de inspeção de segurança.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manter a arma aberta, fazer a verificação tátil, retirar o carregador e fechar o armamento.",
+          "rationale": "Esta ordem está incorreta. A retirada do carregador é o primeiro passo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fechar o armamento, guardar o carregador e fazer a verificação visual da câmara.",
+          "rationale": "A retirada do carregador é o primeiro passo e o fechamento do armamento é uma das últimas etapas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Releia a seção 'O PROCEDIMENTO DE INSPEÇÃO SEGURANÇA consiste, nesta ordem'.",
+      "subject": "amt"
+    },
+    {
+      "question": "Durante a desmontagem da pistola CZ P10, qual é o passo imediatamente anterior a 'Deslize o ferrolho para frente até separar completamente da armação'?",
+      "answerOptions": [
+        {
+          "text": "Acionar o gatilho e certificar-se que o mesmo encontra-se na posição acionado.",
+          "rationale": "Este é um passo anterior, mas não o passo imediatamente anterior ao deslizamento do ferrolho.",
+          "isCorrect": false
+        },
+        {
+          "text": "Puxar para baixo a trava do ferrolho com os dedos da mão fraca.",
+          "rationale": "O texto indica que a ordem é 'Puxar para baixo a trava do ferrolho' (Passo 7) e, em seguida, 'Deslize o ferrolho para frente' (Passo 8).",
+          "isCorrect": true
+        },
+        {
+          "text": "Remover a mola e o conjunto do cano.",
+          "rationale": "Esta etapa ocorre após o ferrolho ter sido separado da armação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Puxar o ferrolho para trás cerca de 5 milímetros com a mão forte.",
+          "rationale": "Este é um passo anterior, mas não o que precede diretamente o deslizamento final do ferrolho.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Consulte os passos de desmontagem e a ordem em que a 'trava do ferrolho' é acionada e o ferrolho é deslizado.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a especificação técnica em comum entre os três modelos de pistola CZ P10 (F, C, S)?",
+      "answerOptions": [
+        {
+          "text": "O peso e a capacidade de munição.",
+          "rationale": "Os modelos F, C e S têm pesos e capacidades diferentes.",
+          "isCorrect": false
+        },
+        {
+          "text": "A altura e o comprimento total.",
+          "rationale": "Essas dimensões variam entre os três modelos.",
+          "isCorrect": false
+        },
+        {
+          "text": "O calibre, o material da armação, o tipo de ação e as miras.",
+          "rationale": "Conforme a tabela de 'Especificações Técnicas', todos os modelos compartilham o calibre 9x19mm, armação de polímero, ação 'Striker Fired' e miras 'Tritium'.",
+          "isCorrect": true
+        },
+        {
+          "text": "O comprimento do cano.",
+          "rationale": "O comprimento do cano é diferente para cada modelo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Observe as colunas da tabela de especificações que têm valores idênticos para todos os modelos.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que a 'trava antiqueda' da pistola CZ P10 previne, conforme o texto?",
+      "answerOptions": [
+        {
+          "text": "Impede o movimento do percussor quando o gatilho não está acionado.",
+          "rationale": "Essa é a função da 'trava do percussor'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prevenindo acionamentos indesejados de gatilho.",
+          "rationale": "Essa é a função da 'trava de gatilho'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Minimiza os riscos de disparo acidental, evitando o disparo pela inércia do percussor.",
+          "rationale": "O texto descreve que a 'trava antiqueda' minimiza os riscos de disparo acidental pela inércia do percussor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Impede que o ferrolho seja retirado da armação sem o procedimento correto.",
+          "rationale": "Essa não é a função da trava antiqueda, e sim da trava do ferrolho.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no nome do dispositivo e sua relação com a inércia.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o prefácio, qual é a lógica que deve substituir a do “direito da força” na relação entre o Estado e o Cidadão?",
+      "answerOptions": [
+        {
+          "text": "A lógica do “bem comum” da sociedade.",
+          "rationale": "O 'bem comum' é o objetivo, mas a lógica para o uso da força é outra.",
+          "isCorrect": false
+        },
+        {
+          "text": "A lógica do “Estado Democrático de Direito”.",
+          "rationale": "A lógica do Estado Democrático de Direito é o contexto, mas não a frase exata mencionada.",
+          "isCorrect": false
+        },
+        {
+          "text": "A lógica da “força do direito”.",
+          "rationale": "O texto afirma: 'é preciso substituir a lógica do “direito da força” pela lógica da “força do direito” na relação Estado-Cidadão.'",
+          "isCorrect": true
+        },
+        {
+          "text": "A lógica da “legitimação perante a comunidade”.",
+          "rationale": "A legitimação é uma consequência, mas não a lógica que substitui o 'direito da força'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O prefácio menciona uma frase que substitui o 'direito da força'.",
+      "subject": "amt"
+    },
+    {
+      "question": "Conforme as 'Regras Gerais', o que é considerado um 'local seguro' para realizar a inspeção do armamento?",
+      "answerOptions": [
+        {
+          "text": "Qualquer área ampla e aberta, longe de outras pessoas.",
+          "rationale": "A ausência de outras pessoas é um fator, mas não é a definição completa de um local seguro.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um local com absorção balística, anteparo de contenção e limitação de acesso por terceiros.",
+          "rationale": "O texto define 'local seguro' como 'todo local que tenha absorção balística, anteparo de contenção e limitação de acesso por terceiros.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas um estande de tiro oficial da Polícia Militar.",
+          "rationale": "Embora o estande seja um local seguro, o texto oferece uma definição mais geral para qualquer local seguro para inspeção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Qualquer local com o cano apontado para o chão.",
+          "rationale": "A regra de apontar o cano para um local seguro é o procedimento, mas não a definição do local em si.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A definição de 'local seguro' é detalhada no item 'b' das Regras Gerais.",
+      "subject": "amt"
+    },
+    {
+      "question": "Nas 'Regras no Estande', qual é o procedimento correto em caso de qualquer anormalidade no funcionamento da arma (ex: falha na percussão)?",
+      "answerOptions": [
+        {
+          "text": "Continuar tentando efetuar o disparo até que a munição saia.",
+          "rationale": "Continuar disparando ou tentando disparar pode agravar o problema e causar um acidente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Remover imediatamente o carregador e aguardar o comando do instrutor.",
+          "rationale": "A interrupção dos disparos é o primeiro passo, mas a remoção do carregador não é a instrução completa. O cano deve permanecer voltado para o alvo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Interromper imediatamente os disparos, manter o cano voltado para o alvo e avisar ao instrutor de tiro mais próximo.",
+          "rationale": "O texto descreve exatamente esse procedimento no item 'c' das Regras no Estande.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tentar sanar o problema por conta própria e depois avisar o instrutor.",
+          "rationale": "É proibido fazer qualquer manuseio da arma sem comando do instrutor após uma anormalidade.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da prioridade: segurança, comunicação e obediência ao instrutor.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com os 'Comandos e procedimentos', o que o aluno deve fazer ao ouvir o comando “PISTA FRIA”?",
+      "answerOptions": [
+        {
+          "text": "Interromper os disparos e manusear o armamento para recarregar.",
+          "rationale": "A interrupção dos disparos ocorre no 'CESSAR FOGO'. A 'PISTA FRIA' exige que o aluno não toque mais na arma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coldrear a arma, bater palmas sobre a cabeça e não mais tocar no armamento.",
+          "rationale": "O texto define o comando 'PISTA FRIA' como a ação de coldrear a arma e, em seguida, bater palmas sobre a cabeça para sinalizar que as mãos estão livres e não tocar mais na arma.",
+          "isCorrect": true
+        },
+        {
+          "text": "Carregar a arma e aguardar o próximo comando do instrutor.",
+          "rationale": "Carregar a arma seria uma ação para a 'PISTA QUENTE', o oposto do 'PISTA FRIA'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fazer a inspeção do armamento e recolher a munição do solo.",
+          "rationale": "Essas ações ocorrem sob o comando de 'INSPEÇÃO DO ARMAMENTO, EXECUTAR!'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ação de coldrear a arma, seguida de um gesto de segurança para o instrutor.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que a definição de 'Armas de fogo' no Decreto nº 3.665 (R-105) revogado, citado no texto, descreve?",
+      "answerOptions": [
+        {
+          "text": "Máquinas térmicas que utilizam a força explosiva de um composto químico para transferi-la a um projétil.",
+          "rationale": "Essa é a definição do livro 'Coleção Armamento', não do decreto citado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artefatos que têm por objetivo causar dano permanente ou não a seres vivos e coisas.",
+          "rationale": "Essa é a definição de 'Arma', e não 'Arma de fogo'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Armas que arremessam projéteis empregando a força expansiva dos gases gerados pela combustão de um propelente confinado em uma câmara.",
+          "rationale": "O texto cita essa definição diretamente do glossário do decreto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Armas de antecarga que necessitam de uma fonte externa de calor para dar ignição à pólvora.",
+          "rationale": "Essa descrição se refere às primeiras armas de fogo portáteis, como o arcabuz, não à definição geral de 'arma de fogo'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Atenção às diferentes definições apresentadas no texto para 'Arma' e 'Arma de fogo'.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com a classificação das armas de fogo 'Quanto ao Tipo', qual a diferença entre uma arma 'Portátil' e uma arma 'Não portátil'?",
+      "answerOptions": [
+        {
+          "text": "A arma 'Portátil' é conduzida no coldre, e a 'Não portátil' é conduzida em uma bandoleira.",
+          "rationale": "A arma 'de porte' é conduzida no coldre e a 'Portátil' é conduzida em uma bandoleira.",
+          "isCorrect": false
+        },
+        {
+          "text": "A arma 'Portátil' é conduzida por um só homem, e a 'Não portátil' é conduzida numa viatura ou por mais de um homem.",
+          "rationale": "Essa é a definição exata das classificações 'Portátil' e 'Não portátil' conforme o texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "A arma 'Portátil' é de uso individual, e a 'Não portátil' é de uso coletivo.",
+          "rationale": "Essa é a classificação 'Quanto ao Emprego', não 'Quanto ao Tipo'.",
+          "isCorrect": false
+        },
+        {
+          "text": "A arma 'Portátil' possui a alma raiada, e a 'Não portátil' possui a alma lisa.",
+          "rationale": "Essa é a classificação 'Quanto à Alma do Cano', não 'Quanto ao Tipo'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Foque no critério de peso e transporte da arma para a classificação 'Quanto ao Tipo'.",
+      "subject": "amt"
+    },
+    {
+      "question": "Em relação à classificação 'Quanto ao Funcionamento', qual a principal característica de uma arma 'Semiautomática'?",
+      "answerOptions": [
+        {
+          "text": "Todas as ações de manejo, incluindo os disparos, são realizadas automaticamente.",
+          "rationale": "Essa é a definição de uma arma 'Automática'.",
+          "isCorrect": false
+        },
+        {
+          "text": "A arma realiza todas as ações de manejo, excetuando-se apenas o disparo, que necessita do acionamento do gatilho para cada novo tiro.",
+          "rationale": "Essa é a definição exata de uma arma 'Semiautomática' conforme o texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "As operações de funcionamento dependem exclusivamente da força muscular do atirador.",
+          "rationale": "Essa é a definição de uma arma 'de repetição' ou 'de tiro unitário'.",
+          "isCorrect": false
+        },
+        {
+          "text": "O carregamento é feito manualmente a cada disparo, pela boca do cano.",
+          "rationale": "Essa é a definição de uma arma de 'tiro unitário' e 'antecarga'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A palavra 'semi' indica que parte da ação é automática, mas não o disparo em si.",
+      "subject": "amt"
+    },
+    {
+      "question": "Segundo o texto, qual é a função dos sulcos na superfície interna de um cano 'Raiado'?",
+      "answerOptions": [
+        {
+          "text": "Aumentar a velocidade do projétil, tornando-o mais potente.",
+          "rationale": "O texto não associa a alma raiada a um aumento de velocidade, mas sim a um movimento de rotação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Imprimir ao projétil um movimento de rotação, dando-lhe estabilidade na trajetória até o objetivo.",
+          "rationale": "O texto explica que a alma raiada 'imprimem ao projétil movimento de rotação, por forçamento, dando-lhe estabilidade para que percorra a trajetória fora da arma até o objetivo.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Aumentar a aderência do atirador à arma, melhorando a empunhadura.",
+          "rationale": "A alma do cano não tem relação com a empunhadura da arma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diminuir o atrito do projétil com o cano para prolongar sua vida útil.",
+          "rationale": "O atrito na verdade existe e é necessário para imprimir a rotação.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no motivo pelo qual o projétil em um cano raiado é mais preciso que em um cano liso.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual das seguintes opções descreve uma arma com sistema de carregamento 'Antecarga'?",
+      "answerOptions": [
+        {
+          "text": "A arma é carregada pela parte posterior, na culatra.",
+          "rationale": "Isso descreve uma arma de 'Retrocarga'.",
+          "isCorrect": false
+        },
+        {
+          "text": "O carregamento é feito pela boca do cano.",
+          "rationale": "O texto define 'Antecarga' como 'o carregamento é feito pela boca do cano.'",
+          "isCorrect": true
+        },
+        {
+          "text": "A arma utiliza um cartucho que une espoleta, pólvora e projétil.",
+          "rationale": "O cartucho foi uma inovação que superou o carregamento pela boca do cano, viabilizando a retrocarga.",
+          "isCorrect": false
+        },
+        {
+          "text": "O atirador manualmente realiza as operações, com destaque para o carregamento.",
+          "rationale": "Essa é a definição de uma arma de 'Tiro Unitário', não 'Antecarga'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Foque na parte da arma por onde o projétil é introduzido.",
+      "subject": "amt"
+    },
+    {
+      "question": "No comando de 'INSPEÇÃO DO ARMAMENTO, EXECUTAR!', o que acontece com uma munição que estava na câmara após os dois manejos do ferrolho?",
+      "answerOptions": [
+        {
+          "text": "Ela deve ser recolhida imediatamente pelo aluno, antes da inspeção visual.",
+          "rationale": "O texto diz que a munição 'não deverá ser recolhida neste momento' e que o recolhimento é a última etapa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ela permanece na câmara, e o aluno deve retirá-la manualmente.",
+          "rationale": "A munição é ejetada com os manejos do ferrolho e cai ao solo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ela irá cair ao solo e não deverá ser recolhida neste momento.",
+          "rationale": "O texto afirma que, com os manejos, a munição 'irá cair ao solo e não deverá ser recolhida neste momento'.",
+          "isCorrect": true
+        },
+        {
+          "text": "A munição é descartada e o aluno deve se certificar que a câmara está vazia antes de recolher a munição.",
+          "rationale": "O aluno deve se certificar que a câmara está vazia, mas a munição não é descartada, ela é recolhida no final do procedimento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Atenção ao momento correto para recolher a munição do solo, que é o último passo da inspeção.",
+      "subject": "amt"
+    },
+    {
+      "question": "Conforme a definição no antigo Decreto nº 3.665 (R-105), o que é 'Munição'?",
+      "answerOptions": [
+        {
+          "text": "O conjunto das partes necessárias para lançar um projétil.",
+          "rationale": "Essa é a definição de 'Cartucho'.",
+          "isCorrect": false
+        },
+        {
+          "text": "A unidade da munição, incluindo projétil, estojo, propelente e espoleta.",
+          "rationale": "Embora o texto mencione 'unidade da munição', a definição formal é mais específica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artefato completo, pronto para carregamento e disparo de uma arma, cujo efeito pode ser destruição, iluminação, ocultamento, entre outros.",
+          "rationale": "Esta é a definição exata de 'Munição' conforme o texto, citando o Decreto nº 3.665.",
+          "isCorrect": true
+        },
+        {
+          "text": "Um projétil jaquetado com núcleo de chumbo colado molecularmente, garantindo penetração e expansão uniformes.",
+          "rationale": "Esta é a descrição da munição de dotação da PMDF no capítulo anterior, não a definição geral de 'Munição'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A definição de munição inclui os efeitos que ela pode causar.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a recomendação de preservação de munição para evitar o deslocamento do projétil, corrosão e acúmulo de óleo lubrificante?",
+      "answerOptions": [
+        {
+          "text": "Acondicionar as munições em embalagens de madeira ou papelão grosso para reter umidade.",
+          "rationale": "O texto recomenda evitar essas embalagens e materiais higroscópicos, pois retêm umidade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evitar o contato com corantes e solventes, e manter as munições em um local com alta incidência de luz solar.",
+          "rationale": "A incidência de luz solar é expressamente desaconselhada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Promover o rodízio das munições, alternar o uso dos carregadores e não deixá-las por longo período na câmara ou carregador.",
+          "rationale": "O texto especifica este protocolo de preservação para garantir a eficácia da munição.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aplicar uma fina camada de óleo lubrificante nas munições para evitar a corrosão.",
+          "rationale": "O texto menciona que o acúmulo de óleo lubrificante na arma é um problema a ser evitado, não uma solução.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O protocolo de preservação lida com o manuseio e acondicionamento das munições.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que a PMDF utiliza como cartucho padrão para o serviço operacional com a PT 24/7 e qual a sua característica principal, de acordo com o texto?",
+      "answerOptions": [
+        {
+          "text": "O cartucho .45 ACP, que possui alta capacidade de penetração em alvos rígidos.",
+          "rationale": "O cartucho padrão mencionado é o .40 SW EXPO GOLD. A munição com alta penetração em alvos rígidos é a CBC Copper Bullet.",
+          "isCorrect": false
+        },
+        {
+          "text": "O cartucho .40 SW EXPO GOLD da CBC, que é expansivo ponta oca e possui bom desempenho balístico.",
+          "rationale": "O texto afirma que a PMDF utiliza este cartucho e explica que 'EXPO significa expansivo ponta oca' com 'bom desempenho balístico'.",
+          "isCorrect": true
+        },
+        {
+          "text": "O cartucho CBC Copper Bullet, que possui projétil de chumbo com revestimento de cobre para maior expansão.",
+          "rationale": "O CBC Copper Bullet tem projétil integralmente de cobre, ou seja, 'não tem núcleo de chumbo', e foi projetado para penetração, não expansão.",
+          "isCorrect": false
+        },
+        {
+          "text": "O cartucho .22LR, ideal para o serviço policial por ser de baixo calibre e ter ponta oca.",
+          "rationale": "O calibre .22LR é de 'fogo circular' e não é o padrão da PMDF para serviço operacional. O calibre padrão é o .40 SW.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A munição de dotação da PMDF é de calibre .40 SW. Lembre-se do que 'EXPO' significa.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual a principal função de um estojo 'cônico', comum em cartuchos de pistolas?",
+      "answerOptions": [
+        {
+          "text": "Facilitar o carregamento pela boca do cano.",
+          "rationale": "Estojos cônicos são para armas de retrocarga, não antecarga.",
+          "isCorrect": false
+        },
+        {
+          "text": "Facilitar a extração da câmara após o disparo.",
+          "rationale": "O texto afirma que o estojo cônico 'possui essa forma para facilitar a extração da câmara.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Ser mais calibroso que o projétil para garantir grande potência.",
+          "rationale": "Essa é a característica dos estojos do tipo 'garrafa'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conter um aro em sua base para ser utilizado em revólveres.",
+          "rationale": "Essa é a característica dos estojos 'cilíndricos'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no formato do estojo e em sua utilidade prática após o disparo.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com a classificação 'Quanto ao Princípio de Inflamação', qual a diferença entre um cartucho de 'fogo central' e um de 'fogo circular'?",
+      "answerOptions": [
+        {
+          "text": "A espoleta do 'fogo central' é uma pequena cápsula metálica, enquanto o 'fogo circular' não tem espoleta e a mistura iniciadora fica na orla da base do estojo.",
+          "rationale": "Esta é a distinção correta entre os dois tipos de inflamação. O texto explica que o 'fogo central' possui uma espoleta no centro, enquanto o 'fogo circular' tem a mistura iniciadora na orla da base do estojo.",
+          "isCorrect": true
+        },
+        {
+          "text": "O 'fogo central' usa pólvora química e o 'fogo circular' usa pólvora negra.",
+          "rationale": "Os tipos de pólvora não definem o princípio de inflamação. Ambos podem usar pólvora química.",
+          "isCorrect": false
+        },
+        {
+          "text": "O 'fogo central' é usado em revólveres, e o 'fogo circular' em espingardas.",
+          "rationale": "Essa diferenciação não se baseia no tipo de arma, mas sim na localização da mistura iniciadora.",
+          "isCorrect": false
+        },
+        {
+          "text": "O 'fogo central' é exclusivo para armas curtas, e o 'fogo circular' para armas longas.",
+          "rationale": "O calibre .22LR, que é de fogo circular, é usado em armas curtas e longas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A diferença está na localização da mistura iniciadora no cartucho.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que caracteriza uma munição do tipo 'Traçante', segundo o texto?",
+      "answerOptions": [
+        {
+          "text": "Sua ponta é feita com material extremamente duro para alta penetração.",
+          "rationale": "Essa é a característica de uma munição 'Perfurante'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ela é projetada para fragmentar-se e não transfixar o alvo.",
+          "rationale": "Essa é a característica de uma munição 'Fragmentária'.",
+          "isCorrect": false
+        },
+        {
+          "text": "A ponta ou base do projétil é revestida com magnésio ou fósforo, que queima e cria um rastro de luz durante o trajeto.",
+          "rationale": "Esta é a definição exata de uma munição 'Traçante'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Possui uma pequena carga explosiva selada no núcleo.",
+          "rationale": "Essa é a característica de uma munição 'Explosiva'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no que essa munição deixa de rastro ao ser disparada.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, qual é a principal diferença entre o 'Calibre Real' e o 'Calibre Nominal'?",
+      "answerOptions": [
+        {
+          "text": "O 'Calibre Real' é mais usual e o 'Calibre Nominal' é pouco utilizado, pois não traz muitas informações.",
+          "rationale": "A afirmação é o oposto: o 'Calibre Nominal' é o mais usual, e o 'Calibre Real' é pouco utilizado.",
+          "isCorrect": false
+        },
+        {
+          "text": "O 'Calibre Real' é a medida entre os cheios diametralmente opostos do cano, e o 'Calibre Nominal' é a medida usada para especificar um tipo de cartucho e o tipo de arma.",
+          "rationale": "Esta é a definição correta das duas classificações de calibre.",
+          "isCorrect": true
+        },
+        {
+          "text": "O 'Calibre Real' se aplica a armas de alma lisa, e o 'Calibre Nominal' a armas de alma raiada.",
+          "rationale": "O texto não faz essa distinção. O calibre GAUGE é o usado para armas de alma lisa.",
+          "isCorrect": false
+        },
+        {
+          "text": "O 'Calibre Real' utiliza milímetros, e o 'Calibre Nominal' utiliza polegadas.",
+          "rationale": "Ambos os sistemas de medida podem ser usados em ambos os calibres, dependendo da nomenclatura.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Um é uma medida física do cano, enquanto o outro é uma forma de nomenclatura.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que é 'Alcance com precisão', também conhecido como 'alcance de utilização'?",
+      "answerOptions": [
+        {
+          "text": "A distância compreendida entre a boca do cano e o ponto de chegada do projétil.",
+          "rationale": "Essa é a definição de 'Alcance Máximo'.",
+          "isCorrect": false
+        },
+        {
+          "text": "A distância máxima em que um projétil pode causar efeitos traumáticos equivalentes a 127,53 J.",
+          "rationale": "Essa é a definição de 'Alcance Útil'.",
+          "isCorrect": false
+        },
+        {
+          "text": "A distância na qual um atirador experiente é capaz de acertar, com razoável grau de certeza, um quadrado de 30cm de lado.",
+          "rationale": "Esta é a definição exata de 'Alcance com precisão' ou 'alcance de utilização'.",
+          "isCorrect": true
+        },
+        {
+          "text": "A distância em que o projétil atinge sua velocidade máxima antes de começar a perder energia.",
+          "rationale": "Essa definição não é mencionada no texto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O alcance com precisão está ligado à capacidade de acerto em uma área específica do corpo humano.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual o fenômeno que explica por que os projéteis de arma de fogo provocam uma cavidade muito maior do que seu diâmetro, e o que o causa?",
+      "answerOptions": [
+        {
+          "text": "Cavitação, causada pela energia presente no projétil que se dispersa em todas as direções após atingir o tecido.",
+          "rationale": "O texto descreve que a energia dispersada causa o fenômeno da 'cavitação', que empurra os tecidos e cria uma cavidade maior que o diâmetro do projétil.",
+          "isCorrect": true
+        },
+        {
+          "text": "O ricochete, que causa um desvio da trajetória e aumenta a área de impacto do projétil.",
+          "rationale": "O ricochete é o desvio de trajetória após um impacto, mas não é o fenômeno que causa a cavidade maior dentro do tecido.",
+          "isCorrect": false
+        },
+        {
+          "text": "A deflexão, que empurra os tecidos elásticos, como os músculos, para os lados.",
+          "rationale": "A deflexão é o desvio do projétil ao atingir um anteparo, como um para-brisa, e não explica o fenômeno dentro do corpo humano.",
+          "isCorrect": false
+        },
+        {
+          "text": "A cavidade permanente, que é uma característica apenas de projéteis expansivos.",
+          "rationale": "A cavidade permanente existe, mas a cavitação é o fenômeno que causa a cavidade maior (temporária e permanente).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O fenômeno é causado pela energia cinética transferida ao atingir o alvo.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual das seguintes barreiras é indicada como um bom abrigo para o policial em um confronto armado, por sua capacidade de proteção balística?",
+      "answerOptions": [
+        {
+          "text": "Uma porta de carro e portas de madeira.",
+          "rationale": "O texto afirma que portas de carro e de madeira podem causar deflexão e não são barreiras seguras.",
+          "isCorrect": false
+        },
+        {
+          "text": "O para-brisas de um veículo.",
+          "rationale": "O texto explica que o para-brisa causa deflexão do projétil e não serve como uma boa barreira.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um tronco de árvore e paredes de tijolos.",
+          "rationale": "Paredes de tijolos não são citadas como barreiras seguras, e o texto menciona que o projétil pode passar por elas.",
+          "isCorrect": false
+        },
+        {
+          "text": "O bloco do motor do carro e uma parede de concreto.",
+          "rationale": "O texto cita o 'bloco do motor do carro' e 'uma parede de concreto' como exemplos de barreiras que podem ser usadas como abrigo.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Atenção aos exemplos de barreiras que o policial deve 'conhecer' e 'avaliar' para uso como abrigo.",
+      "subject": "amt"
+    },
+    {
+      "question": "Conforme a definição de Tocchetto, o que é um 'incidente de tiro' ou 'pane'?",
+      "answerOptions": [
+        {
+          "text": "Qualquer dano material ou pessoal causado por um disparo de arma de fogo.",
+          "rationale": "Um incidente de tiro é uma interrupção sem danos, ao contrário do que afirma a resposta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uma interrupção no funcionamento do armamento, sem danos materiais ou pessoais, que ocorre por funcionamento imperfeito de uma peça, falha da munição ou imperícia do atirador.",
+          "rationale": "Esta é a definição exata de incidente de tiro mencionada no texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uma falha que só pode ser resolvida com a desmontagem da arma ou uso de ferramentas.",
+          "rationale": "Esta é a definição de 'Pane Crítica', que é um tipo de incidente de tiro, mas não a definição geral.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uma falha de disparo que sempre pode ser resolvida com o procedimento 'bate, maneja e fogo'.",
+          "rationale": "Nem todas as panes são resolvidas por esse procedimento, e algumas, como a pane de obstrução de cano, são críticas e não podem ser resolvidas de imediato.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A definição de incidente de tiro se refere a uma interrupção do funcionamento e suas possíveis causas.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a diferença principal entre uma 'pane simples' e uma 'pane crítica'?",
+      "answerOptions": [
+        {
+          "text": "A 'pane simples' é aquela causada por falha na munição, e a 'pane crítica' é causada por falha na arma.",
+          "rationale": "Ambos os tipos de pane podem ser causados por problemas na munição ou na arma.",
+          "isCorrect": false
+        },
+        {
+          "text": "A 'pane simples' é resolvida com o uso de ferramentas, e a 'pane crítica' é resolvida manualmente.",
+          "rationale": "Essa afirmação é o oposto do que o texto descreve.",
+          "isCorrect": false
+        },
+        {
+          "text": "A 'pane simples' pode ser resolvida manualmente, sem desmontagem ou ferramentas, e a 'pane crítica' exige desmontagem ou uso de ferramentas.",
+          "rationale": "Esta é a definição exata de cada tipo de pane apresentada no texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "A 'pane simples' ocorre no estande, e a 'pane crítica' ocorre em confrontos.",
+          "rationale": "Qualquer tipo de pane pode ocorrer em qualquer ambiente.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O critério de diferenciação é o tipo de procedimento necessário para a solução da pane.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a solução para a 'Pane de Falha de Percussão' caso o incidente persista após a substituição do cartucho?",
+      "answerOptions": [
+        {
+          "text": "Executar o procedimento 'bate, maneja e fogo' três vezes consecutivas.",
+          "rationale": "O texto não sugere a repetição do procedimento, mas sim a identificação de uma falha mais grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "A falha poderá ser no sistema de percussão do armamento e não haverá solução imediata.",
+          "rationale": "O texto afirma que, se o incidente persistir com um novo cartucho, 'a falha poderá relacionar-se a defeito no sistema de percussão do armamento. Assim, não haverá solução imediata.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Ajustar o carregador pressionando a base e realizar um novo manejo do ferrolho.",
+          "rationale": "Esse procedimento é para as panes de carregamento ou alimentação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manter o cano apontado para o chão e aguardar o instrutor de tiro.",
+          "rationale": "Esta é uma regra de segurança geral, mas não a solução específica para essa pane.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Uma pane na munição pode ser resolvida, mas e se o problema for na arma?",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a técnica de solução mais comum para a maioria das panes simples, conforme destacado no texto?",
+      "answerOptions": [
+        {
+          "text": "Tirar o carregador, inserir um novo e fazer o manejo do ferrolho.",
+          "rationale": "Este procedimento é para uma pane específica, não a técnica geral.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ajustar a empunhadura e puxar o ferrolho à retaguarda.",
+          "rationale": "Este procedimento não é o padrão para a maioria das panes.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bater na base do carregador, manejar o ferrolho à retaguarda e acionar o gatilho novamente ('bate, maneja e fogo').",
+          "rationale": "O texto diz que 'a maioria das panes é resolvida com a técnica conhecida como de bate, maneja e fogo'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pressionar o retém do ferrolho e tentar fechar a arma com a mão de apoio.",
+          "rationale": "Esta não é uma técnica de solução de pane mencionada no texto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O jargão 'tap, rack, bang' é a chave para a resposta.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é o procedimento de solução para a 'Pane de Torre ou Chaminé'?",
+      "answerOptions": [
+        {
+          "text": "Tirar o carregador e reinserir com um novo cartucho.",
+          "rationale": "Este procedimento é para a pane de 'Extração com Nova Apresentação'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bater na base do carregador e realizar o manejo do ferrolho.",
+          "rationale": "Este procedimento é para a pane de 'Carregamento ou Rampa'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Segurar o ferrolho e dar uma pancada no punho da arma.",
+          "rationale": "Este procedimento é para a pane de 'Inchamento'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levar o ferrolho à retaguarda, lateralizar a arma e permitir a queda do cartucho ou estojo preso.",
+          "rationale": "O texto descreve exatamente este procedimento para a solução da pane de Torre ou Chaminé.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "A solução envolve a lateralização da arma para liberar o objeto que está obstruindo a janela de ejeção.",
+      "subject": "amt"
+    },
+    {
+      "question": "Como é possível identificar visualmente uma 'Pane de Extração com Nova Apresentação'?",
+      "answerOptions": [
+        {
+          "text": "Pela presença do cartucho ou estojo na janela de ejeção da arma.",
+          "rationale": "Essa é a descrição da pane de 'Torre ou Chaminé'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pela arma estar trancada com o ferrolho emperrado e um estojo dentro da câmara.",
+          "rationale": "Essa é a descrição da pane de 'Inchamento'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pela janela de ejeção da arma estar aberta, com um estojo dentro da câmara e um cartucho tentando acessá-la simultaneamente.",
+          "rationale": "Esta é a descrição exata da 'Pane de Extração com Nova Apresentação' presente no texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pela arma não realizar o disparo mesmo com a câmara cheia.",
+          "rationale": "Essa é a 'Pane de Falha de Percussão'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Essa pane envolve a presença de dois 'objetos' na mesma área da arma.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é o principal risco da 'Pane de Obstrução de Cano' e qual a sua causa comum?",
+      "answerOptions": [
+        {
+          "text": "O risco é a queda do carregador. A causa é a falha na mola do carregador.",
+          "rationale": "Este risco e causa estão relacionados à pane de 'Alimentação', não à obstrução do cano.",
+          "isCorrect": false
+        },
+        {
+          "text": "O risco é a inutilização da arma. A causa é o acúmulo de sujidades nos trilhos da arma.",
+          "rationale": "O acúmulo de sujidades causa a pane de 'Trancamento', e o risco na obstrução de cano é mais grave que a inutilização da arma.",
+          "isCorrect": false
+        },
+        {
+          "text": "O risco é a integridade física do operador. A causa é uma munição com pouca carga de projeção que não consegue expelir o projétil.",
+          "rationale": "O texto enfatiza que o principal risco é a integridade física do operador e a causa é a obstrução do projétil no cano devido a uma carga de projeção insuficiente.",
+          "isCorrect": true
+        },
+        {
+          "text": "O risco é a falha na percussão. A causa é a falha na espoleta.",
+          "rationale": "Essa é a causa da 'Pane de Falha de Percussão', não da obstrução do cano.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Essa pane é considerada crítica porque pode ser perigosa para o operador. Pense no que acontece se o projétil ficar preso no cano.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a técnica de solução para a 'Pane de Inchamento'?",
+      "answerOptions": [
+        {
+          "text": "Remover o carregador, reinseri-lo e manejar o ferrolho.",
+          "rationale": "Essa é a solução para a pane de 'Extração com Nova Apresentação'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bater na base do carregador e dar uma pancada no punho da arma, empurrando-o para frente, para extrair o estojo preso.",
+          "rationale": "O texto descreve este procedimento como a solução para a 'Pane de Inchamento'. O primeiro passo, de 'bater na base do carregador', também pode ser uma manobra para a solução de 'Pane de Carregamento'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lateralizar a arma e puxar o ferrolho para trás, permitindo que o estojo caia.",
+          "rationale": "Essa é a solução para a pane de 'Torre ou Chaminé'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Empurrar o ferrolho para frente com a mão forte.",
+          "rationale": "A solução envolve uma pancada no punho da arma, não apenas empurrar o ferrolho.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta solução envolve um movimento de força para liberar o estojo preso.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a principal implicação da falta de limpeza e remoção de sujidades em uma arma de fogo, segundo o texto?",
+      "answerOptions": [
+        {
+          "text": "O aumento da vida útil das peças, pois a sujeira cria uma barreira de proteção.",
+          "rationale": "A falta de limpeza causa o oposto, impedindo o livre movimento das peças e iniciando a corrosão.",
+          "isCorrect": false
+        },
+        {
+          "text": "A perda das funcionalidades da arma, tornando-a um fator de insegurança por falta de confiabilidade.",
+          "rationale": "O texto afirma que 'a principal implicação da falta de limpeza, que é perda das funcionalidades da arma de fogo. Ou seja, arma sem manutenção é fator de insegurança pela falta de confiabilidade.'",
+          "isCorrect": true
+        },
+        {
+          "text": "O acúmulo de óleo e lubrificante, o que é prejudicial para o funcionamento.",
+          "rationale": "O acúmulo de óleo pode ser um problema, mas a principal implicação da falta de limpeza é a perda de funcionalidade e confiabilidade da arma.",
+          "isCorrect": false
+        },
+        {
+          "text": "O desgaste natural do acabamento da arma, mas sem afetar a sua funcionalidade.",
+          "rationale": "O texto diz que a falta de limpeza pode afetar a eficácia, segurança e aparência da arma.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no que acontece quando as peças móveis de um mecanismo estão obstruídas.",
+      "subject": "amt"
+    },
+    {
+      "question": "Quais são os processos de proteção anticorrosiva utilizados nas armas de dotação da PMDF, conforme o texto?",
+      "answerOptions": [
+        {
+          "text": "Apenas o processo de niquelação e cromagem.",
+          "rationale": "O texto menciona que a niquelação e cromagem são outros processos, mas especifica que as armas da PMDF utilizam oxidação e teniferização.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oxidação e teniferização.",
+          "rationale": "O texto afirma que 'As armas de dotação da PMDF [...] possuem oxidação e teniferização como processo de proteção anticorrosiva.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Oxidação e cromagem.",
+          "rationale": "A cromagem é um processo diferente, não o usado nas armas da PMDF.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas a niquelação, por ter maior qualidade de adesão ao aço.",
+          "rationale": "A niquelação é um dos processos, mas não é o utilizado nas armas da PMDF, e a qualidade de adesão não é o único fator.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O texto lista os processos e menciona quais são utilizados especificamente pela PMDF.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é o procedimento de limpeza mais adequado para as 'sujidades decorrentes do uso diário', segundo o texto?",
+      "answerOptions": [
+        {
+          "text": "Uso de solventes abrasivos, como querosene ou gasolina comum.",
+          "rationale": "O texto adverte contra o uso desses solventes, pois 'atacam a proteção original da arma'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Limpeza com escova de latão cilíndrica e solventes leves de base mineral.",
+          "rationale": "A escova de latão e solventes leves são indicados para 'sujidades decorrentes do disparo', não para o uso diário.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emprego de uma escova de cerdas de nylon, lubrificante líquido desengripante sem água e uma flanela de microfibra.",
+          "rationale": "Esta é a descrição exata da limpeza recomendada para sujidades do uso diário, por ser 'a menos abrasiva'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Limpeza e lubrificação com óleos de origem vegetal.",
+          "rationale": "O texto adverte contra óleos de origem vegetal, pois oxidam e se tornam graxas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A limpeza para esse tipo de sujeira é menos abrasiva. Pense nos materiais mais suaves mencionados.",
+      "subject": "amt"
+    },
+    {
+      "question": "Por que as 'sujidades decorrentes do disparo' demandam mais meios para sua limpeza, em comparação com as sujidades do uso diário?",
+      "answerOptions": [
+        {
+          "text": "Porque a pólvora e a mistura iniciadora têm propriedades corrosivas.",
+          "rationale": "Embora possam ser corrosivas, a principal razão citada no texto é a adesão da sujeira.",
+          "isCorrect": false
+        },
+        {
+          "text": "Porque elas aderem de forma mais abrangente e incrustada às partes do armamento, em função de ocorrerem sob altas temperaturas e elevada pressão.",
+          "rationale": "O texto afirma que 'essas sujidades aderem de forma mais abrangente às partes do armamento, visto que isso ocorre sob altas temperaturas e com elevada pressão'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Porque se acumulam apenas no cano, exigindo ferramentas especializadas para sua remoção.",
+          "rationale": "O texto diz que se acumulam no 'mecanismo de disparo, câmara e cano', não apenas no cano.",
+          "isCorrect": false
+        },
+        {
+          "text": "Porque elas são compostas por detritos de tecido e poeira que se fixam com mais facilidade.",
+          "rationale": "Esta é a descrição das 'sujidades decorrentes do uso diário', não do disparo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A resposta está ligada às condições extremas do disparo.",
+      "subject": "amt"
+    },
+    {
+      "question": "Quais são as duas finalidades principais da lubrificação de uma arma de fogo?",
+      "answerOptions": [
+        {
+          "text": "Aumentar o atrito das peças móveis e proteger contra arranhões.",
+          "rationale": "A lubrificação tem como objetivo diminuir o atrito, não aumentá-lo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diminuir o atrito das engrenagens e partes móveis e fornecer a hidrorrepelência necessária à conservação.",
+          "rationale": "Esta é a definição exata das duas finalidades da lubrificação, conforme o texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aumentar a velocidade do projétil e evitar o acúmulo de detritos.",
+          "rationale": "A velocidade do projétil não é afetada pela lubrificação, e a prevenção de detritos é uma consequência secundária da hidrorrepelência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Preservar a proteção anticorrosiva e facilitar o encaixe das peças.",
+          "rationale": "A lubrificação ajuda na conservação, mas sua principal finalidade é o atrito e a hidrorrepelência. A facilitação do encaixe é um benefício, mas não uma finalidade primária.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O texto aborda a lubrificação em relação ao movimento das peças e à proteção contra umidade.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, qual é a quantidade ideal de lubrificante para se aplicar em uma arma de fogo?",
+      "answerOptions": [
+        {
+          "text": "Uma fina camada que não seja percebida ao tato nem escorra quando depositada no coldre.",
+          "rationale": "O texto usa exatamente a expressão 'fina camada' e explica que a quantidade ideal é aquela que não pode ser sentida ao toque ou que escorra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uma quantidade generosa, pois o excesso é melhor do que a falta.",
+          "rationale": "O texto afirma que 'a lubrificação em excesso é tão nociva quanto a sua falta.'",
+          "isCorrect": false
+        },
+        {
+          "text": "Uma quantidade perceptível ao tato, mas que não escorra pela arma.",
+          "rationale": "O texto diz que a quantidade não deve ser percebida ao tato.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas o suficiente para cobrir totalmente as peças móveis com uma camada visível.",
+          "rationale": "A quantidade de lubrificante não deve ser visível ou perceptível ao toque, conforme a recomendação do texto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A quantidade ideal de lubrificante não deve ser visível nem sentida ao toque.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a ordem correta dos cinco fundamentos do tiro apresentados no texto?",
+      "answerOptions": [
+        {
+          "text": "Empunhadura, Postura, Visada, Respiração, Acionamento da tecla do gatilho.",
+          "rationale": "A postura é o primeiro fundamento e a empunhadura o segundo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Postura, Empunhadura, Visada, Respiração, Acionamento da tecla do gatilho.",
+          "rationale": "O texto lista os fundamentos nessa ordem e afirma que eles são executados nessa mesma sequência.",
+          "isCorrect": true
+        },
+        {
+          "text": "Postura, Visada, Empunhadura, Respiração, Acionamento da tecla do gatilho.",
+          "rationale": "A empunhadura é o segundo fundamento e a visada o terceiro.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acionamento da tecla do gatilho, Postura, Empunhadura, Visada, Respiração.",
+          "rationale": "O acionamento da tecla do gatilho é o último fundamento, não o primeiro.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O primeiro fundamento é a base, e o último é a ação final para disparar.",
+      "subject": "amt"
+    },
+    {
+      "question": "Quais são as duas premissas básicas para o tiro barricado ou abrigado?",
+      "answerOptions": [
+        {
+          "text": "Mínima exposição e realização de disparos eficazes.",
+          "rationale": "O texto afirma que, para o tiro barricado, 'todas elas convergem para dois objetivos universais: mínima exposição para enquadramento do alvo desejado e realização de disparos eficazes.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Maior estabilidade e maior mobilidade.",
+          "rationale": "Embora estabilidade seja importante, a mobilidade pode ser limitada. O principal objetivo é a mínima exposição.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uso da posição de joelhos e o tronco de frente para a ameaça.",
+          "rationale": "Essas são técnicas que podem ser usadas, mas não são os objetivos universais do tiro barricado.",
+          "isCorrect": false
+        },
+        {
+          "text": "O colete de proteção balística para os órgãos vitais e a visão periférica.",
+          "rationale": "O colete é um fator de segurança geral. A visão periférica é uma característica da postura, mas não um dos objetivos universais do tiro barricado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A barricada tem um propósito duplo: proteger o atirador e permitir que ele atire bem.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que são a 'altura', o 'envolvimento' e a 'pressão' no contexto da empunhadura?",
+      "answerOptions": [
+        {
+          "text": "Os três requisitos para uma postura de tiro correta.",
+          "rationale": "Esses termos são os três requisitos para a empunhadura, não para a postura.",
+          "isCorrect": false
+        },
+        {
+          "text": "As três etapas do saque da arma.",
+          "rationale": "O saque é dividido em tempos, não em altura, envolvimento e pressão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Os três requisitos para uma empunhadura correta, que ajudam no controle do recuo e na estabilidade da arma.",
+          "rationale": "O texto define altura (posição das mãos), envolvimento (preenchimento do punho) e pressão (força empregada) como os requisitos da empunhadura para controlar a arma e seu recuo.",
+          "isCorrect": true
+        },
+        {
+          "text": "As três características da 'Posição Isósceles Modificada'.",
+          "rationale": "As características da posição isósceles modificada são outras, como quadril encaixado e corpo projetado à frente.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esses três conceitos se referem à forma como você segura a arma.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a diferença entre um 'tiro de combate' e um 'tiro preciso' em relação à visada?",
+      "answerOptions": [
+        {
+          "text": "O 'tiro de combate' utiliza apenas o foco na alça de mira, enquanto o 'tiro preciso' foca na massa de mira.",
+          "rationale": "O foco correto é na massa de mira para ambos, mas a forma de visada é o que difere.",
+          "isCorrect": false
+        },
+        {
+          "text": "No 'tiro de combate', a visada correta pode ser qualquer uma das três visadas, pois o tempo é escasso. No 'tiro preciso', apenas a visada onde alça e massa de mira se alinham com o alvo é considerada correta.",
+          "rationale": "O texto afirma que, para o tiro de combate, as três visadas podem ser consideradas corretas devido à rapidez, enquanto para o tiro preciso, somente a primeira (alinhamento perfeito) é a correta.",
+          "isCorrect": true
+        },
+        {
+          "text": "O 'tiro de combate' é feito com o olho diretor, e o 'tiro preciso' é feito com os dois olhos abertos.",
+          "rationale": "O texto não faz essa distinção. O 'olho diretor' é uma parte da visada, mas não a diferença entre os dois tipos de tiro.",
+          "isCorrect": false
+        },
+        {
+          "text": "No 'tiro de combate', o foco é no alvo e, no 'tiro preciso', o foco é na massa de mira.",
+          "rationale": "O foco correto em um tiro preciso é na massa de mira, mas a descrição para o tiro de combate é mais complexa.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense na rapidez e violência do tiro policial versus a necessidade de exatidão em um tiro de estande.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é o principal objetivo da 'Recarga Tática' e o que o operador deve fazer com o carregador 'semipleno'?",
+      "answerOptions": [
+        {
+          "text": "O objetivo é dar celeridade ao procedimento. O carregador semipleno deve ser desprezado.",
+          "rationale": "A celeridade e o desprezo do carregador caracterizam a 'Recarga Emergencial'.",
+          "isCorrect": false
+        },
+        {
+          "text": "O objetivo é aumentar a capacidade de fogo. O carregador semipleno deve ser retornado para o porta-carregador para uso posterior.",
+          "rationale": "O texto define a recarga tática como um aumento da capacidade de fogo, e o carregador semipleno é guardado para ser reutilizado.",
+          "isCorrect": true
+        },
+        {
+          "text": "O objetivo é a troca de carregador vazio por um pleno. O carregador semipleno é descartado imediatamente para agilizar a recarga.",
+          "rationale": "A troca de um carregador vazio é a 'Recarga Emergencial'.",
+          "isCorrect": false
+        },
+        {
+          "text": "O objetivo é a troca do carregador 'semipleno' por outro 'semipleno'. O carregador original é guardado para uso posterior.",
+          "rationale": "O objetivo é trocar um carregador 'semipleno' por um 'pleno' para aumentar a capacidade de fogo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A 'Recarga Tática' é uma manobra estratégica, não de emergência, e a munição não é desperdiçada.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que a inobservância da técnica de respiração pode causar no atirador, de acordo com o texto?",
+      "answerOptions": [
+        {
+          "text": "Perda do tiro, oscilação da arma para cima e para baixo e maior tempo de recarga.",
+          "rationale": "A falta de controle da respiração pode causar a oscilação da arma e a perda do tiro. O tempo de recarga não é afetado pela respiração.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aumento da pressão arterial, o que melhora o desempenho do tiro.",
+          "rationale": "O texto não menciona o aumento da pressão arterial, e a falta de controle da respiração é prejudicial ao tiro.",
+          "isCorrect": false
+        },
+        {
+          "text": "Visão nebulosa, visão de túnel, confusão mental e perda da coordenação motora.",
+          "rationale": "O texto lista esses sintomas como consequências de uma má oxigenação cerebral, que é um resultado da falta de controle da respiração.",
+          "isCorrect": true
+        },
+        {
+          "text": "Movimento brusco no acionamento do gatilho e torção do pulso.",
+          "rationale": "Esses são problemas relacionados ao 'controle de gatilho', não à respiração.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A respiração afeta a oxigenação do cérebro e, consequentemente, o controle motor e a percepção visual.",
+      "subject": "amt"
+    },
+    {
+      "question": "Para o correto acionamento da tecla do gatilho, qual é o posicionamento do dedo indicador e o tipo de movimento recomendado?",
+      "answerOptions": [
+        {
+          "text": "O meio da falange distal deve repousar sobre o centro da tecla, com um movimento retilíneo à retaguarda e perpendicular.",
+          "rationale": "O texto especifica exatamente este posicionamento do dedo e o tipo de movimento para o acionamento do gatilho.",
+          "isCorrect": true
+        },
+        {
+          "text": "A ponta do dedo indicador deve repousar na tecla, com um movimento brusco e rápido.",
+          "rationale": "O texto recomenda o meio da falange distal e desaconselha movimentos bruscos.",
+          "isCorrect": false
+        },
+        {
+          "text": "A primeira articulação do dedo indicador deve repousar na tecla, com uma pressão gradual em direção ao corpo.",
+          "rationale": "O texto recomenda o meio da falange distal e um movimento 'perpendicular' ao punho, não em direção ao corpo.",
+          "isCorrect": false
+        },
+        {
+          "text": "O dedo deve envolver o gatilho, realizando uma pressão constante, mas o movimento pode ser inclinado para evitar a torção do pulso.",
+          "rationale": "O movimento deve ser retilíneo e perpendicular, não inclinado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O movimento do dedo deve ser controlado e reto. A posição do dedo é precisa.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com as estatísticas do FBI citadas no texto, qual a porcentagem de acertos em confrontos armados que ocorrem em distâncias de até 1,7 metros?",
+      "answerOptions": [
+        {
+          "text": "90% de acerto.",
+          "rationale": "Essa porcentagem de acerto se assemelha à de um estande de tiro, não a de um confronto real de combate, conforme o texto.",
+          "isCorrect": false
+        },
+        {
+          "text": "17% de acerto.",
+          "rationale": "O texto afirma que, nessas distâncias reduzidas, 'aproveita-se somente 01 (um) em cada 06 (seis) tiros (17% de aproveitamento)'.",
+          "isCorrect": true
+        },
+        {
+          "text": "40% de acerto.",
+          "rationale": "O texto menciona que 40% de acerto ocorre na faixa de batimentos cardíacos de 115 e 145 bpm, mas as estatísticas gerais de confronto são mais baixas.",
+          "isCorrect": false
+        },
+        {
+          "text": "50% de acerto.",
+          "rationale": "50% é a porcentagem de confrontos que ocorrem em distâncias de até 1,7 metros, não a porcentagem de acerto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A porcentagem é a mesma para '1 em cada 6 tiros'.",
+      "subject": "amt"
+    },
+    {
+      "question": "Segundo o texto, o que ocorre com as habilidades motoras de um policial quando seus batimentos cardíacos estão entre 115 e 145 bpm durante um confronto?",
+      "answerOptions": [
+        {
+          "text": "As habilidades motoras finas são otimizadas, e as habilidades motoras grossas se deterioram.",
+          "rationale": "Isso é o oposto do que o texto descreve. As habilidades finas se deterioram e as grossas são otimizadas.",
+          "isCorrect": false
+        },
+        {
+          "text": "As habilidades motoras finas começam a se deteriorar, e o controle sobre grupos musculares maiores (habilidades motoras complexas) é ativado.",
+          "rationale": "O texto afirma que, 'a partir de 115 bpm, as habilidades finas começam a deteriorar. Passamos a ter controle sobre conjuntos maiores de músculos'.",
+          "isCorrect": true
+        },
+        {
+          "text": "O policial entra em estado de desatenção, comumente chamado de 'visão de túnel'.",
+          "rationale": "A 'visão de túnel' ocorre acima de 176 bpm, não nessa faixa de batimentos.",
+          "isCorrect": false
+        },
+        {
+          "text": "As habilidades motoras finas e grossas se mantêm inalteradas, permitindo atuar como em um estande de tiro.",
+          "rationale": "As habilidades motoras se alteram significativamente, dificultando a operação da arma, conforme o texto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no tipo de movimento que se torna mais fácil e no que se torna mais difícil nessa faixa de batimentos cardíacos.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é o principal prejuízo que a 'distorção da realidade' causada pela ficção acarreta para a atuação policial?",
+      "answerOptions": [
+        {
+          "text": "Gera um excesso de cautela, levando o policial a evitar confrontos desnecessariamente.",
+          "rationale": "O texto descreve que a ficção distorce a percepção da realidade, e o excesso de cautela é incutido por normas sociais e não pela ficção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Causa perda de habilidade motora fina e distorções sensoriais.",
+          "rationale": "Esses são fatores fisiológicos e psicológicos do confronto, não um prejuízo da ficção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Causa insegurança na análise de risco e influencia negativamente a interpretação da atuação policial pela sociedade.",
+          "rationale": "O texto afirma que o afastamento da verossimilhança 'acarreta prejuízo à atuação policial, seja ao transferir insegurança a ele na análise de percepção de risco, seja por influenciar negativamente a interpretação da atuação policial pela sociedade.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Faz com que o policial acredite que pode acertar um agressor com um único disparo certeiro.",
+          "rationale": "Essa é uma das premissas da ficção, mas o principal prejuízo é a insegurança e a má interpretação por parte da sociedade.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no que acontece quando a realidade é diferente do que o policial espera, e como isso afeta a opinião pública.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que caracteriza o nível de alerta 'Laranja' e o 'Vermelho', de acordo com a tabela de Jeff Cooper?",
+      "answerOptions": [
+        {
+          "text": "'Laranja' é desatenção e relaxamento; 'Vermelho' é alerta e pronto para agir.",
+          "rationale": "O 'Branco' é desatenção, e o 'Laranja' é alerta com potencial ameaça identificada.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Laranja' é a ameaça confirmada; 'Vermelho' é a ameaça potencial identificada.",
+          "rationale": "Isso é o oposto do que o texto descreve. Ameaça potencial é 'Laranja' e ameaça confirmada é 'Vermelho'.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Laranja' é alerta com potencial ameaça identificada, pronto para agir. 'Vermelho' é a ameaça confirmada, com foco na emergência e atuação dos fatores psicofisiológicos.",
+          "rationale": "Esta resposta descreve exatamente os dois níveis de alerta, conforme a tabela do texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Laranja' é o nível mínimo para portar arma; 'Vermelho' é o nível máximo.",
+          "rationale": "O nível mínimo para portar arma é o 'Amarelo', e o nível 'Vermelho' é o momento da ação, não o nível máximo de alerta em si.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A diferença entre os dois níveis é a transição de uma ameaça 'potencial' para uma ameaça 'confirmada'.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a principal diferença entre o 'Ciclo OODA' e o 'Ciclo O3R', e qual deles é considerado mais adequado para a atividade policial?",
+      "answerOptions": [
+        {
+          "text": "O 'Ciclo OODA' foca na ação e reação instintiva. O 'Ciclo O3R' foca na decisão e ação cognitiva, sendo mais adequado para o policial.",
+          "rationale": "Esta afirmação é o oposto do que o texto descreve. O 'O3R' é o que foca na reação instintiva condicionada pelo treinamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "O 'Ciclo OODA' é para conflitos mais longos e duradouros, enquanto o 'Ciclo O3R' foi criado para situações rápidas, violentas e dinâmicas da atividade policial, levando em conta reações instintivas.",
+          "rationale": "O texto explica que o 'Ciclo OODA' se mostrou mais eficiente para conflitos duradouros, e o 'O3R' foi criado para o dinamismo dos confrontos policiais, com foco no treinamento que condiciona respostas instintivas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ambos os ciclos são a mesma coisa, mas com nomes diferentes para diferentes Forças de Segurança.",
+          "rationale": "O texto diferencia claramente os dois ciclos e suas aplicações em diferentes tipos de conflito.",
+          "isCorrect": false
+        },
+        {
+          "text": "O 'Ciclo OODA' é aprimorado pelo treinamento. O 'Ciclo O3R' é natural e não pode ser aprimorado.",
+          "rationale": "O texto enfatiza que o treinamento é fundamental para o 'O3R' para conectar o estímulo à resposta intuitiva aprendida.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no tipo de conflito para o qual cada ciclo foi projetado.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual é a quarta e última 'Ação de Sobrevivência' descrita no protocolo da PMDF, e quais são os seus passos?",
+      "answerOptions": [
+        {
+          "text": "Ação de 'Varredura do ambiente', onde se busca novas ameaças e se realiza uma leitura 360° do local.",
+          "rationale": "Essa é a terceira ação, não a quarta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação de 'Conferência do material', onde se observa a janela de ejeção do armamento para checar se há alguma pane.",
+          "rationale": "Essa é a segunda ação, não a quarta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação de 'Acompanhamento do resultado', onde se verifica se o agressor foi atingido e a agressão cessou.",
+          "rationale": "Essa é a primeira ação, não a quarta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação de 'Preparação para o novo confronto', onde o policial busca abrigo, realiza a recarga tática, verifica se está ferido e se comunica de forma clara.",
+          "rationale": "Esta é a descrição correta da quarta ação de sobrevivência, realizada com o domínio do cenário e das pessoas.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "A última ação acontece após as ameaças terem sido controladas, e o foco é em restaurar a capacidade de combate e pedir ajuda.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, qual é a origem filosófica do monopólio do uso da força pelo Estado e com qual finalidade?",
+      "answerOptions": [
+        {
+          "text": "A obra 'Do contrato social' de Rousseau, que estabeleceu o monopólio para garantir a segurança dos mais fortes.",
+          "rationale": "A obra de Rousseau estabeleceu o monopólio, mas com a finalidade de proteger os mais fracos contra os mais fortes, não o contrário.",
+          "isCorrect": false
+        },
+        {
+          "text": "A Declaração Universal dos Direitos do Homem de 1948, que atribuiu ao Estado a responsabilidade de gerir conflitos de forma isonômica.",
+          "rationale": "A Declaração de 1948 reforçou os direitos humanos, mas a origem filosófica do monopólio do uso da força é mais antiga, remontando a Rousseau.",
+          "isCorrect": false
+        },
+        {
+          "text": "A obra 'Do contrato social' de Rousseau, que transferiu o monopólio do uso da força para a figura estatal para gerir os conflitos sociais de forma isonômica.",
+          "rationale": "O texto afirma que a obra de Rousseau estabeleceu a transição para o Estado de Direito, onde o monopólio da força foi dado ao Estado com o fim de gerir conflitos e tratar todos de forma isonômica.",
+          "isCorrect": true
+        },
+        {
+          "text": "A Constituição Federal de 1988, que conferiu ao Estado a dignidade da pessoa humana como fundamento para o uso da força.",
+          "rationale": "A CF/88 elegeu a dignidade da pessoa humana como fundamento, mas a origem do monopólio do uso da força é anterior a ela.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O texto menciona a transição do 'Estado Natural' para o 'Estado de Direito' e cita um filósofo do século XVIII.",
+      "subject": "amt"
+    },
+    {
+      "question": "Quais são os cinco princípios que devem ser avaliados para a adequação do uso da força letal?",
+      "answerOptions": [
+        {
+          "text": "Legalidade, Conveniência, Necessidade, Legítima Defesa e Proporcionalidade.",
+          "rationale": "Legítima Defesa é a excludente de ilicitude, não um dos cinco princípios de avaliação. O princípio correto é a Moderação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Legalidade, Isonomia, Conveniência, Moderação e Necessidade.",
+          "rationale": "A isonomia é um conceito geral, não um dos cinco princípios de avaliação. O princípio correto é a Proporcionalidade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conveniência, Moderação, Necessidade, Proporcionalidade e Legalidade.",
+          "rationale": "Estes são os cinco princípios listados e definidos no texto como parâmetros para a avaliação do uso da força letal.",
+          "isCorrect": true
+        },
+        {
+          "text": "Legalidade, Honestidade, Conveniência, Proporcionalidade e Ética.",
+          "rationale": "Ética e honestidade são preceitos gerais, mas não os cinco princípios específicos de avaliação da força listados no texto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nas cinco palavras que começam com C, M, N, P e L.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual dos seguintes exemplos NÃO se enquadra nos requisitos da legítima defesa para o uso da força letal, conforme o texto?",
+      "answerOptions": [
+        {
+          "text": "Um policial militar que efetua disparos para repelir uma agressão injusta e iminente que ameaça a sua vida ou a de terceiros.",
+          "rationale": "Este cenário cumpre todos os requisitos da legítima defesa, como agressão injusta, iminente e uso de meios necessários para defender a vida.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um policial militar que efetua disparos contra um indivíduo que está praticando um furto, com a intenção de apenas intimidá-lo e evitar a consumação do crime.",
+          "rationale": "O texto usa este exemplo para ilustrar o excesso, afirmando que a legítima defesa não se aplica nesse caso, pois a agressão não ameaça a vida ou causa lesão grave, e o meio utilizado (disparo de arma de fogo) é desproporcional.",
+          "isCorrect": true
+        },
+        {
+          "text": "Um policial militar que utiliza uma arma de fogo contra um agressor que o ameaça com uma faca, pois é o único meio eficaz que tem para cessar a agressão.",
+          "rationale": "Este cenário cumpre os requisitos de agressão injusta e iminente, e o uso da arma de fogo é o meio necessário, pois é a única forma de cessar a agressão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um policial militar que defende um civil de uma agressão injusta por um agressor, pois o ato de legítima defesa também se aplica a terceiros.",
+          "rationale": "O texto afirma que a legítima defesa é 'cabível quando a agressão injusta ameaça direito próprio ou de terceiro'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A legítima defesa exige que a força seja utilizada para repelir uma ameaça grave ou iminente, não um crime menor.",
+      "subject": "amt"
+    },
+    {
+      "question": "O que a Portaria Interministerial nº 4.226/10 estabelece sobre os 'disparos de advertência' e qual lei essa diretriz se relaciona?",
+      "answerOptions": [
+        {
+          "text": "Não são considerados prática aceitável por não atenderem aos princípios éticos, e se relacionam ao Estatuto do Desarmamento (Lei 10.826/03), Art. 15, que criminaliza o disparo de arma de fogo em via pública.",
+          "rationale": "O texto afirma que os disparos de advertência não são aceitáveis pela Portaria e os relaciona ao Art. 15 do Estatuto do Desarmamento.",
+          "isCorrect": true
+        },
+        {
+          "text": "São considerados uma prática aceitável em casos extremos, para intimidar o agressor. Se relacionam ao Código Penal Militar, Art. 44.",
+          "rationale": "O texto diz que não são prática aceitável e a referência legal é a Lei 10.826/03, não o CPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "São a última opção antes do uso letal da força. Se relacionam ao princípio da necessidade do uso da força.",
+          "rationale": "O texto diz que eles não são aceitáveis, pois a imprevisibilidade de seus efeitos não atende aos princípios de uso da força.",
+          "isCorrect": false
+        },
+        {
+          "text": "Não são uma prática aceitável, mas não há um crime específico para essa conduta.",
+          "rationale": "O texto claramente os relaciona a um crime específico no Estatuto do Desarmamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A resposta envolve uma portaria, um tipo de disparo não aceito e uma lei que proíbe o disparo em locais habitados.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com a Lei 13.060/14, em quais circunstâncias NÃO é legítimo o uso de arma de fogo contra um veículo ou uma pessoa em fuga?",
+      "answerOptions": [
+        {
+          "text": "Contra pessoa desarmada em fuga que não represente risco de morte ou lesão, e contra veículo que desrespeite bloqueio policial, exceto quando representar risco de morte ou lesão.",
+          "rationale": "Esta resposta é a reprodução literal do Art. 2º, Parágrafo único, incisos I e II da Lei 13.060/14, conforme o texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Contra pessoa em fuga que represente risco de morte ou lesão, e contra veículo que desrespeite bloqueio policial em via pública.",
+          "rationale": "Nessas circunstâncias é legítimo o uso de arma de fogo. A pergunta busca as situações onde o uso NÃO é legítimo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Contra pessoa em fuga que esteja armada, e contra veículo que desrespeite o bloqueio em alta velocidade.",
+          "rationale": "Nestes casos o uso da arma pode ser legítimo, dependendo da avaliação de risco. A pergunta busca as situações onde o uso NÃO é legítimo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas contra pessoa que esteja em fuga, pois contra veículos o uso da força letal é sempre legítimo.",
+          "rationale": "O texto desmente essa afirmação, estabelecendo que o uso contra veículos também deve ser avaliado com base no risco de morte ou lesão.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A resposta está na Lei 13.060/14, que estabelece claramente as condições para o uso da força letal contra fugas.",
+      "subject": "amt"
+    },
+    {
+      "question": "Após o uso da força em caso de lesão ou morte, o que o Item 10 da Portaria Interministerial nº 4.226/10 determina que o policial deve fazer?",
+      "answerOptions": [
+        {
+          "text": "Facilitar o socorro médico, preservar o local, comunicar o superior e preencher o relatório correspondente.",
+          "rationale": "Estes são os quatro passos do protocolo de ação após o uso da força, conforme listado no texto.",
+          "isCorrect": true
+        },
+        {
+          "text": "Comunicar à imprensa, isolar o local para investigações e prestar socorro à vítima.",
+          "rationale": "O texto não menciona a comunicação à imprensa e foca na comunicação ao superior e autoridade competente, além da preservação do local e assistência médica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Preencher o relatório, prestar socorro apenas às vítimas da agressão e aguardar a chegada da autoridade competente.",
+          "rationale": "O texto diz que o policial deve facilitar a prestação de socorro, o que implica em assistência a todos os feridos, inclusive do agressor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Realizar uma perícia preliminar do local, entrevistar as testemunhas e comunicar o fato ao superior.",
+          "rationale": "A perícia é feita pelas autoridades competentes, não pelo policial que acabou de usar a força. A principal ação é preservar o local, não investigá-lo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O protocolo pós-incidente se concentra em quatro ações cruciais: socorro, local, comunicação e registro.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, quais são as características do cinto de guarnição da PMDF em relação ao seu travamento e ajuste?",
+      "answerOptions": [
+        {
+          "text": "O cinto deve ser ajustado abaixo da linha de cintura, com um sistema de trava de dois pontos e sem a necessidade de prendedores de cinto.",
+          "rationale": "O texto especifica que o cinto não deve estar abaixo da linha de cintura e deve ter um sistema de trava de três pontos, usando prendedores de cinto.",
+          "isCorrect": false
+        },
+        {
+          "text": "O cinto deve ser bem ajustado e alinhado, usando prendedores de cinto para mantê-lo firme, e deve possuir um sistema de trava de três pontos para impedir o desencaixe involuntário.",
+          "rationale": "O texto descreve exatamente essas características: uso de prendedores de cinto para um ajuste fino e um sistema de trava de três pontos para segurança.",
+          "isCorrect": true
+        },
+        {
+          "text": "O cinto deve ser ajustado com a fivela na frente, usando uma trava automática e um cinto de guarnição de cor marrom.",
+          "rationale": "O Decreto nº 39.758 de 2019 estabelece que o cinto deve ser de cor preta, e a descrição do travamento não é a mencionada.",
+          "isCorrect": false
+        },
+        {
+          "text": "O cinto pode ser de qualquer cor e deve possuir um sistema de retenção de dois níveis para o coldre e porta-carregadores.",
+          "rationale": "O texto especifica a cor preta para o cinto e que o sistema de retenção de dois níveis se refere ao coldre, não ao cinto em si.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O ajuste do cinto e seu sistema de segurança são detalhados no início do capítulo. Pense no número de pontos de trava e no acessório de ajuste.",
+      "subject": "amt"
+    },
+    {
+      "question": "Qual a diferença entre um coldre de 'plataforma de cintura alta' e um de 'plataforma de cintura baixa', e qual é o mais adequado para o porte ostensivo?",
+      "answerOptions": [
+        {
+          "text": "A plataforma de cintura alta é a mais adequada para porte ostensivo, pois a arma fica mais próxima do corpo. A plataforma de cintura baixa é mais adequada para porte velado.",
+          "rationale": "Essa é a descrição oposta do que o texto informa. O coldre de plataforma alta é para porte velado, e o de plataforma baixa é para porte ostensivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "A plataforma de cintura alta posiciona a arma acima do cinto, sendo ideal para porte velado. A plataforma de cintura baixa posiciona a arma abaixo do cinto, sendo a mais adequada para o porte ostensivo.",
+          "rationale": "O texto define a plataforma de cintura alta como acima do cinto (ideal para porte velado) e a de cintura baixa como abaixo do cinto (ideal para porte ostensivo).",
+          "isCorrect": true
+        },
+        {
+          "text": "A plataforma de cintura alta facilita o saque rápido, e a plataforma de cintura baixa é mais segura. Ambas são igualmente adequadas para porte ostensivo.",
+          "rationale": "O texto afirma que a plataforma de cintura baixa é que oferece maior segurança e facilita o saque rápido para o porte ostensivo, enquanto a de cintura alta é para porte velado.",
+          "isCorrect": false
+        },
+        {
+          "text": "A plataforma de cintura alta é usada para armas de calibre maior, e a plataforma de cintura baixa é usada para armas de calibre menor.",
+          "rationale": "O texto não faz essa distinção. A diferença entre as plataformas é a altura da arma em relação ao cinto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A altura do coldre em relação ao cinto determina se ele é mais adequado para dissimular a arma ou para facilitar o uso ostensivo.",
+      "subject": "amt"
+    },
+    {
+      "question": "Conforme a Nota Técnica da PMDF, quais são os dois sistemas de retenção do coldre institucional e como eles são desabilitados?",
+      "answerOptions": [
+        {
+          "text": "A trava por 'capuz' é desabilitada com pressão para frente e para trás. A 'trava automática' é desabilitada com pressão para baixo.",
+          "rationale": "O texto descreve a ação sequencial: primeiro a pressão para baixo e para frente na trava do capuz, e depois a pressão para trás na trava automática.",
+          "isCorrect": false
+        },
+        {
+          "text": "A trava automática é desabilitada por uma alça pivotante, e a trava por fricção é desabilitada com o polegar.",
+          "rationale": "O texto não descreve uma 'trava por fricção' e a trava automática é liberada por pressão, não pela alça.",
+          "isCorrect": false
+        },
+        {
+          "text": "A trava do tipo 'capuz' (ou alça pivotante) é desabilitada com pressão para baixo e para frente, e a 'trava automática' é desabilitada com pressão para trás.",
+          "rationale": "O texto detalha o movimento do polegar da mão de tiro para desabilitar as duas travas sequencialmente, exatamente como descrito.",
+          "isCorrect": true
+        },
+        {
+          "text": "O coldre institucional possui um sistema de retenção que se desabilita por completo ao girar o coldre para o lado e puxar a arma para fora.",
+          "rationale": "O texto não menciona essa forma de desabilitar o sistema de retenção e, pelo contrário, descreve um sistema que evita o saque não intencional.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nos dois tipos de trava de segurança e nos movimentos específicos do polegar para liberá-las.",
+      "subject": "amt"
+    },
+    {
+      "question": "De acordo com o texto, qual é a importância da ergonomia na disposição do porta-carregador de pistola no cinto de guarnição?",
+      "answerOptions": [
+        {
+          "text": "A disposição é irrelevante, desde que o carregador esteja seguro no cinto.",
+          "rationale": "O texto afirma que a disposição é 'muito importante' e que deve seguir a dominância motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "O porta-carregador deve ser posicionado na parte de trás do cinto, para que a mão fraca possa acessá-lo mais rapidamente.",
+          "rationale": "A posição na parte de trás do cinto não é mencionada como a ideal para um saque rápido.",
+          "isCorrect": false
+        },
+        {
+          "text": "O porta-carregador deve ser posicionado do lado da mão forte para garantir a estabilidade do cinto, em detrimento da velocidade de recarga.",
+          "rationale": "A disposição deve ser feita do lado da mão fraca para a recarga, não do lado da mão forte.",
+          "isCorrect": false
+        },
+        {
+          "text": "A disposição dos equipamentos deve seguir a dominância motora para que o policial possa acessá-los rapidamente e realizar uma recarga rápida e eficiente com a mão fraca.",
+          "rationale": "O texto menciona que a disposição segue a dominância motora, com o porta-carregador no lado da mão fraca (esquerda para destros), para uma recarga mais eficiente.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Pense em qual mão o policial usa para fazer a recarga e como o porta-carregador deve estar posicionado para essa ação.",
+      "subject": "amt"
+    }
+  ]
 }

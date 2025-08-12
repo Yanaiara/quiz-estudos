@@ -4,17 +4,19 @@ export type AnswerOption = {
   isCorrect: boolean;
 };
 
-export interface Question {
-  id: string;
+export type Question = {
   question: string;
   hint: string;
   subject?: string;
   answerOptions: {
     text: string;
-    isCorrect: boolean;
     rationale: string;
+    isCorrect: boolean;
   }[];
-}
+  attempted?: boolean;
+  timesAnswered?: number;
+  lastAnsweredCorrectly?: boolean;
+};
 
 export type QuizData = {
   discipline: string;

@@ -61,22 +61,34 @@ export const Input = styled.input`
 `;
 
 export const Select = styled.select`
-  padding: 10px 14px;
-  border-radius: 8px;
+  padding: 12px 16px;
+  border-radius: 10px;
   border: 1.5px solid #ccc;
   font-size: 16px;
   background-color: #fff;
-  transition: 0.3s;
+  color: #333;
   font-family: inherit;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+  appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='gray' height='18' viewBox='0 0 24 24' width='18' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 18px;
 
   &:hover {
-    border-color: #888;
+    border-color: #999;
   }
 
   &:focus {
     outline: none;
     border-color: #007bff;
-    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.15);
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.15);
+  }
+
+  option {
+    font-size: 15px;
+    padding: 6px;
   }
 `;
 

@@ -138,3 +138,20 @@ export const SmallButton = styled.button`
   }
 `;
 
+export const QuestionProgressBar = styled.div<{ width: number }>`
+  height: 6px;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 12px;
+
+  &::after {
+    content: "";
+    display: block;
+    height: 100%;
+    width: ${({ width }) => width}%;
+    background-color: ${({ width }) =>
+    width < 50 ? "#ffc107" : width < 90 ? "#17a2b8" : "#28a745"};
+    transition: width 0.2s linear;
+  }
+`;

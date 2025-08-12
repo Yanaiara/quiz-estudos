@@ -14,6 +14,7 @@ import {
   NextButton,
   ActionRow,
   SmallButton,
+  QuestionProgressBar,
 } from "../styles/QuizScreen.styles";
 
 export type AnswerRecord = {
@@ -42,6 +43,7 @@ const QuizScreen = ({
   const [selected, setSelected] = useState<number | null>(null);
   const [score, setScore] = useState(initialScore);
   const [userAnswers, setUserAnswers] = useState<AnswerRecord[]>(initialAnswers);
+  const [questionTimer, setQuestionTimer] = useState(0);
 
   const question = questions[current];
   const total = questions.length;
@@ -54,6 +56,10 @@ const QuizScreen = ({
     const isCorrect = question.answerOptions[index].isCorrect;
 
     if (isCorrect) setScore((prev) => prev + 1);
+
+    questions[current].attempted = true;
+    questions[current].timesAnswered = (questions[current].timesAnswered || 0) + 1;
+    questions[current].lastAnsweredCorrectly = isCorrect;
 
     const answerRecord: AnswerRecord = {
       question: question.question,
@@ -93,7 +99,6 @@ const QuizScreen = ({
   const getFeedbackMessage = (isCorrect: boolean): string =>
     isCorrect ? "✅ Boa! Resposta correta." : "❌ Ops! Não é essa. Veja a justificativa.";
 
-  // Salvar progresso no localStorage
   useEffect(() => {
     const progress = {
       current,
@@ -105,7 +110,6 @@ const QuizScreen = ({
     localStorage.setItem("quizProgress", JSON.stringify(progress));
   }, [current, score, userAnswers, questions]);
 
-  // Selecionar resposta anterior (se existir)
   useEffect(() => {
     const existing = userAnswers[current];
     if (existing) {
@@ -113,6 +117,14 @@ const QuizScreen = ({
     } else {
       setSelected(null);
     }
+  }, [current]);
+
+  useEffect(() => {
+    setQuestionTimer(0);
+    const interval = setInterval(() => {
+      setQuestionTimer((prev) => (prev < 100 ? prev + 1 : 100));
+    }, 100);
+    return () => clearInterval(interval);
   }, [current]);
 
   return (
@@ -128,8 +140,16 @@ const QuizScreen = ({
           initial={{ width: 0 }}
           animate={{ width: `${progressPercent}%` }}
           transition={{ duration: 0.4 }}
+          style={{
+            backgroundColor:
+              progressPercent < 50 ? "#ffc107" : progressPercent < 80 ? "#17a2b8" : "#28a745",
+            borderRadius: "12px",
+            height: "10px",
+          }}
         />
       </ProgressWrapper>
+
+      <QuestionProgressBar width={questionTimer} />
 
       <ProgressText>
         Pergunta {current + 1} de {total} • {progressPercent}%

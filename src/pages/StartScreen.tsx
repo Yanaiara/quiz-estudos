@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import {
   Container,
@@ -25,6 +25,26 @@ const StartScreen = ({ onStart, onSelectMode }: Props) => {
   const [materia, setMateria] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+  const [filtro, setFiltro] = useState<"todas" | "erradas" | "respondidas" | "nao_respondidas">("todas");
+
+  const [totals, setTotals] = useState<Record<string, number>>({});
+
+  // Carrega o total de questões por disciplina
+  useEffect(() => {
+    const loadTotals = async () => {
+      const data: Record<string, number> = {};
+      for (const m of materias) {
+        try {
+          const questions = await loadQuestionsBySubject(m.value, 9999);
+          data[m.value] = questions.length;
+        } catch {
+          data[m.value] = 0;
+        }
+      }
+      setTotals(data);
+    };
+    loadTotals();
+  }, []);
 
   const isFormValid = materia !== "" && amount > 0;
 
@@ -36,8 +56,28 @@ const StartScreen = ({ onStart, onSelectMode }: Props) => {
     onSelectMode(mode);
 
     try {
-      const questions = await loadQuestionsBySubject(materia, amount);
-      if (!questions.length) throw new Error("Nenhuma questão encontrada.");
+      let questions = await loadQuestionsBySubject(materia, 9999);
+
+      questions = questions.filter((q) => {
+        if (filtro === "erradas") return q.attempted && q.lastAnsweredCorrectly === false;
+        if (filtro === "respondidas") return q.attempted;
+        if (filtro === "nao_respondidas") return !q.attempted;
+        return true;
+      });
+
+      questions = questions.sort((a, b) => {
+        const getScore = (q: Question) => {
+          if (!q.attempted) return 0;
+          if (q.lastAnsweredCorrectly === false) return 1;
+          return 2;
+        };
+        return getScore(a) - getScore(b);
+      });
+
+      questions = questions.slice(0, amount);
+
+      if (!questions.length) throw new Error("Nenhuma questão encontrada com esse filtro.");
+
       onStart({ questions });
     } catch (err) {
       console.error("Erro ao carregar questões:", err);
@@ -66,9 +106,19 @@ const StartScreen = ({ onStart, onSelectMode }: Props) => {
           <option value="">Selecione...</option>
           {materias.map((m) => (
             <option key={m.value} value={m.value}>
-              {m.label}
+              {m.label} ({totals[m.value] ?? "..."})
             </option>
           ))}
+        </Select>
+      </Label>
+
+      <Label>
+        Filtro de questões:
+        <Select value={filtro} onChange={(e) => setFiltro(e.target.value as any)}>
+          <option value="todas">Todas</option>
+          <option value="erradas">Somente erradas</option>
+          <option value="respondidas">Somente respondidas</option>
+          <option value="nao_respondidas">Somente não respondidas</option>
         </Select>
       </Label>
 

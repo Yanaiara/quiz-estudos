@@ -25,7 +25,10 @@
                 }
             ],
             "hint": "Revise a lista de espécies de Inteligência de Segurança Pública mencionadas na introdução do documento.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a natureza fundamental da Inteligência Policial Militar, conforme a Política de Inteligência da PMDF (POLINT/PMDF)?",
@@ -52,7 +55,10 @@
                 }
             ],
             "hint": "Pense nas características essenciais da Inteligência Policial Militar em sua definição mais abrangente, especialmente em relação ao Estado e seu propósito.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "O que caracteriza a Inteligência de Alerta, dentro da classificação por recorte temporal da produção de conhecimento?",
@@ -79,7 +85,10 @@
                 }
             ],
             "hint": "Foque no objetivo principal da Inteligência de Alerta em relação ao tempo e à ação do decisor.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a principal atribuição da Contrainteligência Policial Militar?",
@@ -106,7 +115,10 @@
                 }
             ],
             "hint": "Lembre-se do ramo da inteligência focado na proteção contra ameaças e na salvaguarda dos recursos institucionais.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Segundo a classificação por propósito, qual tipo de Inteligência tem o objetivo de construir conjuntos de fundamentos e referências para compreensão e contextualização de temas, servindo como subsídio para outras análises?",
@@ -133,7 +145,10 @@
                 }
             ],
             "hint": "Pense no tipo de inteligência que estabelece os alicerces e o contexto para análises mais focadas.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual dos seguintes não é considerado um instrumento essencial da Inteligência Policial Militar, conforme listado na POLINT/PMDF?",
@@ -160,7 +175,10 @@
                 }
             ],
             "hint": "Revise a lista de instrumentos essenciais da Inteligência Policial Militar mencionada na seção 3 do documento.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual pressuposto da Atividade de Inteligência Policial Militar é alicerçado em um conjunto sólido de valores profissionais e exige o emprego de meios sigilosos?",
@@ -187,7 +205,10 @@
                 }
             ],
             "hint": "Pense no pressuposto que enfatiza o uso de métodos e meios específicos e confidenciais.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Uma das subespécies da Inteligência Policial Militar no DF, o Serviço Velado, possui qual atribuição principal?",
@@ -214,7 +235,10 @@
                 }
             ],
             "hint": "Concentre-se na função do Serviço Velado em campo e nos tipos de inteligência que ele mais diretamente apoia.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual das seguintes ameaças é descrita como aquela que 'demanda integração entre as Agências do SIPOM e outros sistemas de inteligência, a fim de potencializar a identificação de redes criminais'?",
@@ -241,7 +265,10 @@
                 }
             ],
             "hint": "Pense no tipo de criminalidade que opera em grande escala e exige colaboração entre diferentes órgãos de inteligência para ser combatida.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é um dos objetivos principais da Política de Inteligência da PMDF (POLINT/PMDF)?",
@@ -268,7 +295,10 @@
                 }
             ],
             "hint": "Considere o papel da inteligência no apoio à tomada de decisões e à estratégia institucional da PMDF.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Além da função informacional, quais são outras funções importantes da Atividade de Inteligência no âmbito da PMDF?",
@@ -295,7 +325,10 @@
                 }
             ],
             "hint": "Pense nas responsabilidades da Inteligência que vão além de simplesmente informar, focando na proteção e na proatividade.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a principal diferença de propósito entre a Inteligência Tática e a Inteligência Operacional?",
@@ -322,7 +355,10 @@
                 }
             ],
             "hint": "Considere o nível de decisão e a temporalidade de cada tipo de inteligência: um para 'ações' e outro para 'emprego de recursos' e 'decisões imediatas'.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "O que são os 'Sensores de Inteligência' no contexto da POLINT/PMDF?",
@@ -349,7 +385,10 @@
                 }
             ],
             "hint": "Pense no papel de cada policial militar na contribuição de informações para a inteligência, independentemente de ser um especialista em inteligência.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Um dos pressupostos da Atividade de Inteligência Policial Militar é o 'Sigilo'. Qual o principal objetivo desse sigilo?",
@@ -376,7 +415,10 @@
                 }
             ],
             "hint": "Considere por que a natureza sigilosa é fundamental para a segurança e eficácia das operações de inteligência.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "A Inteligência Policial Militar Judiciária (IPMJ) tem como um de seus focos principais a prevenção, neutralização e repressão de quais tipos de crimes e infrações?",
@@ -403,7 +445,10 @@
                 }
             ],
             "hint": "Pense no domínio de atuação específico da Inteligência Policial Militar Judiciária, especialmente em relação ao âmbito interno da instituição.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "O Policiamento Orientado pela Inteligência é baseado na obtenção, validação e/ou processamento de dados para qual finalidade principal?",
@@ -430,7 +475,10 @@
                 }
             ],
             "hint": "Considere como a inteligência impacta diretamente a forma como o policiamento ostensivo é planejado e executado.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "A Política de Inteligência da PMDF (POLINT/PMDF) foi elaborada com base em diversas normas. Qual das seguintes leis instituiu o Sistema Brasileiro de Inteligência (SISBIN) e criou a Agência Brasileira de Inteligência (ABIN)?",
@@ -457,7 +505,10 @@
                 }
             ],
             "hint": "Foque nas leis de âmbito federal que criaram as estruturas fundamentais de inteligência no Brasil.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a descrição da ameaça de 'Ações contrárias ao Estado Democrático de Direito' conforme a POLINT/PMDF?",
@@ -484,7 +535,10 @@
                 }
             ],
             "hint": "Pense nas ameaças que minam os fundamentos da própria estrutura governamental e social, conforme a Constituição.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Um dos objetivos da POLINT/PMDF é 'Impulsionar o Policiamento Orientado pela Inteligência'. Qual diretriz corresponde diretamente a essa ação?",
@@ -511,7 +565,10 @@
                 }
             ],
             "hint": "Procure a diretriz que explicitamente menciona o 'Policiamento Orientado pela Inteligência' e suas implicações práticas.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a principal distinção entre 'Inteligência Policial Militar' (o ramo da atividade) e 'Contrainteligência Policial Militar'?",
@@ -538,7 +595,10 @@
                 }
             ],
             "hint": "Pense nos objetivos primários de cada ramo: um busca conhecimento geral sobre o ambiente, o outro busca proteger a instituição de ações danosas.",
-            "subject": "inteligencia_pmdf"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "De acordo com o texto, qual é a principal característica da definição de liderança atualmente?",
@@ -565,7 +625,10 @@
                 }
             ],
             "hint": "Preste atenção à introdução do tópico 'Liderança' e como ela é descrita em termos de complexidade e aceitação.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Independentemente do conceito adotado, quais são os quatro fatores que sempre estarão presentes quando da manifestação do fenômeno da liderança?",
@@ -592,7 +655,10 @@
                 }
             ],
             "hint": "Lembre-se dos elementos essenciais que precisam existir para que a liderança se manifeste, envolvendo os atores e o ambiente.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual dos seguintes não é um dos graus de influenciação mencionados no texto?",
@@ -619,7 +685,10 @@
                 }
             ],
             "hint": "Verifique a seção que detalha os diferentes 'graus de influenciação'.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Segundo Chiavenato, quais são as três bases de autoridade do líder?",
@@ -646,7 +715,10 @@
                 }
             ],
             "hint": "Lembre-se dos tipos de autoridade que um líder pode ter, conforme o teórico Chiavenato.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Uma das principais funções do líder é 'Motivar o liderado'. De acordo com o texto, o que significa 'motivar'?",
@@ -673,7 +745,10 @@
                 }
             ],
             "hint": "Concentre-se na definição de 'motivar' apresentada na seção sobre a função de motivação do líder.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Segundo o texto, qual é a importância da 'interação' para que a liderança ocorra?",
@@ -700,7 +775,10 @@
                 }
             ],
             "hint": "Reveja os quatro fatores que sempre estão presentes na liderança, com foco na dinâmica entre líder e liderados.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Sobre a função de 'Delegar Tarefas', o que o verdadeiro líder deve ter perfeita consciência?",
@@ -727,7 +805,10 @@
                 }
             ],
             "hint": "Pense na capacidade de um líder de gerenciar a si mesmo e a sua equipe de forma eficiente, reconhecendo limites e oportunidades de colaboração.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a definição de 'Comunicação' apresentada no texto?",
@@ -754,7 +835,10 @@
                 }
             ],
             "hint": "Relembre a citação de Werther & Davis sobre o que a comunicação realmente envolve.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é um dos principais desafios que o líder enfrenta ao lidar com o 'Trabalho em Equipe'?",
@@ -781,7 +865,10 @@
                 }
             ],
             "hint": "Pense nos desafios inerentes a um grupo de indivíduos com diferentes perspectivas e como o líder atua para harmonizá-los.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual das seguintes vantagens a disciplina, quando bem aplicada, NÃO oferece, conforme o texto?",
@@ -808,7 +895,10 @@
                 }
             ],
             "hint": "Revise as três vantagens explícitas da disciplina no final da seção 'Disciplina'.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual das quatro correntes de pensamento sobre liderança foca principalmente no que o líder é e o que ele faz?",
@@ -835,7 +925,10 @@
                 }
             ],
             "hint": "Relembre os títulos das quatro correntes e seu foco principal.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "A Teoria Inatista defende que o líder é um indivíduo predestinado ou abençoado para exercer a liderança. Qual dos fatores abaixo essa teoria desconsidera?",
@@ -862,7 +955,10 @@
                 }
             ],
             "hint": "Pense no que a Teoria Inatista ignora ao atribuir a liderança a um dom ou destino.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": false
         },
         {
             "question": "A Teoria do Grande Homem é muito influenciada por qual visão da liderança?",
@@ -889,7 +985,10 @@
                 }
             ],
             "hint": "Considere o termo 'Grande Homem' e o que ele sugere sobre a natureza do líder.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": false
         },
         {
             "question": "Qual é a principal premissa da Teoria dos Traços de Personalidade?",
@@ -916,7 +1015,10 @@
                 }
             ],
             "hint": "Pense no que essa teoria valoriza no indivíduo que o torna um líder.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "No estilo de liderança autocrático, uma das conclusões da Pesquisa de Iowa foi que o trabalho dos liderados é geralmente paralisado quando o líder se ausenta. Qual é a principal razão para isso?",
@@ -943,7 +1045,10 @@
                 }
             ],
             "hint": "Reflita sobre como a centralização da autoridade e o medo de represálias afetam a proatividade dos liderados nesse estilo.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "A pesquisa de Iowa concluiu que o estilo democrático de liderança promove a 'independência do líder'. O que essa independência significa na prática?",
@@ -970,7 +1075,10 @@
                 }
             ],
             "hint": "Pense no impacto da ausência do líder em um ambiente democrático, onde a equipe tem mais autonomia.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual é a principal característica do líder no estilo Laissez-faire, segundo o texto?",
@@ -997,7 +1105,10 @@
                 }
             ],
             "hint": "Lembre-se do significado do termo 'laissez-faire' em relação à intervenção do líder.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Para que o método da liderança liberal (Laissez-faire) tenha sucesso, o que URIS (1967) afirma ser necessário para a pessoa que está sendo orientada?",
@@ -1024,7 +1135,10 @@
                 }
             ],
             "hint": "Considere o tipo de ambiente que o estilo laissez-faire cria e que tipo de liderado se adaptaria melhor a ele.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual a principal diferença entre a Liderança Direta e a Liderança Indireta?",
@@ -1051,7 +1165,10 @@
                 }
             ],
             "hint": "Pense no caminho que a influência do líder percorre para chegar aos liderados em cada uma das formas.",
-            "subject": "chefia_lideranca"
+            "subject": "ambiental_rural",
+            "attempted": true,
+            "timesAnswered": 0,
+            "lastAnsweredCorrectly": true
         },
         {
             "question": "Qual Decreto Distrital foi responsável pela criação do Batalhão de Polícia Militar Ambiental (BPMA/PMDF) em sua denominação atual?",
@@ -1078,7 +1195,7 @@
                 }
             ],
             "hint": "Preste atenção aos anos e ao que cada decreto ou portaria estabeleceu em relação ao BPMA.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Conforme o Decreto nº 41.167/2020, qual é uma das responsabilidades do BPMA/PMDF?",
@@ -1105,7 +1222,7 @@
                 }
             ],
             "hint": "Pense no escopo das atividades do BPMA relacionadas diretamente à proteção do meio ambiente.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Para um policial militar pertencer ao Radiopatrulhamento Ambiental (RPA) e permanecer lotado no BPMA, qual curso é fundamental?",
@@ -1132,7 +1249,7 @@
                 }
             ],
             "hint": "Considere o curso básico e abrangente que qualifica para o policiamento ambiental em geral e a lotação na unidade.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual grupamento do BPMA tem por missão precípua realizar o policiamento preventivo e repressivo voltado aos crimes ambientais de maior complexidade e risco no bioma Cerrado?",
@@ -1159,7 +1276,7 @@
                 }
             ],
             "hint": "O nome do grupamento já indica a sua área de especialização principal.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a área aproximada do espelho d'água do Lago Paranoá, policiado pela Companhia Lacustre?",
@@ -1186,7 +1303,7 @@
                 }
             ],
             "hint": "Verifique o dado numérico específico fornecido para a área do lago.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O Grupo Tático Ambiental (GTA) do BPMA foi criado com qual objetivo principal?",
@@ -1213,7 +1330,7 @@
                 }
             ],
             "hint": "Foque na natureza 'tática' e no escopo de atuação do GTA em relação aos tipos de crimes e áreas.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a responsabilidade específica do Programa de Educação Ambiental Lobo-Guará (PREALG) dentro do BPMA?",
@@ -1240,7 +1357,7 @@
                 }
             ],
             "hint": "O nome do programa já sugere sua principal área de atuação dentro da temática ambiental.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual organismo internacional foi criado em 1945, após a Segunda Guerra Mundial, e é mencionado como parte do contexto histórico da legislação ambiental?",
@@ -1267,7 +1384,7 @@
                 }
             ],
             "hint": "Pense na principal organização internacional criada logo após a 2ª Guerra Mundial para promover a paz e a cooperação, que depois se envolveria com o meio ambiente.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "A Declaração de Estocolmo e o Programa das Nações Unidas sobre o Meio Ambiente (PNUMA) resultaram de qual conferência?",
@@ -1294,7 +1411,7 @@
                 }
             ],
             "hint": "Atente-se ao ano em que a Declaração de Estocolmo foi estabelecida e qual grande evento da ONU isso marca.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O BPMA/PMDF já esteve subordinado a quais comandos antes do atual CPEsp (Comando de Policiamento Especializado)?",
@@ -1321,7 +1438,7 @@
                 }
             ],
             "hint": "Revise o histórico legal do BPMA e os comandos pelos quais ele passou, especificamente os especializados.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O conceito de 'desenvolvimento sustentável', que integra proteção ecológica, desenvolvimento social e econômico, foi formalmente estabelecido em qual conferência da ONU?",
@@ -1348,7 +1465,7 @@
                 }
             ],
             "hint": "Preste atenção ao ano em que o termo 'desenvolvimento sustentável' foi destacado na cronologia das conferências da ONU.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual dos seguintes não é um tipo de Unidade de Conservação (UC) de Proteção Integral (PI), conforme a Lei do SNUC?",
@@ -1375,7 +1492,7 @@
                 }
             ],
             "hint": "Lembre-se da divisão das UCs em Proteção Integral (PI) e Uso Sustentável (US) e seus respectivos exemplos.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual a principal atribuição da Polícia Militar, mencionada na Lei Federal nº 14.751/2023 (Lei Orgânica Nacional das Polícias Militares), relacionada à legislação ambiental?",
@@ -1402,7 +1519,7 @@
                 }
             ],
             "hint": "Preste atenção ao Art. 5º, VII da nova Lei Orgânica Nacional das Polícias Militares e suas competências.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "De acordo com a Lei de Crimes Ambientais (Lei Federal nº 9.605/1998), qual das seguintes opções NÃO é considerada uma pena restritiva de direitos para Pessoas Jurídicas (PJ)?",
@@ -1429,7 +1546,7 @@
                 }
             ],
             "hint": "Lembre-se da diferença de responsabilização criminal entre Pessoas Físicas e Pessoas Jurídicas na Lei de Crimes Ambientais.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Conforme o Art. 29 da Lei de Crimes Ambientais (Lei Federal nº 9.605/1998), qual das ações abaixo, se praticada sem a devida permissão, licença ou autorização da autoridade competente, configura o crime de 'caça ilegal' e permite a lavratura de TCO?",
@@ -1456,7 +1573,7 @@
                 }
             ],
             "hint": "Foque na descrição precisa do Art. 29, que se refere aos crimes contra a fauna silvestre.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "A Política Nacional do Meio Ambiente (PNMA) de 1981 instituiu quais importantes instrumentos de gestão ambiental?",
@@ -1483,7 +1600,7 @@
                 }
             ],
             "hint": "Lembre-se dos principais marcos criados pela PNMA de 1981 para a estrutura ambiental brasileira.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a característica principal das Unidades de Conservação (UCs) de 'Proteção Integral' (PI)?",
@@ -1510,7 +1627,7 @@
                 }
             ],
             "hint": "Pense no grau de proteção e no tipo de uso permitido em UCs onde a 'natureza' é o foco principal.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O que o Decreto Federal nº 6.514/2008 regulamenta, materializando o poder de polícia administrativo?",
@@ -1537,7 +1654,7 @@
                 }
             ],
             "hint": "Foque no aspecto 'administrativo' da aplicação da legislação ambiental e nas penalidades.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Conforme o § 1º, inciso III, do Art. 29 da Lei de Crimes Ambientais, incorre nas mesmas penas de 'caça ilegal' quem pratica qual das seguintes ações?",
@@ -1564,7 +1681,7 @@
                 }
             ],
             "hint": "Atente-se às ações relacionadas ao comércio, posse ou transporte ilegal de fauna silvestre ou seus produtos.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a principal distinção entre as Unidades de Conservação de 'Proteção Integral' (PI) e as de 'Uso Sustentável' (US)?",
@@ -1591,7 +1708,7 @@
                 }
             ],
             "hint": "Concentre-se no tipo de 'uso' permitido ou restrito em cada categoria de Unidade de Conservação.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Conforme o § 4º do Art. 29 da Lei de Crimes Ambientais, a pena para o crime de 'caça ilegal' é aumentada de metade se for praticado em qual das seguintes situações?",
@@ -1618,7 +1735,7 @@
                 }
             ],
             "hint": "Revise as condições listadas no § 4º do Art. 29 para o aumento de pena na caça ilegal.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Quando o crime de maus-tratos a animais, previsto no Art. 32 da LCA, se refere a cão ou gato, qual é a pena e se cabe ou não TCO?",
@@ -1645,7 +1762,7 @@
                 }
             ],
             "hint": "Preste atenção à alteração de pena e à observação sobre o TCO quando a vítima é um cão ou gato.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual das seguintes ações, relacionadas à pesca ilegal, possui pena de reclusão de um a cinco anos e NÃO CABE TCO, conforme a Lei de Crimes Ambientais?",
@@ -1672,7 +1789,7 @@
                 }
             ],
             "hint": "Foque nas técnicas de pesca mais destrutivas que resultam em penas mais graves.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O que o Art. 36 da Lei de Crimes Ambientais (LCA) define como 'pesca'?",
@@ -1699,7 +1816,7 @@
                 }
             ],
             "hint": "Lembre-se dos grupos de espécies aquáticas e vegetais abrangidos pela definição legal de pesca.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual das seguintes situações é considerada uma excludente de crimes contra a fauna, conforme o Art. 37 da LCA?",
@@ -1726,7 +1843,7 @@
                 }
             ],
             "hint": "Pense nas justificativas específicas que a lei prevê para não configurar um crime contra a fauna.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a principal distinção em relação ao TCO para crimes contra a flora, como a destruição ou dano à floresta de proteção permanente (Arts. 38 e 39) e dano em Unidades de Conservação (Art. 40)?",
@@ -1753,7 +1870,7 @@
                 }
             ],
             "hint": "Observe a indicação explícita sobre a aplicação do TCO para os crimes contra a flora mencionados nos Arts. 38, 39 e 40.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Os crimes relacionados a 'fogo nas vegetações', como provocar incêndio em mata ou floresta (Art. 41) ou fabricar/soltar balões (Art. 42), possuem qual característica em relação ao TCO?",
@@ -1780,7 +1897,7 @@
                 }
             ],
             "hint": "Foque na informação sobre TCO para os crimes que envolvem fogo e balões.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O Art. 51 da LCA trata da 'ilegalidade de comercialização ou utilização de motosserra em vegetações'. Qual a pena e se cabe ou não TCO para este crime?",
@@ -1807,7 +1924,7 @@
                 }
             ],
             "hint": "Verifique a pena e a indicação de TCO especificamente para o uso ilegal de motosserra.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Conforme o Art. 53 da LCA, qual das seguintes situações NÃO é uma agravante de pena para crimes contra a flora?",
@@ -1834,7 +1951,7 @@
                 }
             ],
             "hint": "Compare as situações apresentadas com a lista de agravantes de pena no Art. 53, especificamente para crimes contra a flora.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Em relação ao crime de 'poluição de qualquer natureza' (Art. 54 da LCA), qual é a sua principal característica prática para a atuação policial militar?",
@@ -1861,7 +1978,7 @@
                 }
             ],
             "hint": "Considere a complexidade do tipo penal e o procedimento policial necessário para sua apuração.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "O Art. 55 da LCA, que trata da 'pesquisa, lavra ou extração de recursos minerais sem autorização legal', possui qual característica em relação ao TCO?",
@@ -1888,7 +2005,7 @@
                 }
             ],
             "hint": "Verifique a pena cominada e a indicação de TCO para o crime de extração mineral sem autorização.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a principal diferença prática para a atuação policial militar entre o crime do Art. 55 ('extração de minerais sem autorização') e o do Art. 56 ('substâncias tóxicas, perigosas ou nocivas') da LCA, em termos de TCO?",
@@ -1915,7 +2032,7 @@
                 }
             ],
             "hint": "Foque na informação sobre a aplicabilidade do TCO para cada um desses artigos e as consequências para o procedimento policial.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "De acordo com o Art. 60 da Lei de Crimes Ambientais (LCA), construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, obras ou serviços potencialmente poluidores sem licença ou autorização dos órgãos ambientais competentes configura qual tipo de crime e qual o procedimento em relação ao TCO?",
@@ -1942,7 +2059,7 @@
                 }
             ],
             "hint": "Lembre-se da natureza do crime (perigo abstrato) e das penas mais leves que geralmente permitem TCO.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Conforme os Arts. 62 e 63 da LCA, qual é o procedimento para os crimes de danos a estruturas de edificação ou local protegido (por lei, ato administrativo ou decisão judicial)?",
@@ -1969,7 +2086,7 @@
                 }
             ],
             "hint": "Considere a gravidade do dano a patrimônios protegidos e a implicação disso para o Termo Circunstanciado de Ocorrência.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual é a principal diferença entre 'pichação' e 'grafite', conforme o Art. 65 da LCA, em termos de procedimento policial?",
@@ -1996,7 +2113,7 @@
                 }
             ],
             "hint": "Pense no fator que legaliza ou criminaliza a inscrição em muros e edificações.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "De acordo com a análise preliminar apresentada, qual a proporção aproximada de crimes na LCA que são considerados de menor potencial ofensivo, conforme o Art. 61 da Lei de Juizados Especiais Cíveis e Criminais?",
@@ -2023,7 +2140,7 @@
                 }
             ],
             "hint": "Relembre a estatística sobre a classificação dos crimes da LCA apresentada no texto.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "No Estudo de Caso I (criação irregular de aves silvestres sem maus-tratos), qual o procedimento administrativo correto a ser realizado pela equipe policial militar ambiental?",
@@ -2050,7 +2167,7 @@
                 }
             ],
             "hint": "Analise a natureza do crime (criação de fauna silvestre) e a aplicabilidade do TCO, bem como o destino dos animais.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "No Estudo de Caso II (desmatamento em área de possível área protegida com curso hídrico), qual o procedimento correto a ser adotado pela equipe policial militar ambiental?",
@@ -2077,7 +2194,7 @@
                 }
             ],
             "hint": "Considere a localização do desmatamento (Parque Nacional, curso hídrico) e a gravidade da conduta para definir o procedimento policial.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "No Estudo de Caso III (construção em reserva legal com documentação vs. perfuração de poço artesiano), qual seria a ação adequada da equipe policial militar ambiental?",
@@ -2104,7 +2221,7 @@
                 }
             ],
             "hint": "Diferencie as duas situações apresentadas e a necessidade de autorização para cada atividade, em especial a perfuração do poço.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "No Estudo de Caso IV (animais silvestres mortos, arma e munições, caçador profissional de javali), qual o procedimento adequado da equipe policial militar ambiental?",
@@ -2131,7 +2248,7 @@
                 }
             ],
             "hint": "Considere todas as espécies encontradas (não apenas o javali), a condição de 'caçador profissional' e a presença de arma de fogo para determinar a gravidade e o procedimento.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "No Estudo de Caso V (criação de periquitos-rei anilhados e periquitos australianos sem anilha com documentação), qual seria a conduta apropriada da equipe policial militar ambiental?",
@@ -2158,7 +2275,7 @@
                 }
             ],
             "hint": "Diferencie a legislação para espécies nativas (com anilhas/autorização) e exóticas (com nota fiscal/origem legal), e a importância da documentação apresentada.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         },
         {
             "question": "Qual das seguintes sugestões NÃO é útil para a atividade profissional do policial militar ambiental, conforme o texto?",
@@ -2185,7 +2302,7 @@
                 }
             ],
             "hint": "Pense nas recomendações sobre a manutenção e aprimoramento do conhecimento e das habilidades do policial.",
-            "subject": "legislacao_ambiental"
+            "subject": "ambiental_rural"
         }
     ]
 }
