@@ -1,0 +1,2372 @@
+{
+    "questions": [
+        {
+            "question": "Qual é o instrumento normativo que estabelece o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar adaptado à PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Lei Complementar do Distrito Federal nº 1.435/2025",
+                    "rationale": "Incorreto. O regulamento foi estabelecido por Portaria, não por Lei Complementar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Portaria PMDF nº 1.435, de 7 de novembro de 2025",
+                    "rationale": "Correto. Este é exatamente o instrumento normativo citado no início do documento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decreto do Governador do Distrito Federal nº 1.435/2025",
+                    "rationale": "Incorreto. Foi uma Portaria da própria Polícia Militar, não um Decreto do Governador.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Instrução Normativa do Comando-Geral nº 1.435/2025",
+                    "rationale": "Incorreto. A denominação correta é Portaria, não Instrução Normativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Resolução da Secretaria de Segurança Pública nº 1.435/2025",
+                    "rationale": "Incorreto. Foi uma Portaria da PMDF, não uma Resolução da SSP.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe o cabeçalho do documento regulamentador.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 2º, parágrafo único, em que situações se aplica o Regulamento de Continências?",
+            "answerOptions": [
+                {
+                    "text": "Apenas quando o militar estiver de serviço e em área militar",
+                    "rationale": "Incorreto. A aplicação é mais ampla, conforme especificado no parágrafo único.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Somente durante cerimônias e solenidades de natureza militar",
+                    "rationale": "Incorreto. Inclui também situações diárias e cerimônias cívicas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A situações diárias da vida castrense, estando o militar de serviço ou não, em área militar ou em sociedade, nas cerimônias e solenidades de natureza militar ou cívica",
+                    "rationale": "Correto. Esta é a redação exata do parágrafo único do art. 2º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Exclusivamente em operações policiais militares",
+                    "rationale": "Incorreto. Embora se aplique também a operações, não se limita a elas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas quando o militar estiver uniformizado",
+                    "rationale": "Incorreto. Aplica-se também quando em trajes civis, conforme diversos artigos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O parágrafo único especifica a abrangência de aplicação do regulamento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 5º, quando dois policiais militares se deslocam juntos, como deve ser a posição em relação à direita?",
+            "answerOptions": [
+                {
+                    "text": "O mais antigo sempre dá a direita ao mais moderno",
+                    "rationale": "Incorreto. É o contrário: o mais moderno dá a direita ao superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O mais moderno dá a direita ao superior",
+                    "rationale": "Correto. Esta é a regra estabelecida no caput do art. 5º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ambos se deslocam lado a lado, independentemente da hierarquia",
+                    "rationale": "Incorreto. Existe regra específica sobre quem ocupa a direita.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O mais antigo ocupa sempre a esquerda",
+                    "rationale": "Incorreto. A regra é sobre quem dá a direita, não sobre quem ocupa a esquerda especificamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alternam-se a cada esquina quem ocupa a direita",
+                    "rationale": "Incorreto. Não há previsão de alternância; a regra é fixa baseada na antiguidade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A regra hierárquica sobre posicionamento durante deslocamento conjunto.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 7º, § 1º, se o local de circulação for estreito e o policial militar for praça, como deve proceder ao encontrar um superior?",
+            "answerOptions": [
+                {
+                    "text": "Deve acelerar o passo para passar rapidamente",
+                    "rationale": "Incorreto. Deve justamente parar e franquear a passagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Franqueia a passagem ao superior, faz alto e permanece de frente para ele",
+                    "rationale": "Correto. Esta é a redação exata do § 1º do art. 7º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Passa rapidamente sem olhar para o superior",
+                    "rationale": "Incorreto. Deve demonstrar respeito parando e franqueando a passagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dá meia-volta e vai por outro caminho",
+                    "rationale": "Incorreto. Não há previsão de desvio; deve enfrentar a situação com respeito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas faz a continência sem parar",
+                    "rationale": "Incorreto. Em local estreito, a regra específica é parar e franquear a passagem.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Situação específica para praças em locais de circulação estreita.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 8º, parágrafo único, havendo dificuldade para aproximar-se dos superiores hierárquicos em local público sem solenidade, como deve ser feito o cumprimento?",
+            "answerOptions": [
+                {
+                    "text": "Através de um aceno com a mão",
+                    "rationale": "Incorreto. O parágrafo único especifica um movimento de cabeça.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Por meio de um cumprimento verbal à distância",
+                    "rationale": "Incorreto. A forma específica é o movimento de cabeça.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mediante um movimento de cabeça",
+                    "rationale": "Correto. Esta é a determinação do parágrafo único do art. 8º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não é necessário cumprimentar nessa situação",
+                    "rationale": "Incorreto. O cumprimento é obrigatório, apenas a forma se adapta à dificuldade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Esperar uma oportunidade melhor para se aproximar",
+                    "rationale": "Incorreto. Deve cumprimentar imediatamente, ainda que à distância com movimento de cabeça.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Forma alternativa de cumprimento quando a aproximação física é difícil.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 9º, § 3º, qual tratamento pode ser empregado entre policiais militares do mesmo posto ou graduação?",
+            "answerOptions": [
+                {
+                    "text": "Sempre deve ser usado 'Senhor' ou 'Senhora'",
+                    "rationale": "Incorreto. O § 3º permite uma forma alternativa em igualdade de posto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O tratamento 'você' pode ser empregado",
+                    "rationale": "Correto. O § 3º expressamente permite o uso de 'você' entre iguais, respeitadas as tradições.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas o nome de guerra, sem tratamento formal",
+                    "rationale": "Incorreto. O tratamento 'você' é a alternativa permitida, não a dispensa de tratamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Deve-se usar 'Camarada'",
+                    "rationale": "Incorreto. Não há previsão deste tratamento no regulamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nenhum tratamento é necessário entre iguais",
+                    "rationale": "Incorreto. Alguma forma de tratamento sempre deve ser empregada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Tratamento permitido entre militares de mesma hierarquia.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 11, quando for chamado por um superior, como o policial militar deve atendê-lo?",
+            "answerOptions": [
+                {
+                    "text": "De forma calma e serena, mantendo o ritmo normal",
+                    "rationale": "Incorreto. Deve ser o mais rápido possível, apressando o passo se em deslocamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O mais rápido possível, apressando o passo quando em deslocamento",
+                    "rationale": "Correto. Esta é a redação exata do art. 11.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas se estiver livre no momento",
+                    "rationale": "Incorreto. Deve priorizar o atendimento ao superior imediatamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Primeiro termina o que está fazendo, depois atende",
+                    "rationale": "Incorreto. O atendimento deve ser imediato, não pode ser postergado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Levanta a mão para sinalizar que ouviu e vai quando puder",
+                    "rationale": "Incorreto. Não há previsão de sinalização; deve ir imediatamente.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Requerimento sobre prontidão no atendimento a chamados de superiores.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 12, quando um policial militar precisar sentar-se ao lado de um superior, qual procedimento deve adotar?",
+            "answerOptions": [
+                {
+                    "text": "Sentar-se diretamente, pois é um direito",
+                    "rationale": "Incorreto. Deve solicitar permissão antes de se sentar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Solicitar-lhe a permissão",
+                    "rationale": "Correto. Esta é a determinação direta do art. 12.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Esperar que o superior se sente primeiro",
+                    "rationale": "Incorreto. Embora possa ser uma cortesia, a regra específica é solicitar permissão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sentar-se apenas se houver convite expresso",
+                    "rationale": "Incorreto. A iniciativa pode partir do subordinado, mediante solicitação de permissão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Evitar sentar-se próximo ao superior",
+                    "rationale": "Incorreto. Pode sentar-se, desde que solicite permissão.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Regra de cortesia sobre assentar-se próximo a superior.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 13, § 2º, em igualdade de posto ou graduação, quando ocorrer dúvida sobre qual seja o de menor precedência, como deve ser executada a continência?",
+            "answerOptions": [
+                {
+                    "text": "O mais moderno deve perguntar qual é o mais antigo",
+                    "rationale": "Incorreto. A regra é sobre a execução simultânea quando há dúvida.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não é necessária a continência entre iguais",
+                    "rationale": "Incorreto. A continência é devida, a questão é sobre quem inicia.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Deve ser executada simultaneamente",
+                    "rationale": "Correto. Esta é a regra estabelecida no § 2º do art. 13.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O que avistar primeiro o outro executa primeiro",
+                    "rationale": "Incorreto. A regra para caso de dúvida é a execução simultânea.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas faz continência quem estiver em serviço",
+                    "rationale": "Incorreto. A continência é devida independentemente de estar em serviço.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Regra específica para situação de igualdade hierárquica com dúvida sobre precedência.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 14, inciso X, os policiais militares da ativa têm direito à continência:",
+            "answerOptions": [
+                {
+                    "text": "Apenas quando uniformizados",
+                    "rationale": "Incorreto. O inciso X especifica 'mesmo em traje civil'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mesmo em traje civil, quando for obrigatório o seu reconhecimento em função do cargo que exerce",
+                    "rationale": "Correto. Esta é parte da redação do inciso X do art. 14.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Somente dentro das dependências militares",
+                    "rationale": "Incorreto. Não há essa limitação espacial no dispositivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nunca quando em trajes civis",
+                    "rationale": "Incorreto. O dispositivo expressamente prevê o direito mesmo em trajes civis.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas de seus subordinados diretos",
+                    "rationale": "Incorreto. A continência é devida por todos os mais modernos, não apenas subordinados diretos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Direito à continência de militares da ativa quando em trajes civis.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 15, sobre o aperto de mão, é correto afirmar que:",
+            "answerOptions": [
+                {
+                    "text": "O policial militar sempre deve tomar a iniciativa de estender a mão para cumprimentar o superior",
+                    "rationale": "Incorreto. O parágrafo único proíbe expressamente que o subordinado tome a iniciativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O policial militar não deve tomar a iniciativa, mas se o superior estender a mão, não pode se recusar ao cumprimento",
+                    "rationale": "Correto. Esta é a síntese do caput e parágrafo único do art. 15.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O aperto de mão é proibido entre militares de diferentes postos",
+                    "rationale": "Incorreto. É permitido, desde que a iniciativa parta do superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O aperto de mão substitui sempre a continência",
+                    "rationale": "Incorreto. São formas distintas de cumprimento; a continência é a forma regulamentar principal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Só é permitido entre oficiais, não entre praças",
+                    "rationale": "Incorreto. Não há essa restrição no dispositivo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Regras sobre iniciativa e reciprocidade no aperto de mão como forma de cumprimento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 16, como deve responder o policial militar quando, ao cumprimentar o superior, este além de retribuir a continência, fizer uma saudação verbal?",
+            "answerOptions": [
+                {
+                    "text": "Apenas manter a continência em silêncio",
+                    "rationale": "Incorreto. Deve responder com saudação análoga, conforme o art. 16.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Responder com saudação análoga",
+                    "rationale": "Correto. Esta é a determinação do art. 16.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Fazer uma continência mais rigorosa",
+                    "rationale": "Incorreto. A resposta deve ser análoga, não diferenciada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não precisa responder à saudação verbal",
+                    "rationale": "Incorreto. A obrigação de resposta está expressa no artigo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Repetir a saudação verbal idêntica",
+                    "rationale": "Incorreto. Deve ser análoga, não necessariamente idêntica.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Resposta a saudação verbal combinada com continência.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 17, § 2º, em que situações especiais pode ser dispensada a continência individual?",
+            "answerOptions": [
+                {
+                    "text": "Quando o militar estiver cansado",
+                    "rationale": "Incorreto. O cansaço não é situação especial prevista para dispensa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Quando em serviço de cerimonial e/ou na execução de cobertura audiovisual pela UPM, em trajes civis ou fardados, bem como policiais militares no serviço de atividade de inteligência",
+                    "rationale": "Correto. Esta é a redação do § 2º do art. 17.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Durante a noite, após às 22 horas",
+                    "rationale": "Incorreto. O § 2º diz que a continência é devida a qualquer hora do dia ou da noite.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Quando estiver chovendo",
+                    "rationale": "Incorreto. Condições climáticas não são motivo de dispensa previsto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em locais públicos muito movimentados",
+                    "rationale": "Incorreto. A aglomeração não é situação especial para dispensa.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Situações específicas de serviço que justificam dispensa da continência.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 17, § 3º, inciso I, quando em trajes civis, como deve proceder o policial militar durante a execução do Hino Nacional?",
+            "answerOptions": [
+                {
+                    "text": "Pode continuar suas atividades normalmente",
+                    "rationale": "Incorreto. Deve assumir uma atitude respeitosa específica.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prestará a continência individual ou assumirá posição respeitosa",
+                    "rationale": "Correto. Esta é a determinação do inciso I do § 3º do art. 17.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas fica em silêncio, sem necessidade de posição específica",
+                    "rationale": "Incorreto. É necessária uma atitude ativa de respeito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Coloca a mão direita sobre o peito",
+                    "rationale": "Incorreto. Esta não é a forma regulamentar prevista.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sai do local para não atrapalhar",
+                    "rationale": "Incorreto. Deve permanecer e demonstrar respeito conforme regulamento.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Comportamento do militar em trajes civis durante símbolos nacionais.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 19, inciso I, alínea 'd', qual a distância para fazer e desfazer a continência quando o mais moderno está parado e o superior se desloca?",
+            "answerOptions": [
+                {
+                    "text": "Faz a 5 passos, desfaz a 1 passo depois de ultrapassado",
+                    "rationale": "Incorreto. As distâncias são de 3 passos para fazer e 1 passo para desfazer.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz a 3 passos, desfaz quando o superior ultrapassa de 1 passo",
+                    "rationale": "Correto. Esta é a regra da alínea 'd' do inciso I do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Faz a 2 passos, desfaz quando o superior está em frente",
+                    "rationale": "Incorreto. As distâncias regulamentares são diferentes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz quando avista o superior, desfaz quando não o vê mais",
+                    "rationale": "Incorreto. Existem distâncias precisas regulamentadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz a 4 passos, desfaz a 2 passos depois de ultrapassado",
+                    "rationale": "Incorreto. As distâncias corretas são 3 e 1 passos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Distâncias precisas para início e término da continência em deslocamento relativo.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 19, inciso II, quando o mais moderno está deslocando-se em passo acelerado ou correndo e encontra um superior parado, como deve proceder?",
+            "answerOptions": [
+                {
+                    "text": "Para completamente e depois faz a continência",
+                    "rationale": "Incorreto. A regra é tomar o passo normal, não parar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Toma o passo normal, não cessa o movimento normal do braço esquerdo",
+                    "rationale": "Correto. Esta é a redação da alínea 'b' do inciso II do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Continua na mesma velocidade e faz a continência",
+                    "rationale": "Incorreto. Deve reduzir para passo normal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desvia do superior para não perturbá-lo",
+                    "rationale": "Incorreto. Deve cumprimentar, não desviar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grita o cumprimento à distância",
+                    "rationale": "Incorreto. A forma é a continência regulamentar, não cumprimento verbal.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ajuste de deslocamento para cumprimentar superior quando em movimento rápido.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 21, § 1º, quando apenas uma das mãos do policial militar estiver ocupada, qual deve estar livre para executar a continência?",
+            "answerOptions": [
+                {
+                    "text": "A mão direita",
+                    "rationale": "Correto. Esta é a determinação expressa do § 1º do art. 21.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A mão esquerda",
+                    "rationale": "Incorreto. A norma especifica que deve ser a mão direita.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Qualquer uma das mãos",
+                    "rationale": "Incorreto. A regra é específica sobre ser a mão direita.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A mão que estiver mais próxima do superior",
+                    "rationale": "Incorreto. Deve ser especificamente a mão direita.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ambas as mãos devem estar livres",
+                    "rationale": "Incorreto. Se apenas uma estiver ocupada, a direita deve estar livre.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Prioridade sobre qual mão deve estar disponível para continência.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 22, inciso II, alínea 'a', como o policial militar isolado, armado de fuzil e parado, faz continência ao Comandante-Geral da PMDF?",
+            "answerOptions": [
+                {
+                    "text": "Faz 'Ombro Arma'",
+                    "rationale": "Incorreto. Para o Comandante-Geral, a continência é mais solene: 'Apresentar Arma'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz 'Apresentar Arma'",
+                    "rationale": "Correto. O Comandante-Geral está incluído entre as autoridades que recebem 'Apresentar Arma', conforme alínea 'a' do inciso II.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Toma apenas a posição de sentido",
+                    "rationale": "Incorreto. Esta é a forma para arma a tiracolo (alínea 'd'), não para arma em condições normais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz continência individual normal",
+                    "rationale": "Incorreto. Quando armado com fuzil, há formas específicas de continência com a arma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz alto e depois 'Ombro Arma'",
+                    "rationale": "Incorreto. A forma correta é 'Apresentar Arma' para essa autoridade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Forma de continência com arma longa para alta autoridade.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 23, § 2º, quando o Hino Nacional for cantado, qual a posição em que deve permanecer a tropa ou policial militar presente?",
+            "answerOptions": [
+                {
+                    "text": "Posição de 'Descansar'",
+                    "rationale": "Incorreto. A posição regulamentar é 'Sentido'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Posição de 'À Vontade'",
+                    "rationale": "Incorreto. Deve ser a posição de 'Sentido'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Posição de 'Sentido'",
+                    "rationale": "Correto. Esta é a determinação do § 2º do art. 23.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Posição de 'Atenção'",
+                    "rationale": "Incorreto. A nomenclatura correta é 'Sentido', não 'Atenção'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em continência individual",
+                    "rationale": "Incorreto. Especificamente quando cantado, não faz continência, fica em 'Sentido'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Diferença de procedimento entre Hino Nacional tocado e cantado.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 26, qual a praça que tem direito à continência diária do Chefe de Unidade Policial Militar no interior de sua UPM?",
+            "answerOptions": [
+                {
+                    "text": "Todas as praças que encontrar",
+                    "rationale": "Incorreto. Apenas na primeira vez que for encontrado diariamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A praça que fará alto na primeira vez que for encontrado",
+                    "rationale": "Correto. Esta é a redação do art. 26.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas as praças de serviço",
+                    "rationale": "Incorreto. Não há restrição às praças de serviço; aplica-se a qualquer praça.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As praças que estiverem formadas",
+                    "rationale": "Incorreto. Aplica-se a praça isolada, não necessariamente formada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nenhuma praça, apenas os oficiais",
+                    "rationale": "Incorreto. O direito é especificamente em relação à praça.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Direito específico do Chefe de UPM em relação às praças dentro de sua unidade.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 28, quando um veículo (exceto bicicleta ou motocicleta) está em movimento, quem faz a continência individual?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o condutor",
+                    "rationale": "Incorreto. A regra é o oposto: somente os passageiros.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todos os ocupantes",
+                    "rationale": "Incorreto. Apenas os passageiros, não o condutor.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Somente os passageiros",
+                    "rationale": "Correto. Esta é a determinação do inciso II do art. 28.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ninguém, por questão de segurança",
+                    "rationale": "Incorreto. Os passageiros devem fazer a continência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas se o veículo estiver parado no semáforo",
+                    "rationale": "Incorreto. A regra para veículo em movimento é clara: passageiros fazem continência.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Diferença entre condutor e passageiros em veículo em movimento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 29, inciso I, alínea 'a', se um policial militar a pé, parado e mais antigo que o Comandante da tropa, presta continência à tropa em deslocamento, como procede em relação à continência que lhe é prestada pelo Comandante?",
+            "answerOptions": [
+                {
+                    "text": "Ignora, pois é mais antigo",
+                    "rationale": "Incorreto. Deve corresponder à continência recebida.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Corresponde à continência que lhe é prestada",
+                    "rationale": "Correto. Esta é a regra do item 1 da alínea 'a' do inciso I do art. 29.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Faz continência apenas à Bandeira Nacional",
+                    "rationale": "Incorreto. Deve fazer também à continência do Comandante se for mais antigo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz continência a todos os comandantes de fração",
+                    "rationale": "Incorreto. Esta é a regra para quem é mais moderno, não para quem é mais antigo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas permanece em sentido, sem corresponder",
+                    "rationale": "Incorreto. A reciprocidade é obrigatória quando se é mais antigo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reciprocidade na continência entre militar isolado e comandante de tropa, considerando a antiguidade.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 30, § 4º, a praça que vai a uma Unidade Policial Militar em visita deve apresentar-se a quem?",
+            "answerOptions": [
+                {
+                    "text": "Diretamente ao Comandante da Unidade",
+                    "rationale": "Incorreto. A praça apresenta-se ao Oficial de Dia ou de Serviço.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ao Oficial de Dia ou de Serviço, ou a quem lhe corresponder",
+                    "rationale": "Correto. Esta é a determinação do § 4º do art. 30.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ao militar mais antigo presente",
+                    "rationale": "Incorreto. Esta é a regra para quando não for possível a apresentação normal (§ 2º), mas para praça a regra específica é § 4º.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas na saída, não na chegada",
+                    "rationale": "Incorreto. Deve apresentar-se tanto na chegada quanto na saída.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A nenhum, pois praça não precisa se apresentar",
+                    "rationale": "Incorreto. A praça também deve seguir regras de apresentação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento específico para praças em visitas a UPMs.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 31, inciso V, quando um policial militar entra em um recinto público, qual procedimento deve adotar em relação a superiores presentes?",
+            "answerOptions": [
+                {
+                    "text": "Ignora, para não chamar atenção",
+                    "rationale": "Incorreto. Deve procurar identificá-los e cumprimentá-los.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Percorre com o olhar o local para verificar se há algum superior presente e, se houver, faz-lhe a continência do lugar em que está",
+                    "rationale": "Correto. Esta é a redação do inciso V do art. 31.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas se aproxima se o superior o chamar",
+                    "rationale": "Incorreto. A iniciativa de identificação e continência é do militar que chega.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Espera que o superior o veja primeiro",
+                    "rationale": "Incorreto. Deve tomar a iniciativa de identificar e cumprimentar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas cumprimenta verbalmente à distância",
+                    "rationale": "Incorreto. A forma é a continência do lugar onde está.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento ao adentrar locais públicos onde possam haver superiores.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 31, inciso VII, quando policiais militares se encontram em reuniões sociais, festas militares, competições desportivas ou em viagens, como deve ser a apresentação mútua?",
+            "answerOptions": [
+                {
+                    "text": "Apenas trocam cumprimentos verbais",
+                    "rationale": "Incorreto. Deve haver apresentação formal com posto e nome.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Devem apresentar-se mutuamente, declinando posto e nome, partindo essa apresentação daquele de menor hierarquia",
+                    "rationale": "Correto. Esta é a redação do inciso VII do art. 31.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O mais antigo se apresenta primeiro ao mais moderno",
+                    "rationale": "Incorreto. A iniciativa parte do de menor hierarquia.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não é necessária apresentação formal nesses contextos",
+                    "rationale": "Incorreto. É especificamente exigida nesses contextos informais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas se apresentam se forem da mesma unidade",
+                    "rationale": "Incorreto. A apresentação é mútua independentemente da unidade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Regra de apresentação em contextos sociais e informais.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 32, parágrafo único, o que todo policial militar deve saber identificar?",
+            "answerOptions": [
+                {
+                    "text": "As insígnias dos postos e graduações da Polícia Militar do Distrito Federal",
+                    "rationale": "Correto. Esta é a determinação do parágrafo único do art. 32.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Os rostos de todas as autoridades listadas no caput",
+                    "rationale": "Incorreto. O parágrafo único refere-se especificamente a insígnias, não a rostos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As viaturas de todas as unidades da PMDF",
+                    "rationale": "Incorreto. O dispositivo trata de identificação de insígnias hierárquicas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os hinos de todas as unidades militares",
+                    "rationale": "Incorreto. Refere-se apenas a insígnias de postos e graduações.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As bandeiras de todos os países aliados",
+                    "rationale": "Incorreto. A obrigação é específica sobre insígnias da PMDF.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Conhecimento obrigatório sobre símbolos hierárquicos.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 33, em que situações o policial militar fardado descobre-se, tendo dispensada a obrigatoriedade da prestação da continência?",
+            "answerOptions": [
+                {
+                    "text": "Ao entrar em qualquer recinto coberto",
+                    "rationale": "Incorreto. Esta é regra geral do caput, mas o parágrafo único lista situações específicas com dispensa de continência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nas reuniões sociais, nos funerais, nos cultos religiosos e ao entrar em templos ou participar de atos em que este procedimento seja pertinente",
+                    "rationale": "Correto. Esta é a redação do parágrafo único do art. 33.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sempre que estiver em local público",
+                    "rationale": "Incorreto. A regra é mais específica que isso.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Durante operações policiais militares",
+                    "rationale": "Incorreto. Não há essa previsão no artigo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Quando estiver em trajes de gala",
+                    "rationale": "Incorreto. O tipo de farda não altera a regra do parágrafo único.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Situações específicas em que se descobre e está dispensado da continência.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 34, como o policial militar fardado deve saudar os civis de suas relações?",
+            "answerOptions": [
+                {
+                    "text": "Apenas com continência",
+                    "rationale": "Incorreto. Pode ser por continência, aperto de mão, aceno de cabeça ou conforme convenções sociais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sempre com aperto de mão",
+                    "rationale": "Incorreto. Existem várias formas permitidas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pela continência, pelo aperto de mão, com aceno de cabeça ou de acordo com as convenções sociais",
+                    "rationale": "Correto. Esta é a redação do art. 34.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não deve saudar civis quando fardado",
+                    "rationale": "Incorreto. Deve saudar, e o artigo estabelece as formas permitidas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas se o civil saudar primeiro",
+                    "rationale": "Incorreto. Não há essa condição no dispositivo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Formas de saudação permitidas para civis quando militar está fardado.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 37, § 1º, em se tratando de transporte de pessoal, qual a prerrogativa do mais antigo presente?",
+            "answerOptions": [
+                {
+                    "text": "Ser o último a embarcar",
+                    "rationale": "Incorreto. Esta é regra do caput; o § 1º trata de outra prerrogativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dar a licença para início do deslocamento",
+                    "rationale": "Correto. Esta é a determinação do § 1º do art. 37.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Escolher o lugar mais confortável",
+                    "rationale": "Incorreto. Não há essa previsão no regulamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Determinar a velocidade do veículo",
+                    "rationale": "Incorreto. Não é uma prerrogativa regulamentada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não precisa embarcar com os demais",
+                    "rationale": "Incorreto. Deve embarcar, apenas em ordem diferente.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Prerrogativa de comando relacionada ao início de deslocamento em transporte.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 38, inciso II, ao se apresentar a um superior, o que o policial militar deve dizer após fazer a continência?",
+            "answerOptions": [
+                {
+                    "text": "Apenas 'Às ordens!'",
+                    "rationale": "Incorreto. Deve declarar seu grau hierárquico, nome de guerra e UPM ou função.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Seu grau hierárquico, nome de guerra e UPM a que pertence, ou função que exerce, se estiver no interior da sua UPM",
+                    "rationale": "Correto. Esta é a redação do inciso II do art. 38.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O motivo da apresentação",
+                    "rationale": "Incorreto. O motivo é dito depois, conforme inciso III.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas o nome de guerra",
+                    "rationale": "Incorreto. A identificação deve ser completa conforme inciso II.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Saudações conforme o horário",
+                    "rationale": "Incorreto. A apresentação formal segue o padrão do inciso II.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Conteúdo da fala durante apresentação formal a superior.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 49, § 2º, no caso de tropa desarmada, ao comando de 'Apresentar Arma!', o que fazem seus integrantes?",
+            "answerOptions": [
+                {
+                    "text": "Permanecem em sentido",
+                    "rationale": "Incorreto. Fazem continência individual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todos os seus integrantes fazem continência individual",
+                    "rationale": "Correto. Esta é a redação do § 2º do art. 49.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ficam em posição de descanso",
+                    "rationale": "Incorreto. Fazem continência individual ativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Olham para o lado direito",
+                    "rationale": "Incorreto. O 'Olhar à Direita' é comando separado; a continência individual é gesto específico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não fazem nada, pois estão desarmados",
+                    "rationale": "Incorreto. Existe procedimento específico para tropa desarmada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Adaptação do comando 'Apresentar Arma' para tropa desarmada.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 56, o que é desfile?",
+            "answerOptions": [
+                {
+                    "text": "Qualquer marcha da tropa",
+                    "rationale": "Incorreto. Tem propósito específico de homenagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A passagem da tropa diante da Bandeira Nacional ou da maior autoridade presente a uma cerimônia a fim de lhe prestar homenagem",
+                    "rationale": "Correto. Esta é a definição do art. 56.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A formação da tropa para inspeção",
+                    "rationale": "Incorreto. Desfile tem caráter de homenagem, não de inspeção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O deslocamento da tropa entre locais",
+                    "rationale": "Incorreto. Desfile tem finalidade cerimonial específica.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A execução de manobras em parada",
+                    "rationale": "Incorreto. Desfile é especificamente passagem diante de autoridade para homenagem.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Definição conceitual de desfile no contexto militar.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 57, inciso III, item g, quais integrantes não fazem continência nem olham para o lado durante o desfile?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o Comandante da tropa",
+                    "rationale": "Incorreto. A exceção aplica-se a categorias específicas listadas no item g.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os componentes da Guarda-Bandeira, músicos, corneteiros e tamboreiros, condutores e porta-símbolos",
+                    "rationale": "Correto. Esta é a redação do item g do inciso III do art. 57.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Todos os oficiais",
+                    "rationale": "Incorreto. A exceção é apenas para as funções específicas listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas os músicos",
+                    "rationale": "Incorreto. A lista é mais ampla que apenas músicos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nenhum, todos fazem continência",
+                    "rationale": "Incorreto. Existe exceção expressa para determinadas funções.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Grupos específicos dispensados de continência e movimento de olhar durante desfile.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 60, o que nenhuma tropa deve fazer sem licença do mais antigo presente?",
+            "answerOptions": [
+                {
+                    "text": "Apenas iniciar marcha",
+                    "rationale": "Incorreto. A lista de ações é mais ampla.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Iniciar marcha, embarcar, desembarcar, montar, apear, tomar a posição à vontade ou sair de forma",
+                    "rationale": "Correto. Esta é a redação do art. 60.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas embarcar e desembarcar",
+                    "rationale": "Incorreto. São várias as ações que exigem licença.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Qualquer movimento",
+                    "rationale": "Incorreto. A lista é específica, não abrange 'qualquer movimento'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fazer continência",
+                    "rationale": "Incorreto. A continência segue outras regras, não esta do art. 60.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ações que exigem autorização expressa do mais antigo presente.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 61, se uma tropa em marcha cruzar com outra, qual passa em primeiro lugar?",
+            "answerOptions": [
+                {
+                    "text": "A que tiver mais efetivo",
+                    "rationale": "Incorreto. O critério é a antiguidade do comandante, não o efetivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A que for comandada pelo mais antigo",
+                    "rationale": "Correto. Esta é a regra do art. 61.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A que estiver à direita",
+                    "rationale": "Incorreto. O critério é hierárquico, não de posicionamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ambas param e decidem no diálogo",
+                    "rationale": "Incorreto. Existe regra clara baseada na antiguidade do comandante.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A que estiver mais próxima do destino",
+                    "rationale": "Incorreto. O critério é exclusivamente a antiguidade do comandante.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Critério de precedência no cruzamento de tropas em marcha.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 63, quando uma tropa não estiver em formatura e se encontrar em instrução ou serviço de faxina, o que cabe ao seu comandante, instrutor ou encarregado fazer quando um superior se dirige ao local?",
+            "answerOptions": [
+                {
+                    "text": "Ignorar, pois as continências são dispensáveis",
+                    "rationale": "Incorreto. Embora as continências de tropa sejam dispensáveis, o comandante/en carregado tem obrigação específica.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prestar a continência e dar as informações necessárias",
+                    "rationale": "Correto. Esta é a determinação do caput do art. 63.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Colocar a tropa imediatamente em formação",
+                    "rationale": "Incorreto. As continências de tropa são dispensáveis nessa situação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pedir à tropa que faça continência individual",
+                    "rationale": "Incorreto. A responsabilidade é do comandante/en carregado, não da tropa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Continuar a atividade sem interrupção",
+                    "rationale": "Incorreto. Deve interromper para prestar continência e dar informações.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Responsabilidade do comandante/en carregado quando tropa está em atividade não cerimonial.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 64, quando uma tropa estiver reunida para instrução e chegar seu comandante ou autoridade superior, o que comanda o mais antigo presente?",
+            "answerOptions": [
+                {
+                    "text": "\"Descansar!\"",
+                    "rationale": "Incorreto. O comando é para a tropa tomar sentido e anunciar a chegada da autoridade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\"Companhia (Escola, Turma, etc.) – Sentido! Comandante da Companhia (ou função de quem chega)!\"",
+                    "rationale": "Correto. Esta é a redação do caput do art. 64.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\"À vontade!\"",
+                    "rationale": "Incorreto. Este é o comando para liberar a tropa, não para receber autoridade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\"Apresentar armas!\"",
+                    "rationale": "Incorreto. Este comando é para continências específicas, não para esta situação de instrução.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas faz continência individual",
+                    "rationale": "Incorreto. Deve comandar a tropa para a posição de sentido e anunciar a autoridade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Comando específico para recepção de autoridade durante atividades de instrução.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 65, parágrafo único, quando um oficial entra em alojamento ou vestiário ocupado por tropa, o que fazem as praças?",
+            "answerOptions": [
+                {
+                    "text": "Saem imediatamente do local",
+                    "rationale": "Incorreto. Permanecem no local, apenas suspendem conversação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sem interromperem suas atividades, suspendem toda a conversação",
+                    "rationale": "Correto. Esta é a redação do parágrafo único do art. 65.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Fazem continência individual imediatamente",
+                    "rationale": "Incorreto. Continuam atividades, apenas silenciam.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Formam-se para receber o oficial",
+                    "rationale": "Incorreto. O procedimento é mais simples: apenas silenciam.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ignoram a presença do oficial",
+                    "rationale": "Incorreto. Devem demonstrar respeito suspendendo a conversação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Comportamento das praças em alojamento/vestiário com entrada de oficial.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 128, parágrafo único, o que a execução do Cerimonial Militar não deve acarretar?",
+            "answerOptions": [
+                {
+                    "text": "Custos elevados para a corporação",
+                    "rationale": "Incorreto. A preocupação é com a perturbação do serviço, não com custos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Perturbação sensível ao serviço policial militar",
+                    "rationale": "Correto. Esta é a redação do parágrafo único do art. 128.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Descontentamento na tropa",
+                    "rationale": "Incorreto. A preocupação expressa é com a perturbação do serviço.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atraso nas promoções",
+                    "rationale": "Incorreto. O parágrafo não menciona questões de carreira.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conflitos com autoridades civis",
+                    "rationale": "Incorreto. O foco é no serviço policial militar propriamente dito.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Limitação importante sobre a execução do cerimonial militar.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Qual é a natureza jurídica da Portaria PMDF nº 1.435/2025?",
+            "answerOptions": [
+                {
+                    "text": "Lei estadual",
+                    "rationale": "Incorreto. Portaria é ato administrativo normativo interno, não lei estadual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ato administrativo normativo interno da PMDF",
+                    "rationale": "Correto. Portaria é espécie de ato administrativo normativo de efeitos internos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decreto do Governador do Distrito Federal",
+                    "rationale": "Incorreto. Foi editada pelo Comando da PMDF, não pelo Governador.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Medida provisória",
+                    "rationale": "Incorreto. Não tem natureza de medida provisória, que é ato do Chefe do Executivo federal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Contrato administrativo",
+                    "rationale": "Incorreto. É norma, não contrato.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Classificação do instrumento que criou o regulamento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Quem está obrigado a conhecer e cumprir o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar?",
+            "answerOptions": [
+                {
+                    "text": "Apenas os oficiais",
+                    "rationale": "Incorreto. Aplica-se a todo policial militar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas quem está de serviço",
+                    "rationale": "Incorreto. Aplica-se estando de serviço ou não.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todo policial militar da PMDF",
+                    "rationale": "Correto. O regulamento se aplica à corporação como um todo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas os integrantes do cerimonial",
+                    "rationale": "Incorreto. Tem aplicação geral, não restrita ao cerimonial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas quem está em área militar",
+                    "rationale": "Incorreto. Aplica-se também em sociedade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Abragência pessoal do regulamento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 3º, § 2º, as demonstrações de respeito devidas entre os membros das Forças Armadas também são devidas a quais outros integrantes?",
+            "answerOptions": [
+                {
+                    "text": "Apenas aos integrantes das Polícias Militares de outros estados",
+                    "rationale": "Incorreto. O § 2º menciona também os Corpos de Bombeiros Militares e os Militares das Nações Estrangeiras.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Integrantes das Polícias Militares de outros estados, dos Corpos de Bombeiros Militares e aos Militares das Nações Estrangeiras",
+                    "rationale": "Correto. Esta é a redação completa do § 2º do art. 3º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Somente aos militares das nações aliadas",
+                    "rationale": "Incorreto. A lista é mais ampla e inclui forças auxiliares nacionais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aos civis em posição de autoridade",
+                    "rationale": "Incorreto. O dispositivo refere-se especificamente a categorias militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nenhum outro, apenas entre membros das Forças Armadas",
+                    "rationale": "Incorreto. O dispositivo estende explicitamente as demonstrações de respeito.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O parágrafo estende as demonstrações de respeito para além das Forças Armadas.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 4º, § 3º, em que situações os sinais de respeito e apreço são obrigatórios?",
+            "answerOptions": [
+                {
+                    "text": "Apenas em cerimônias oficiais",
+                    "rationale": "Incorreto. São obrigatórios em todas as situações, inclusive operacionais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em todas as situações, inclusive nas operações policiais militares",
+                    "rationale": "Correto. Esta é a redação do § 3º do art. 4º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Somente durante o dia",
+                    "rationale": "Incorreto. Não há restrição temporal no dispositivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas quando o militar estiver uniformizado",
+                    "rationale": "Incorreto. A obrigatoriedade aplica-se também em trajes civis.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Exceto em situações de combate",
+                    "rationale": "Incorreto. Inclui explicitamente operações policiais militares.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O parágrafo não faz exceções quanto à obrigatoriedade dos sinais de respeito.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 5º, parágrafo único, se o deslocamento se fizer em via que tenha lado interno e lado externo, o que deve fazer o militar de menor antiguidade?",
+            "answerOptions": [
+                {
+                    "text": "Dá o lado externo ao superior",
+                    "rationale": "Incorreto. Deve dar o lado interno, mais protegido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dá o lado interno ao superior",
+                    "rationale": "Correto. Esta é a determinação do parágrafo único do art. 5º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Alterna entre lado interno e externo",
+                    "rationale": "Incorreto. A regra é fixa: sempre o lado interno ao superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fica sempre à direita, independentemente dos lados",
+                    "rationale": "Incorreto. A regra específica para vias com lados definidos prevalece.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pergunta ao superior sua preferência",
+                    "rationale": "Incorreto. A regra é automática, não requer consulta.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Regra específica para vias com diferenciação entre lado interno e externo.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 6º, como se distribuem os policiais militares quando deslocam em grupo?",
+            "answerOptions": [
+                {
+                    "text": "O mais antigo fica na frente",
+                    "rationale": "Incorreto. O mais antigo fica no centro.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O mais antigo fica no centro, distribuindo-se os demais alternadamente à direita e à esquerda",
+                    "rationale": "Correto. Esta é a redação do art. 6º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Em fila única por ordem de antiguidade",
+                    "rationale": "Incorreto. A formação é com o mais antigo no centro e os outros distribuídos lateralmente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O mais moderno fica no centro para proteção",
+                    "rationale": "Incorreto. É o mais antigo quem ocupa o centro.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Formação livre, sem regra específica",
+                    "rationale": "Incorreto. Existe regra específica de distribuição.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Posicionamento hierárquico em deslocamento de grupo.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 7º, § 2º, na entrada de uma porta, como deve proceder o policial militar?",
+            "answerOptions": [
+                {
+                    "text": "Passa primeiro para abrir a porta ao superior",
+                    "rationale": "Incorreto. Deve franquear a passagem ao superior primeiro.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Franqueia-a ao superior; se estiver fechada, abre-a, dando passagem ao superior e torna a fechá-la depois",
+                    "rationale": "Correto. Esta é a redação do § 2º do art. 7º.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Abre a porta e entra junto com o superior",
+                    "rationale": "Incorreto. Deve dar passagem completa ao superior primeiro.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Espera o superior abrir a porta sozinho",
+                    "rationale": "Incorreto. Deve tomar a iniciativa de abrir e franquear a passagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Só abre a porta se o superior pedir",
+                    "rationale": "Incorreto. Deve fazê-lo automaticamente, sem necessidade de pedido.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento cortês com portas na presença de superior.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 13, § 3º, inciso II, se um policial militar em trajes civis receber continência, como pode respondê-la?",
+            "answerOptions": [
+                {
+                    "text": "Apenas com continência individual obrigatória",
+                    "rationale": "Incorreto. Em trajes civis, tem opções além da continência individual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Prestando a continência individual ou com um movimento de cabeça, com um cumprimento verbal ou descobrindo-se, caso esteja de chapéu",
+                    "rationale": "Correto. Esta é a redação do inciso II do § 3º do art. 13.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Não precisa retribuir se estiver em trajes civis",
+                    "rationale": "Incorreto. Deve retribuir de alguma forma das opções permitidas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas com aperto de mão",
+                    "rationale": "Incorreto. Esta não é uma das formas previstas no dispositivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ignorando, pois a continência é para uniformizados",
+                    "rationale": "Incorreto. A obrigação de retribuir existe mesmo em trajes civis.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Formas alternativas de retribuição da continência quando em trajes civis.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 14, inciso XII, quem tem direito à continência quando formado?",
+            "answerOptions": [
+                {
+                    "text": "Apenas a tropa em desfile",
+                    "rationale": "Incorreto. A tropa quando formada, em qualquer contexto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A tropa quando formada",
+                    "rationale": "Correto. Esta é a redação do inciso XII do art. 14.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Somente a guarda de honra",
+                    "rationale": "Incorreto. Aplica-se a qualquer tropa formada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas tropa em posição de sentido",
+                    "rationale": "Incorreto. 'Formada' inclui várias posições, não apenas 'sentido'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nenhuma tropa tem direito à continência",
+                    "rationale": "Incorreto. A tropa formada expressamente tem direito.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Direito à continência de coletividade militar organizada.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 14, inciso XVI, quais corporações são consideradas forças auxiliares e reserva do Exército?",
+            "answerOptions": [
+                {
+                    "text": "Apenas a Polícia Militar do Distrito Federal",
+                    "rationale": "Incorreto. Menciona as Polícias Militares e Corpos de Bombeiros Militares no plural.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As Polícias Militares e os Corpos de Bombeiros Militares",
+                    "rationale": "Correto. Esta é a redação do inciso XVI do art. 14.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Todas as forças de segurança pública",
+                    "rationale": "Incorreto. Especifica apenas PMs e Bombeiros Militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas os Corpos de Bombeiros Militares",
+                    "rationale": "Incorreto. Inclui também as Polícias Militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As polícias civis e militares",
+                    "rationale": "Incorreto. Não menciona polícias civis, apenas PMs e Bombeiros Militares.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Status constitucional das corporações mencionadas.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 19, inciso I, alínea 'b', item 2, qual a posição da mão durante a continência com cobertura?",
+            "answerOptions": [
+                {
+                    "text": "Com a palma voltada para baixo",
+                    "rationale": "Incorreto. A palma deve estar voltada para o rosto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Com a palma voltada para o rosto e com os dedos unidos e distendidos",
+                    "rationale": "Correto. Esta é a descrição do item 2 da alínea 'b' do inciso I do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Com a mão fechada em punho",
+                    "rationale": "Incorreto. Os dedos devem estar distendidos, não fechados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Com a palma voltada para frente",
+                    "rationale": "Incorreto. Especificamente voltada para o rosto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Com os dedos levemente flexionados",
+                    "rationale": "Incorreto. Devem estar distendidos (esticados).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Descrição técnica da posição da mão na continência com cobertura.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 19, inciso I, alínea 'b', item 2, qual o ângulo que o braço deve formar com a linha dos ombros durante a continência?",
+            "answerOptions": [
+                {
+                    "text": "90 graus",
+                    "rationale": "Incorreto. O ângulo especificado é de 45 graus.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "45 graus",
+                    "rationale": "Correto. Esta é a especificação do item 2 da alínea 'b' do inciso I do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "30 graus",
+                    "rationale": "Incorreto. O ângulo regulamentar é 45 graus.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60 graus",
+                    "rationale": "Incorreto. O padrão estabelecido é de 45 graus.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O mais confortável para o militar",
+                    "rationale": "Incorreto. Existe ângulo padrão regulamentado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Precisão geométrica da continência regulamentar.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 19, inciso I, alínea 'c', como faz a continência o policial militar sem cobertura?",
+            "answerOptions": [
+                {
+                    "text": "Leva a mão esquerda à fronte",
+                    "rationale": "Incorreto. Deve ser a mão direita.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Leva a mão direita ao lado direito da fronte",
+                    "rationale": "Correto. Esta é a descrição da alínea 'c' do inciso I do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Faz um aceno com a mão direita",
+                    "rationale": "Incorreto. É gesto formal específico, não simples aceno.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Coloca a mão sobre o coração",
+                    "rationale": "Incorreto. Esta não é a forma regulamentar da continência militar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não faz continência se não estiver de cobertura",
+                    "rationale": "Incorreto. Faz continência de forma adaptada, sem cobertura.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Adaptação da continência para quando não se está usando cobertura.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 19, inciso III, quando mais moderno e superior deslocam-se em direções convergentes, como procede o mais moderno?",
+            "answerOptions": [
+                {
+                    "text": "Acelera para passar primeiro",
+                    "rationale": "Incorreto. Deve dar precedência de passagem ao superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dá precedência de passagem ao superior e faz a continência sem tomar a posição de sentido",
+                    "rationale": "Correto. Esta é a descrição do inciso III do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para completamente e faz continência em sentido",
+                    "rationale": "Incorreto. Especificamente diz 'sem tomar a posição de sentido'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desvia do superior para evitar o encontro",
+                    "rationale": "Incorreto. Deve enfrentar a situação e cumprimentar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas faz um aceno de cabeça",
+                    "rationale": "Incorreto. Deve fazer a continência completa, apenas sem tomar sentido.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento específico para deslocamentos convergentes.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 19, inciso IV, quando mais moderno deslocando-se alcança e ultrapassa superior no mesmo sentido, como procede?",
+            "answerOptions": [
+                {
+                    "text": "Passa sem cumprimentar para não atrapalhar",
+                    "rationale": "Incorreto. Deve fazer continência ao chegar ao lado do superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ao chegar ao lado do superior, faz-lhe a continência e o encara com vivo movimento de cabeça; após três passos, volta a olhar em frente e desfaz a continência",
+                    "rationale": "Correto. Esta é a descrição do inciso IV do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para e deixa o superior passar à frente",
+                    "rationale": "Incorreto. Pode ultrapassar, desde que cumpra o procedimento de continência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz continência apenas após ter ultrapassado completamente",
+                    "rationale": "Incorreto. Deve fazer ao chegar ao lado, não depois.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grita 'com licença, Senhor' e passa rápido",
+                    "rationale": "Incorreto. O procedimento é a continência regulamentar, não apenas aviso verbal.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento para ultrapassagem de superior no mesmo sentido.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 19, inciso V, quando mais moderno deslocando-se é alcançado e ultrapassado por superior no mesmo sentido, quando desfaz a continência?",
+            "answerOptions": [
+                {
+                    "text": "Imediatamente após fazer a continência",
+                    "rationale": "Incorreto. Aguarda o superior se afastar um passo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Depois que o superior tiver se afastado um passo",
+                    "rationale": "Correto. Esta é a descrição do inciso V do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Após três passos do superior",
+                    "rationale": "Incorreto. Esta é a regra para quando o mais moderno ultrapassa (inciso IV), não quando é ultrapassado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Quando não enxergar mais o superior",
+                    "rationale": "Incorreto. Tem distância específica regulamentada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não precisa desfazer, pois o superior já passou",
+                    "rationale": "Incorreto. Deve desfazer formalmente após a distância regulamentar.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Momento para desfazer continência quando sendo ultrapassado por superior.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 19, inciso VI, em igualdade de posto ou graduação, quando é feita a continência?",
+            "answerOptions": [
+                {
+                    "text": "O mais antigo faz primeiro",
+                    "rationale": "Incorreto. Em igualdade, segue regra específica.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "No momento em que os militares passam um pelo outro ou se defrontam",
+                    "rationale": "Correto. Esta é a descrição do inciso VI do art. 19.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas se um for mais antigo que o outro",
+                    "rationale": "Incorreto. O inciso trata especificamente de igualdade de posto/graduação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não é necessária entre iguais",
+                    "rationale": "Incorreto. É necessária, apenas com momento específico para execução.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O que avistar o outro primeiro",
+                    "rationale": "Incorreto. O momento é quando passam ou se defrontam, não quando avistam.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Momento da continência entre militares de mesma hierarquia.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 21, caput, caso o policial militar esteja com as duas mãos ocupadas, como será prestada a continência individual?",
+            "answerOptions": [
+                {
+                    "text": "Faz um aceno com a cabeça",
+                    "rationale": "Incorreto. Esta é a regra do § 2º para deslocamento, não a regra geral do caput.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tomando a posição de sentido e frente voltada para a direção perpendicular à do deslocamento do superior",
+                    "rationale": "Correto. Esta é a redação do caput do art. 21.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Usa a mão esquerda para fazer continência",
+                    "rationale": "Incorreto. Quando as duas mãos estão ocupadas, não faz o gesto com a mão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não precisa fazer continência nesta situação",
+                    "rationale": "Incorreto. Deve demonstrar respeito através da posição de sentido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz continência apenas com os olhos",
+                    "rationale": "Incorreto. A forma regulamentar é tomar a posição de sentido.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Forma adaptada de continência quando ambas as mãos estão ocupadas.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 22, inciso I, alínea 'a', quando o policial militar isolado, armado de fuzil, está se deslocando e passa um superior hierárquico, o que faz?",
+            "answerOptions": [
+                {
+                    "text": "Faz alto e apresenta arma",
+                    "rationale": "Incorreto. Quando em deslocamento, leva a arma à posição de 'Ombro Arma'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Leva a arma à posição de 'Ombro Arma'",
+                    "rationale": "Correto. Esta é a descrição da alínea 'a' do inciso I do art. 22.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para e faz continência individual",
+                    "rationale": "Incorreto. Não para; continua em movimento com arma em 'Ombro Arma'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz apenas o movimento de olhar",
+                    "rationale": "Incorreto. Deve executar o movimento específico com a arma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Continua normalmente sem alteração",
+                    "rationale": "Incorreto. Há procedimento específico com a arma.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento com arma longa durante deslocamento ao passar por superior.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 22, inciso I, alínea 'b', à passagem de tropa formada, o que faz o policial militar isolado, armado, quando está se deslocando?",
+            "answerOptions": [
+                {
+                    "text": "Faz alto, volta-se para a tropa e leva a arma à posição de 'Ombro Arma'",
+                    "rationale": "Correto. Esta é a redação da alínea 'b' do inciso I do art. 22.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas acelera o passo para passar rápido",
+                    "rationale": "Incorreto. Deve parar e executar o procedimento regulamentar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Continua em marcha normalmente",
+                    "rationale": "Incorreto. Deve fazer alto especificamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz 'Apresentar Arma' em movimento",
+                    "rationale": "Incorreto. Para tropa, quando em deslocamento, é 'Ombro Arma' após fazer alto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas olha para a tropa",
+                    "rationale": "Incorreto. Há procedimento ativo com a arma.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento com arma ao encontrar tropa formada durante deslocamento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 22, inciso II, alínea 'b', como o policial militar isolado, armado de fuzil e parado, faz continência para os demais militares (que não sejam autoridades especiais)?",
+            "answerOptions": [
+                {
+                    "text": "Faz 'Apresentar Arma'",
+                    "rationale": "Incorreto. Esta é para autoridades especiais (alínea 'a'). Para demais militares é 'Ombro Arma'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz 'Ombro Arma'",
+                    "rationale": "Correto. Esta é a determinação da alínea 'b' do inciso II do art. 22.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Toma apenas posição de sentido",
+                    "rationale": "Incorreto. Quando armado com fuzil, há procedimento específico com a arma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz continência individual normal",
+                    "rationale": "Incorreto. Com arma longa, usa-se os movimentos específicos com a arma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não faz continência se estiver armado",
+                    "rationale": "Incorreto. Faz, através dos movimentos regulamentares com a arma.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Forma de continência com arma longa para militares em geral.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 23, caput, para que todo policial militar faz alto?",
+            "answerOptions": [
+                {
+                    "text": "Para a continência à Bandeira Nacional, ao Hino Nacional e ao Presidente da República",
+                    "rationale": "Correto. Esta é a redação do caput do art. 23.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para todas as continências",
+                    "rationale": "Incorreto. Apenas para esses três símbolos/autoridades especificamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas para o Presidente da República",
+                    "rationale": "Incorreto. Inclui também Bandeira e Hino Nacional.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Para qualquer autoridade superior",
+                    "rationale": "Incorreto. Apenas para os três mencionados no caput.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nunca faz alto para continência",
+                    "rationale": "Incorreto. Expressamente faz alto para esses três casos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Casos específicos em que a continência exige fazer alto.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 23, § 1º, quando o Hino Nacional for tocado em cerimônia religiosa, qual a atitude do policial militar participante?",
+            "answerOptions": [
+                {
+                    "text": "Faz continência individual normalmente",
+                    "rationale": "Incorreto. Não faz continência, permanece em atitude de respeito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não faz a continência individual, permanecendo em atitude de respeito",
+                    "rationale": "Correto. Esta é a redação do § 1º do art. 23.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sai da cerimônia durante o Hino",
+                    "rationale": "Incorreto. Permanece, apenas sem fazer continência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Canta junto com o Hino",
+                    "rationale": "Incorreto. Não há essa previsão; fica em atitude respeitosa silenciosa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ajoelha-se durante a execução",
+                    "rationale": "Incorreto. A norma não prescreve ajoelhar-se.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Adaptação do procedimento para Hino Nacional em contexto religioso.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 28, inciso I, com o veículo parado (exceto bicicleta/motocicleta), como fazem a continência os ocupantes?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o condutor faz continência",
+                    "rationale": "Incorreto. Tanto condutor como passageiros fazem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tanto o condutor como os passageiros fazem a continência individual sem se levantarem",
+                    "rationale": "Correto. Esta é a redação do inciso I do art. 28.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ninguém faz continência dentro do veículo",
+                    "rationale": "Incorreto. Fazem continência sem sair do veículo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todos devem desembarcar para fazer continência",
+                    "rationale": "Incorreto. Fazem sem se levantar (sem desembarcar).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas se o veículo for militar",
+                    "rationale": "Incorreto. Aplica-se a qualquer veículo (exceto os especificados).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento dentro de veículo parado.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 29, inciso I, alínea 'b', se o policial militar estiver em viatura estacionada e tropa em deslocamento passar, o que deve fazer?",
+            "answerOptions": [
+                {
+                    "text": "Faz continência de dentro da viatura",
+                    "rationale": "Incorreto. Deve desembarcar e proceder conforme alínea 'a'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desembarca e procede de acordo com o estipulado na alínea 'a'",
+                    "rationale": "Correto. Esta é a redação da alínea 'b' do inciso I do art. 29.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apena acena da janela",
+                    "rationale": "Incorreto. Deve desembarcar e proceder formalmente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Liga a sirene em saudação",
+                    "rationale": "Incorreto. Não há essa previsão; o procedimento é desembarcar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não precisa fazer nada, pois está em viatura",
+                    "rationale": "Incorreto. Deve desembarcar e cumprimentar formalmente.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Obrigação de desembarcar de viatura para prestar continência à tropa.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 30, § 5º, o disposto no artigo sobre apresentação em UPM não se aplica a quais unidades, exceto se o policial militar estiver em visita de serviço?",
+            "answerOptions": [
+                {
+                    "text": "Unidades operacionais",
+                    "rationale": "Incorreto. Especifica unidades médico-militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Unidades médico-militares",
+                    "rationale": "Correto. Esta é a redação do § 5º do art. 30.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Unidades de ensino",
+                    "rationale": "Incorreto. O § 4º do art. 64 trata de unidades de ensino, mas o § 5º do art. 30 refere-se a médico-militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Unidades administrativas",
+                    "rationale": "Incorreto. Especificamente unidades médico-militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todas as unidades",
+                    "rationale": "Incorreto. Apenas unidades médico-militares têm essa exceção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Exceção específica para determinado tipo de unidade.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 31, inciso III, se o policial militar está em bicicleta ou motocicleta, como deve passar pelo superior?",
+            "answerOptions": [
+                {
+                    "text": "Em alta velocidade",
+                    "rationale": "Incorreto. Deve ser em marcha moderada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em marcha moderada, concentrando a atenção na condução do veículo",
+                    "rationale": "Correto. Esta é a redação do inciso III do art. 31.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para e desmonta para fazer continência",
+                    "rationale": "Incorreto. Passa em marcha moderada, sem parar necessariamente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faz continência com uma das mãos",
+                    "rationale": "Incorreto. Concentra na condução, não especifica fazer continência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Desvia do superior para não incomodar",
+                    "rationale": "Incorreto. Deve passar por ele, apenas com cuidado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Precaução especial com veículos de duas rodas.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 31, inciso VI, quando um policial militar entra em um recinto público, o que fazem os militares mais modernos que nele se encontram?",
+            "answerOptions": [
+                {
+                    "text": "Ignoram sua entrada",
+                    "rationale": "Incorreto. Devem levantar-se e fazer continência.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Levantam-se ao avistá-lo e fazem-lhe a continência",
+                    "rationale": "Correto. Esta é a redação do inciso VI do art. 31.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apenas acenam com a cabeça",
+                    "rationale": "Incorreto. Devem levantar-se e fazer continência formal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Continuam sentados e fazem continência",
+                    "rationale": "Incorreto. Especificamente devem levantar-se.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Saem do recinto para dar privacidade",
+                    "rationale": "Incorreto. Permanecem e cumprimentam formalmente.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Cortesia dos mais modernos aos que chegam em recinto público.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 31, inciso VIII, seja qual for o caráter da solenidade ou reunião, a quem deve o policial militar obrigatoriamente apresentar-se?",
+            "answerOptions": [
+                {
+                    "text": "Apenas ao anfitrião do evento",
+                    "rationale": "Incorreto. Deve apresentar-se a duas autoridades específicas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ao superior de maior hierarquia presente, e ao de maior posto entre os oficiais presentes de sua UPM",
+                    "rationale": "Correto. Esta é a redação do inciso VIII do art. 31.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A todos os superiores presentes",
+                    "rationale": "Incorreto. Apenas aos dois especificados no inciso.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Somente se for evento oficial",
+                    "rationale": "Incorreto. Aplica-se a qualquer caráter, oficial ou particular.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A ninguém, em eventos sociais",
+                    "rationale": "Incorreto. É obrigatório apresentar-se aos especificados.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Dupla apresentação obrigatória em qualquer tipo de evento.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 32, caput, todo policial militar é obrigado a reconhecer quais autoridades?",
+            "answerOptions": [
+                {
+                    "text": "Apenas o Comandante-Geral da PMDF",
+                    "rationale": "Incorreto. A lista é mais extensa, incluindo autoridades civis e militares.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Presidente e Vice-Presidente da República, Governador e Vice-Governador do DF, Comandante-Geral, Subcomandante-Geral, Chefe do Estado-Maior, Chefes, Diretores ou Comandantes da cadeia de comando e oficiais de sua UPM",
+                    "rationale": "Correto. Esta é a descrição do caput do art. 32.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Somente autoridades militares",
+                    "rationale": "Incorreto. Inclui autoridades civis (Presidente, Vice, Governador, Vice-Governador).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Todas as autoridades do DF",
+                    "rationale": "Incorreto. A lista é específica, não abrange todas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas seus superiores diretos",
+                    "rationale": "Incorreto. Inclui autoridades de mais alto nível também.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lista abrangente de autoridades que devem ser reconhecidas.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 37, § 2º, as disposições sobre embarque/desembarque e licença para deslocamento não se aplicam a que situações?",
+            "answerOptions": [
+                {
+                    "text": "Situações de treinamento",
+                    "rationale": "Incorreto. A exceção é para situações operacionais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Situações operacionais, quando devem ser obedecidos os procedimentos que lhes forem relacionados",
+                    "rationale": "Correto. Esta é a redação do § 2º do art. 37.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Quando estiver chovendo",
+                    "rationale": "Incorreto. A exceção é apenas para situações operacionais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em viagens longas",
+                    "rationale": "Incorreto. Aplica-se a viagens, a menos que sejam operacionais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nunca, aplicam-se sempre",
+                    "rationale": "Incorreto. Há exceção expressa para situações operacionais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Exceção baseada no tipo de situação (operacional).",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 49, § 3º, quando presente o corneteiro, como são dados os comandos no escalão de companhia?",
+            "answerOptions": [
+                {
+                    "text": "A toque de corneta",
+                    "rationale": "Incorreto. No escalão de companhia, é à viva voz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "À viva voz",
+                    "rationale": "Correto. Esta é a determinação do § 3º do art. 49 para o escalão de companhia.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Por sinais manuais",
+                    "rationale": "Incorreto. A forma é à viva voz para companhia.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Por apito",
+                    "rationale": "Incorreto. Especificamente à viva voz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A toque de corneta e à viva voz simultaneamente",
+                    "rationale": "Incorreto. Para companhia, apenas à viva voz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Diferença de procedimento conforme o escalão da tropa.",
+            "subject": "rcont"
+        },
+        {
+            "question": "De acordo com o art. 57, inciso I, a quantos passos aquém do homenageado é dado o toque de 'Sentido! – Em Continência à Direita (Esquerda)!' durante desfile?",
+            "answerOptions": [
+                {
+                    "text": "10 passos",
+                    "rationale": "Incorreto. A 10 passos é o comando dos Comandantes de pelotão (inciso III).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30 passos",
+                    "rationale": "Correto. Esta é a distância especificada no inciso I do art. 57.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "20 passos",
+                    "rationale": "Incorreto. A 20 passos é o comando dos Comandantes de companhia (inciso II).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "40 passos",
+                    "rationale": "Incorreto. A distância regulamentar é 30 passos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "50 passos",
+                    "rationale": "Incorreto. Não há previsão de 50 passos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Primeira distância para início do procedimento de continência no desfile.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Segundo o art. 62, se uma tropa em marcha alcançar outra que se desloca no mesmo sentido, pode passar-lhe à frente, em princípio por qual lado?",
+            "answerOptions": [
+                {
+                    "text": "Pela direita",
+                    "rationale": "Incorreto. Em princípio, pela esquerda.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pela esquerda",
+                    "rationale": "Correto. Esta é a regra do art. 62.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Por qualquer lado disponível",
+                    "rationale": "Incorreto. Há regra específica: pela esquerda.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pelo meio, dividindo a tropa alcançada",
+                    "rationale": "Incorreto. Não há essa previsão; é pela esquerda.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não pode ultrapassar outra tropa",
+                    "rationale": "Incorreto. Pode, mediante licença ou aviso e pela esquerda.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lado preferencial para ultrapassagem de tropa.",
+            "subject": "rcont"
+        },
+        {
+            "question": "Conforme o art. 64, § 4º, nas Unidades Policiais Militares de ensino, onde aguardam os alunos a chegada dos professores ou instrutores?",
+            "answerOptions": [
+                {
+                    "text": "Em formação no pátio",
+                    "rationale": "Incorreto. Aguardam nas salas de aula ou anfiteatros.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nas salas de aula ou anfiteatros",
+                    "rationale": "Correto. Esta é a redação do § 4º do art. 64.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "No gabinete do comandante",
+                    "rationale": "Incorreto. Aguardam nos locais de aula.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em qualquer lugar da unidade",
+                    "rationale": "Incorreto. Especificamente nas salas de aula ou anfiteatros.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não precisam aguardar, entram quando o professor chega",
+                    "rationale": "Incorreto. Devem aguardar nos locais de aula.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procedimento específico para unidades de ensino.",
+            "subject": "rcont"
+        }
+    ]
+}
