@@ -21,7 +21,7 @@ export const materias = [
   // { label: "TCO", value: "tco" },
   // { label: "TJAP", value: "tjap" },
   // { label: "TTML", value: "ttml" },
-  // { label: "TTP", value: "ttp" },
+ { label: "TTP", value: "ttp" },
   // { label: "VCCS", value: "vccs" },
   { label: "RCont", value: "rcont" },
 ];
