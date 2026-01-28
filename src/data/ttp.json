@@ -319,12 +319,7 @@
             ],
             "hint": "Relacione o treinamento com os objetivos da técnica mencionados no texto.",
             "subject": "tática e técnica"
-        }
-    ]
-}
-``````json
-{
-    "questions": [
+        },
         {
             "question": "Qual é a relação fundamental entre técnica e tática policial?",
             "answerOptions": [
