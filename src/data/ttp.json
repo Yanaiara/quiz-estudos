@@ -447,6 +447,486 @@
             ],
             "hint": "Procure nas Regras Gerais de segurança a orientação sobre comportamento durante instruções.",
             "subject": "Conduta em Instruções"
+        },
+        {
+            "question": "No Saque em Tempos, o que caracteriza o Tempo 1?",
+            "answerOptions": [
+                {
+                    "text": "Arma fora do coldre com empunhadura dupla",
+                    "rationale": "Incorreto. No Tempo 1 a arma está ainda semi-coldreada, apenas com destravamento da primeira retenção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Destravamento da 1ª retenção do coldre com o polegar, arma semi-coldreada com empunhadura simples",
+                    "rationale": "Correto. Esta é exatamente a descrição do Tempo 1 conforme o material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Arma totalmente fora do coldre com empunhadura dupla",
+                    "rationale": "Incorreto. Esta descrição corresponde a tempos mais avançados (3 ou 3,5).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Braços estendidos com arma na altura dos olhos",
+                    "rationale": "Incorreto. Esta é a descrição do Tempo 4.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arma em pronto-baixo com controle de cano",
+                    "rationale": "Incorreto. Esta posição não corresponde especificamente a nenhum dos tempos do saque.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a primeira etapa do saque descrita.",
+            "subject": "Saque em Tempos"
+        },
+        {
+            "question": "Qual é a principal característica do Tempo 3,5 do Saque em Tempos?",
+            "answerOptions": [
+                {
+                    "text": "Arma ainda no coldre com primeira trava liberada",
+                    "rationale": "Incorreto. No Tempo 3,5 a arma já está fora do coldre e com braços estendidos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Braços estendidos, empunhadura dupla, arma na altura do tórax com dedo fora do gatilho",
+                    "rationale": "Correto. Esta é a descrição exata do Tempo 3,5 conforme o material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Empunhadura simples com mão fraca junto ao corpo",
+                    "rationale": "Incorreto. Esta é a descrição do Tempo 2.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arma engajada no alvo com dedo na parede do gatilho",
+                    "rationale": "Incorreto. Esta é a descrição do Tempo 4.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arma retraída para pronto-baixo para movimentação",
+                    "rationale": "Incorreto. Esta posição não corresponde ao Tempo 3,5 especificamente.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a descrição que menciona 'braços estendidos' e 'arma na altura do tórax'.",
+            "subject": "Saque em Tempos"
+        },
+        {
+            "question": "Segundo o material, qual posição do Saque em Tempos corresponde à posição 'pronto-alto' prevista na Portaria PMDF nº 1.231/2021?",
+            "answerOptions": [
+                {
+                    "text": "Tempo 2",
+                    "rationale": "Incorreto. O Tempo 2 corresponde à arma fora do coldre com empunhadura simples.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tempo 3",
+                    "rationale": "Incorreto. O Tempo 3 corresponde à empunhadura dupla com braços flexionados, não exatamente ao pronto-alto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tempo 3,5",
+                    "rationale": "Incorreto. O Tempo 3,5 é semelhante ao 'terceiro olho', não ao pronto-alto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tempo 4",
+                    "rationale": "Correto. O Tempo 4 corresponde exatamente à posição pronto-alto da Portaria PMDF nº 1.231/2021.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nenhum dos tempos corresponde",
+                    "rationale": "Incorreto. O material especifica claramente a correspondência do Tempo 4 com o pronto-alto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a comparação específica entre os tempos do saque e as posições da Portaria 1.231/2021.",
+            "subject": "Saque em Tempos e POG"
+        },
+        {
+            "question": "Qual é a observação de segurança imprescindível destacada no material sobre a Portaria PMDF nº 1.231/2021?",
+            "answerOptions": [
+                {
+                    "text": "O dedo deve permanecer sempre no gatilho para prontidão",
+                    "rationale": "Incorreto. É exatamente o oposto: o dedo deve permanecer FORA do gatilho.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O dedo deve permanecer fora do gatilho em todas as transições",
+                    "rationale": "Correto. Esta é a observação de segurança imprescindível destacada no material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A arma deve sempre estar engatilhada durante patrulha",
+                    "rationale": "Incorreto. Esta não é uma recomendação de segurança do material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sempre usar empunhadura simples para maior controle",
+                    "rationale": "Incorreto. O material recomenda empunhadura dupla nos treinos de TTP.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Manter a arma no coldre durante todas as movimentações",
+                    "rationale": "Incorreto. Esta não é uma recomendação prática para situações operacionais.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a frase que começa com 'Observação de segurança imprescindível'.",
+            "subject": "Segurança - Portaria 1.231/2021"
+        },
+        {
+            "question": "Quais são os três elementos fundamentais da empunhadura descritos no material?",
+            "answerOptions": [
+                {
+                    "text": "Força, velocidade e precisão",
+                    "rationale": "Incorreto. Embora importantes, não são os três elementos específicos da empunhadura mencionados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Altura, envolvimento e pressão",
+                    "rationale": "Correto. Estes são exatamente os três elementos da empunhadura descritos no material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Firmeza, equilíbrio e controle",
+                    "rationale": "Incorreto. Embora relacionados, não são os termos técnicos específicos usados no material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Posição, postura e alinhamento",
+                    "rationale": "Incorreto. Estes elementos estão mais relacionados à postura do que especificamente à empunhadura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conforto, segurança e neutralidade",
+                    "rationale": "Incorreto. Estas são as premissas da postura/posição, não os elementos da empunhadura.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe o subtítulo que descreve a empunhadura.",
+            "subject": "Fundamentos - Empunhadura"
+        },
+        {
+            "question": "Segundo o material, o que a ALTURA correta da empunhadura proporciona?",
+            "answerOptions": [
+                {
+                    "text": "Apenas evita que o mecanismo da arma atinja as mãos",
+                    "rationale": "Incorreto. A altura correta proporciona mais benefícios além deste.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Maior controle geral, maior velocidade de recuperação e melhor controle do recuo",
+                    "rationale": "Correto. Estas são as vantagens específicas da altura correta mencionadas no material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Exclusivamente melhor pontaria e precisão",
+                    "rationale": "Incorreto. A altura influencia mais aspectos além da pontaria.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas maior conforto durante longas sessões de tiro",
+                    "rationale": "Incorreto. Embora possa aumentar o conforto, não é o benefício principal mencionado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Redução do peso aparente da arma",
+                    "rationale": "Incorreto. A altura não altera o peso real ou aparente da arma.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure na explicação sobre 'altura' os benefícios mencionados.",
+            "subject": "Empunhadura - Altura"
+        },
+        {
+            "question": "Quais são as premissas da postura/posição de tiro mencionadas no material?",
+            "answerOptions": [
+                {
+                    "text": "Velocidade, agilidade e destreza",
+                    "rationale": "Incorreto. Embora importantes, não são as premissas específicas mencionadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Estabilidade, conforto, segurança e neutralidade",
+                    "rationale": "Correto. Estas são exatamente as quatro premissas da postura/posição conforme o material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Força, equilíbrio e controle",
+                    "rationale": "Incorreto. Embora relacionados, não são as premissas específicas listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Precisão, consistência e repetibilidade",
+                    "rationale": "Incorreto. Estas são qualidades desejadas, mas não as premissas fundamentais da postura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Proteção, mobilidade e adaptabilidade",
+                    "rationale": "Incorreto. Embora relevantes em contexto operacional, não são as premissas específicas do material.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe o texto entre parênteses após 'POSTURA/POSIÇÃO'.",
+            "subject": "Fundamentos - Postura"
+        },
+        {
+            "question": "Qual é a principal característica da posição Isósceles Modificada?",
+            "answerOptions": [
+                {
+                    "text": "Pés juntos e alinhados",
+                    "rationale": "Incorreto. Na Isósceles Modificada os pés ficam em posição de luta, não juntos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pés numa posição de luta, com perna principal recuada",
+                    "rationale": "Correto. Esta é a característica distintiva da Isósceles Modificada em relação à Isósceles tradicional.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apoio dos dois joelhos no solo",
+                    "rationale": "Incorreto. Esta é a descrição da posição ajoelhada/de joelhos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Corpo totalmente deitado no solo",
+                    "rationale": "Incorreto. Esta é a descrição da posição deitada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Braços totalmente relaxados e flexionados",
+                    "rationale": "Incorreto. Na Isósceles Modificada os braços estão estendidos à frente do peito.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a diferença específica entre Isósceles tradicional e Isósceles Modificada.",
+            "subject": "Postura - Isósceles Modificada"
+        },
+        {
+            "question": "Quando é recomendada a utilização da posição Ajoelhada/De Joelhos?",
+            "answerOptions": [
+                {
+                    "text": "Apenas em treinamentos de tiro de precisão",
+                    "rationale": "Incorreto. Embora possa ser usada para precisão, tem aplicação operacional específica.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Em caso de necessidade de redução da silhueta ou quando houver um abrigo baixo",
+                    "rationale": "Correto. Esta é exatamente a indicação para uso da posição ajoelhada conforme o material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sempre que o policial estiver cansado durante patrulha",
+                    "rationale": "Incorreto. Não é uma posição para descanso, mas para necessidade operacional.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas durante operações de cerco e abordagem",
+                    "rationale": "Incorreto. Embora possa ser usada nessas situações, a indicação é mais ampla.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Para melhorar a estabilidade em qualquer situação de tiro",
+                    "rationale": "Incorreto. A posição tem indicação específica, não é para uso geral.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a frase que explica quando utilizar esta posição.",
+            "subject": "Postura - Ajoelhada"
+        },
+        {
+            "question": "Quais são os três tipos de engajamento mencionados na seção sobre Visada?",
+            "answerOptions": [
+                {
+                    "text": "Preciso, intuitivo e instintivo",
+                    "rationale": "Incorreto. Embora os termos possam ser similares, não são os nomes técnicos usados no material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Visado, semivisado (intuitivo) e não visado",
+                    "rationale": "Correto. Estes são exatamente os três tipos de engajamento conforme a Portaria PMDF 1.201/2021.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Direto, indireto e reflexivo",
+                    "rationale": "Incorreto. Estes não são os termos técnicos utilizados no material sobre visada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alinhado, parcial e desalinhado",
+                    "rationale": "Incorreto. Embora descrevam conceitos similares, não são os termos específicos do material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Focado, periférico e amplo",
+                    "rationale": "Incorreto. Estes termos descrevem tipos de atenção visual, não especificamente tipos de engajamento na visada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a lista apresentada na seção sobre Visada.",
+            "subject": "Fundamentos - Visada"
+        },
+        {
+            "question": "Qual é a orientação dominante na PMDF sobre apneia (bloqueio da respiração) durante o disparo?",
+            "answerOptions": [
+                {
+                    "text": "Deve-se sempre fazer apneia para maior precisão",
+                    "rationale": "Incorreto. Esta não é a orientação dominante conforme o material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A entrada de ar não deve ser bloqueada",
+                    "rationale": "Correto. Esta é a orientação dominante na PMDF conforme a IG DEC 03/2024.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Só deve fazer apneia em tiros de longa distância",
+                    "rationale": "Incorreto. O material não faz essa distinção específica.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A apneia é obrigatória em todos os disparos",
+                    "rationale": "Incorreto. A orientação é contra o bloqueio da respiração.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cada policial decide se faz apneia ou não",
+                    "rationale": "Incorreto. Existe orientação específica da corporação sobre o assunto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a citação específica da IG DEC 03/2024 sobre respiração.",
+            "subject": "Fundamentos - Respiração"
+        },
+        {
+            "question": "No Giro Estacionário para o lado ESQUERDO para policial destro, qual pé funciona como pivô?",
+            "answerOptions": [
+                {
+                    "text": "Pé direito",
+                    "rationale": "Incorreto. Para giro à esquerda, o pé esquerdo funciona como pivô.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pé esquerdo",
+                    "rationale": "Correto. Conforme o material, no giro para esquerda, mantém-se o pé esquerdo fixo como pivô.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ambos os pés simultaneamente",
+                    "rationale": "Incorreto. A técnica especifica um pé específico como pivô em cada direção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alterna entre os dois pés durante o giro",
+                    "rationale": "Incorreto. A técnica tem sequência específica com pé fixo como pivô.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O pé que estiver mais à frente no momento",
+                    "rationale": "Incorreto. A técnica é padronizada com pé específico para cada direção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a descrição passo a passo do giro para esquerda.",
+            "subject": "Giro Estacionário"
+        },
+        {
+            "question": "Qual é a primeira ação no Giro Estacionário para qualquer direção?",
+            "answerOptions": [
+                {
+                    "text": "Retrair o armamento para pronto-baixo",
+                    "rationale": "Incorreto. A retração vem após a leitura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Virar rapidamente cabeça e olhos para avaliar a direção pretendida",
+                    "rationale": "Correto. Em todos os giros descritos, a primeira ação é a 'leitura' virando cabeça e olhos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mover os pés para nova posição",
+                    "rationale": "Incorreto. O movimento dos pés vem após a leitura e retração.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Girar o tronco completamente",
+                    "rationale": "Incorreto. O giro do tronco é uma etapa posterior no processo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Restaurar a posição de pronto-alto",
+                    "rationale": "Incorreto. A restauração é a etapa final, não a inicial.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure o passo chamado 'Leitura' em cada descrição de giro.",
+            "subject": "Giro Estacionário"
+        },
+        {
+            "question": "Para giro à retaguarda, por qual lado se prioriza girar?",
+            "answerOptions": [
+                {
+                    "text": "Pelo lado da perna que está à frente",
+                    "rationale": "Incorreto. Prioriza-se girar pelo lado da perna que fica ATRÁS.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pelo lado da perna que fica atrás",
+                    "rationale": "Correto. O material especifica: 'PRIORIZA-SE O GIRO À RETAGUARDA PELO LADO DA PERNA QUE FICA ATRÁS'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pelo lado mais rápido para cada policial",
+                    "rationale": "Incorreto. Existe padronização específica, não decisão individual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sempre pelo lado direito independentemente da posição",
+                    "rationale": "Incorreto. A priorização depende de qual perna está atrás.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pelo lado com melhor campo de visão",
+                    "rationale": "Incorreto. A técnica é padronizada, não baseada em avaliação momentânea.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a frase em caixa alta na descrição do giro para retaguarda.",
+            "subject": "Giro Estacionário - Retaguarda"
+        },
+        {
+            "question": "O que significa 'linha de visada' conforme definido no material?",
+            "answerOptions": [
+                {
+                    "text": "Linha imaginária do olho ao alvo sem considerar a arma",
+                    "rationale": "Incorreto. A linha de visada inclui o aparelho de pontaria da arma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Linha reta imaginária do olho diretor, passando pelo aparelho de pontaria, até o alvo",
+                    "rationale": "Correto. Esta é a definição exata de linha de visada apresentada no material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Trajetória real da bala do cano ao alvo",
+                    "rationale": "Incorreto. Esta seria a trajetória balística, não a linha de visada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alinhamento dos olhos com as mãos segurando a arma",
+                    "rationale": "Incorreto. A definição é mais específica, incluindo o aparelho de pontaria e o alvo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Campo de visão do policial durante o engajamento",
+                    "rationale": "Incorreto. A linha de visada é um conceito mais específico de alinhamento para tiro.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure a definição apresentada no início da seção sobre Visada.",
+            "subject": "Fundamentos - Linha de Visada"
         }
     ]
 }
