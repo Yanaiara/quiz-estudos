@@ -1,644 +1,452 @@
 {
     "questions": [
         {
-            "question": "Qual é a relação fundamental entre técnica e tática policial?",
+            "question": "De acordo com a disciplina TTP, qual é o seu propósito principal?",
             "answerOptions": [
                 {
-                    "text": "São conceitos completamente independentes e separados",
-                    "rationale": "Incorreto. Técnica e tática são conceitos complementares e inter-relacionados na atividade policial.",
+                    "text": "Preparar o policial apenas para situações de tiro em polígonos",
+                    "rationale": "Incorreto. O propósito é mais abrangente, preparando para o serviço operacional geral com segurança e eficiência.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A tática é a forma de aplicar com eficácia os recursos técnicos mediante decisões operacionais",
-                    "rationale": "Correto. A tática utiliza e organiza as técnicas conforme as necessidades operacionais.",
+                    "text": "Preparar o futuro policial militar para atuar com segurança, eficiência e disciplina no serviço operacional",
+                    "rationale": "Correto. Esta é exatamente a definição do propósito da disciplina TTP apresentada no material.",
                     "isCorrect": true
                 },
                 {
-                    "text": "A técnica é superior e mais importante que a tática",
-                    "rationale": "Incorreto. Ambas são igualmente importantes e complementares; uma não é superior à outra.",
+                    "text": "Ensinar exclusivamente técnicas de tiro com precisão",
+                    "rationale": "Incorreto. A disciplina abrange muito mais do que técnicas de tiro, incluindo táticas, abordagens e tomada de decisão.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A tática substitui a necessidade de técnicas bem desenvolvidas",
-                    "rationale": "Incorreto. A tática pressupõe e depende de técnicas bem treinadas para ser eficaz.",
+                    "text": "Formar policiais para cargos administrativos",
+                    "rationale": "Incorreto. A disciplina foca no serviço operacional, não administrativo.",
                     "isCorrect": false
                 },
                 {
-                    "text": "São sinônimos que significam a mesma coisa",
-                    "rationale": "Incorreto. Embora relacionadas, têm definições e propósitos distintos.",
+                    "text": "Treinar apenas para situações de atirador ativo",
+                    "rationale": "Incorreto. Embora inclua essa situação, o propósito é mais amplo, abrangendo o policiamento ostensivo geral.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Pense em como a tática utiliza as técnicas disponíveis.",
-            "subject": "tática e técnica"
+            "hint": "Procure a seção que define o propósito da disciplina TTP.",
+            "subject": "TTP - Propósito"
         },
         {
-            "question": "Considerando os textos sobre técnica e tática, qual afirmação é correta?",
+            "question": "Quais são os principais objetivos ao final da disciplina TTP, conforme o material?",
             "answerOptions": [
                 {
-                    "text": "A técnica envolve julgamento e tomada de decisão, enquanto a tática envolve execução padronizada",
-                    "rationale": "Incorreto. É o contrário: a técnica envolve execução padronizada ('como fazer'), enquanto a tática envolve julgamento e decisão ('quando, onde e por que aplicar').",
+                    "text": "Executar apenas procedimentos de tiro com precisão",
+                    "rationale": "Incorreto. Os objetivos são mais abrangentes, incluindo tomada de decisão tática e preservação de vidas.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A técnica responde ao 'como fazer' e a tática ao 'quando, onde e por que aplicar'",
-                    "rationale": "Correto. Esta é exatamente a distinção apresentada nos textos fornecidos.",
+                    "text": "Executar procedimentos técnicos com segurança e decidir taticamente a melhor forma de aplicá-los, preservando a vida da guarnição e civis",
+                    "rationale": "Correto. Esta é a descrição completa das capacidades que o aluno deve ter ao final da disciplina.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Técnica e tática respondem às mesmas questões operacionais",
-                    "rationale": "Incorreto. Cada uma responde a questões diferentes, embora complementares.",
+                    "text": "Dominar todas as técnicas de artes marciais policiais",
+                    "rationale": "Incorreto. Embora o treinamento físico possa ser parte, não é o objetivo principal mencionado.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A tática é resultado de treinamento repetido, enquanto a técnica é resultado de experiência operacional",
-                    "rationale": "Incorreto. Ambas envolvem treinamento e experiência, mas de naturezas diferentes.",
+                    "text": "Conhecer toda a legislação penal aplicável",
+                    "rationale": "Incorreto. O foco da TTP é nas habilidades operacionais, não no conhecimento legal teórico.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Técnica se preocupa com coordenação, enquanto tática se preocupa com procedimentos individuais",
-                    "rationale": "Incorreto. É o contrário: a tática transforma procedimentos individuais em ação coordenada.",
+                    "text": "Ser capaz de comandar uma equipe operacional",
+                    "rationale": "Incorreto. Embora possa desenvolver liderança, o foco principal é na execução técnica e decisão tática individual.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Compare as últimas frases de ambos os textos.",
-            "subject": "tática e técnica"
+            "hint": "Procure a parte que descreve o que o aluno deve ser capaz de fazer ao final da disciplina.",
+            "subject": "TTP - Objetivos"
         },
         {
-            "question": "Em uma abordagem policial, qual seria um exemplo de aplicação conjunta de técnica e tática?",
+            "question": "Segundo o material, qual é a diferença fundamental entre Postura e Compostura?",
             "answerOptions": [
                 {
-                    "text": "Apenas o fato de usar uma arma de fogo",
-                    "rationale": "Incorreto. O uso da arma é uma técnica; a tática envolveria quando e como usá-la no contexto específico.",
+                    "text": "Postura é interna e emocional, Compostura é externa e física",
+                    "rationale": "Incorreto. É exatamente o oposto: Postura é externa/física, Compostura é interna/emocional.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Usar a empunhadura correta da arma (técnica) e decidir o posicionamento adequado durante uma abordagem (tática)",
-                    "rationale": "Correto. A empunhadura é uma técnica específica, enquanto o posicionamento envolve decisão tática considerando ambiente e riscos.",
+                    "text": "Postura é externa/física/operacional, Compostura é interna/emocional/comportamental",
+                    "rationale": "Correto. Esta é exatamente a distinção apresentada no material.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Vestir o uniforme policial corretamente",
-                    "rationale": "Incorreto. Embora importante, vestir o uniforme é mais um procedimento administrativo do que aplicação de técnica e tática operacional.",
+                    "text": "Ambas são a mesma coisa, apenas sinônimos",
+                    "rationale": "Incorreto. O material faz distinção clara entre os dois conceitos.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Preencher um relatório de ocorrência",
-                    "rationale": "Incorreto. Esta é uma atividade administrativa, não operacional envolvendo técnica e tática.",
+                    "text": "Postura se refere apenas ao uniforme, Compostura ao comportamento em serviço",
+                    "rationale": "Incorreto. Postura envolve mais do que o uniforme, e Compostura vai além do comportamento em serviço.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dirigir a viatura até o local da ocorrência",
-                    "rationale": "Incorreto. Embora envolva alguma decisão, é mais um deslocamento do que aplicação conjunta de técnica e tática policial.",
+                    "text": "Postura é sobre autoridade, Compostura sobre submissão",
+                    "rationale": "Incorreto. Ambos envolvem aspectos de autoridade profissional, mas com focos diferentes.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Pense em um cenário onde habilidades específicas são aplicadas com decisão estratégica.",
-            "subject": "tática e técnica"
+            "hint": "Observe os subtítulos que definem cada um dos conceitos.",
+            "subject": "Postura e Compostura"
         },
         {
-            "question": "Qual é o objetivo comum tanto da técnica quanto da tática policial?",
+            "question": "De acordo com a Portaria PMDF nº 1.196/2021, qual dos seguintes NÃO é considerado Instrumento de Menor Potencial Ofensivo (IMPO)?",
             "answerOptions": [
                 {
-                    "text": "Aumentar o número de prisões realizadas",
-                    "rationale": "Incorreto. Embora possam contribuir, não é o objetivo principal comum a ambos.",
+                    "text": "Bastão policial",
+                    "rationale": "Incorreto. O bastão policial está listado no inciso I como IMPO.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Garantir segurança e eficiência na ação policial",
-                    "rationale": "Correto. Ambos os textos mencionam segurança e eficiência como objetivos fundamentais.",
+                    "text": "Arma de fogo de porte (pistola)",
+                    "rationale": "Correto. Arma de fogo de porte não está listada como IMPO na portaria mencionada.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Reduzir custos operacionais",
-                    "rationale": "Incorreto. Aspectos financeiros não são o foco principal de técnica ou tática.",
+                    "text": "Espargidor de solução lacrimogênea",
+                    "rationale": "Incorreto. Está listado no inciso III como IMPO.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Melhorar a imagem pública da polícia",
-                    "rationale": "Incorreto. Embora possa ser um efeito colateral, não é o objetivo principal.",
+                    "text": "Arma de Lançamento de Eletrodos Energizados (ALEE)",
+                    "rationale": "Incorreto. Está listado no inciso IV como IMPO.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Satisfazer exigências legais e burocráticas",
-                    "rationale": "Incorreto. Técnica e tática focam na eficácia operacional, não apenas em cumprimento burocrático.",
+                    "text": "Munição de impacto controlado",
+                    "rationale": "Incorreto. Está listado no inciso V como IMPO.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Procure elementos comuns mencionados em ambos os textos.",
-            "subject": "tática e técnica"
+            "hint": "Revise a lista de IMPOs fornecida no material, comparando com as opções.",
+            "subject": "IMPOs"
         },
         {
-            "question": "Como a tática transforma as técnicas individuais?",
+            "question": "Quais são os itens OBRIGATÓRIOS a serem colocados no Cinto de Guarnição, segundo o material?",
             "answerOptions": [
                 {
-                    "text": "Substituindo-as por métodos completamente novos",
-                    "rationale": "Incorreto. A tática não substitui as técnicas, mas as organiza e adapta.",
+                    "text": "Lanterna, Kit APH tático e Canivete",
+                    "rationale": "Incorreto. Estes são itens que podem estar no cinto ou na capa tática, não são obrigatórios no cinto.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Transformando procedimentos individuais em uma ação coordenada e eficiente",
-                    "rationale": "Correto. Esta é exatamente a descrição fornecida no texto sobre tática.",
+                    "text": "Coldre para pistola, Porta carregador duplo, Fiel, Porta algemas, Porta bastão policial e Prendedor de cinto",
+                    "rationale": "Correto. Esta é a lista completa de itens obrigatórios no cinto de guarnição conforme o material.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Simplificando-as para exigir menos treinamento",
-                    "rationale": "Incorreto. A tática não simplifica as técnicas, mas as combina de forma inteligente.",
+                    "text": "Apenas o coldre e as algemas",
+                    "rationale": "Incorreto. A lista de obrigatórios é mais extensa que apenas coldre e algemas.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Automatizando-as para reduzir erro humano",
-                    "rationale": "Incorreto. A tática envolve decisão humana, não automatização.",
+                    "text": "Todos os equipamentos do policial, sem exceção",
+                    "rationale": "Incorreto. O material especifica itens obrigatórios e outros que podem estar no cinto ou na capa tática.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Eliminando a necessidade de técnicas especializadas",
-                    "rationale": "Incorreto. A tática pressupõe e depende de técnicas bem desenvolvidas.",
+                    "text": "Carregadores extras, HT e Lanterna",
+                    "rationale": "Incorreto. Estes não estão na lista de obrigatórios para o cinto especificamente.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Observe a segunda frase do texto sobre tática.",
-            "subject": "tática e técnica"
+            "hint": "Procure a lista específica de 'itens obrigatórios a serem colocados no cinto'.",
+            "subject": "Cinto de Guarnição"
         },
         {
-            "question": "Qual fator é comum ao desenvolvimento tanto da técnica quanto da tática policial?",
+            "question": "Qual é a finalidade das Regras de Segurança conforme a IG 03/2024?",
             "answerOptions": [
                 {
-                    "text": "Experiência operacional",
-                    "rationale": "Correto. Ambos os textos mencionam que técnica e tática são aperfeiçoadas a partir da experiência operacional.",
+                    "text": "Apenas para treinamento em polígonos de tiro",
+                    "rationale": "Incorreto. As regras devem ser seguidas em qualquer situação: treinamento, manutenção, transporte e serviço operacional.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Orientar a conduta do policial no manejo da arma de fogo, minimizando riscos e prevenindo disparos acidentais",
+                    "rationale": "Correto. Esta é exatamente a definição fornecida no material sobre a finalidade das regras de segurança.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Decisões políticas",
-                    "rationale": "Incorreto. Embora possam influenciar, não são mencionadas como fator de desenvolvimento.",
+                    "text": "Garantir que apenas policiais experientes manipulem armas",
+                    "rationale": "Incorreto. As regras são para todos os policiais, não apenas para os experientes.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Orçamento disponível",
-                    "rationale": "Incorreto. Aspectos financeiros não são mencionados como fatores de desenvolvimento.",
+                    "text": "Estabelecer punições para quem comete erros no manejo de armas",
+                    "rationale": "Incorreto. A finalidade é preventiva (minimizar riscos), não punitiva.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Opinião pública",
-                    "rationale": "Incorreto. Não é mencionada como fator de desenvolvimento nas definições.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Tecnologia de ponta",
-                    "rationale": "Incorreto. Embora possa ajudar, não é mencionada como fator essencial no desenvolvimento.",
+                    "text": "Padronizar apenas o transporte de armas em viaturas",
+                    "rationale": "Incorreto. O escopo é muito mais amplo, abrangendo todas as situações de manejo.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Procure um elemento mencionado em ambos os textos sobre como são aperfeiçoadas.",
-            "subject": "tática e técnica"
+            "hint": "Procure a frase que define a finalidade das Regras de Segurança.",
+            "subject": "Regras de Segurança"
         },
         {
-            "question": "Em uma operação de entrada em edificação, qual seria um exemplo de TÉCNICA?",
+            "question": "Segundo as Regras Gerais de Segurança (IG-03/2024), qual das seguintes afirmações está correta?",
             "answerOptions": [
                 {
-                    "text": "Decidir que a equipe fará uma entrada cruzada",
-                    "rationale": "Incorreto. Esta é uma decisão tática sobre como coordenar a entrada.",
+                    "text": "Armas de treino (blue guns) podem ser tratadas com menos rigor",
+                    "rationale": "Incorreto. A regra diz para tratar TODA arma como se estivesse sempre municiada, INCLUSIVE blue gun ou simuladores.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Executar corretamente o fatiamento de ambientes",
-                    "rationale": "Correto. Fatiamento é uma técnica específica de varredura e controle de ambientes.",
+                    "text": "Trate toda arma como se estivesse sempre municiada, inclusive blue gun ou simuladores",
+                    "rationale": "Correto. Esta é exatamente a primeira regra geral de segurança apresentada.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Avaliar os riscos antes da entrada",
-                    "rationale": "Incorreto. Avaliação de riscos é parte do processo tático de decisão.",
+                    "text": "O dedo pode ficar no gatilho desde que a arma esteja com a trava acionada",
+                    "rationale": "Incorreto. A regra diz para manter o dedo FORA do gatilho até o momento de efetuar o disparo.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Determinar o momento adequado para a entrada",
-                    "rationale": "Incorreto. Esta é uma decisão tática sobre o 'quando' agir.",
+                    "text": "Em situações de emergência, não é necessário identificar completamente o alvo",
+                    "rationale": "Incorreto. A regra de identificar o alvo e tudo ao redor é sempre válida.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Coordenar as diferentes equipes envolvidas",
-                    "rationale": "Incorreto. Coordenação é uma função tática, não uma técnica específica.",
+                    "text": "A direção do cano só precisa ser controlada durante o tiro",
+                    "rationale": "Incorreto. Deve-se controlar a direção do cano SEMPRE.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Técnica responde ao 'como fazer' procedimentos específicos.",
-            "subject": "tática e técnica"
+            "hint": "Revise as quatro regras gerais listadas no material.",
+            "subject": "Regras de Segurança"
         },
         {
-            "question": "Na mesma operação de entrada em edificação, qual seria um exemplo de TÁTICA?",
+            "question": "De acordo com o M-5 (Manual de Armamento, Munição e Tiro), como deve ser feita a entrega de uma arma?",
             "answerOptions": [
                 {
-                    "text": "Usar a posição de baixa preparada durante a varredura",
-                    "rationale": "Incorreto. Esta é uma técnica específica de posicionamento.",
+                    "text": "Com a arma carregada e engatilhada para pronta utilização",
+                    "rationale": "Incorreto. Deve estar descarregada, com carregador removido e câmara exposta.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Decidir se a entrada será em coluna, cruzada ou em gancho",
-                    "rationale": "Correto. Esta é uma decisão tática sobre como organizar a entrada considerando o cenário.",
+                    "text": "Descarregada, com carregador removido, câmara exposta e dedo fora do gatilho, mantendo o cano em direção segura",
+                    "rationale": "Correto. Esta é a descrição exata do procedimento de entrega conforme o M-5.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Manter o controle de cano da arma durante o deslocamento",
-                    "rationale": "Incorreto. Controle de cano é uma técnica de manejo de arma.",
+                    "text": "Com a trava de segurança acionada, mesmo estando municiada",
+                    "rationale": "Incorreto. A arma deve estar descarregada, não apenas com trava acionada.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Executar a transposição técnica da aranha em um muro",
-                    "rationale": "Incorreto. Esta é uma técnica específica de transposição de obstáculos.",
+                    "text": "Em coldre, para maior segurança",
+                    "rationale": "Incorreto. O procedimento específico de entrega exige que a arma seja mostrada descarregada.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Realizar a empunhadura correta da arma",
-                    "rationale": "Incorreto. Empunhadura é uma técnica básica de manejo de arma.",
+                    "text": "De qualquer maneira, desde que seja entre policiais treinados",
+                    "rationale": "Incorreto. Existe procedimento padrão específico para entrega de armas.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Tática envolve decisão sobre 'quando, onde e por que' aplicar determinadas técnicas.",
-            "subject": "tática e técnica"
+            "hint": "Procure a descrição do procedimento de entrega de arma no material sobre o M-5.",
+            "subject": "M-5 - Entrega de Arma"
         },
         {
-            "question": "Por que a tática policial considera a proteção da equipe e de terceiros?",
+            "question": "Quais são as características principais da Blue Gun Glock 19, conforme descrito no material?",
             "answerOptions": [
                 {
-                    "text": "Apenas para evitar processos judiciais",
-                    "rationale": "Incorreto. Embora possa prevenir processos, a proteção é um princípio fundamental de segurança.",
+                    "text": "Arma funcional para treinamento avançado",
+                    "rationale": "Incorreto. A Blue Gun é NÃO funcional, destituída de capacidade de disparo.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Como parte fundamental da busca por segurança na ação policial",
-                    "rationale": "Correto. A proteção da equipe e terceiros é um objetivo fundamental tanto da técnica quanto da tática.",
+                    "text": "Armamento não funcional, destituído de capacidade de disparo, com componentes laranja para identificação",
+                    "rationale": "Correto. Estas são características essenciais da Blue Gun descritas no material.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Principalmente para economizar recursos com afastamentos por saúde",
-                    "rationale": "Incorreto. Embora possa ter esse efeito, não é a razão principal mencionada.",
+                    "text": "Pistola real adaptada para treinamento com munição de festim",
+                    "rationale": "Incorreto. Não é uma pistola real adaptada, é um simulacro específico para treinamento.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Para impressionar positivamente a opinião pública",
-                    "rationale": "Incorreto. Embora possa ter esse efeito, a proteção é um princípio operacional, não de imagem.",
+                    "text": "Arma com mesmo peso e dimensões, mas que dispara apenas munição de treino",
+                    "rationale": "Incorreto. Não dispara nenhum tipo de munição, é completamente inerte.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Porque a lei exige apenas isso",
-                    "rationale": "Incorreto. A proteção é um princípio ético e operacional que vai além do mero cumprimento legal.",
+                    "text": "Simulador eletrônico para treinamento em realidade virtual",
+                    "rationale": "Incorreto. É um equipamento físico de polímero, não um simulador eletrônico.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Relacione com os objetivos comuns de técnica e tática mencionados nos textos.",
-            "subject": "tática e técnica"
+            "hint": "Observe as características de segurança e identificação da Blue Gun.",
+            "subject": "Blue Gun"
         },
         {
-            "question": "Qual a importância do treinamento permanente e repetido mencionado no texto sobre técnica?",
+            "question": "Segundo o procedimento padronizado para carregar o armamento em grupo (formação em linha), qual é a sequência CORRETA de ações?",
             "answerOptions": [
                 {
-                    "text": "Apenas para cumprir exigências burocráticas de horas de treinamento",
-                    "rationale": "Incorreto. O treinamento tem objetivo operacional, não apenas burocrático.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Para desenvolver a precisão, segurança e eficiência na execução das técnicas",
-                    "rationale": "Correto. O treinamento repetido visa desenvolver as qualidades fundamentais das técnicas.",
+                    "text": "Sacar, inserir carregador, executar manejo, inspecionar visualmente, coldrear",
+                    "rationale": "Correto. Esta é a sequência descrita no material para carregamento em grupo.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Principalmente para manter os policiais ocupados entre operações",
-                    "rationale": "Incorreto. O treinamento tem objetivos específicos de desenvolvimento de habilidades.",
+                    "text": "Inspecionar, inserir carregador, sacar, executar manejo, coldrear",
+                    "rationale": "Incorreto. A sequência inicia com o saque do armamento, não com inspeção.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Para substituir a experiência operacional real",
-                    "rationale": "Incorreto. O treinamento complementa, mas não substitui a experiência operacional.",
+                    "text": "Coldrear, sacar, inserir carregador, executar manejo",
+                    "rationale": "Incorreto. Não faz sentido coldrear antes de carregar a arma.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Apenas para preparar para situações extremamente raras",
-                    "rationale": "Incorreito. O treinamento prepara para situações tanto comuns quanto raras.",
+                    "text": "Executar manejo, inserir carregador, inspecionar, sacar, coldrear",
+                    "rationale": "Incorreto. A sequência lógica inicia com o saque da arma ainda descarregada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inserir carregador, executar manejo, sacar, inspecionar, coldrear",
+                    "rationale": "Incorreto. Primeiro se saca a arma, depois se insere o carregador.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Relacione o treinamento com os objetivos da técnica mencionados no texto.",
-            "subject": "tática e técnica"
+            "hint": "Siga a ordem descrita no material passo a passo.",
+            "subject": "Procedimentos - Carregamento"
         },
         {
-            "question": "Qual é a relação fundamental entre técnica e tática policial?",
+            "question": "Qual é a recomendação do material sobre como transportar itens de menor importância para o serviço?",
             "answerOptions": [
                 {
-                    "text": "São conceitos completamente independentes e separados",
-                    "rationale": "Incorreto. Técnica e tática são conceitos complementares e inter-relacionados na atividade policial.",
+                    "text": "Devem ser carregados sempre no cinto de guarnição",
+                    "rationale": "Incorreto. O material recomenda não sobrecarregar o cinto com itens não essenciais.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A tática é a forma de aplicar com eficácia os recursos técnicos mediante decisões operacionais",
-                    "rationale": "Correto. A tática utiliza e organiza as técnicas conforme as necessidades operacionais.",
+                    "text": "Podem ser transportados em uma mochila que fique acomodada na viatura",
+                    "rationale": "Correto. Esta é exatamente a recomendação apresentada no material.",
                     "isCorrect": true
                 },
                 {
-                    "text": "A técnica é superior e mais importante que a tática",
-                    "rationale": "Incorreto. Ambas são igualmente importantes e complementares; uma não é superior à outra.",
+                    "text": "Devem ser deixados em casa ou no quartel",
+                    "rationale": "Incorreto. Podem ser transportados, mas de forma adequada (na mochila na viatura).",
                     "isCorrect": false
                 },
                 {
-                    "text": "A tática substitui a necessidade de técnicas bem desenvolvidas",
-                    "rationale": "Incorreto. A tática pressupõe e depende de técnicas bem treinadas para ser eficaz.",
+                    "text": "Sempre devem ficar com outros colegas de equipe",
+                    "rationale": "Incorreto. Cada policial é responsável por seus próprios itens, organizados adequadamente.",
                     "isCorrect": false
                 },
                 {
-                    "text": "São sinônimos que significam a mesma coisa",
-                    "rationale": "Incorreto. Embora relacionadas, têm definições e propósitos distintos.",
+                    "text": "Podem ser amarrados externamente na capa tática",
+                    "rationale": "Incorreto. Esta não é uma recomendação do material; a recomendação é usar mochila na viatura.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Pense em como a tática utiliza as técnicas disponíveis.",
-            "subject": "tática e técnica"
+            "hint": "Procure a seção com recomendações sobre transporte de equipamentos.",
+            "subject": "Transporte de Equipamentos"
         },
         {
-            "question": "Considerando os textos sobre técnica e tática, qual afirmação é correta?",
+            "question": "De acordo com as orientações sobre Postura e Compostura, qual das seguintes atitudes NÃO é recomendada?",
             "answerOptions": [
                 {
-                    "text": "A técnica envolve julgamento e tomada de decisão, enquanto a tática envolve execução padronizada",
-                    "rationale": "Incorreto. É o contrário: a técnica envolve execução padronizada ('como fazer'), enquanto a tática envolve julgamento e decisão ('quando, onde e por que aplicar').",
+                    "text": "Manter postura de prontidão durante o serviço",
+                    "rationale": "Incorreto. Esta é uma recomendação POSITIVA do material.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A técnica responde ao 'como fazer' e a tática ao 'quando, onde e por que aplicar'",
-                    "rationale": "Correto. Esta é exatamente a distinção apresentada nos textos fornecidos.",
+                    "text": "Sentar-se em meio-fio ou degraus durante o serviço",
+                    "rationale": "Correto. O material especifica NÃO sentar-se em locais vexatórios como meio-fio, degraus ou superfícies sujas.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Técnica e tática respondem às mesmas questões operacionais",
-                    "rationale": "Incorreto. Cada uma responde a questões diferentes, embora complementares.",
+                    "text": "Manter celular em modo silencioso durante instrução",
+                    "rationale": "Incorreto. Esta é uma recomendação POSITIVA do material.",
                     "isCorrect": false
                 },
                 {
-                    "text": "A tática é resultado de treinamento repetido, enquanto a técnica é resultado de experiência operacional",
-                    "rationale": "Incorreto. Ambas envolvem treinamento e experiência, mas de naturezas diferentes.",
+                    "text": "Usar linguagem formal e controlada",
+                    "rationale": "Incorreto. Esta é uma recomendação POSITIVA do material.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Técnica se preocupa com coordenação, enquanto tática se preocupa com procedimentos individuais",
-                    "rationale": "Incorreto. É o contrário: a tática transforma procedimentos individuais em ação coordenada.",
+                    "text": "Manter autocontrole em situações de provocação",
+                    "rationale": "Incorreto. Esta é uma recomendação POSITIVA sobre contenção emocional.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Compare as últimas frases de ambos os textos.",
-            "subject": "tática e técnica"
+            "hint": "Procure na lista de recomendações aquelas que começam com 'Não' ou 'Evite'.",
+            "subject": "Postura e Compostura"
         },
         {
-            "question": "Em uma abordagem policial, qual seria um exemplo de aplicação conjunta de técnica e tática?",
+            "question": "Qual é o propósito da padronização do procedimento de carregar e descarregar em grupo (formação em linha)?",
             "answerOptions": [
                 {
-                    "text": "Apenas o fato de usar uma arma de fogo",
-                    "rationale": "Incorreto. O uso da arma é uma técnica; a tática envolveria quando e como usá-la no contexto específico.",
+                    "text": "Apenas para ganhar velocidade na execução",
+                    "rationale": "Incorreto. O propósito principal é aumentar a segurança, não a velocidade.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Usar a empunhadura correta da arma (técnica) e decidir o posicionamento adequado durante uma abordagem (tática)",
-                    "rationale": "Correto. A empunhadura é uma técnica específica, enquanto o posicionamento envolve decisão tática considerando ambiente e riscos.",
+                    "text": "Para aumentar a segurança, podendo ser feito pausadamente sob comando",
+                    "rationale": "Correto. O material especifica que para aumentar a segurança, o procedimento pode ser feito pausadamente sob comando.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Vestir o uniforme policial corretamente",
-                    "rationale": "Incorreto. Embora importante, vestir o uniforme é mais um procedimento administrativo do que aplicação de técnica e tática operacional.",
+                    "text": "Para impressionar superiores com sincronia",
+                    "rationale": "Incorreto. O propósito é de segurança operacional, não de demonstração.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Preencher um relatório de ocorrência",
-                    "rationale": "Incorreto. Esta é uma atividade administrativa, não operacional envolvendo técnica e tática.",
+                    "text": "Para economizar munição durante treinamentos",
+                    "rationale": "Incorreto. O procedimento não tem relação com economia de munição.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dirigir a viatura até o local da ocorrência",
-                    "rationale": "Incorreto. Embora envolva alguma decisão, é mais um deslocamento do que aplicação conjunta de técnica e tática policial.",
+                    "text": "Para facilitar a contabilidade do armamento",
+                    "rationale": "Incorreto. Embora possa ter esse efeito colateral, o propósito principal é segurança.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Pense em um cenário onde habilidades específicas são aplicadas com decisão estratégica.",
-            "subject": "tática e técnica"
+            "hint": "Observe a observação entre asteriscos no início do procedimento padronizado.",
+            "subject": "Procedimentos - Segurança"
         },
         {
-            "question": "Qual é o objetivo comum tanto da técnica quanto da tática policial?",
+            "question": "Segundo o material, qual deve ser a atitude do aluno durante instruções?",
             "answerOptions": [
                 {
-                    "text": "Aumentar o número de prisões realizadas",
-                    "rationale": "Incorreto. Embora possam contribuir, não é o objetivo principal comum a ambos.",
+                    "text": "Debater todas as ordens do instrutor se discordar",
+                    "rationale": "Incorreto. O material especifica que deve obedecer obrigatoriamente aos comandos do instrutor.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Garantir segurança e eficiência na ação policial",
-                    "rationale": "Correto. Ambos os textos mencionam segurança e eficiência como objetivos fundamentais.",
+                    "text": "Obedecer obrigatoriamente aos comandos do instrutor",
+                    "rationale": "Correto. Esta é exatamente a orientação apresentada nas regras de segurança.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Reduzir custos operacionais",
-                    "rationale": "Incorreto. Aspectos financeiros não são o foco principal de técnica ou tática.",
+                    "text": "Improvisar se achar que sabe mais que o instrutor",
+                    "rationale": "Incorreto. Deve seguir os comandos do instrutor, não improvisar.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Melhorar a imagem pública da polícia",
-                    "rationale": "Incorreto. Embora possa ser um efeito colateral, não é o objetivo principal.",
+                    "text": "Questionar cada procedimento para aprendizagem",
+                    "rationale": "Incorreto. Embora o questionamento possa ser válido em momentos adequados, durante a execução deve obedecer aos comandos.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Satisfazer exigências legais e burocráticas",
-                    "rationale": "Incorreto. Técnica e tática focam na eficácia operacional, não apenas em cumprimento burocrático.",
+                    "text": "Observar os colegas e imitar o que parecer melhor",
+                    "rationale": "Incorreto. Deve seguir os comandos diretos do instrutor, não imitar colegas.",
                     "isCorrect": false
                 }
             ],
-            "hint": "Procure elementos comuns mencionados em ambos os textos.",
-            "subject": "tática e técnica"
-        },
-        {
-            "question": "Como a tática transforma as técnicas individuais?",
-            "answerOptions": [
-                {
-                    "text": "Substituindo-as por métodos completamente novos",
-                    "rationale": "Incorreto. A tática não substitui as técnicas, mas as organiza e adapta.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Transformando procedimentos individuais em uma ação coordenada e eficiente",
-                    "rationale": "Correto. Esta é exatamente a descrição fornecida no texto sobre tática.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Simplificando-as para exigir menos treinamento",
-                    "rationale": "Incorreto. A tática não simplifica as técnicas, mas as combina de forma inteligente.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Automatizando-as para reduzir erro humano",
-                    "rationale": "Incorreto. A tática envolve decisão humana, não automatização.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Eliminando a necessidade de técnicas especializadas",
-                    "rationale": "Incorreto. A tática pressupõe e depende de técnicas bem desenvolvidas.",
-                    "isCorrect": false
-                }
-            ],
-            "hint": "Observe a segunda frase do texto sobre tática.",
-            "subject": "tática e técnica"
-        },
-        {
-            "question": "Qual fator é comum ao desenvolvimento tanto da técnica quanto da tática policial?",
-            "answerOptions": [
-                {
-                    "text": "Experiência operacional",
-                    "rationale": "Correto. Ambos os textos mencionam que técnica e tática são aperfeiçoadas a partir da experiência operacional.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Decisões políticas",
-                    "rationale": "Incorreto. Embora possam influenciar, não são mencionadas como fator de desenvolvimento.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Orçamento disponível",
-                    "rationale": "Incorreto. Aspectos financeiros não são mencionados como fatores de desenvolvimento.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Opinião pública",
-                    "rationale": "Incorreto. Não é mencionada como fator de desenvolvimento nas definições.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Tecnologia de ponta",
-                    "rationale": "Incorreto. Embora possa ajudar, não é mencionada como fator essencial no desenvolvimento.",
-                    "isCorrect": false
-                }
-            ],
-            "hint": "Procure um elemento mencionado em ambos os textos sobre como são aperfeiçoadas.",
-            "subject": "tática e técnica"
-        },
-        {
-            "question": "Em uma operação de entrada em edificação, qual seria um exemplo de TÉCNICA?",
-            "answerOptions": [
-                {
-                    "text": "Decidir que a equipe fará uma entrada cruzada",
-                    "rationale": "Incorreto. Esta é uma decisão tática sobre como coordenar a entrada.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Executar corretamente o fatiamento de ambientes",
-                    "rationale": "Correto. Fatiamento é uma técnica específica de varredura e controle de ambientes.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Avaliar os riscos antes da entrada",
-                    "rationale": "Incorreto. Avaliação de riscos é parte do processo tático de decisão.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Determinar o momento adequado para a entrada",
-                    "rationale": "Incorreto. Esta é uma decisão tática sobre o 'quando' agir.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Coordenar as diferentes equipes envolvidas",
-                    "rationale": "Incorreto. Coordenação é uma função tática, não uma técnica específica.",
-                    "isCorrect": false
-                }
-            ],
-            "hint": "Técnica responde ao 'como fazer' procedimentos específicos.",
-            "subject": "tática e técnica"
-        },
-        {
-            "question": "Na mesma operação de entrada em edificação, qual seria um exemplo de TÁTICA?",
-            "answerOptions": [
-                {
-                    "text": "Usar a posição de baixa preparada durante a varredura",
-                    "rationale": "Incorreto. Esta é uma técnica específica de posicionamento.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Decidir se a entrada será em coluna, cruzada ou em gancho",
-                    "rationale": "Correto. Esta é uma decisão tática sobre como organizar a entrada considerando o cenário.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Manter o controle de cano da arma durante o deslocamento",
-                    "rationale": "Incorreto. Controle de cano é uma técnica de manejo de arma.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Executar a transposição técnica da aranha em um muro",
-                    "rationale": "Incorreto. Esta é uma técnica específica de transposição de obstáculos.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Realizar a empunhadura correta da arma",
-                    "rationale": "Incorreto. Empunhadura é uma técnica básica de manejo de arma.",
-                    "isCorrect": false
-                }
-            ],
-            "hint": "Tática envolve decisão sobre 'quando, onde e por que' aplicar determinadas técnicas.",
-            "subject": "tática e técnica"
-        },
-        {
-            "question": "Por que a tática policial considera a proteção da equipe e de terceiros?",
-            "answerOptions": [
-                {
-                    "text": "Apenas para evitar processos judiciais",
-                    "rationale": "Incorreto. Embora possa prevenir processos, a proteção é um princípio fundamental de segurança.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Como parte fundamental da busca por segurança na ação policial",
-                    "rationale": "Correto. A proteção da equipe e terceiros é um objetivo fundamental tanto da técnica quanto da tática.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Principalmente para economizar recursos com afastamentos por saúde",
-                    "rationale": "Incorreto. Embora possa ter esse efeito, não é a razão principal mencionada.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Para impressionar positivamente a opinião pública",
-                    "rationale": "Incorreto. Embora possa ter esse efeito, a proteção é um princípio operacional, não de imagem.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Porque a lei exige apenas isso",
-                    "rationale": "Incorreto. A proteção é um princípio ético e operacional que vai além do mero cumprimento legal.",
-                    "isCorrect": false
-                }
-            ],
-            "hint": "Relacione com os objetivos comuns de técnica e tática mencionados nos textos.",
-            "subject": "tática e técnica"
-        },
-        {
-            "question": "Qual a importância do treinamento permanente e repetido mencionado no texto sobre técnica?",
-            "answerOptions": [
-                {
-                    "text": "Apenas para cumprir exigências burocráticas de horas de treinamento",
-                    "rationale": "Incorreto. O treinamento tem objetivo operacional, não apenas burocrático.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Para desenvolver a precisão, segurança e eficiência na execução das técnicas",
-                    "rationale": "Correto. O treinamento repetido visa desenvolver as qualidades fundamentais das técnicas.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Principalmente para manter os policiais ocupados entre operações",
-                    "rationale": "Incorreto. O treinamento tem objetivos específicos de desenvolvimento de habilidades.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Para substituir a experiência operacional real",
-                    "rationale": "Incorreto. O treinamento complementa, mas não substitui a experiência operacional.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Apenas para preparar para situações extremamente raras",
-                    "rationale": "Incorreito. O treinamento prepara para situações tanto comuns quanto raras.",
-                    "isCorrect": false
-                }
-            ],
-            "hint": "Relacione o treinamento com os objetivos da técnica mencionados no texto.",
-            "subject": "tática e técnica"
+            "hint": "Procure nas Regras Gerais de segurança a orientação sobre comportamento durante instruções.",
+            "subject": "Conduta em Instruções"
         }
     ]
 }
