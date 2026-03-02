@@ -1,3 +1,836 @@
 {
-  "questions": []
-}
+    "questions": [
+        {
+            "question": "De acordo com a aula, qual é o efetivo previsto e a situação aproximada do efetivo existente na Polícia Militar do Distrito Federal?",
+            "answerOptions": [
+                {
+                    "text": "18.673 previstos e aproximadamente 18.000 existentes.",
+                    "rationale": "Incorreto. O material indica que o efetivo existente é de aproximadamente 10.000.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10.000 previstos e aproximadamente 18.673 existentes.",
+                    "rationale": "Incorreto. Os valores estão invertidos; o previsto é maior que o existente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "18.673 previstos e aproximadamente 10.000 existentes.",
+                    "rationale": "Correto. O material apresenta exatamente esses números: 'EFETIVO: 18.673 previstos / aproximadamente 10mil existentes'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10.000 previstos e aproximadamente 10.000 existentes.",
+                    "rationale": "Incorreto. O efetivo previsto é de 18.673, o que indica um déficit.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15.000 previstos e aproximadamente 12.000 existentes.",
+                    "rationale": "Incorreto. Os números mencionados não correspondem aos dados fornecidos no material.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure na seção 'ASPECTOS GERAIS' a informação sobre o quantitativo do efetivo.",
+            "subject": "legin"
+        },
+        {
+            "question": "São considerados militares ativos, de acordo com o material, todos os seguintes, EXCETO:",
+            "answerOptions": [
+                {
+                    "text": "Os militares de carreira.",
+                    "rationale": "Incorreto. Militares de carreira são expressamente citados como parte do efetivo ativo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os reformados.",
+                    "rationale": "Correto. Os reformados são classificados como 'inativos' (reforma é uma forma de dispensa definitiva), e não como ativos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Os alunos dos órgãos de formação (CFP, CFO, CHOSC).",
+                    "rationale": "Incorreto. Alunos de órgãos de formação são listados como parte do efetivo ativo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os RR (Reserva Remunerada) convocados ou designados.",
+                    "rationale": "Incorreto. Militares da reserva, quando convocados, passam à condição de ativos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os incluídos voluntariamente.",
+                    "rationale": "Incorreto. Esta categoria é citada como parte do efetivo ativo, embora o material observe que nunca ocorreu.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Reveja a classificação entre militares 'Ativos' e 'Inativos' no início do material.",
+            "subject": "legin"
+        },
+        {
+            "question": "Segundo o material, a antiguidade que decorre da posição ocupada dentro da estrutura da corporação (como em um Departamento ou Diretoria) é chamada de:",
+            "answerOptions": [
+                {
+                    "text": "Antiguidade Natural.",
+                    "rationale": "Incorreto. A antiguidade natural é aquela que decorre da carreira, conforme as regras de classificação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Antiguidade Estrutural.",
+                    "rationale": "Incorreto. O termo correto utilizado no material é 'funcional'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Antiguidade Funcional.",
+                    "rationale": "Correto. O material define: 'Funcional: aquela que decorre da posição ocupada dentro da estrutura (Departamento, Diretoria...)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Antiguidade Hierárquica.",
+                    "rationale": "Incorreto. Embora relacionada, o termo específico usado para essa definição é 'funcional'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Antiguidade de Cargo.",
+                    "rationale": "Incorreto. O material não utiliza essa terminologia, preferindo 'funcional' para designar a antiguidade decorrente do cargo/função.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material divide a antiguidade em dois tipos: natural e um segundo tipo, definido pelo posto ocupado na estrutura.",
+            "subject": "legin"
+        },
+        {
+            "question": "Para definir a antiguidade entre militares de quadros diferentes, a primeira regra a ser observada, de acordo com o material, é:",
+            "answerOptions": [
+                {
+                    "text": "A data de nascimento (o mais velho tem precedência).",
+                    "rationale": "Incorreto. A idade é o último critério ('3º) Mais velho'), após as datas de promoção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A data da última promoção (data de promoção atual).",
+                    "rationale": "Correto. A sequência é: 1º) Data de promoção atual; 2º) Datas de promoções anteriores; 3º) Mais velho.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A posição no Almanaque da Corporação.",
+                    "rationale": "Incorreto. O Almanaque é citado como referência para militares do 'Mesmo Quadro', não para quadros diferentes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O resultado do concurso público de ingresso.",
+                    "rationale": "Incorreto. Esse critério é válido para casos de 'nomeação coletiva' dentro do mesmo quadro, não entre quadros diferentes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O tempo de serviço prestado à corporação.",
+                    "rationale": "Incorreto. O material não cita tempo de serviço como critério, mas sim datas de promoção e idade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista três critérios em ordem de prioridade para resolver a antiguidade entre militares de quadros diferentes.",
+            "subject": "legin"
+        },
+        {
+            "question": "A promoção na PM é definida como um ato administrativo que visa a:",
+            "answerOptions": [
+                {
+                    "text": "Premiar o policial militar por seu tempo de serviço prestado.",
+                    "rationale": "Incorreto. A promoção não é uma premiação por tempo de serviço, mas uma seleção para funções mais elevadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ascensão seletiva do policial militar para funções do grau hierárquico imediatamente superior.",
+                    "rationale": "Correto. O material define a promoção como 'a seleção dos policiais militares (ascensão seletiva) para o exercício de funções pertinentes ao grau hierárquico imediatamente superior'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Garantir a todos os policiais a progressão na carreira ao final de cada interstício.",
+                    "rationale": "Incorreto. A promoção não é uma garantia, é uma seleção. A existência de vagas é um dos requisitos, mas não uma obrigação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aumentar a remuneração do policial independentemente da função exercida.",
+                    "rationale": "Incorreto. A promoção está vinculada ao exercício de funções de um grau hierárquico superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Preencher cargos administrativos disponíveis na corporação.",
+                    "rationale": "Incorreto. A promoção se dá para o grau hierárquico superior, não para um cargo administrativo específico.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A definição de promoção está no início da seção dedicada ao tema. Busque os termos 'ascensão seletiva'.",
+            "subject": "legin"
+        },
+        {
+            "question": "São características da promoção, conforme apontado no material, EXCETO:",
+            "answerOptions": [
+                {
+                    "text": "Ser um ato administrativo vinculado.",
+                    "rationale": "Incorreto. O material lista como 1º ponto que a promoção é um 'Ato administrativo vinculado'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Existência de vagas.",
+                    "rationale": "Incorreto. A existência de vagas é um dos requisitos para a promoção, listado como 3º ponto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Possibilidade de redução de interstício.",
+                    "rationale": "Incorreto. A 'Redução de interstício' é listada como o 2º ponto nas características/regras gerais da promoção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ser um direito adquirido do policial militar após cumprir o interstício.",
+                    "rationale": "Correto. A promoção não é um direito adquirido, mas sim uma seleção que depende de vagas e outros critérios. O material a define como 'ato administrativo vinculado', mas não como um direito subjetivo automático.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Depender da existência de vagas no quadro.",
+                    "rationale": "Incorreto. Este é um ponto fundamental, explicitamente citado como 3º item.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista três pontos principais sobre a promoção. A alternativa incorreta é aquela que contradiz a natureza seletiva do ato.",
+            "subject": "legin"
+        },
+        {
+            "question": "Sobre o período de formação (CFP, CFO) e sua contagem para fins de interstício, o que se pergunta no material?",
+            "answerOptions": [
+                {
+                    "text": "Se o período de formação é computado para fins de interstício.",
+                    "rationale": "Correto. O material levanta exatamente esse questionamento: 'O PERÍODO DE FORMAÇÃO (CFP, CFO) É COMPUTADO PARA FINS DE INTERSTÍCIO??'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Se o período de formação é obrigatório para todas as promoções.",
+                    "rationale": "Incorreto. Embora importante, a pergunta específica é sobre a contagem do tempo para o interstício.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se é possível ser promovido durante o período de formação.",
+                    "rationale": "Incorreto. O material não aborda essa possibilidade na questão levantada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se os cursos de formação suspendem a contagem do tempo de serviço.",
+                    "rationale": "Incorreto. A pergunta é direcionada especificamente ao cômputo para o interstício da promoção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se a nota no curso de formação influencia no interstício.",
+                    "rationale": "Incorreto. A questão é sobre a contagem do tempo, não sobre o desempenho.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material frequentemente usa perguntas para destacar pontos importantes. Localize a pergunta sobre o período de formação.",
+            "subject": "legin"
+        },
+        {
+            "question": "De acordo com as regras gerais de promoção, integrar o Quadro de Acesso (preenchendo as condições necessárias) é:",
+            "answerOptions": [
+                {
+                    "text": "Uma garantia de promoção imediata.",
+                    "rationale": "Incorreto. O material questiona exatamente se integrar o quadro é garantia de promoção, dando a entender que não o é.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A etapa que substitui a necessidade de existência de vagas.",
+                    "rationale": "Incorreto. A existência de vagas é um requisito distinto e necessário.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O único requisito para a promoção por bravura.",
+                    "rationale": "Incorreto. A promoção por bravura tem regras específicas e não se confunde com o Quadro de Acesso comum.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma condição necessária, mas não uma garantia de promoção.",
+                    "rationale": "Correto. A pergunta retórica 'INTEGRAR O QUADRO DE ACESSO É GARANTIA DE PROMOÇÃO??' indica que não é uma garantia, mas sim um dos requisitos (preencher as condições) para poder ser promovido quando houver vaga.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O critério para definir a antiguidade no posto superior.",
+                    "rationale": "Incorreto. A antiguidade é definida pelo Almanaque, não pela inclusão no Quadro de Acesso.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material apresenta o Quadro de Acesso como uma lista de quem preenche os requisitos, mas logo em seguida faz uma pergunta que indica uma ressalva.",
+            "subject": "legin"
+        },
+        {
+            "question": "A promoção por ato de bravura é de competência exclusiva de qual autoridade?",
+            "answerOptions": [
+                {
+                    "text": "Comandante-Geral da PM.",
+                    "rationale": "Incorreto. A promoção de praças é do Comandante-Geral, mas a por bravura tem regra especial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Governador do Distrito Federal.",
+                    "rationale": "Correto. O material é explícito: 'Competência exclusiva do Governador' para a promoção por ato de bravura.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Chefe do Estado-Maior da Corporação.",
+                    "rationale": "Incorreto. A competência não é delegada a essa autoridade, conforme o texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Comissão de Promoção de Praças.",
+                    "rationale": "Incorreto. A decisão final é do Governador, não de uma comissão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Secretário de Segurança Pública.",
+                    "rationale": "Incorreto. A competência é do Governador, conforme explicitado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A modalidade de promoção por bravura possui uma autoridade específica para sua concessão, diferente da regra geral para praças.",
+            "subject": "legin"
+        },
+        {
+            "question": "Sobre a promoção por ato de bravura, é correto afirmar que:",
+            "answerOptions": [
+                {
+                    "text": "O prazo decadencial para requerer essa promoção é de 60 dias.",
+                    "rationale": "Incorreto. O prazo mencionado no material é de 120 dias.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pode ser concedida a qualquer praça, independentemente de seu posto ou graduação.",
+                    "rationale": "Incorreto. O material questiona se um Subtenente pode ser promovido por bravura, sugerindo que pode haver limitações (provavelmente para o posto de oficial, exigindo curso superior).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Decorre da prática de ato de coragem que ultrapassa os limites normais do cumprimento do dever.",
+                    "rationale": "Correto. A definição dada é: 'decorre da prática de ato não comum de coragem e audácia que, ultrapassando os limites normais do cumprimento do dever'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É uma modalidade de promoção puramente administrativa, sem necessidade de ato heroico.",
+                    "rationale": "Incorreto. A definição enfatiza o ato de bravura e o feito heroico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sua principal característica é a ausência de prazo para ser requerida.",
+                    "rationale": "Incorreto. O material menciona um 'prazo decadencial de 120 dias', o que significa que há um prazo sim.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Analise a definição e as regras gerais apresentadas para a promoção por bravura.",
+            "subject": "legin"
+        },
+        {
+            "question": "A promoção que visa a reconhecer o direito que cabia a um policial militar falecido, não efetivado por motivo de óbito, é a promoção:",
+            "answerOptions": [
+                {
+                    "text": "Por Ressarcimento de Preterição.",
+                    "rationale": "Incorreto. Essa modalidade visa corrigir uma preterição anterior, não está diretamente ligada ao falecimento como causa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Post Mortem.",
+                    "rationale": "Correto. O material define a promoção post mortem com essa finalidade: 'reconhecer direito que lhe cabia, não efetivado por motivo de óbito'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Por Ato de Bravura.",
+                    "rationale": "Incorreto. A promoção por bravura é para feitos heroicos, e pode ser concedida em vida ou post mortem, mas sua definição principal não é essa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Por Antiguidade.",
+                    "rationale": "Incorreto. É uma modalidade de promoção, não uma via específica para casos de falecimento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Compulsória.",
+                    "rationale": "Incorreto. O material não menciona 'promoção compulsória' neste contexto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista três modalidades de promoção. Uma delas é específica para situações de falecimento.",
+            "subject": "legin"
+        },
+        {
+            "question": "São condições que podem dar direito à promoção por ressarcimento de preterição, de acordo com o material, todas as seguintes, EXCETO:",
+            "answerOptions": [
+                {
+                    "text": "Ser absolvido ou impronunciado em processo criminal.",
+                    "rationale": "Incorreto. Esta é uma das condições listadas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cessar sua situação de desaparecido, extraviado ou desertor, desde que ausente dolo ou culpa.",
+                    "rationale": "Incorreto. Esta condição está expressamente prevista.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ter sido prejudicado por comprovado erro administrativo.",
+                    "rationale": "Incorreto. Esta é a última condição da lista, também prevista.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Completar 30 anos de serviço efetivo.",
+                    "rationale": "Correto. O tempo de serviço não é uma condição para ressarcimento de preterição. As condições estão todas ligadas à resolução de uma situação jurídica que impedia a promoção.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Tiver solução favorável no recurso interposto.",
+                    "rationale": "Incorreto. Esta é a primeira condição da lista apresentada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista cinco condições para a promoção por ressarcimento de preterição. Uma delas não se encaixa no contexto de correção de uma situação pretérita.",
+            "subject": "legin"
+        },
+        {
+            "question": "Segundo a seção 'DÚVIDAS?', qual é a sequência de etapas sugerida para o aprendizado?",
+            "answerOptions": [
+                {
+                    "text": "Perguntas, Leitura, Consciência, Instrução.",
+                    "rationale": "Incorreto. A ordem apresentada é diferente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Leitura, Instrução, Perguntas, Consciência.",
+                    "rationale": "Correto. O material sugere o ciclo: Leitura -> Instrução -> Perguntas -> Consciência.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Instrução, Consciência, Leitura, Perguntas.",
+                    "rationale": "Incorreto. Não corresponde à sequência proposta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Consciência, Leitura, Instrução, Perguntas.",
+                    "rationale": "Incorreto. A consciência é o último estágio, segundo o material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Perguntas, Instrução, Consciência, Leitura.",
+                    "rationale": "Incorreto. A ordem está completamente invertida.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a última página do material, onde há uma figura com quatro palavras e setas indicando um fluxo.",
+          "subject": "legin"
+        },
+        {
+            "question": "O militar da reserva remunerada que é convocado ou designado para o serviço ativo passa a ser classificado, para fins de efetivo, como:",
+            "answerOptions": [
+                {
+                    "text": "Inativo, pois sua situação de reservista não se altera.",
+                    "rationale": "Incorreto. A convocação altera sua situação para ativo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ativo, pois os RR convocados ou designados são listados entre os militares ativos.",
+                    "rationale": "Correto. O material inclui 'os RR convocados ou designados' na lista de militares ativos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Continuaria na reserva, mas em exercício.",
+                    "rationale": "Incorreto. O material faz uma classificação binária: ativos e inativos. O convocado entra na primeira categoria.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Como um militar de carreira temporário.",
+                    "rationale": "Incorreto. O material não cria essa subcategoria; ele os coloca simplesmente como 'Ativos'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Como um incluído voluntariamente.",
+                    "rationale": "Incorreto. São categorias distintas. Os incluídos voluntários são outra subdivisão dos ativos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte a classificação de 'Ativos' na seção 'ASPECTOS GERAIS'.",
+            "subject": "legin"
+        },
+        {
+            "question": "Para militares do mesmo quadro, a antiguidade é definida principalmente por qual documento/instrumento?",
+            "answerOptions": [
+                {
+                    "text": "Diário Oficial da corporação.",
+                    "rationale": "Incorreto. Embora as promoções saiam no Diário Oficial, a ordem consolidada é no Almanaque.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Boletim Interno da unidade.",
+                    "rationale": "Incorreto. O almanaque é um documento corporativo mais amplo e centralizado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Almanaque da Corporação.",
+                    "rationale": "Correto. O material afirma: 'Mesmo Quadro: ALMANAQUE!!!'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Data de nascimento do militar.",
+                    "rationale": "Incorreto. A idade só é critério para quadros diferentes, após as datas de promoção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Resultado do último concurso.",
+                    "rationale": "Incorreto. O resultado do concurso é critério para nomeação coletiva, mas a antiguidade consolidada é no Almanaque.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material usa uma palavra em destaque e com exclamações para responder como definir antiguidade entre militares do mesmo quadro.",
+            "subject": "legin"
+        },
+        {
+            "question": "No caso de nomeação coletiva (posse de vários aprovados em concurso), a antiguidade entre eles será definida:",
+            "answerOptions": [
+                {
+                    "text": "Pela idade, dando precedência ao mais velho.",
+                    "rationale": "Incorreto. Esse é um critério residual, não o principal para nomeações coletivas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pela ordem de classificação no concurso público.",
+                    "rationale": "Correto. O material é direto: 'Nomeação coletiva: conforme resultado do concurso!!!'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Por sorteio realizado pela corporação.",
+                    "rationale": "Incorreto. O critério é objetivo e baseado no mérito do concurso.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pela data de posse no cargo.",
+                    "rationale": "Incorreto. Numa nomeação coletiva, a data de posse é a mesma para todos, não servindo como critério de desempate.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pela experiência profissional anterior.",
+                    "rationale": "Incorreto. O único critério mencionado é o resultado do concurso.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material apresenta um caso específico sobre nomeação coletiva e aponta o critério a ser usado.",
+            "subject": "legin"
+        },
+        {
+            "question": "A promoção que é feita após ser reconhecido ao policial militar o direito à promoção que lhe cabia em época passada, sendo efetivada como se houvesse sido promovido na época devida, é chamada de:",
+            "answerOptions": [
+                {
+                    "text": "Promoção por Ato de Bravura.",
+                    "rationale": "Incorreto. Essa modalidade não tem relação com a correção de erros passados, mas sim com atos heroicos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Merecimento.",
+                    "rationale": "Incorreto. O mero merecimento não é uma modalidade autônoma listada; a modalidade específica para correção de preterição tem nome próprio.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção Post Mortem.",
+                    "rationale": "Incorreto. Esta se aplica a falecidos, não a vivos que foram preteridos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Ressarcimento de Preterição.",
+                    "rationale": "Correto. O material define exatamente dessa forma: 'é aquela feita após ser reconhecido ao policial militar preterido o direito à promoção que lhe caberia (...) como se houvesse sido promovido na época devida'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Promoção Compulsória.",
+                    "rationale": "Incorreto. A promoção compulsória não é um tema abordado nestas modalidades.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material descreve uma modalidade de promoção que visa corrigir uma injustiça ou erro do passado.",
+            "subject": "legin"
+        },
+        {
+            "question": "De acordo com o material, uma das regras gerais para a promoção de praças é que ela é de competência de quem?",
+            "answerOptions": [
+                {
+                    "text": "Do Governador do Distrito Federal.",
+                    "rationale": "Incorreto. Essa é a regra para oficiais, conforme o texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Do Comandante-Geral da PM.",
+                    "rationale": "Correto. O material afirma: 'Promoção de Praças: Comandante-Geral'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Do Chefe do Estado-Maior.",
+                    "rationale": "Incorreto. A competência não é atribuída a essa autoridade no texto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Do Secretário de Segurança Pública.",
+                    "rationale": "Incorreto. A autoridade máxima para promoção de praças é o Comandante-Geral, segundo a regra geral.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "De uma comissão especial de promoção.",
+                    "rationale": "Incorreto. Embora possa haver comissões, a autoridade competente para o ato é o Comandante-Geral.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material faz uma distinção clara entre a autoridade competente para promover praças e oficiais.",
+            "subject": "legin"
+        },
+        {
+            "question": "Qual é o limite quantitativo geral mencionado para o Quadro de Acesso?",
+            "answerOptions": [
+                {
+                    "text": "1/3 do efetivo existente.",
+                    "rationale": "Incorreto. O material não menciona essa fração.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1/2 do efetivo previsto.",
+                    "rationale": "Incorreto. A fração correta é um quarto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1/4 do efetivo previsto.",
+                    "rationale": "Correto. Nas regras gerais, é citado o 'Limite Quantitativo: ¼ do efetivo previsto'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Número definido anualmente pelo Governador.",
+                    "rationale": "Incorreto. O material estabelece um limite fixo baseado no efetivo previsto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Depende do número de vagas existentes, sem limite prévio.",
+                    "rationale": "Incorreto. Há um limite quantitativo pré-estabelecido.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Nas regras gerais sobre promoção, há uma informação sobre um limite numérico para o Quadro de Acesso.",
+            "subject": "legin"
+        },
+        {
+            "question": "A promoção post mortem pode ser aplicada a um integrante do Quadro de Acesso que faleceu antes da data de promoção. Isso é apresentado como:",
+            "answerOptions": [
+                {
+                    "text": "Uma regra geral para todas as promoções post mortem.",
+                    "rationale": "Incorreto. O material a apresenta como uma 'exceção expressa'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um impedimento para a promoção.",
+                    "rationale": "Incorreto. O material indica que é possível, como uma exceção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma condição obrigatória para a promoção por bravura.",
+                    "rationale": "Incorreto. Essa regra se aplica à promoção post mortem, não à de bravura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uma exceção expressa à regra geral.",
+                    "rationale": "Correto. O material lista como regra da promoção post mortem: 'Integrante do Quadro de Acesso falecido antes da data de promoção (exceção expressa)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "O principal requisito para a promoção post mortem.",
+                    "rationale": "Incorreto. O principal requisito é o 'ato de serviço' ou o reconhecimento de um direito. A situação do Quadro de Acesso é uma exceção a uma regra não explicitada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material descreve essa situação específica entre parênteses, qualificando-a de uma forma especial.",
+            "subject": "legin"
+        },
+        {
+            "question": "A condição 'for considerado capaz de permanecer nas fileiras da Corporação em decisão final prolatada a partir de apuração feita por Conselho de Justificação' se refere a qual modalidade de promoção?",
+            "answerOptions": [
+                {
+                    "text": "Promoção por Ato de Bravura.",
+                    "rationale": "Incorreto. Essas condições estão listadas no contexto da promoção por ressarcimento de preterição.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção Post Mortem.",
+                    "rationale": "Incorreto. A promoção post mortem lida com falecimento, não com Conselhos de Justificação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Ressarcimento de Preterição.",
+                    "rationale": "Correto. Essa é uma das condições listadas para que o militar, após ser absolvido em um Conselho, possa ser ressarcido da promoção que perdeu.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Promoção por Antiguidade.",
+                    "rationale": "Incorreto. A antiguidade segue o fluxo normal do almanaque, sem passar por esses conselhos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Merecimento.",
+                    "rationale": "Incorreto. O material não associa Conselhos de Justificação à promoção por merecimento.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Essa condição aparece na lista de situações que podem levar a um tipo específico de promoção corretiva.",
+            "subject": "legin"
+        },
+        {
+            "question": "O militar que se encontra na situação de 'reformado' é classificado como:",
+            "answerOptions": [
+                {
+                    "text": "Ativo, por ainda pertencer aos quadros da corporação.",
+                    "rationale": "Incorreto. A reforma é uma dispensa definitiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Inativo, na condição de reformado (dispensa definitiva).",
+                    "rationale": "Correto. O material define: 'Inativos: - reserva remunerada - reformados (dispensa definitiva)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Na reserva remunerada.",
+                    "rationale": "Incorreto. Reserva remunerada e reforma são duas situações distintas dentro da inatividade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Da reserva convocada.",
+                    "rationale": "Incorreto. O reformado não é convocável, pois é uma dispensa definitiva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ativo não remunerado.",
+                    "rationale": "Incorreto. O reformado é inativo e recebe proventos (remuneração da inatividade).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material faz uma distinção clara entre as duas categorias de inativos. A reforma é uma delas.",
+            "subject": "legin"
+        },
+        {
+            "question": "Segundo o sumário do conteúdo programático, qual dos seguintes tópicos NÃO está listado para ser estudado?",
+            "answerOptions": [
+                {
+                    "text": "Licenças: LE, LTIP, LTSP e LTSPF.",
+                    "rationale": "Incorreto. Essas licenças estão explicitamente listadas no sumário.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lei de Vencimentos (composição da remuneração, auxílio moradia).",
+                    "rationale": "Incorreto. Este é um dos tópicos finais do sumário.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Férias e abono (portarias correspondentes).",
+                    "rationale": "Incorreto. Também está presente no sumário.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Código Penal Militar.",
+                    "rationale": "Correto. O Código Penal Militar não consta na lista de tópicos fornecida no início do material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Modalidades de promoção e agregação e reversão.",
+                    "rationale": "Incorreto. Ambos são tópicos principais do conteúdo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Observe a página 2 do PDF, que lista o conteúdo programático da aula.",
+            "subject": "legin"
+        },
+        {
+            "question": "O prazo decadencial de 120 dias para requerer a promoção é uma característica de qual modalidade?",
+            "answerOptions": [
+                {
+                    "text": "Promoção por Ressarcimento de Preterição.",
+                    "rationale": "Incorreto. O material não menciona prazo para essa modalidade, apenas lista as condições.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção Post Mortem.",
+                    "rationale": "Incorreto. O material não menciona prazo decadencial para a promoção post mortem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Ato de Bravura.",
+                    "rationale": "Correto. Nas regras gerais da promoção por ato de bravura, consta: 'Prazo decadencial de 120 dias para requerer'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Promoção por Antiguidade.",
+                    "rationale": "Incorreto. A promoção por antiguidade segue o fluxo natural da carreira, não dependendo de requerimento do interessado com prazo decadencial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Merecimento.",
+                    "rationale": "Incorreto. Não há menção a esse prazo na parte geral sobre promoção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material menciona um prazo específico ao descrever uma das modalidades especiais de promoção.",
+            "subject": "legin"
+        },
+        {
+            "question": "A promoção que pode ser efetivada segundo o critério de antiguidade ou merecimento, dando ao militar o número que lhe competia na escala hierárquica como se houvesse sido promovido na época devida, é a:",
+            "answerOptions": [
+                {
+                    "text": "Promoção por Ato de Bravura.",
+                    "rationale": "Incorreto. A promoção por bravura tem um critério próprio (o ato heroico), não se enquadrando nessa descrição.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção Post Mortem.",
+                    "rationale": "Incorreto. Essa descrição se encaixa perfeitamente na definição de ressarcimento de preterição.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção por Ressarcimento de Preterição.",
+                    "rationale": "Correto. O material descreve que ela é 'efetivada segundo o critério de antiguidade ou merecimento, recebendo o militar assim promovido o número que lhe competia na escala hierárquica, como se houvesse sido promovido na época devida'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Promoção por Antiguidade, em caráter excepcional.",
+                    "rationale": "Incorreto. A descrição é específica para uma modalidade que visa corrigir uma injustiça, e não o fluxo normal da antiguidade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promoção Compulsória.",
+                    "rationale": "Incorreto. O conceito de promoção compulsória não é abordado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A descrição combina com a ideia de 'retroagir' os efeitos da promoção para corrigir uma falha passada.",
+            "subject": "legin"
+        },
+        {
+            "question": "De acordo com a pergunta feita no material sobre a promoção por ato de bravura para um Subtenente, qual é a reflexão implícita?",
+            "answerOptions": [
+                {
+                    "text": "Se um Subtenente pode ser promovido a um posto de oficial sem realizar o curso correspondente.",
+                    "rationale": "Correto. A pergunta 'SE O INTERESSADO FOR SUBTENENTE, É POSSÍVEL A PROMOÇÃO POR ATO DE BRAVURA??' levanta a questão de como compatibilizar a promoção excepcional com os requisitos de carreira (como o curso de formação de oficiais) para acesso ao posto de 2º Tenente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Se um Subtenente pode ser promovido a um posto mais alto, como Capitão.",
+                    "rationale": "Incorreto. A promoção por bravura, em regra, é para o posto imediato, mas a questão central é o acesso ao oficialato, que exige curso superior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se a promoção por bravura só se aplica a oficiais.",
+                    "rationale": "Incorreto. A pergunta parte do pressuposto de que o interessado é um Subtenente (praça), questionando se a regra se aplica a ele.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se o Subtenente pode pular a fase de requerimento e ter a promoção automática.",
+                    "rationale": "Incorreto. A questão não é sobre o procedimento, mas sobre a possibilidade material de um praça se tornar oficial por bravura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se o Governador pode delegar a competência para promover o Subtenente.",
+                    "rationale": "Incorreto. A pergunta não aborda a questão da competência, mas sim a possibilidade da promoção em si.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A promoção de Subtenente (praça especial) por bravura esbarra na exigência de curso superior para ingressar no quadro de oficiais.",
+            "subject": "legin"
+        }
+    ]
+        }
