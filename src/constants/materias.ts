@@ -11,7 +11,7 @@ export const materias = [
   // { label: "Fundamentos Institucionais", value: "fundamentos_institucionais" },
   // { label: "História da PMDF", value: "historia_da_pmdf" },
   // { label: "IPMOVD", value: "ipmovd" },
-  // { label: "LegIn", value: "legin" },
+   { label: "LegIn", value: "legin" },
   // { label: "Libras", value: "libras" },
   // { label: "Ordem Unida", value: "ordem_unida" },
   // { label: "PAD", value: "pad" },
