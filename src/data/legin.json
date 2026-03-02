@@ -831,6 +831,870 @@
             ],
             "hint": "A promoção de Subtenente (praça especial) por bravura esbarra na exigência de curso superior para ingressar no quadro de oficiais.",
             "subject": "legin"
+        },
+        {
+            "question": "De acordo com a Lei 12.086/2009 e o material complementar, a agregação é a situação na qual o policial militar da ativa:",
+            "answerOptions": [
+                {
+                    "text": "É transferido para a reserva remunerada, deixando definitivamente o serviço ativo.",
+                    "rationale": "Incorreto. A transferência para a reserva é uma situação de inatividade, não de agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Deixa de ocupar a vaga na escala hierárquica do seu Quadro, nela permanecendo sem número.",
+                    "rationale": "Correto. Esta é a definição exata de agregação apresentada no material e em conformidade com o art. 41 da Lei 12.086.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É excluído da corporação a bem da disciplina, por decisão judicial.",
+                    "rationale": "Incorreto. A exclusão é uma situação diversa e definitiva, não se confundindo com a agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Passa a ocupar uma vaga especial no Almanaque, com precedência sobre os demais.",
+                    "rationale": "Incorreto. O agregado fica 'sem número', não ocupa vaga e não tem precedência especial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É promovido ao posto imediato, mas permanece exercendo função administrativa.",
+                    "rationale": "Incorreto. Agregação não se confunde com promoção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A definição de agregação está no início da aula e é um conceito fundamental.",
+            "subject": "legin"
+        },
+        {
+            "question": "Conforme o material e a Lei 12.086/2009, todas as situações abaixo são causas de agregação por nomeação para cargo fora da estrutura da PMDF, EXCETO:",
+            "answerOptions": [
+                {
+                    "text": "Nomeação para cargo em comissão na Casa Militar do DF.",
+                    "rationale": "Incorreto. Esta é uma causa de agregação prevista na alínea 'g' do material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nomeação para cargo efetivo em Secretaria Municipal de Educação, com ônus para o município.",
+                    "rationale": "Correto. O art. 42 da Lei 12.086 prevê a agregação para cargos públicos civis temporários, não efetivos, e desde que não haja impedimento legal. Além disso, o material lista cargos em comissão ou funções de confiança em órgãos específicos, não cargos efetivos em qualquer esfera.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nomeação para cargo em comissão na Secretaria de Segurança Pública do DF.",
+                    "rationale": "Incorreto. A alínea 'i' do material lista expressamente a SSP/DF como causa de agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nomeação para cargo em comissão no Tribunal de Contas da União (DAS-101.4 ou equivalente).",
+                    "rationale": "Incorreto. A alínea 'f' prevê a agregação para órgãos do TCU situados no DF.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nomeação para cargo em comissão no Supremo Tribunal Federal (DAS-101.4 ou equivalente).",
+                    "rationale": "Incorreto. A alínea 'c' prevê a agregação para o STF e demais tribunais superiores.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista diversas situações de nomeação. Uma delas envolve um tipo de cargo e ente federativo não contemplado.",
+            "subject": "legin"
+        },
+        {
+            "question": "Para que um policial militar seja cedido a outro órgão, resultando em sua agregação, é necessário que ele tenha, no mínimo:",
+            "answerOptions": [
+                {
+                    "text": "10 anos de efetivo serviço.",
+                    "rationale": "Incorreto. O tempo mínimo exigido é de 5 anos, conforme a Observação 1.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3 anos de efetivo serviço, por se tratar de cargo estratégico.",
+                    "rationale": "Incorreto. O material não faz essa exceção; a regra são 5 anos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "5 anos de efetivo serviço.",
+                    "rationale": "Correto. A 'OBS 1' do material é clara: 'a cessão somente pode ocorrer após o policial militar completar 5 anos de efetivo serviço'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15 anos de efetivo serviço, se for praça.",
+                    "rationale": "Incorreto. O material não faz distinção entre oficial e praça para esse requisito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não há tempo mínimo exigido para a cessão.",
+                    "rationale": "Incorreto. Há um tempo mínimo estipulado.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Nas observações sobre agregação, há um requisito temporal para a cessão.",
+            "subject": "legin"
+        },
+        {
+            "question": "A cessão de policiais militares para outros órgãos, que pode levar à agregação, está sujeita a um limite percentual sobre o efetivo existente. Esse limite é de:",
+            "answerOptions": [
+                {
+                    "text": "10% do efetivo existente.",
+                    "rationale": "Incorreto. O limite é de 5%.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "5% do efetivo existente.",
+                    "rationale": "Correto. A 'OBS 2' afirma: 'a cessão nunca pode ser superior a 5% do efetivo existente', em linha com o art. 48 da Lei 12.086.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2% do efetivo existente, podendo ser ampliado em situações de emergência.",
+                    "rationale": "Incorreto. O limite é fixo em 5% e o material não menciona exceções.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15% do efetivo previsto.",
+                    "rationale": "Incorreto. O percentual incide sobre o efetivo existente, não o previsto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ilimitado, desde que a remuneração seja paga pelo órgão cessionário.",
+                    "rationale": "Incorreto. Há um limite claro e objetivo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Procure pela observação que trata do 'limite quantitativo' da cessão.",
+            "subject": "legin"
+        },
+        {
+            "question": "Sobre o ônus da remuneração do policial militar cedido, o material estabelece que, em regra, ela será paga pelo órgão cessionário, mas lista exceções. Qual dos seguintes órgãos NÃO é uma exceção a essa regra (ou seja, a União/DF arca com o ônus)?",
+            "answerOptions": [
+                {
+                    "text": "Tribunal de Justiça do Distrito Federal e Territórios (TJDFT).",
+                    "rationale": "Incorreto. O TJDFT é citado como exceção na OBS 3: 'ônus da remuneração por conta do órgão cessionário (salvo órgãos da União, TJDFT...)'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Secretaria de Segurança Pública do DF (SSP/DF).",
+                    "rationale": "Incorreto. A SSP/DF está na lista de exceções na OBS 3.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Câmara Legislativa do Distrito Federal (CLDF).",
+                    "rationale": "Correto. A CLDF não está listada entre as exceções. A lista inclui órgãos da União, TJDFT, Auditoria Militar, CMDF, VGDF, SSP e Defesa Civil.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Vice-Governadoria do Distrito Federal (VGDF).",
+                    "rationale": "Incorreto. A VGDF está expressamente listada como exceção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Defesa Civil do DF.",
+                    "rationale": "Incorreto. A Defesa Civil também é uma exceção prevista.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A 'OBS 3' lista os órgãos que são exceção à regra do ônus ser do cessionário.",
+            "subject": "legin"
+        },
+        {
+            "question": "De acordo com o material, qual é o efeito sobre a situação do policial militar quando uma praça ingressa no Curso de Formação de Oficiais (CFO) ou no Curso de Habilitação de Oficiais (CHOSC)?",
+            "answerOptions": [
+                {
+                    "text": "É transferido ex officio para a reserva remunerada.",
+                    "rationale": "Incorreto. O ingresso no CFO não causa transferência para a reserva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Permanece em seu quadro de origem, sem qualquer alteração.",
+                    "rationale": "Incorreto. Há uma alteração em sua situação, que é a agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É agregado, conforme a Observação 4.",
+                    "rationale": "Correto. 'OBS 4: Praça ingressa no CFO/CHOSC → AGREGAÇÃO'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É licenciado da corporação para realizar o curso.",
+                    "rationale": "Incorreto. O material especifica que há agregação, não licenciamento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É promovido ao posto de aspirante-a-oficial automaticamente.",
+                    "rationale": "Incorreto. A promoção ocorre ao final do curso, e a agregação é a situação durante o curso.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "As observações finais da seção 'AGREGAÇÃO' tratam de situações específicas de ingresso em cursos.",
+            "subject": "legin"
+        },
+        {
+            "question": "Se uma praça ingressa no Curso de Habilitação de Oficiais de Administração e Apoio (CHOAEM), sua situação, conforme a Observação 5, será de:",
+            "answerOptions": [
+                {
+                    "text": "Agregação, da mesma forma que no CFO.",
+                    "rationale": "Incorreto. A observação faz uma distinção: CFO agrega, CHOAEM não agrega.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Licença para tratamento de interesses particulares (LTIP).",
+                    "rationale": "Incorreto. O material não faz essa correlação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Não agregação, permanecendo em seu quadro.",
+                    "rationale": "Correto. 'OBS 5: Praça ingressa no CHOAEM → NÃO AGREGA'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reforma proporcional ao tempo de serviço.",
+                    "rationale": "Incorreto. Não há relação com reforma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Transferência para a reserva remunerada, por se tratar de curso de longa duração.",
+                    "rationale": "Incorreto. A observação é clara: não agrega.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Compare as observações 4 e 5 para entender a diferença de tratamento entre os cursos.",
+            "subject": "legin"
+        },
+        {
+            "question": "São causas de agregação por afastamento temporário do serviço ativo, de acordo com o material, todas as seguintes, EXCETO:",
+            "answerOptions": [
+                {
+                    "text": "Ultrapassar 1 ano contínuo em Licença para Tratamento de Saúde de Pessoa da Família (LTSPF).",
+                    "rationale": "Incorreto. A alínea 'e' prevê a agregação ao 'ultrapassar 6 meses contínuos em LTSPF'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ultrapassar 2 anos contínuos em Licença para Tratamento de Saúde Própria (LTSP).",
+                    "rationale": "Correto. A LTSP causa agregação se ultrapassar 1 ano contínuo (alínea 'c'), e não 2 anos. O limite de 2 anos é para outras situações, como reforma ex officio.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ultrapassar 6 meses contínuos em Licença para Tratamento de Interesses Particulares (LTIP).",
+                    "rationale": "Incorreto. A alínea 'd' é exatamente essa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ser julgado incapaz, temporariamente, após 1 ano contínuo em LTSP.",
+                    "rationale": "Incorreto. Esta é uma causa prevista na alínea 'a'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ultrapassar 6 meses contínuos em LTSPF.",
+                    "rationale": "Incorreto. Esta causa está na alínea 'e'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista os prazos de afastamento por licenças que levam à agregação. Um deles tem o prazo incorreto na alternativa.",
+            "subject": "legin"
+        },
+        {
+            "question": "Um policial militar estável que ultrapassar 6 (seis) meses contínuos em Licença para Tratamento de Interesses Particulares (LTIP) será:",
+            "answerOptions": [
+                {
+                    "text": "Reformado ex officio.",
+                    "rationale": "Incorreto. O prazo para reforma por LTIP é superior a 2 anos (contínuos ou não), conforme página 9.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Transferido para a reserva remunerada.",
+                    "rationale": "Incorreto. Não há essa relação direta com a reserva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Excluído da corporação a bem da disciplina.",
+                    "rationale": "Incorreto. A exclusão não é automática por prazo de licença.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Agregado, por força da alínea 'd' da página 6.",
+                    "rationale": "Correto. O item 'd' da lista de causas de agregação por afastamento é exatamente 'ultrapassar 6 meses contínuos em LTIP'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Considerado oficialmente extraviado.",
+                    "rationale": "Incorreto. Essa é uma causa de agregação distinta, prevista na alínea 'f'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Relacione o prazo de 6 meses de LTIP com uma das situações listadas na página 6.",
+            "subject": "legin"
+        },
+        {
+            "question": "O material lista como causa de agregação o fato de o militar 'ser considerado oficialmente extraviado'. Isso se refere à situação do militar que:",
+            "answerOptions": [
+                {
+                    "text": "Faleceu e seu corpo não foi encontrado.",
+                    "rationale": "Incorreto. O extravio é uma situação de desaparecimento sem indícios de morte, e o material o trata como causa de agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Encontra-se em local incerto e não sabido, sem caracterizar deserção.",
+                    "rationale": "Correto. O 'extraviado' é uma situação administrativa prevista no art. 43, VII da Lei 12.086, que difere da deserção (crime militar) e leva à agregação até seu reaparecimento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Está foragido da justiça após condenação criminal.",
+                    "rationale": "Incorreto. Essa situação pode levar a outros desdobramentos, mas não é a definição de 'extraviado' para fins de agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Foi capturado como desertor e reincluído.",
+                    "rationale": "Incorreto. Essa é uma causa de agregação distinta, prevista na alínea 'h'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Está em gozo de licença e não comunicou seu paradeiro.",
+                    "rationale": "Incorreto. A licença é uma situação regular, o extravio não.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O termo 'extraviado' tem um significado técnico no âmbito militar, diferente do uso comum.",
+            "subject": "legin"
+        },
+        {
+            "question": "Um Oficial que ultrapassar o prazo de licença e for considerado desertor terá sua situação de agregação definida em qual das seguintes alíneas?",
+            "answerOptions": [
+                {
+                    "text": "Ultrapassar 6 meses contínuos em LTIP.",
+                    "rationale": "Incorreto. A deserção é uma situação autônoma, não um mero ultrapassar de prazo de LTIP.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Estar agregado há mais de 2 anos, por ter sido julgado incapaz.",
+                    "rationale": "Incorreto. Essa situação leva à reforma, não é a causa inicial da agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Esgotar o prazo da deserção (Oficial ou Praça estável).",
+                    "rationale": "Correto. A alínea 'g' da página 6 prevê a agregação por 'esgotar o prazo da deserção' para Oficial ou Praça estável.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Como desertor, ter se apresentado voluntariamente.",
+                    "rationale": "Incorreto. Esta alínea 'h' trata da apresentação voluntária ou captura, que é uma fase posterior à consumação da deserção, mas a agregação já ocorreu com o esgotamento do prazo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ser condenado à pena de suspensão do exercício do posto.",
+                    "rationale": "Incorreto. Essa é a alínea 'n', não relacionada à deserção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material diferencia o momento em que a deserção se consuma e a agregação ocorre.",
+            "subject": "legin"
+        },
+        {
+            "question": "A reversão é definida como o ato pelo qual o policial militar agregado:",
+            "answerOptions": [
+                {
+                    "text": "É promovido ao posto imediato, voltando a ocupar vaga no Almanaque.",
+                    "rationale": "Incorreto. Reversão não é promoção; é o retorno à ativa na mesma graduação/posto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Retorna ao respectivo Quadro, tão logo cesse o motivo que determinou sua agregação.",
+                    "rationale": "Correto. Esta é a definição de reversão apresentada no material.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É transferido para a reserva remunerada, por atingir a idade-limite.",
+                    "rationale": "Incorreto. Atingir a idade-limite na ativa é causa de transferência para a reserva, não de reversão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É declarado incapaz definitivamente e reformado.",
+                    "rationale": "Incorreto. Isso é uma causa de reforma, não de reversão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É excluído da corporação a pedido.",
+                    "rationale": "Incorreto. Não há relação com exclusão.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A definição de reversão está no início da seção dedicada ao tema.",
+            "subject": "legin"
+        },
+        {
+            "question": "Sobre a reversão, o material faz duas observações importantes. Qual delas está correta?",
+            "answerOptions": [
+                {
+                    "text": "A reversão é um ato discricionário que depende da aceitação do policial militar.",
+                    "rationale": "Incorreto. A reversão pode ser determinada pela autoridade, e o policial deve cumprir a ordem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A reversão pode ser determinada pela autoridade competente, e o não cumprimento da ordem configura crime de deserção.",
+                    "rationale": "Correto. O material afirma: 'a reversão pode ser determinada pela autoridade competente, devendo o policial militar cumprir a ordem recebida (...) não cumprindo a ordem, o policial militar incorrerá no crime de deserção'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A reversão só ocorre a pedido do interessado, mediante requerimento justificado.",
+                    "rationale": "Incorreto. A autoridade pode determinar a reversão de ofício.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O reverso não tem direito a ocupar vaga no Almanaque, ficando como excedente.",
+                    "rationale": "Incorreto. O material afirma que ele 'volta a ocupar o lugar que lhe competir no respectivo Almanaque'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A reversão só é possível se houver vaga no Quadro, caso contrário o militar permanece agregado.",
+                    "rationale": "Incorreto. A lei prevê o retorno 'na primeira vaga que ocorrer', mas o ato de reversão se dá com o fim do motivo da agregação, e a vaga é uma consequência.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "As observações sobre a reversão destacam sua natureza de ato de autoridade e as consequências do descumprimento.",
+            "subject": "legin"
+        },
+        {
+            "question": "De acordo com o material, a transferência para a reserva remunerada pode ocorrer a pedido ou ex officio. Qual das alternativas abaixo é uma condição para a transferência a pedido?",
+            "answerOptions": [
+                {
+                    "text": "Atingir a idade-limite de 65 anos, para oficiais.",
+                    "rationale": "Incorreto. Essa é uma condição para transferência ex officio, não a pedido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ter sido condenado à pena de reforma prevista no CPM.",
+                    "rationale": "Incorreto. Isso é causa de reforma, não de transferência para a reserva a pedido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mínimo de 35 anos de serviço, sendo 30 em atividade militar.",
+                    "rationale": "Correto. O material lista como condição para transferência 'a pedido: a) mínimo de 35 anos de serviço, sendo mínimo 30 anos em atividade militar'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ultrapassar 2 anos contínuos em Licença para Tratamento de Saúde de Pessoa da Família (LTSPF).",
+                    "rationale": "Incorreto. Isso é causa de transferência ex officio, conforme o item 'c' da mesma lista.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ser diplomado em cargo eletivo.",
+                    "rationale": "Incorreto. Esta é uma causa de transferência ex officio, listada no item 'e'.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A página 9 do material lista as causas de transferência para a reserva, dividindo-as entre 'a pedido' e 'ex officio'.",
+            "subject": "legin"
+        },
+        {
+            "question": "São causas de transferência para a reserva remunerada ex officio, conforme a página 9 do material, todas as seguintes, EXCETO:",
+            "answerOptions": [
+                {
+                    "text": "Atingir a idade-limite de 65 anos para oficiais (ou 63 para praças).",
+                    "rationale": "Incorreto. Atingir a idade-limite no posto/graduação é causa de transferência ex officio para a reserva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ultrapassar 2 anos, contínuos ou não, em gozo de LTIP.",
+                    "rationale": "Incorreto. Esta é uma causa de transferência ex officio listada no item 'b'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ter sido condenado à pena de reforma prevista no CPM.",
+                    "rationale": "Correto. Esta é uma causa de REFORMA (página 11), não de transferência para a reserva remunerada. A reserva e a reforma são institutos diferentes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ultrapassar 2 anos de afastamento em cargo público civil, não eletivo.",
+                    "rationale": "Incorreto. Este é o item 'd' da lista de causas ex officio.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ser diplomado em cargo eletivo.",
+                    "rationale": "Incorreto. O item 'e' lista exatamente esta causa.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A lista da página 9 trata da transferência para a RESERVA. A alternativa incorreta descreve uma causa de REFORMA, que está na página 11.",
+            "subject": "legin"
+        },
+        {
+            "question": "Com base na tabela de idades-limite para a reserva remunerada (Lei nº 13.954/2019), qual das seguintes situações está correta?",
+            "answerOptions": [
+                {
+                    "text": "Um Major passa para a reserva aos 59 anos.",
+                    "rationale": "Incorreto. A idade-limite para Major, conforme a tabela, é 61 anos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um 1º Sargento passa para a reserva aos 57 anos.",
+                    "rationale": "Correto. De acordo com a coluna da Lei 13.954/2019 para QOPM, o 1º Sargento tem idade-limite de 57 anos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um 2º Tenente (QOPM) passa para a reserva aos 59 anos.",
+                    "rationale": "Incorreto. A idade-limite para 2º Tenente (QOPM) é 55 anos, conforme a tabela.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um Coronel passa para a reserva aos 65 anos.",
+                    "rationale": "Incorreto. A tabela indica 62 anos para Coronel, na lei antiga, e 67 na nova? A leitura da tabela é complexa, mas para a QOPM com a Lei 13.954/2019, a idade é 67? A tabela mostra '67' na coluna da Lei 13.954/2019 para Coronel. No entanto, o material não especifica o quadro, e a resposta com o 1º Sargento está inequivocamente correta com base na coluna da nova lei. A análise exige cuidado: para QOPM (linha do 1º Sgt) o número é 57. O Coronel tem 67 na coluna da nova lei, mas a pergunta pede a 'correta'. A alternativa A (Major 59) está errada, pois é 61. A C (2º Ten 59) está errada, pois é 55. A D (Coronel 65) está errado, pois é 67 na nova lei. A B (1º Sgt 57) está correta na nova lei.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um Soldado passa para a reserva aos 55 anos.",
+                    "rationale": "Incorreto. A idade-limite para Soldado na Lei 13.954/2019 é 50 anos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A tabela compara as idades da Lei 7.289/84 com as da Lei 13.954/2019. Observe os valores na coluna da lei mais recente.",
+            "subject": "legin"
+        },
+        {
+            "question": "De acordo com a página 11 do material, a reforma (dispensa definitiva do serviço ativo) pode ser motivada por diversas situações. Qual das alternativas abaixo NÃO é uma causa de reforma listada?",
+            "answerOptions": [
+                {
+                    "text": "Atingir a idade-limite de permanência na reserva remunerada (Praças 63 anos / Oficiais 65 anos).",
+                    "rationale": "Incorreto. Atingir a idade-limite na reserva é causa de reforma, conforme o primeiro item da página 11.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ser julgado incapaz, definitivamente, para o serviço policial militar.",
+                    "rationale": "Incorreto. Esta é a segunda causa listada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ultrapassar 2 anos de afastamento em cargo público civil eletivo.",
+                    "rationale": "Correto. O afastamento para cargo eletivo, uma vez diplomado, é causa de transferência para a reserva (ex officio, página 9), e não de reforma. A reforma por tempo de afastamento se aplica a cargos não eletivos, conforme item 'd' da página 9.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Estar agregado há mais de 2 anos por ter sido julgado incapaz temporariamente.",
+                    "rationale": "Incorreto. Esta é a terceira causa listada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Indicação em Conselho de Disciplina (para Aspirante ou Praça estável).",
+                    "rationale": "Incorreto. Este é o último item da lista de causas de reforma.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Diferencie as causas de transferência para a reserva (página 9) das causas de reforma (página 11). A alternativa mistura os conceitos.",
+            "subject": "legin"
+        },
+        {
+            "question": "Um policial militar que se candidate a um cargo eletivo, contando com mais de 5 anos de efetivo serviço, será:",
+            "answerOptions": [
+                {
+                    "text": "Imediatamente reformado.",
+                    "rationale": "Incorreto. A candidatura a cargo eletivo causa agregação, conforme alínea 'm' da página 7.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Agregado, conforme previsto no material.",
+                    "rationale": "Correto. O item 'm' da lista de causas de agregação é: 'ter se candidatado a cargo eletivo, desde que conte mais de 5 anos de efetivo serviço'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transferido para a reserva remunerada a pedido.",
+                    "rationale": "Incorreto. A transferência para a reserva, nesse contexto, ocorre após a diplomação (ex officio), não no momento da candidatura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Licenciado da corporação a bem do serviço público.",
+                    "rationale": "Incorreto. A situação correta é a agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Excluído da corporação, por incompatibilidade com a atividade policial.",
+                    "rationale": "Incorreto. A lei permite a candidatura, com a devida agregação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O material lista a candidatura a cargo eletivo como uma das causas de agregação, na página 7.",
+            "subject": "legin"
+        },
+        {
+            "question": "O que acontece com o policial militar que, após agregado por candidatura a cargo eletivo, for diplomado?",
+            "answerOptions": [
+                {
+                    "text": "Permanece agregado até o final do mandato.",
+                    "rationale": "Incorreto. A diplomação é causa de transferência para a reserva, não de permanência em agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É revertido automaticamente ao seu Quadro.",
+                    "rationale": "Incorreto. A diplomação encerra o vínculo com a ativa, não causa reversão.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É transferido ex officio para a reserva remunerada.",
+                    "rationale": "Correto. O item 'e' da página 9 lista como causa de transferência ex officio: 'ser diplomado em cargo eletivo'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É promovido por bravura, por serviço relevante à sociedade.",
+                    "rationale": "Incorreto. Não há relação entre diplomação e promoção por bravura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É considerado desertor se não se apresentar à corporação.",
+                    "rationale": "Incorreto. A lei regula a situação do militar eleito, não configurando deserção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A candidatura leva à agregação, mas a diplomação tem um efeito diferente, previsto na página 9.",
+            "subject": "legin"
+        },
+        {
+            "question": "Um policial militar condenado à pena restritiva de liberdade superior a 6 meses, enquanto durar a execução da pena, será:",
+            "answerOptions": [
+                {
+                    "text": "Reformado ex officio.",
+                    "rationale": "Incorreto. A condenação criminal com pena superior a 6 meses é causa de agregação, não de reforma imediata.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Agregado, conforme alínea 'j' da página 7.",
+                    "rationale": "Correto. A alínea 'j' das causas de agregação é: 'ter sido condenado à pena restritiva de liberdade superior a 6 meses, enquanto durar a execução'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Excluído da corporação após o trânsito em julgado.",
+                    "rationale": "Incorreto. A exclusão pode ocorrer em casos mais graves, mas a condenação com pena superior a 6 meses, por si só, causa agregação durante a execução.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promovido automaticamente, se a condenação for revertida.",
+                    "rationale": "Incorreto. A questão trata da situação durante a execução da pena, não de uma eventual reversão judicial futura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Transferido para a reserva remunerada, por se tratar de afastamento superior a 6 meses.",
+                    "rationale": "Incorreto. O afastamento por condenação criminal tem regramento próprio (agregação), diverso do afastamento por licenças.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A página 7 lista as causas de agregação. Procure pela que trata de condenação criminal.",
+            "subject": "legin"
+        },
+        {
+            "question": "Um policial militar que for nomeado para qualquer cargo público civil temporário, não eletivo, inclusive da Administração indireta, será:",
+            "answerOptions": [
+                {
+                    "text": "Reformado, por estar exercendo função estranha à corporação.",
+                    "rationale": "Incorreto. A nomeação para cargo temporário é causa de agregação, não de reforma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Excluído da corporação, por incompatibilidade.",
+                    "rationale": "Incorreto. A lei permite o exercício temporário, desde que haja a devida agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Agregado, por força da alínea 'l' da página 7.",
+                    "rationale": "Correto. O item 'l' da lista de causas de agregação é: 'ser nomeado para qualquer cargo público civil temporário, não eletivo, inclusive da Administração indireta'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transferido para a reserva, se o cargo for de natureza permanente.",
+                    "rationale": "Incorreto. A questão especifica 'cargo temporário', o que leva à agregação, não à reserva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promovido a graduação superior, por mérito administrativo.",
+                    "rationale": "Incorreto. Não há relação com promoção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A página 7 trata especificamente da nomeação para cargos públicos civis temporários como causa de agregação.",
+            "subject": "legin"
+        },
+        {
+            "question": "O material menciona o Conselho de Justificação e o Conselho de Disciplina como órgãos que podem indicar a reforma do militar. A que público, respectivamente, esses conselhos se aplicam?",
+            "answerOptions": [
+                {
+                    "text": "Conselho de Justificação (Praças estáveis) e Conselho de Disciplina (Oficiais).",
+                    "rationale": "Incorreto. A relação está invertida.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ambos se aplicam a Oficiais e Praças, indistintamente.",
+                    "rationale": "Incorreto. O material faz uma distinção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conselho de Justificação (Oficiais) e Conselho de Disciplina (Aspirante ou Praça estável).",
+                    "rationale": "Correto. O último item da página 11 sobre reforma diz: 'tiver determinação em Conselho de Justificação (Oficial) / indicado em Conselho de Disciplina (Aspirante ou Praça estável)'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Conselho de Justificação (Aspirantes) e Conselho de Disciplina (Praças sem estabilidade).",
+                    "rationale": "Incorreto. Não corresponde à especificação do material.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conselho de Justificação (Oficiais e Praças) e Conselho de Disciplina (apenas Aspirantes).",
+                    "rationale": "Incorreto. A aplicação é distinta e específica.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O final da página 11 especifica a quem se destina cada conselho para fins de reforma.",
+            "subject": "legin"
+        },
+        {
+            "question": "A Lei 12.086/2009 estabelece que o policial militar no exercício de cargo ou função de natureza civil, fora da estrutura da PMDF, será agregado. O material complementa essa informação listando órgãos específicos e mencionando o nível de remuneração 'DAS-101.4' (R$ 6.843,76). Isso indica que:",
+            "answerOptions": [
+                {
+                    "text": "Qualquer cargo em comissão, independentemente do valor da remuneração, gera agregação.",
+                    "rationale": "Incorreto. O material faz referência ao 'DAS-101.4 ou equivalente', sugerindo que há um padrão remuneratório mínimo ou de hierarquia do cargo para que seja considerado de interesse.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O cargo deve ter remuneração equivalente ou superior a um DAS-101.4 para ser considerado de interesse e gerar agregação.",
+                    "rationale": "Correto. A menção repetida a 'DAS-101.4 ou equivalente' indica que os cargos em comissão que justificam a agregação devem ter, no mínimo, esse padrão de remuneração e hierarquia, conforme previsto no art. 42 da Lei 12.086 que exige cargo de natureza especial ou de provimento em comissão de nível intermediário ou superior.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A remuneração do cargo é irrelevante para a concessão da agregação, importando apenas a natureza do órgão.",
+                    "rationale": "Incorreto. A referência ao valor sugere relevância.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O valor de R$ 6.843,76 é o soldo de um Coronel, usado como parâmetro.",
+                    "rationale": "Incorreto. O material define o valor como constante do Anexo I da Lei nº 11.526/2007, não como o soldo de um Coronel.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Apenas cargos com a nomenclatura exata 'DAS-101.4' podem gerar agregação.",
+                    "rationale": "Incorreto. O material menciona 'ou equivalente', abrindo margem para cargos similares em outros órgãos.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A repetição da sigla 'DAS-101.4' ao lado de diversos órgãos não é aleatória; ela estabelece um padrão.",
+            "subject": "legin"
+        },
+        {
+            "question": "Um policial militar que ficar exclusivamente à disposição da Justiça comum para se ver processar será:",
+            "answerOptions": [
+                {
+                    "text": "Reformado, por impossibilidade de exercer sua função.",
+                    "rationale": "Incorreto. Essa situação é temporária e tem previsão de agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Licenciado a bem da disciplina, por estar respondendo a processo.",
+                    "rationale": "Incorreto. A mera disponibilidade para processo não é causa de licenciamento, mas de agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Agregado, conforme alínea 'i' da página 7.",
+                    "rationale": "Correto. A alínea 'i' lista como causa: 'se ver processar, após ficar exclusivamente à disposição da Justiça comum'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transferido para a reserva remunerada, por motivo de força maior.",
+                    "rationale": "Incorreto. Não se trata de transferência para a reserva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promovido post mortem, se for absolvido.",
+                    "rationale": "Incorreto. A promoção post mortem tem outras hipóteses, ligadas ao falecimento em serviço ou por consequência dele, não à absolvição.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A página 7 continua com as causas de agregação. Esta está relacionada a processo na Justiça comum.",
+            "subject": "legin"
+        },
+        {
+            "question": "O que ocorre com o policial militar que ultrapassar 2 anos contínuos em Licença para Tratamento de Saúde de Pessoa da Família (LTSPF), de acordo com as páginas 9 e 11?",
+            "answerOptions": [
+                {
+                    "text": "Continua agregado, aguardando alta médica da pessoa da família.",
+                    "rationale": "Incorreto. Após 2 anos contínuos de LTSPF, a lei determina a passagem para a inatividade, não a permanência em agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É transferido ex officio para a reserva remunerada.",
+                    "rationale": "Correto. O item 'c' da página 9 lista como causa de transferência ex officio: 'ultrapassar 2 anos contínuos em LTSPF'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É reformado, por incapacidade definitiva.",
+                    "rationale": "Incorreto. A LTSPF é licença para cuidar de familiar, não para tratamento próprio, portanto não gera reforma por incapacidade do militar. A transferência é para a reserva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É agregado, por força da alínea 'e' da página 6.",
+                    "rationale": "Incorreto. A alínea 'e' da página 6 trata da agregação por 'ultrapassar 6 meses contínuos em LTSPF'. O transcurso do prazo de 2 anos é um marco posterior que leva à reserva, não à agregação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É promovido, por ter direito adquirido.",
+                    "rationale": "Incorreto. A LTSPF não é causa de promoção.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Compare os prazos e efeitos da LTSPF nas páginas 6 (agregação) e 9 (transferência para reserva).",
+            "subject": "legin"
+        },
+        {
+            "question": "O militar que atingir a idade-limite de permanência na reserva remunerada (por exemplo, 63 anos para praças) será:",
+            "answerOptions": [
+                {
+                    "text": "Mantido na reserva, pois a idade-limite é para a ativa, não para a reserva.",
+                    "rationale": "Incorreto. O material é claro ao estabelecer uma idade-limite também para permanência na reserva, que leva à reforma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reformado, conforme o primeiro item da página 11.",
+                    "rationale": "Correto. A página 11 começa com: ' atingir a idade-limite na RR (Praças 63 anos / Oficiais 65 anos)' como causa de reforma.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reagregado ao serviço ativo, se ainda tiver condições físicas.",
+                    "rationale": "Incorreto. Atingir a idade-limite na reserva não causa reversão ou retorno à ativa, mas sim a passagem para a reforma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promovido ao posto imediato, como forma de reconhecimento.",
+                    "rationale": "Incorreto. Não há relação com promoção.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Considerado desertor, por abandonar a reserva.",
+                    "rationale": "Incorreto. É uma situação administrativa normal prevista em lei.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A página 11 lista as causas de reforma, que é a última etapa da carreira, após a reserva.",
+            "subject": "legin"
+        },
+        {
+            "question": "O ciclo de aprendizado sugerido no final do material ('DÚVIDAS?') é o mesmo da aula anterior. Ele representa a sequência ideal para a fixação do conteúdo, que é:",
+            "answerOptions": [
+                {
+                    "text": "Leitura, Instrução, Perguntas, Consciência.",
+                    "rationale": "Correto. O material repete o ciclo: Leitura -> Instrução -> Perguntas -> Consciência.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Perguntas, Leitura, Instrução, Consciência.",
+                    "rationale": "Incorreto. A ordem apresentada é diferente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Instrução, Consciência, Leitura, Perguntas.",
+                    "rationale": "Incorreto. Não corresponde à sequência proposta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Consciência, Perguntas, Instrução, Leitura.",
+                    "rationale": "Incorreto. A consciência é o último estágio, não o primeiro.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Leitura, Perguntas, Consciência, Instrução.",
+                    "rationale": "Incorreto. A instrução vem antes das perguntas, no ciclo proposto.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A última página do material contém o mesmo diagrama da aula anterior.",
+            "subject": "legin"
         }
     ]
         }
