@@ -1,3 +1,546 @@
+```json
 {
-  "questions": []
+    "questions": [
+        {
+            "question": "No que diz respeito aos níveis de resposta a serem adotados pelo policiamento ostensivo geral, de acordo com o Art. 16, Portaria PMDF 802/12, é correto afirmar que:",
+            "answerOptions": [
+                {
+                    "text": "O nível 5 caracteriza-se pelo emprego de policiamento voltado a determinadas situações que exigem técnicas e equipamentos especiais.",
+                    "rationale": "Incorreto. Esta é a definição do Nível 4 (PATAMO e Choque Montado), não do Nível 5. O Nível 5 corresponde ao BOPE, com ações e operações especiais de altíssima complexidade, emprego unicamente repressivo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O patrulhamento em localidades com maior incidência criminal, além do atendimento a ocorrências de maior complexidade, é denominado nível 4 de resposta.",
+                    "rationale": "Incorreto. Esta é a definição do Nível 2 (GTOP, GTA, GTR), que atua em localidades com maior incidência criminal e ocorrências de média complexidade.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As ocorrências de média complexidade, bem como o patrulhamento preventivo na área de responsabilidade da OPM, é denominado nível 2 de resposta.",
+                    "rationale": "Incorreto. O patrulhamento preventivo na área de responsabilidade da OPM é atribuição do Nível 1 (radiopatrulha, policiamento comunitário, policiamento ostensivo geral).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nível 3 de resposta é caracterizado por situações fora da rotina, que exigem técnicas e equipamentos diferenciados em apoio, reforçando o policiamento da OPM ou regiões de comandos de policiamento, bem como o atendimento de ocorrências consideradas graves de maior complexidade.",
+                    "rationale": "Correto. Esta é exatamente a definição do Nível 3, que corresponde à ROTAM (Rondas Ostensivas Táticas Motorizadas), conforme Art. 17, III da Portaria PMDF 802/12.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Consulte o Art. 17 da Portaria PMDF 802/12, que define cada nível de resposta e suas respectivas unidades.",
+            "subject": "ttml"
+        },
+        {
+            "question": "“As ações policiais devem ser pautadas pela legalidade, necessidade, proporcionalidade e a preservação da vida dos operadores de segurança pública, das vítimas, de terceiros e até mesmo do perpetrador” - Portaria PMDF 843/13. Assinale a opção correta:",
+            "answerOptions": [
+                {
+                    "text": "A adoção das diretrizes estabelecidas pela Portaria Interministerial 4226/10, pela PMDF, foi feita no ano de 2012 por meio da Portaria PMDF 802/12.",
+                    "rationale": "Incorreto. A Portaria 802/12 trata da regulamentação das atividades e do emprego operacional dos grupos de policiamento tático e do emprego progressivo do policiamento, não da adoção das diretrizes da Portaria 4226/10.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A Portaria PMDF 801/12 dispõe sobre o uso racional e diferenciado da força e estabelece regras gerais sobre o emprego de IMPOs no âmbito da PMDF, além de outras providências.",
+                    "rationale": "Incorreto. A Portaria que dispõe sobre uso racional e diferenciado da força e regras sobre IMPOs é a Portaria PMDF 1196/21, não a 801/12.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A Ética Policial Militar não é um princípio a ser observado pelo policial militar na execução de suas missões institucionais.",
+                    "rationale": "Incorreto. A Ética Policial Militar é um dos princípios norteadores expressamente elencados na Portaria PMDF 843/13, sendo definida como os princípios e valores que conduzem o PM na sua atividade profissional.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Enquanto a Portaria PMDF 802/12 trata da regulamentação das atividades e do emprego operacional dos grupos de policiamento tático, bem como do emprego progressivo do policiamento. A Portaria PMDF 843/13, trata das diretrizes do uso da força da PMDF e dos níveis de uso da força pelo policial militar.",
+                    "rationale": "Correto. Esta é a distinção correta entre as duas portarias: a 802/12 organiza o policiamento em níveis de resposta, enquanto a 843/13 estabelece a doutrina do uso da força e seus princípios norteadores.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Lembre-se da diferença entre as portarias: 802/12 trata da organização do policiamento; 843/13 trata da doutrina do uso da força.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa correta que descreve os procedimentos a serem adotados quando do uso da ALEE, Spark Z 2.0, durante o serviço ordinário. De acordo com o Art. 36, Portaria PMDF 1196/21:",
+            "answerOptions": [
+                {
+                    "text": "Algemar o agressor, quando necessário, e providenciar socorros, se cabível; Acionar o CBMDF ou SAMU, para a retirada dos dados do corpo do indivíduo alvo do disparo; Recolher o cartucho e anotar seu número de série no Relatório de Atividade Policial - Gênesis.",
+                    "rationale": "Incorreto. A retirada dos dardos é feita pelo próprio policial, salvo se houver risco de lesão grave. Não há determinação de acionar CBMDF/SAMU especificamente para retirada dos dardos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Algemar o agressor; Retirada dos dados do local - salvo se a retirada causar ou representar risco de lesão grave; Recolher, no mínimo 03 confetes identificadores do cartucho deflagrado; Guardar os dados utilizados no próprio cartucho deflagrado e apresentá-los ao superior imediato.",
+                    "rationale": "Correto. Esta alternativa descreve fielmente os procedimentos estabelecidos no Art. 35 da Portaria PMDF 1196/21: algemar, retirar dardos (salvo risco), recolher no mínimo 3 confetes, guardar dardos no cartucho e apresentar ao superior.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Conter o agressor com uso de técnicas de mão livre; Conduzir o agressor ao pronto socorro do hospital mais próximo, afim de se verificar se houve lesão e qual o grau desta - providenciando a Guia de Atendimento de Emergência (GAE); Guardar o cartucho e apresentá-lo ao superior imediato de serviço.",
+                    "rationale": "Incorreto. O procedimento não menciona a retirada dos dardos, não menciona os confetes e não está alinhado com o protocolo estabelecido na portaria.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conter o agressor; Providenciar socorro médico - obrigatoriamente; Recolher o cartucho e apresentá-lo ao Oficial de Serviço da UPM; Preencher o RUA LE no sistema Gênesis.",
+                    "rationale": "Incorreto. O procedimento está incompleto, pois não menciona a retirada dos dardos, o recolhimento dos confetes (mínimo 3) e a guarda dos dardos no cartucho.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise o Art. 35 da Portaria PMDF 1196/21, que lista todos os procedimentos pós-disparo da ALEE.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Assinale a opção correta, no que diz respeito aos IMPOs:",
+            "answerOptions": [
+                {
+                    "text": "Segundo a definição dada pela PMDF (Portaria PMDF 1196/21, a Spark Z 2.0) recebe a nomenclatura de Arma de Incapacitação Neuromuscular - AINM. Já os espargidores GL 108 e GL 108 MAX, recebem a nomenclatura de Espargidor de Gás Irritante da Mucosa - EGIM.",
+                    "rationale": "Incorreto. As nomenclaturas oficiais são ALEE (Arma de Lançamento de Eletrodos Energizados) para a Spark/Taser, e ESL (Espargidor de Solução Lacrimogênea) para os espargidores, conforme Art. 3º da Portaria 1196/21.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O porte de IMPO dispensa o porte de armamento de fogo como recurso letal, observadas as medidas sobre o uso racional e diferenciado da força.",
+                    "rationale": "Incorreto. A Portaria MJSP 855/25, Art. 13, estabelece que cada policial deve portar, no mínimo, um instrumento de debilitação, um de incapacitação E armamento letal. Os IMPOs complementam, não substituem, o armamento letal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A ALEE utilizada pela PMDF (Spark Z 2.0), não possui mecanismos de auditagem que possam ser acionados remotamente, apenas o presente no interior da própria arma.",
+                    "rationale": "Incorreto. A Taser X2 (Spark) possui sistemas de auditagem que registram os disparos e podem ser acessados para análise posterior.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A sensibilização com descarga elétrica – segundo a portaria PMDF 1196/21 – não ocorrerá apenas nos Cursos Iniciais de Carreira (CFO, CFP), mas a cada ciclo de capacitação ao qual o policial militar possa participar. Tal sensibilização não deve ultrapassar o tempo de 1 (um) segundo de exposição.",
+                    "rationale": "Correto. Conforme Art. 18, §§3º e 4º da Portaria 1196/21, a sensibilização deve ocorrer a cada ciclo de capacitação, com exposição máxima de 1 segundo, e os dardos não devem ser cravados na pele (ancoragem nas vestes).",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Verifique as definições oficiais dos IMPOs e as regras de porte e sensibilização na Portaria 1196/21.",
+            "subject": "ttml"
+        },
+        {
+            "question": "No que diz respeito aos IMPOs das UPMs responsáveis pelo NÍVEL 1 de resposta (Portaria PMDF 1196/21), é correto afirmar que:",
+            "answerOptions": [
+                {
+                    "text": "São formas de interromper o ciclo, quando de um disparo de ALEE: Desligando a arma - atuando na tecla (liga/desliga); Ou, através do sistema Flexlight - pressionando os LEDs auxiliares (ambidestro) que estão na lateral da arma, por 02 (dois) segundo seguidos.",
+                    "rationale": "Incorreto. Esta informação não corresponde ao procedimento descrito na apostila ou na portaria para interrupção do ciclo da ALEE.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O cartucho - modelo MSK 106 - para uso na ALEE, Spark Z 2.0, alcança a distância máxima de 06 (seis) metros.",
+                    "rationale": "Incorreto. Os cartuchos da Taser X2 possuem alcances padronizados de 4,6m, 6,5m e 7,6m, não apenas 6 metros, e o modelo correto é da linha AXON, não MSK 106.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O ESL de uso coletivo - empregado pela PMDF (GL 108 MAX) - libera a solução lacrimogênea, através de um spray aerosol. Cuja contaminação se destina a uma coletividade de pessoas, tanto em ambiente aberto, quanto fechado.",
+                    "rationale": "Incorreto. O GL 108 MAX em versão spray aerosol é indicado para ambiente aberto. Para ambiente fechado, recomenda-se a versão espuma, conforme apostila pág. 37.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O ESL de uso individual (GL 108) não pode ser empregado para situações de controle e dispersão de multidões.",
+                    "rationale": "Correto. O ESL individual (125g) é destinado a alvo específico, com alcance mínimo de 1 metro, não sendo adequado para controle e dispersão de multidões, que exigem o ESL coletivo (350g) com alcance mínimo de 2 metros.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Lembre-se das diferenças entre ESL individual e coletivo: peso, alcance e finalidade de emprego.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Sobre o uso dos IMPOs em atendimento de ocorrências, assinale a opção correta:",
+            "answerOptions": [
+                {
+                    "text": "A ALEE não é inflamável, portanto pode ser usada em ambientes onde hajam gases inflamáveis ou químicos.",
+                    "rationale": "Incorreto. A ALEE produz centelha elétrica e é PROIBIDA em ambientes inflamáveis, explosivos ou químicos, conforme Art. 33 da Portaria 1196/21.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A aglomeração e/ou contenção do agressor que sofre a ação da ALEE, devem ser feitos sem que o policial militar tenha contato com os dardos da ALEE ou entre eles (arco voltaico).",
+                    "rationale": "Correto. Durante a contenção, o policial deve evitar contato com os dardos ou entre eles para não sofrer os efeitos da descarga elétrica. A segurança do policial é prioridade.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para haver a incapacitação neuromuscular do agressor é necessário uma descarga mínima de 50 mil volts. Tal descarga é encontrada no modelo empregado pela PMDF (Spark Z 2.0).",
+                    "rationale": "Incorreto. A Taser X2 opera com voltagem entre 840 e 1.440 volts, e amperagem de 0,0012 A (1,2 mA). A baixa amperagem é o que confere o caráter de menor potencial ofensivo, não a alta voltagem.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O Uso da ALEE deve ser considerado quando do enfrentamento de agressores que estejam mantendo pessoa(s) sob a mira de arma de fogo.",
+                    "rationale": "Incorreto. É PROIBIDO utilizar ALEE quando o agressor mantém refém sob mira de arma de fogo com o dedo no gatilho, pois o espasmo muscular pode causar disparo acidental, conforme apostila pág. 52.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte as vedações e recomendações de segurança para uso da ALEE na apostila e na Portaria 1196/21.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Sobre o uso do ALEE, assinale a opção correta:",
+            "answerOptions": [
+                {
+                    "text": "A ALEE deverá ser utilizada somente quando na ação do suspeito ocorra agressão ou resistência ativa, ou quando o policial militar avalie que outra forma de contenção mais branda seja inadequada ou insegura.",
+                    "rationale": "Correto. Esta é a redação exata do Art. 27 da Portaria PMDF 1196/21, que estabelece as condições para o uso da ALEE.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "A visada da ALEE deve ser feita, preferencialmente no centro do corpo e em grandes áreas musculares e, se possível, no pescoço.",
+                    "rationale": "Incorreto. O pescoço é uma das áreas que DEVE SER EVITADA, conforme Art. 28 da Portaria 1196/21, juntamente com cabeça, virilha, seios, garganta e coluna cervical.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O acionamento da ALEE deve ser efetuado pelo tempo máximo de um a dois segundos, a fim de proporcionar o domínio do perpetrador da ação agressora, sem com isso causar-lhe dor ou sofrimento.",
+                    "rationale": "Incorreto. O Art. 32 determina que o acionamento deve ser pelo tempo ESTRITAMENTE NECESSÁRIO para proporcionar o domínio, não havendo tempo máximo pré-fixado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As condições a serem observadas para o uso da ALEE são: Para garantir a integridade física do policial militar e de terceiros; Evitar que o agressor se lesione gravemente; Impedir a fuga do agressor.",
+                    "rationale": "Incorreto. O Art. 27 lista como condições: I - garantir integridade física do PM ou terceiros; II - evitar que o agressor lesione gravemente a si mesmo; III - manter a ordem ou em manifestações potencialmente agressivas. Impedir fuga NÃO é condição para uso da ALEE.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise o Art. 27 da Portaria 1196/21, que estabelece quando e em quais condições a ALEE deve ser utilizada.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Sobre o uso do ESL, assinale a opção incorreta:",
+            "answerOptions": [
+                {
+                    "text": "Seu uso é restrito às situações de controle e dispersão de multidões, ao restabelecimento da ordem pública e à proteção de pessoas e bens nas ações de policiamento ostensivo.",
+                    "rationale": "Correto. Esta é a previsão do Art. 11 da Portaria 1196/21. A alternativa está correta, portanto NÃO é a resposta da questão (que pede a incorreta).",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ao identificar a situação na qual seja necessário o emprego do ESL, o policial militar deverá posicionar-se à distância segura para uso (mínimo de um metro, se ESL de uso individual e mínimo de dois metros, se ESL de uso coletivo).",
+                    "rationale": "Correto. Esta é a orientação da apostila pág. 38 e das especificações técnicas dos equipamentos. A alternativa está correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Se ocorrer uso do ESL em atendimento de ocorrência, não se faz necessário o registro em Relatório de Atividade Policial e/ou relatar em registro de ocorrência PMDF e/ou PCDF.",
+                    "rationale": "Incorreto. É OBRIGATÓRIO registrar o uso de qualquer IMPO em relatório/BO, conforme Lei 13.060/14, Art. 6º e Portaria 855/25, Art. 26. Esta é a alternativa INCORRETA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Caso haja reações adversas mais severas, é responsabilidade da equipe policial militar que fez o uso do ESL para debilitar ou incapacitar o detido providenciar-lhe socorro médico.",
+                    "rationale": "Correto. A Lei 13.060/14, Art. 6º, estabelece a obrigação de assegurar assistência médica imediata quando houver ferimentos. A alternativa está correta.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A questão pede a alternativa INCORRETA. Lembre-se da obrigatoriedade de registro do uso de IMPOs.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa que está em desacordo com a definição dos Níveis de Uso da Força, conforme definidos pela Portaria PMDF 843/13:",
+            "answerOptions": [
+                {
+                    "text": "A utilização de IMPOs - instrumentos de menor potencial ofensivo, que consiste no impedimento do ilícito, captura e/ou desarmamento de perpetrador por meio da utilização pelo policial militar de instrumentos de menor potencial ofensivo, está no 2º Nível de Força.",
+                    "rationale": "Incorreto (esta é a resposta). O uso de IMPOs corresponde ao 4º Nível de Força, não ao 2º. O 2º Nível é a Advertência Policial (verbalização, sinais ou gestos).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "3º Nível de Força - Intervenção Física: consiste no impedimento do ilícito, captura e/ou desarmamento de perpetrador por meio de força física do policial militar, sem utilização de instrumentos.",
+                    "rationale": "Correto. Esta é a definição exata do 3º Nível de Força conforme a Portaria 843/13.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Advertência Policial, que consiste na dissuasão do cometimento de ato ilícito por meio de advertência verbal, sinais ou gestos do policial militar, é o 2º Nível de Força.",
+                    "rationale": "Correto. Esta é a definição do 2º Nível de Força.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "5º Nível de Força - Uso de Armamento Letal: consiste no uso de armamento letal para neutralizar a agressão do perpetrador.",
+                    "rationale": "Correto. Esta é a definição do 5º Nível de Força.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Recorde a sequência dos níveis de força: 1º Presença, 2º Advertência, 3º Intervenção Física, 4º IMPOs, 5º Armamento Letal.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Em relação aos Princípios norteadores do Uso da Força pelo policial militar, Portaria PMDF 843/13, é correto afirmar que:",
+            "answerOptions": [
+                {
+                    "text": "Moderação: o nível de força utilizado deve sempre ser compatível com a gravidade da ameaça representada pela ação do opositor e com os objetivos pretendidos pelo policial militar. O nível do uso da força aplicado pelo policial militar não poderá ser exagerado, de modo a causar dano ou lesão desnecessária ao perpetrador, nem tão pouco insuficiente que impossibilite o correto cumprimento do objetivo.",
+                    "rationale": "Incorreto. Esta é a definição do princípio da PROPORCIONALIDADE, não da moderação. Moderação é 'o emprego da força deve sempre que possível ser moderado, visando reduzir o emprego da força adequada'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Conveniência: a força não poderá ser empregada quando, em função do contexto, possa ocasionar danos de maior relevância do que os objetivos legais pretendidos.",
+                    "rationale": "Correto. Esta é exatamente a definição do princípio da Conveniência estabelecido na Portaria PMDF 843/13.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Proporcionalidade: O emprego da força pelos policiais militares deve sempre ser proporcional à sua capacidade de operação, visando sempre reduzir o emprego da força adequada.",
+                    "rationale": "Incorreto. Esta definição mistura conceitos. Proporcionalidade é a compatibilidade entre o nível de força e a gravidade da ameaça. A redução do emprego da força é objeto do princípio da moderação.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "ética policial militar: os policiais militares só poderão utilizar a força adequada para a consecução de um objetivo legal.",
+                    "rationale": "Incorreto. Esta é a definição do princípio da LEGALIDADE. Ética PM são os princípios e valores que conduzem o PM na sua atividade profissional.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise os seis princípios da Portaria 843/13: Conveniência, Legalidade, Moderação, Necessidade, Proporcionalidade e Ética PM, com suas definições corretas.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa correta, considerando o texto sobre legitimação e o Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei (CCEAL):",
+            "answerOptions": [
+                {
+                    "text": "Os funcionários encarregados pela aplicação da lei não podem empregar a força quando estritamente necessária e na medida exigida para o cumprimento do seu dever.",
+                    "rationale": "Incorreto. O CCEAL, Art. 3º, estabelece justamente o contrário: 'podem empregar a força quando estritamente necessária e na medida exigida para o cumprimento do seu dever'.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A ação legitima praticada por Policial Militar em desfavor de indivíduo que infringe a lei, causando-lhe dores ou sofrimentos, é considerada tortura.",
+                    "rationale": "Incorreto. Tortura exige dolo específico e finalidade determinada (obter informação, castigar, discriminar), não sendo qualquer dor ou sofrimento decorrente de ação legítima configurador de tortura.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os funcionários encarregados pela aplicação da lei devem sempre cumprir o dever que a lei lhes impõe, servindo a comunidade e protegendo todas as pessoas contra atos ilegais, em conformidade com o elevado grau de responsabilidade que sua profissão requer.",
+                    "rationale": "Correto. Esta é a redação literal do Art. 1º do Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei (CCEAL), adotado pela ONU em 1979.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adotado pela Assembleia das Nações Unidas, no dia 17 de Dezembro de 1979, através da Resolução n° 34/169, o Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei, define regras e estabelece sanções para o descumprimento de suas normas.",
+                    "rationale": "Incorreto. O CCEAL define regras e princípios, mas NÃO tem força vinculante, sendo meras orientações aos países membros, conforme apostila pág. 7.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O texto trata do CCEAL. Lembre-se dos seus artigos e da natureza não vinculante do documento.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Em relação ao ESL é correto afirmar que:",
+            "answerOptions": [
+                {
+                    "text": "O ESL em uso pela PMDF - GL 108 OC, é atóxico.",
+                    "rationale": "Incorreto. Todo agente químico possui toxicidade. Em altas concentrações, os gases liberados podem ser tóxicos, conforme apostila pág. 40.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Deve se posicionar a uma distância mínima de 01 (um) metro, quando se desejar utilizar o ESL de emprego coletivo.",
+                    "rationale": "Incorreto. O ESL de emprego coletivo (GL 108 MAX) tem alcance mínimo de 2 metros, conforme Art. 13 da Portaria 1196/21.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O espargidor de solução lacrimogênea, de alcance de no mínimo 02 (dois) metros, envasado em recipiente de no mínimo 350 (trezentos e cinquenta) gramas de peso, passa a ter a denominação de 'Espargidor de Emprego Coletivo'.",
+                    "rationale": "Correto. Esta é a definição exata do Art. 13 da Portaria PMDF 1196/21 para o ESL de emprego coletivo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Os ESLs, GL 108 MAX OC, bem como o GL 108 C8, não são inflamáveis.",
+                    "rationale": "Incorreto. A inflamabilidade depende do propelente. A apostila pág. 39 informa que os atuais possuem selo de não-inflamabilidade, mas um lote de CS foi reprovado exatamente por inflamar, demonstrando que nem todos são seguros quanto à inflamabilidade.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte as definições da Portaria 1196/21 sobre as características do ESL individual e coletivo.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Tendo em vista o emprego do ESL de uso individual e coletivo, assinale a opção incorreta:",
+            "answerOptions": [
+                {
+                    "text": "A habilitação do policial militar ao uso do ESL de emprego individual, também servirá para o de uso coletivo.",
+                    "rationale": "Correto. A habilitação para ESL abrange ambos os tipos, pois o princípio de funcionamento é o mesmo. Esta alternativa está correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O ESL envasado em recipiente de no mínimo 50 e no máximo 125 gramas de peso do produto ativo é denominado 'Espargidor de Emprego Individual'.",
+                    "rationale": "Correto. Esta é a definição do Art. 12 da Portaria 1196/21. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "As atividades que envolvem agentes químicos lacrimogêneos compreendidas pela manipulação, manuseio, estocagem e a utilização tática, ou para fins de instrução de habilitação técnico-profissional, são consideradas como missões de risco e exigem treinamento especializado, devendo ser desenvolvida exclusivamente por policiais militares habilitados.",
+                    "rationale": "Correto. Esta é a previsão da Portaria 1196/21 sobre a necessidade de habilitação para atividades com agentes químicos. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O emprego do espargidor de solução lacrimogênea é restrito às situações de controle e dispersão de multidões, ao restabelecimento da ordem pública e à proteção de pessoas e bens nas ações de policiamento ostensivo.",
+                    "rationale": "Incorreto? Na verdade, esta afirmação é CORRETA segundo o Art. 11 da Portaria 1196/21. Todas as alternativas parecem corretas. Pode haver erro na formulação da questão, mas a única que poderia ser questionada é esta, pois o ESL também pode ser usado em outras situações de defesa pessoal, não apenas nas listadas. No entanto, a portaria diz que é 'restrito' a essas situações, então a afirmativa está tecnicamente correta.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A questão pede a INCORRETA. Verifique se todas as alternativas estão de acordo com a Portaria 1196/21.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Sobre os conhecimentos relacionados à ALEE, Spark Z 2.0, marque a opção correta - de acordo com a Portaria PMDF 1196/21:",
+            "answerOptions": [
+                {
+                    "text": "É vedada a utilização da ALEE em pessoas posicionadas em meios fios ou cadeiras de praça, considerando o risco de queda com ferimentos graves ou até mesmo a morte.",
+                    "rationale": "Incorreto. O Art. 34 estabelece que DEVE SER EVITADA, não que é vedada. A diferença é importante: 'evitar' permite avaliação tática em situações extremas; 'vedar' é proibição absoluta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O procedimento de aviso, antes do emprego efetivo da ALEE, somente deve ser realizado, caso não provoque situação de risco para qualquer pessoa, inclusive ao policial militar ou ao agressor.",
+                    "rationale": "Correto. Esta é a redação exata do Art. 31 da Portaria 1196/21: 'Este procedimento somente deve ser realizado, caso não provoque situação de risco para qualquer pessoa, inclusive ao PM ou ao agressor'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Durante a ação operacional, o policial militar que entender que seja necessário o emprego da ALEE deve sempre de forma clara comunicar a medida ao suspeito - a fim de que a este possa ser oportunizada a rendição.",
+                    "rationale": "Incorreto. O Art. 31 diz 'sempre que possível', não 'sempre'. Em situações de risco iminente, o aviso pode ser omitido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O acionamento da ALEE deve ser efetuado pelo tempo total de seu ciclo (5 segundo), a fim de proporcionar o domínio do perpetrador da ação agressora.",
+                    "rationale": "Incorreto. O Art. 32 determina que o acionamento deve ser pelo tempo ESTRITAMENTE NECESSÁRIO, não necessariamente o ciclo completo.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Revise os Arts. 31, 32 e 34 da Portaria 1196/21, observando as nuances entre 'vedado', 'evitado' e 'sempre que possível'.",
+            "subject": "ttml"
+        },
+        {
+            "question": "No que se refere às medidas preventivas para o uso da ALEE, assinale a opção que descreve corretamente e na sequência descrita no Art. 25, Portaria PMDF 1196/21:",
+            "answerOptions": [
+                {
+                    "text": "O policial militar, ao entrar de serviço deve inspecionar e testar o funcionamento da ALEE, executando o teste de força de centelha; Com a arma apontada para baixo, em um ângulo de 45ª, deve inserir o cartulho, com a palma da mão voltada para cima; Manter a trava de segurança, se houve, em todos os cartuchos enquanto estes estiverem armazenados, bem como durante o transporte.",
+                    "rationale": "Incorreto. Mistura procedimentos de inspeção (Art. 24) com inserção de cartucho (Art. 25) e não segue a sequência correta do Art. 25.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O Policial militar, ao entrar de serviço, deverá inspecionar e testar o funcionamento da ALEE, executando o teste de força de centelha, quando o tipo de armamento assim o permitir; Com a arma apontada para baixo, devera inserir o cartucho, com a face da mão sempre voltada para baixo, nunca para a frente do cartucho.; Manter a trava de segurança da arma, se houve, em todos os momentos antes de efetuar o disparo.",
+                    "rationale": "Incorreto. A trava de segurança é dos CARTUCHOS, não da arma, e deve ser mantida durante o armazenamento e transporte, conforme Art. 25, V.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A arma deverá estar apontada para baixo em um ângulo de 45 graus.; O dedo deverá estar fora do gatilho de acionamento;. A face da mão nunca deverá estar na frente do cartucho; O cartucho deverá permanecer fora da arma e apontado para um local seguro, sendo instalado no momento que identificar a possibilidade de utilização; Manter a trava de segurança, se houve, em todos os cartuchos enquanto eles estiverem armazenados, bem como durante o transporte.",
+                    "rationale": "Correto. Esta alternativa descreve fielmente os cinco itens do Art. 25 da Portaria 1196/21, na sequência correta.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Para inserir o cartucho o policial militar deverá apontar a arma para uma 'caixa de areia'; Após inserido o cartucho, deverá fazer o teste de centelha, momento em que se verificará o pleno funcionamento da arma. O cartucho deve ser inserido na arma com a palma da mão voltada para baixo ou para cima, nunca com a face voltada para a frente do cartucho. O cartucho deverá permanecer forma da arma e apontado para o chão, num ângulo de 45.",
+                    "rationale": "Incorreto. Não há referência a 'caixa de areia' no procedimento, e o teste de centelha não é realizado após inserção do cartucho, mas sim como parte da inspeção inicial (Art. 24).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O Art. 25 da Portaria 1196/21 estabelece cinco procedimentos específicos para inserção do cartucho. Memorize a sequência.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Tomando como base a Portaria PMDF 1196/21, no que diz respeito à Arma de Lançamento de Eletrodos Energizados, marque a opção incorreta:",
+            "answerOptions": [
+                {
+                    "text": "A ALEE deverá ser utilizada somente quando na ação do suspeito ocorra agressão ou resistência ativa, ou quando o policial militar já houver feito uso de outros IMPOs e não obteve sucesso.",
+                    "rationale": "Incorreto (esta é a resposta). O Art. 27 não exige o esgotamento de outros IMPOs. A ALEE pode ser utilizada diretamente quando a agressão ou resistência ativa ocorrer, ou quando o PM avaliar que outra forma de contenção mais branda seja inadequada ou insegura, sem necessidade de tentar outros IMPOs primeiro.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "É vedado ao policial militar a utilização em serviço de ALEEs, cartuchos e/ou acessórios de ALEE não fornecidos pela Polícia Militar do Distrito Federal.",
+                    "rationale": "Correto. Esta é a previsão do Art. 26 da Portaria 1196/21. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A ALEE não deve ser utilizada em materiais e ambientes inflamáveis, explosivos ou químicos.",
+                    "rationale": "Correto. Esta é a previsão do Art. 33 da Portaria 1196/21. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Antes do emprego efetivo da ALEE, o policial militar deve, em alta voz e de forma clara, informar sobre o disparo da arma.",
+                    "rationale": "Correto. Esta é a previsão do Art. 31 da Portaria 1196/21, com a ressalva de que deve ser feito 'sempre que possível' e 'caso não provoque situação de risco'. Alternativa correta em sua essência.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A questão pede a INCORRETA. Lembre-se que o uso da ALEE não exige tentativa prévia de outros IMPOs.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa correta:",
+            "answerOptions": [
+                {
+                    "text": "As Unidades Policiais Militares (UPMs) responsáveis pela resposta de NÍVEL 1 terão dotação apenas dos seguintes IMPOs: algemas, espargidor de solução lacrimogênea de emprego individual e coletivo e arma de lançamento de eletrodos energizados.",
+                    "rationale": "Incorreto. Unidades de Nível 1 não possuem ALEE em sua dotação padrão. A ALEE é para níveis superiores de resposta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Segundo a Portaria PMDF 1196/21, uso racional e diferenciado da força é o conjunto de técnicas e recursos seletivos disponibilizados para assegurar o cumprimento das atribuições da Polícia Militar na aplicação da lei, no restabelecimento da ordem e da incolumidade das pessoas e do patrimônio, mediante adequação entre meios e fins.",
+                    "rationale": "Correto. Esta é a definição exata do Art. 2º da Portaria PMDF 1196/21.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Os policiais militares, mesmo com porte de arma de fogo suspenso, não estão impedidos de acautelar IMPOs nas atividades da Polícia Militar, enquanto perdura a suspensão do porte de arma de fogo.",
+                    "rationale": "Incorreto. O Art. 59 da Portaria 1196/21 estabelece que PM com porte suspenso está impedido de acautelar IMPOs, podendo permanecer apenas com bastão e algema.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "É vedado o porte e o emprego de IMPO para o qual o policial militar não tenha sido habilitado em algum Curso de Especialização com técnicas específicas para tal.",
+                    "rationale": "Incorreto. O Art. 5º exige 'capacidade e habilitação técnica específica', não necessariamente curso de especialização. A habilitação pode ser obtida em cursos de formação ou capacitação.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Consulte as definições e vedações da Portaria 1196/21: conceito de uso racional da força (Art. 2º), dotação por nível, porte suspenso (Art. 59) e necessidade de habilitação (Art. 5º).",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa incorreta:",
+            "answerOptions": [
+                {
+                    "text": "Policiamento voltado às determinadas situações pontuais que exigem técnicas, equipamentos e armamentos especiais, e também o controle de distúrbios civis, e o atendimento de ocorrências de alto grau de periculosidade. São atribuídas ao PATAMO - Patrulhamento Tático Móvel.",
+                    "rationale": "Correto. Esta é a definição do Nível 4 de resposta, atribuído ao PATAMO e Choque Montado, conforme Portaria 802/12. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ética Policial Militar, são os princípios e valores que conduzem o policial militar na sua atividade profissional.",
+                    "rationale": "Correto. Esta é a definição de Ética PM na Portaria 843/13. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "O 4º Nível de Força - segundo a Portaria PMDF 843/13 - é o uso de IMPOS (instrumentos de menor potencial ofensivo) para o impedimento de ilícito, captura e/ou desarmamento de perpetrador.",
+                    "rationale": "Correto. Esta é a definição do 4º Nível de Força na Portaria 843/13. Alternativa correta.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Municípios de menor potencial ofensivo são as projetadas e/ou empregadas, especificamente, para conter, debilitar ou incapacitar temporariamente pessoas, preservando vidas e minimizando danos à integridade das pessoas envolvidas.",
+                    "rationale": "Incorreto (esta é a resposta). O termo correto é 'MUNIÇÕES de menor potencial ofensivo', não 'municípios'. Há um erro de digitação que torna a alternativa incorreta.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "A questão pede a INCORRETA. Observe atentamente a grafia das palavras - há um erro proposital.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa correta:",
+            "answerOptions": [
+                {
+                    "text": "Com advertido da Portaria Interministerial 4226/10, o Governo do Distrito Federal, editou - no ano de 2012 - a Lei Distrital 801, tornando obrigatória por parte da PMDF, a observância das Diretrizes da Portaria Interministerial 4226/10.",
+                    "rationale": "Incorreto. Não existe Lei Distrital 801 sobre este tema. A PMDF internalizou as diretrizes por meio de portarias, não por lei distrital.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os chamados 'disparos de advertência' só se justificam se forem a última forma de se evitar o cometimento de um crime ou de fazer com que o infrator pare com sua ação criminosa.",
+                    "rationale": "Incorreto. A doutrina atual e a Portaria 855/25 não preveem 'disparos de advertência' como prática recomendada. A prioridade é a comunicação e o desescalonamento, não disparos para advertir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um dos Princípios elencados pela Portaria Interministerial 4226/10, é o da Conveniência, que segundo definição da própria Portaria é: 'a força não poderá ser empregada quando, em função do contexto, possa ocasionar danos de maior relevância do que os objetivos legais pretendidos'.",
+                    "rationale": "Correto. A Portaria Interministerial 4.226/10 (revogada, mas referência histórica) elencava o princípio da Conveniência com esta definição, que foi mantida na Portaria PMDF 843/13.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Porque, segundo a Portaria Interministerial 4226/10, é: a seleção apropriada do conjunto de técnicas empregados em uma intervenção, através do uso de instrumentos de menor potencial ofensivo, com a intenção de preservar vidas e minimizar danos à integridade das pessoas.",
+                    "rationale": "Incorreto. Definição confusa e incompleta. O texto 'Porque' no início indica que a frase foi copiada de forma errada.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "A Portaria Interministerial 4.226/10 foi revogada pela 855/25, mas seus princípios (como Conveniência) ainda são referência histórica e foram incorporados às portarias da PMDF.",
+            "subject": "ttml"
+        },
+        {
+            "question": "Marque a alternativa correta:",
+            "answerOptions": [
+                {
+                    "text": "Os governos e entidades responsáveis pela aplicação da lei deverão preparar uma série tão ampla quanto possível de meios e equipar os responsáveis pela aplicação da lei com uma variedade de tipos de armas e munições que permitam o uso diferenciado da força e de armas de fogo.",
+                    "rationale": "Correto. Esta é uma das diretrizes dos Princípios Básicos para o Uso da Força e Armas de Fogo (PBUFAF), conforme apostila pág. 9, que orienta os governos a desenvolverem meios e equipamentos para uso diferenciado da força.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Armas incapacitantes devem substituir armas de fogo nas ações de policiamento e coerção de crimes, praticadas pela PMDF.",
+                    "rationale": "Incorreto. Os IMPOs complementam, não substituem, as armas de fogo. O policial deve portar ambos, conforme Portaria 855/25, Art. 13.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Os conceitos de Ordem Pública e Poder de Polícia traduzem na faculdade de Administração Pública limitar ou disciplinar direito, interesse ou liberdade, em razão do interesse público, concernente à segurança pública.",
+                    "rationale": "Incorreto. Esta é a definição apenas de Poder de Polícia (CTN, Art. 78). Ordem Pública é conceito mais amplo: conjunto de regras formais que emanam do ordenamento jurídico para regular relações sociais.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "De acordo com o PBUFAP (princípios básicos sobre o uso de força e armas de fogo pelos funcionários responsáveis pela aplicação da lei), escudos, capacetes, coletes à prova de bala e veículos à prova de bala, não são equipamentos para a legitimidade efetiva.",
+                    "rationale": "Incorreto. O PBUFAF recomenda exatamente o contrário: dotar os agentes de equipamentos defensivos para reduzir a necessidade de uso de armas, conforme apostila pág. 9.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "O PBUFAF (1990) estabelece diretrizes para que os governos forneçam meios diversificados e equipamentos defensivos aos agentes da lei.",
+            "subject": "ttml"
+        }
+    ]
 }
+```
