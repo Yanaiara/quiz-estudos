@@ -19,7 +19,7 @@ export const materias = [
   // { label: "Redação oficial", value: "redacao_oficial" },
   // { label: "ReInter", value: "reinter" },
   // { label: "TCO", value: "tco" },
-  // { label: "TJAP", value: "tjap" },
+ { label: "TJAP", value: "tjap" },
  { label: "TTML", value: "ttml" },
  { label: "TTP", value: "ttp" },
   // { label: "VCCS", value: "vccs" },
