@@ -1,3 +1,2328 @@
 {
-  "questions": []
+  "subject": "tjap",
+  "questions": [
+    {
+      "question": "De acordo com a Constituição Federal, a segurança pública é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, sendo:",
+      "answerOptions": [
+        {
+          "text": "Dever do Estado, direito e responsabilidade de todos.",
+          "rationale": "Correto. O art. 144 da CF/88 estabelece exatamente que a segurança pública é dever do Estado, direito e responsabilidade de todos.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dever exclusivo das polícias militares.",
+          "rationale": "Incorreto. Embora as PMs sejam órgãos de segurança pública, a responsabilidade é compartilhada com outros órgãos e com a sociedade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Responsabilidade da União e dos Estados.",
+          "rationale": "Incorreto. A CF atribui a responsabilidade a todos os entes federados, mas também à sociedade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dever das Forças Armadas em situações de crise.",
+          "rationale": "Incorreto. As FFAA têm papel subsidiário na segurança pública, não sendo o dever principal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 144, caput, da Constituição Federal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Às polícias militares, segundo o art. 144 da Constituição Federal, cabem:",
+      "answerOptions": [
+        {
+          "text": "As funções de polícia judiciária e a apuração de infrações penais.",
+          "rationale": "Incorreto. Essa é a atribuição das polícias civis (art. 144, §4º).",
+          "isCorrect": false
+        },
+        {
+          "text": "A polícia ostensiva e a preservação da ordem pública.",
+          "rationale": "Correto. É a exata previsão do art. 144, §5º da CF/88.",
+          "isCorrect": true
+        },
+        {
+          "text": "As atividades de defesa civil e o policiamento rodoviário.",
+          "rationale": "Incorreto. Defesa civil é atribuição dos bombeiros militares; policiamento rodoviário é da PRF.",
+          "isCorrect": false
+        },
+        {
+          "text": "A execução de atividades de inteligência federal.",
+          "rationale": "Incorreto. Inteligência federal é atribuição da ABIN.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 144, §5º, CF/88.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Conforme o material, as polícias militares e os corpos de bombeiros militares são considerados:",
+      "answerOptions": [
+        {
+          "text": "Órgãos autônomos subordinados diretamente ao Presidente da República.",
+          "rationale": "Incorreto. Subordinam-se aos Governadores dos Estados e do DF.",
+          "isCorrect": false
+        },
+        {
+          "text": "Forças auxiliares e reserva do Exército.",
+          "rationale": "Correto. É o que dispõe o art. 144, §6º da CF/88.",
+          "isCorrect": true
+        },
+        {
+          "text": "Instituições civis de defesa social.",
+          "rationale": "Incorreto. São instituições militares estaduais.",
+          "isCorrect": false
+        },
+        {
+          "text": "Departamentos especializados da Polícia Civil.",
+          "rationale": "Incorreto. São instituições autônomas e distintas das polícias civis.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 144, §6º, CF/88.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O Decreto nº 88.777/83 (R-200) define policiamento ostensivo como a ação policial:",
+      "answerOptions": [
+        {
+          "text": "Exclusiva das Polícias Civis para a investigação criminal.",
+          "rationale": "Incorreto. Policiamento ostensivo é atribuição exclusiva das PMs, não das PCs.",
+          "isCorrect": false
+        },
+        {
+          "text": "Em que o agente ou fração de tropa é identificado de relance pela farda, equipamento ou viatura.",
+          "rationale": "Correto. É a definição literal do R-200.",
+          "isCorrect": true
+        },
+        {
+          "text": "Realizada de forma velada, sem identificação, para fins de inteligência.",
+          "rationale": "Incorreto. Essa é a definição de serviço velado, não de policiamento ostensivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desempenhada pelas Forças Armadas no patrulhamento de fronteiras.",
+          "rationale": "Incorreto. É atribuição das Forças Armadas, mas não se confunde com policiamento ostensivo das PMs.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Decreto nº 88.777/83 – R-200.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A 'Ordem Pública', de acordo com o R-200, é definida como:",
+      "answerOptions": [
+        {
+          "text": "A ausência total de conflitos sociais.",
+          "rationale": "Incorreto. É uma visão idealizada, não a definição técnica do R-200.",
+          "isCorrect": false
+        },
+        {
+          "text": "O conjunto de regras formais que emanam do ordenamento jurídico, estabelecendo um clima de convivência harmoniosa e pacífica.",
+          "rationale": "Correto. É a definição literal do item 21 do R-200.",
+          "isCorrect": true
+        },
+        {
+          "text": "A atuação exclusiva do poder judiciário para garantir a paz social.",
+          "rationale": "Incorreto. A ordem pública é mantida por diversos poderes e instituições.",
+          "isCorrect": false
+        },
+        {
+          "text": "O estado de sítio decretado pelo Presidente da República.",
+          "rationale": "Incorreto. Estado de sítio é medida excepcional, não se confunde com ordem pública.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Decreto nº 88.777/83 – R-200, item 21.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Lei nº 13.675/2018 (Lei do SUSP) estabelece que a aferição anual de metas para a polícia ostensiva deve observar, entre outros fatores:",
+      "answerOptions": [
+        {
+          "text": "O número de inquéritos policiais concluídos.",
+          "rationale": "Incorreto. Inquéritos são atribuição das polícias judiciárias.",
+          "isCorrect": false
+        },
+        {
+          "text": "A maior ou menor incidência de infrações penais e administrativas em determinada área.",
+          "rationale": "Correto. É o que dispõe o art. 12, inciso III da Lei do SUSP.",
+          "isCorrect": true
+        },
+        {
+          "text": "A quantidade de armas de fogo apreendidas.",
+          "rationale": "Incorreto. Embora seja um indicador, não é o fator principal previsto na lei para aferição de metas.",
+          "isCorrect": false
+        },
+        {
+          "text": "O número de policiais feridos em serviço.",
+          "rationale": "Incorreto. É um indicador de segurança do trabalho, não de desempenho da polícia ostensiva.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 12, inciso III, da Lei nº 13.675/2018.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Conforme o art. 42 da Constituição Federal, os membros das Polícias Militares são:",
+      "answerOptions": [
+        {
+          "text": "Servidores públicos celetistas.",
+          "rationale": "Incorreto. São militares, regidos por legislação específica, não pela CLT.",
+          "isCorrect": false
+        },
+        {
+          "text": "Militares dos Estados, do Distrito Federal e dos Territórios.",
+          "rationale": "Correto. É a exata redação do art. 42, caput, da CF/88.",
+          "isCorrect": true
+        },
+        {
+          "text": "Agentes políticos com estabilidade garantida.",
+          "rationale": "Incorreto. São militares, não agentes políticos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Funcionários públicos com regime jurídico único.",
+          "rationale": "Incorreto. Possuem regime jurídico próprio, baseado na hierarquia e disciplina.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 42, caput, CF/88.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O art. 14, §8º da Constituição Federal trata da elegibilidade do militar. Se eleito e contar com mais de dez anos de serviço, será:",
+      "answerOptions": [
+        {
+          "text": "Agregado e, no ato da diplomação, passará para a inatividade.",
+          "rationale": "Correto. É a regra do art. 14, §8º, inciso II da CF/88.",
+          "isCorrect": true
+        },
+        {
+          "text": "Licenciado das atividades militares sem remuneração.",
+          "rationale": "Incorreto. O militar passa para a inatividade com proventos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Transferido para a reserva remunerada apenas após o mandato.",
+          "rationale": "Incorreto. A transferência se dá no ato da diplomação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Exonerado do serviço militar ativo.",
+          "rationale": "Incorreto. É agregado e depois transferido para a inatividade, não exonerado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 14, §8º, inciso II, CF/88.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Ao militar em atividade, a Constituição Federal proíbe:",
+      "answerOptions": [
+        {
+          "text": "O exercício de qualquer atividade remunerada.",
+          "rationale": "Incorreto. É permitida a acumulação nas hipóteses do art. 37, XVI, para profissionais de saúde, por exemplo.",
+          "isCorrect": false
+        },
+        {
+          "text": "A filiação a partidos políticos e a sindicalização.",
+          "rationale": "Correto. É o que dispõem os incisos IV e V do art. 142, §3º, aplicáveis aos militares estaduais pelo art. 42, §1º.",
+          "isCorrect": true
+        },
+        {
+          "text": "O uso de uniforme fora do horário de serviço.",
+          "rationale": "Incorreto. O uso do uniforme é regulamentado, mas não há proibição constitucional.",
+          "isCorrect": false
+        },
+        {
+          "text": "A posse de arma de fogo fora do quartel.",
+          "rationale": "Incorreto. Militares têm direito ao porte de arma fora de serviço.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 142, §3º, incisos IV e V, CF/88 c/c art. 42, §1º.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A competência para exercer as atividades de polícia judiciária da União é, com exclusividade, da:",
+      "answerOptions": [
+        {
+          "text": "Polícia Rodoviária Federal.",
+          "rationale": "Incorreto. A PRF exerce policiamento ostensivo rodoviário.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polícia Federal.",
+          "rationale": "Correto. É o que dispõe o art. 144, §1º, inciso IV da CF/88.",
+          "isCorrect": true
+        },
+        {
+          "text": "Polícia Civil.",
+          "rationale": "Incorreto. A PC exerce polícia judiciária estadual, não da União.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polícia Militar.",
+          "rationale": "Incorreto. A PM exerce polícia ostensiva, não judiciária.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 144, §1º, inciso IV, CF/88.",
+      "subject": "tjap"
+    },
+    {
+      "question": "As funções de polícia judiciária e a apuração de infrações penais, ressalvada a competência da União, incumbem às polícias:",
+      "answerOptions": [
+        {
+          "text": "Militares.",
+          "rationale": "Incorreto. As PMs exercem polícia ostensiva, conforme art. 144, §5º.",
+          "isCorrect": false
+        },
+        {
+          "text": "Civis.",
+          "rationale": "Correto. É o que dispõe o art. 144, §4º da CF/88.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rodoviárias Federais.",
+          "rationale": "Incorreto. A PRF exerce policiamento ostensivo rodoviário.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferroviárias Federais.",
+          "rationale": "Incorreto. É um órgão extinto ou com atribuições específicas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 144, §4º, CF/88.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O Poder de Polícia, em seu conceito amplo, é a faculdade da administração pública de:",
+      "answerOptions": [
+        {
+          "text": "Punir criminalmente os infratores da lei penal.",
+          "rationale": "Incorreto. Essa é a função do poder judiciário, não do poder de polícia.",
+          "isCorrect": false
+        },
+        {
+          "text": "Limitar, dentro da lei, as liberdades individuais em favor do interesse da coletividade.",
+          "rationale": "Correto. É o conceito clássico de poder de polícia.",
+          "isCorrect": true
+        },
+        {
+          "text": "Executar as decisões judiciais com uso da força.",
+          "rationale": "Incorreto. Essa é a função de cumprimento de mandados.",
+          "isCorrect": false
+        },
+        {
+          "text": "Decretar a intervenção federal nos Estados.",
+          "rationale": "Incorreto. É atribuição do Presidente da República, não se confunde com poder de polícia.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Manual de Policiamento Ostensivo Geral - PMDF.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O Código Tributário Nacional (Lei nº 5.172/1966) define o poder de polícia como atividade da administração pública que limita ou disciplina direito em razão de interesse público concernente à:",
+      "answerOptions": [
+        {
+          "text": "Segurança, higiene, ordem, costumes e tranquilidade pública, entre outros.",
+          "rationale": "Correto. É o que dispõe o art. 78 do CTN.",
+          "isCorrect": true
+        },
+        {
+          "text": "Exclusivamente à arrecadação de tributos.",
+          "rationale": "Incorreto. O poder de polícia tem finalidade muito mais ampla que a arrecadação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Defesa do território nacional contra inimigos externos.",
+          "rationale": "Incorreto. É atribuição das Forças Armadas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aplicação de penas privativas de liberdade.",
+          "rationale": "Incorreto. É atribuição do poder judiciário.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 78, Lei nº 5.172/1966 (CTN).",
+      "subject": "tjap"
+    },
+    {
+      "question": "O Termo Circunstanciado de Ocorrência (TCO), conforme tese fixada pelo STF, não possui natureza investigativa e pode ser lavrado por:",
+      "answerOptions": [
+        {
+          "text": "Apenas por delegados de polícia.",
+          "rationale": "Incorreto. A tese fixada pelo STF ampliou a possibilidade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Integrantes da polícia judiciária ou da polícia administrativa.",
+          "rationale": "Correto. É a tese fixada no julgamento das ADIs 6245 e 6264.",
+          "isCorrect": true
+        },
+        {
+          "text": "Exclusivamente pelo Ministério Público.",
+          "rationale": "Incorreto. O MP não tem atribuição para lavrar TCO.",
+          "isCorrect": false
+        },
+        {
+          "text": "Qualquer cidadão que presenciar um crime.",
+          "rationale": "Incorreto. A lavratura do TCO é ato oficial, não pode ser feito por qualquer cidadão.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ADI 6245/DF e ADI 6264/DF, julgadas em 17/02/2023.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Nos termos do art. 301 do Código de Processo Penal, a prisão em flagrante delito:",
+      "answerOptions": [
+        {
+          "text": "É uma faculdade exclusiva da autoridade policial.",
+          "rationale": "Incorreto. É um dever, e qualquer do povo também pode fazê-lo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem for encontrado em flagrante.",
+          "rationale": "Correto. É a redação do art. 301 do CPP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Só pode ser realizada por delegados de polícia.",
+          "rationale": "Incorreto. Agentes policiais e qualquer pessoa também podem realizar a prisão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depende de autorização judicial prévia.",
+          "rationale": "Incorreto. A prisão em flagrante é justamente a exceção que dispensa autorização judicial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 301, Código de Processo Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A hipótese de flagrante delito em que o agente é encontrado, logo depois, com instrumentos, armas, objetos ou papéis que façam presumir ser ele autor da infração é conhecida como:",
+      "answerOptions": [
+        {
+          "text": "Flagrante próprio.",
+          "rationale": "Incorreto. Flagrante próprio é o das alíneas I e II do art. 302.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flagrante esperado.",
+          "rationale": "Incorreto. Flagrante esperado é aquele preparado pela polícia, que não é crime.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flagrante presumido.",
+          "rationale": "Correto. É a modalidade prevista no inciso IV do art. 302 do CPP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Flagrante provocado.",
+          "rationale": "Incorreto. Flagrante provocado é aquele em que a polícia induz a prática do crime.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 302, inciso IV, CPP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Nas infrações permanentes, como o crime de sequestro ou cárcere privado, entende-se o agente em flagrante delito:",
+      "answerOptions": [
+        {
+          "text": "Até 24 horas após o início da conduta.",
+          "rationale": "Incorreto. Não há prazo fixo em lei.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enquanto não cessar a permanência.",
+          "rationale": "Correto. É o que dispõe o art. 303 do CPP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Somente no momento em que for surpreendido pela polícia.",
+          "rationale": "Incorreto. O flagrante se protrai no tempo enquanto dura a permanência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Após a denúncia da vítima.",
+          "rationale": "Incorreto. A denúncia da vítima não define o flagrante.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 303, Código de Processo Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Súmula Vinculante nº 11 do STF estabelece que o uso de algemas só é lícito:",
+      "answerOptions": [
+        {
+          "text": "Em qualquer caso, como medida de precaução padrão.",
+          "rationale": "Incorreto. O uso de algemas deve ser excepcional e justificado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Em casos de resistência, fundado receio de fuga ou perigo à integridade física, justificando a excepcionalidade por escrito.",
+          "rationale": "Correto. É a literalidade da Súmula Vinculante 11.",
+          "isCorrect": true
+        },
+        {
+          "text": "Para todos os presos em flagrante delito.",
+          "rationale": "Incorreto. O uso é excepcional, não automático.",
+          "isCorrect": false
+        },
+        {
+          "text": "Exclusivamente durante o transporte do preso.",
+          "rationale": "Incorreto. Pode ser utilizado em outras situações, desde que justificado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Súmula Vinculante 11 do STF.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A violação de domicílio (art. 150 do CP) não constitui crime quando a entrada ou permanência em casa alheia ocorre:",
+      "answerOptions": [
+        {
+          "text": "A qualquer hora do dia ou da noite, com consentimento do morador.",
+          "rationale": "Incorreto. O consentimento é válido, mas a qualquer hora e com consentimento ainda pode configurar crime se houver clandestinidade ou astúcia.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durante o dia, para efetuar prisão ou outra diligência com observância das formalidades legais.",
+          "rationale": "Correto. É a hipótese do art. 150, §3º, inciso I do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Para realizar uma revista exploratória (fishing expedition) em área de risco.",
+          "rationale": "Incorreto. Revista exploratória é ilegal e não é excludente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Para cumprir uma determinação informal do chefe da polícia.",
+          "rationale": "Incorreto. A ordem deve ser legal e formal, não informal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 150, §3º, inciso I, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual é o tipo penal específico para o crime de feminicídio após a Lei nº 14.994/2024?",
+      "answerOptions": [
+        {
+          "text": "Qualificadora do homicídio no art. 121, §2º, VI do CP.",
+          "rationale": "Incorreto. A Lei 14.994/24 tornou o feminicídio um tipo penal autônomo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Art. 121-A do Código Penal, com pena de 20 a 40 anos de reclusão.",
+          "rationale": "Correto. É a nova redação dada pela Lei 14.994/24.",
+          "isCorrect": true
+        },
+        {
+          "text": "Art. 129, §13 do Código Penal.",
+          "rationale": "Incorreto. Esse artigo trata da lesão corporal contra a mulher.",
+          "isCorrect": false
+        },
+        {
+          "text": "Art. 1º da Lei Maria da Penha.",
+          "rationale": "Incorreto. A Lei Maria da Penha trata da violência doméstica em geral.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lei nº 14.994/2024, art. 121-A do Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com a Lei Maria da Penha (Lei nº 11.340/06), a violência que configura retenção, subtração ou destruição de objetos, documentos e bens da mulher é denominada:",
+      "answerOptions": [
+        {
+          "text": "Violência física.",
+          "rationale": "Incorreto. Violência física é aquela que ofende a integridade corporal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Violência psicológica.",
+          "rationale": "Incorreto. Violência psicológica causa dano emocional e diminuição da autoestima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Violência patrimonial.",
+          "rationale": "Correto. É a definição do art. 7º, inciso IV da Lei 11.340/06.",
+          "isCorrect": true
+        },
+        {
+          "text": "Violência moral.",
+          "rationale": "Incorreto. Violência moral é calúnia, difamação e injúria.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 7º, inciso IV, Lei nº 11.340/06.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Lei nº 10.826/2003 (Estatuto do Desarmamento) proíbe o porte de arma de fogo em todo o território nacional, sendo uma das exceções:",
+      "answerOptions": [
+        {
+          "text": "Os integrantes das Forças Armadas.",
+          "rationale": "Correto. É o que dispõe o art. 6º, inciso I da Lei 10.826/03.",
+          "isCorrect": true
+        },
+        {
+          "text": "Os cidadãos com antecedentes criminais.",
+          "rationale": "Incorreto. Antecedentes criminais impedem a autorização de porte.",
+          "isCorrect": false
+        },
+        {
+          "text": "Os empresários que comprovem risco.",
+          "rationale": "Incorreto. O porte para empresários é excepcional e depende de autorização, não sendo uma exceção automática.",
+          "isCorrect": false
+        },
+        {
+          "text": "Todos os maiores de 25 anos.",
+          "rationale": "Incorreto. A idade mínima é um requisito, mas não autoriza automaticamente o porte.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 6º, inciso I, Lei nº 10.826/2003.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual é a natureza jurídica do crime de posse irregular de arma de fogo de uso permitido (art. 12 do Estatuto do Desarmamento)?",
+      "answerOptions": [
+        {
+          "text": "Crime de porte.",
+          "rationale": "Incorreto. O porte (art. 14) é crime distinto, que envolve trazer consigo a arma fora de casa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime de posse.",
+          "rationale": "Correto. O art. 12 tipifica a posse irregular, ou seja, manter a arma em casa ou local de trabalho sem autorização.",
+          "isCorrect": true
+        },
+        {
+          "text": "Contravenção penal.",
+          "rationale": "Incorreto. É crime, com pena de detenção de 1 a 3 anos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime hediondo.",
+          "rationale": "Incorreto. O porte e posse ilegais não são considerados crimes hediondos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 12, Lei nº 10.826/2003.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A conduta de 'trazer consigo arma fora de casa ou de dependência desta, sem licença da autoridade' é tipificada como:",
+      "answerOptions": [
+        {
+          "text": "Crime de porte ilegal de arma de fogo (art. 14, Estatuto do Desarmamento).",
+          "rationale": "Incorreto. O art. 14 trata do porte de arma de fogo. A descrição se refere a arma em geral, incluindo armas brancas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Contravenção penal de porte de arma branca ou instrumento com potencial lesivo (art. 19, Lei das Contravenções Penais).",
+          "rationale": "Correto. É o art. 19 do Decreto-Lei 3.688/41, que tipifica o porte de qualquer arma sem licença.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crime de ameaça.",
+          "rationale": "Incorreto. Ameaça exige promessa de mal injusto e grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime de resistência.",
+          "rationale": "Incorreto. Resistência exige oposição violenta a ato legal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 19, Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais).",
+      "subject": "tjap"
+    },
+    {
+      "question": "O crime de desacato (art. 331 do Código Penal) é cometido contra:",
+      "answerOptions": [
+        {
+          "text": "Qualquer pessoa em via pública.",
+          "rationale": "Incorreto. A vítima deve ser funcionário público.",
+          "isCorrect": false
+        },
+        {
+          "text": "Funcionário público no exercício da função ou em razão dela.",
+          "rationale": "Correto. É a definição do tipo penal do art. 331 do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas autoridades policiais.",
+          "rationale": "Incorreto. Qualquer funcionário público pode ser vítima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um superior hierárquico militar.",
+          "rationale": "Incorreto. Esse é o crime de desacato a superior do CPM.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 331, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Para configurar o crime de resistência (art. 329 do CP), é necessário que a oposição ao ato legal seja realizada mediante:",
+      "answerOptions": [
+        {
+          "text": "Recusa a assinar um documento.",
+          "rationale": "Incorreto. A recusa a assinar pode configurar desobediência, não resistência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Violência ou ameaça a funcionário competente.",
+          "rationale": "Correto. É a elementar do tipo penal do art. 329 do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fuga do local.",
+          "rationale": "Incorreto. Fuga não configura resistência, que exige ação violenta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ofensas verbais (xingamentos).",
+          "rationale": "Incorreto. Ofensas verbais podem configurar desacato, não resistência.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 329, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O crime de falsa identidade (art. 307 do CP) se configura quando alguém atribui a si ou a terceiro falsa identidade com a finalidade de:",
+      "answerOptions": [
+        {
+          "text": "Apenas se divertir ou pregar uma peça.",
+          "rationale": "Incorreto. O crime exige uma finalidade específica: obter vantagem ou causar dano.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem.",
+          "rationale": "Correto. É o elemento subjetivo do tipo do art. 307 do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Proteger sua intimidade.",
+          "rationale": "Incorreto. A proteção da intimidade não é finalidade prevista no tipo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evitar uma abordagem policial sem outra finalidade.",
+          "rationale": "Incorreto. A mera recusa ou fornecimento de dados falsos sem o elemento vantagem/dano pode configurar a contravenção do art. 68 da LCP.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 307, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre a ação penal nos crimes contra a honra (calúnia, difamação e injúria), qual é a regra geral?",
+      "answerOptions": [
+        {
+          "text": "Ação penal pública incondicionada.",
+          "rationale": "Incorreto. A regra é a ação penal privada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação penal privada (mediante queixa).",
+          "rationale": "Correto. É o que dispõe o art. 145 do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ação penal pública condicionada à representação.",
+          "rationale": "Incorreto. É exceção, para os casos do art. 141, incisos I e II.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação penal de iniciativa do juiz.",
+          "rationale": "Incorreto. O juiz não pode dar início à ação penal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 145, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A injúria racial foi deslocada do Código Penal para qual lei?",
+      "answerOptions": [
+        {
+          "text": "Lei de Contravenções Penais.",
+          "rationale": "Incorreto. Foi deslocada para a Lei do Racismo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lei nº 7.716/1989 (Lei do Racismo).",
+          "rationale": "Correto. A Lei nº 14.532/2023 alterou a tipificação, inserindo o crime na Lei 7.716/89.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estatuto da Igualdade Racial.",
+          "rationale": "Incorreto. O Estatuto não tipifica crimes.",
+          "isCorrect": false
+        },
+        {
+          "text": "Código Penal Militar.",
+          "rationale": "Incorreto. Não há previsão específica no CPM.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lei nº 14.532, de 11 de janeiro de 2023.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o material, a prisão em flagrante de militar deve ser comunicada à autoridade judiciária e o preso deve ser recolhido, preferencialmente:",
+      "answerOptions": [
+        {
+          "text": "À cadeia pública mais próxima.",
+          "rationale": "Incorreto. O militar tem direito a ficar preso em quartel.",
+          "isCorrect": false
+        },
+        {
+          "text": "A quartel da instituição a que pertencer.",
+          "rationale": "Correto. É o que dispõe o art. 300, parágrafo único, do CPPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "À Polícia Civil para lavratura do auto.",
+          "rationale": "Incorreto. O auto é lavrado pela autoridade militar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ao Batalhão de Polícia do Exército.",
+          "rationale": "Incorreto. O recolhimento é no quartel da própria instituição.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 300, parágrafo único, CPPM.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O ciclo completo de polícia, mencionado no material, propõe que um mesmo órgão policial seja responsável, cumulativamente, pelas tarefas:",
+      "answerOptions": [
+        {
+          "text": "Ostensivas, preventivas, investigativas e de persecução criminal.",
+          "rationale": "Correto. É a definição de ciclo completo de polícia apresentada no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "De inteligência, de relações públicas e de logística.",
+          "rationale": "Incorreto. Essas são atividades-meio, não o ciclo completo.",
+          "isCorrect": false
+        },
+        {
+          "text": "De guarda, de trânsito e de meio ambiente.",
+          "rationale": "Incorreto. São atribuições específicas, não o ciclo completo.",
+          "isCorrect": false
+        },
+        {
+          "text": "De fiscalização tributária e de saúde pública.",
+          "rationale": "Incorreto. São atribuições de outros órgãos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 2 - Ciclo Completo de Polícia.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Para a lavratura do TCO/PMDF, qual é uma condição essencial relacionada ao autor do fato?",
+      "answerOptions": [
+        {
+          "text": "Ter antecedentes criminais.",
+          "rationale": "Incorreto. Antecedentes não impedem a lavratura do TCO, mas podem levar à prisão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Comprometer-se a comparecer em juízo, assinando o termo de compromisso.",
+          "rationale": "Correto. É a condição para que o autor não seja preso em flagrante.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ter mais de 21 anos.",
+          "rationale": "Incorreto. Não há idade mínima para lavratura do TCO.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ser primário e de bons antecedentes.",
+          "rationale": "Incorreto. Não é requisito legal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 4 - TCO PMDF.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o Protocolo de Operações Integradas (POI nº 28/2022), qual é o papel da PMDF no atendimento à violência doméstica?",
+      "answerOptions": [
+        {
+          "text": "Aguardar a chegada da Polícia Civil para iniciar o atendimento.",
+          "rationale": "Incorreto. A PMDF é a primeira a chegar e deve iniciar o atendimento imediato.",
+          "isCorrect": false
+        },
+        {
+          "text": "Realizar o atendimento imediato, coletar relatos e, se necessário, afastar o agressor e transportar a vítima.",
+          "rationale": "Correto. É o papel da PMDF conforme o POI nº 28/2022.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas registrar a ocorrência e orientar a vítima a procurar a delegacia.",
+          "rationale": "Incorreto. O papel da PMDF vai além do registro, incluindo a proteção imediata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Encaminhar o caso diretamente ao Ministério Público.",
+          "rationale": "Incorreto. O encaminhamento é feito à delegacia.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Protocolo de Operações Integradas – POI Nº 28/2022.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O crime de moeda falsa (art. 289 do CP) se caracteriza quando a falsificação é:",
+      "answerOptions": [
+        {
+          "text": "Grosseira e facilmente identificável.",
+          "rationale": "Incorreto. Falsificação grosseira não configura moeda falsa, mas estelionato (Súmula 73 STJ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Convincente, capaz de iludir os destinatários (imitatio veri).",
+          "rationale": "Correto. É o requisito para a configuração do crime de moeda falsa.",
+          "isCorrect": true
+        },
+        {
+          "text": "De notas de outros países.",
+          "rationale": "Incorreto. O crime abrange moeda de curso legal no país ou no estrangeiro.",
+          "isCorrect": false
+        },
+        {
+          "text": "De moedas comemorativas sem valor de curso forçado.",
+          "rationale": "Incorreto. Moedas sem valor de curso forçado não são objeto do crime.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Súmula 73, STJ.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Súmula 73 do STJ estabelece que a utilização de papel-moeda grosseiramente falsificado configura, em tese, o crime de:",
+      "answerOptions": [
+        {
+          "text": "Moeda falsa.",
+          "rationale": "Incorreto. A falsificação grosseira não configura o crime do art. 289.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estelionato, de competência da Justiça Estadual.",
+          "rationale": "Correto. É o teor da Súmula 73 do STJ.",
+          "isCorrect": true
+        },
+        {
+          "text": "Falsidade ideológica.",
+          "rationale": "Incorreto. Não se confunde com falsidade ideológica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime contra a fé pública.",
+          "rationale": "Incorreto. O estelionato é crime contra o patrimônio.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Súmula 73, STJ.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Cadeia de Custódia, conforme o CPP, inicia-se com:",
+      "answerOptions": [
+        {
+          "text": "A lavratura do auto de prisão em flagrante.",
+          "rationale": "Incorreto. A cadeia de custódia começa antes, com a preservação do local.",
+          "isCorrect": false
+        },
+        {
+          "text": "A preservação do local de crime ou com procedimentos policiais ou periciais onde se detecta um vestígio.",
+          "rationale": "Correto. É o que dispõe o art. 158-A, §1º do CPP.",
+          "isCorrect": true
+        },
+        {
+          "text": "O recebimento da denúncia pelo juiz.",
+          "rationale": "Incorreto. A cadeia de custódia é anterior ao processo.",
+          "isCorrect": false
+        },
+        {
+          "text": "A sentença condenatória.",
+          "rationale": "Incorreto. A cadeia de custódia se encerra antes da sentença.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 158-A, §1º, CPP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O ato de ingressar em domicílio alheio à revelia do morador para prestar socorro, de acordo com o art. 150, §3º, II do CP, é considerado:",
+      "answerOptions": [
+        {
+          "text": "Crime de abuso de autoridade.",
+          "rationale": "Incorreto. É excludente de ilicitude.",
+          "isCorrect": false
+        },
+        {
+          "text": "Excludente de ilicitude (não constitui crime).",
+          "rationale": "Correto. É a hipótese do art. 150, §3º, inciso II do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crime de violação de domicílio qualificado.",
+          "rationale": "Incorreto. Não há crime quando o ingresso é para prestar socorro.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uma discricionariedade do policial.",
+          "rationale": "Incorreto. É um direito, não uma discricionariedade.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 150, §3º, inciso II, CP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o art. 301 do Código de Processo Penal Militar (CPPM), a prisão em flagrante delito de um militar, após os procedimentos legais, resultará em:",
+      "answerOptions": [
+        {
+          "text": "Soltura imediata mediante fiança.",
+          "rationale": "Incorreto. A fiança pode ser concedida, mas não é automática.",
+          "isCorrect": false
+        },
+        {
+          "text": "Recolhimento a quartel da instituição a que pertencer.",
+          "rationale": "Correto. É o que dispõe o art. 300, parágrafo único, do CPPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Encaminhamento à Justiça Comum.",
+          "rationale": "Incorreto. O militar é julgado pela Justiça Militar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Transferência para um presídio federal.",
+          "rationale": "Incorreto. O recolhimento é em quartel.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 300, parágrafo único, CPPM.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A falsificação de documento público, no todo ou em parte, é crime previsto no art. 297 do Código Penal, com pena de:",
+      "answerOptions": [
+        {
+          "text": "Detenção de 1 a 2 anos.",
+          "rationale": "Incorreto. A pena é de reclusão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reclusão, de 2 a 6 anos, e multa.",
+          "rationale": "Correto. É a pena cominada no art. 297 do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prisão simples.",
+          "rationale": "Incorreto. A pena é de reclusão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reclusão de 10 a 20 anos.",
+          "rationale": "Incorreto. É a pena para crimes mais graves.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 297, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual é o conceito de 'estrito cumprimento do dever legal' como excludente de ilicitude?",
+      "answerOptions": [
+        {
+          "text": "Ação praticada em estado de necessidade.",
+          "rationale": "Incorreto. Estado de necessidade é outra excludente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação praticada em cumprimento de um dever imposto por lei, mesmo que cause lesão a bem jurídico de terceiro.",
+          "rationale": "Correto. É o conceito apresentado no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ação praticada em legítima defesa.",
+          "rationale": "Incorreto. Legítima defesa é outra excludente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação praticada por erro de proibição.",
+          "rationale": "Incorreto. Erro de proibição é causa de exclusão da culpabilidade.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 7.2 - Estrito Cumprimento do Dever Legal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A distinção entre 'atitude suspeita' e 'fundada suspeita' é crucial para a legalidade da abordagem policial. Conforme o material, qual a diferença?",
+      "answerOptions": [
+        {
+          "text": "'Atitude suspeita' é um conceito do Direito Administrativo para a abordagem preventiva, enquanto 'fundada suspeita' é um conceito do Direito Processual Penal para a busca pessoal probatória.",
+          "rationale": "Correto. É a distinção apresentada pelo juiz Ronaldo João Roth no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ambas são sinônimas e autorizam a busca pessoal.",
+          "rationale": "Incorreto. A distinção é fundamental e foi objeto de debate jurisprudencial.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Fundada suspeita' é um termo mais antigo, substituído por 'atitude suspeita'.",
+          "rationale": "Incorreto. Ambos os conceitos coexistem.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Atitude suspeita' autoriza a prisão, enquanto 'fundada suspeita' autoriza a busca.",
+          "rationale": "Incorreto. Ambos podem levar à abordagem, mas o segundo exige elementos mais concretos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 5 - Abordagem Preventiva vs. Abordagem Probatória.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O art. 2º do Decreto nº 10.443/2020 atribui à PMDF, entre outras competências, o planejamento e desempenho de atividades de inteligência. Qual é a finalidade dessas atividades?",
+      "answerOptions": [
+        {
+          "text": "Substituir a Polícia Civil nas investigações complexas.",
+          "rationale": "Incorreto. A inteligência da PM visa subsidiar a polícia ostensiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Destinar-se ao exercício da polícia ostensiva e da preservação da ordem pública.",
+          "rationale": "Correto. É o que dispõe o art. 2º, inciso XI do Decreto nº 10.443/2020.",
+          "isCorrect": true
+        },
+        {
+          "text": "Realizar a segurança pessoal de altas autoridades.",
+          "rationale": "Incorreto. Essa é atribuição de outros órgãos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiscalizar o cumprimento das leis de trânsito.",
+          "rationale": "Incorreto. É atribuição do policiamento de trânsito.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 2º, inciso XI, Decreto nº 10.443/2020.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o art. 5º, inciso XI da Constituição Federal, a casa é asilo inviolável. Em relação ao cumprimento de um mandado de prisão, o entendimento apresentado no material é que:",
+      "answerOptions": [
+        {
+          "text": "A casa de qualquer pessoa pode ser invadida para cumprir o mandado.",
+          "rationale": "Incorreto. O entendimento é mais restritivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "O mandado de prisão pressupõe a autorização para ingresso apenas na residência do próprio agente que tem contra si o mandado.",
+          "rationale": "Correto. É o entendimento do material, baseado na ponderação de valores.",
+          "isCorrect": true
+        },
+        {
+          "text": "É vedado o ingresso em qualquer residência para cumprir mandado de prisão.",
+          "rationale": "Incorreto. É permitido na residência do próprio procurado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pode-se ingressar em qualquer residência, desde que seja durante o dia.",
+          "rationale": "Incorreto. A regra da inviolabilidade se aplica.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 3 - Mandado de Prisão e Ingresso em Domicílio.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre a recusa de identificação (art. 68, LCP), analise as assertivas e assinale a correta:",
+      "answerOptions": [
+        {
+          "text": "O cidadão é obrigado a portar documento de identidade a todo momento.",
+          "rationale": "Incorreto. Não há obrigação de portar documento, exceto em casos específicos (ex: CNH).",
+          "isCorrect": false
+        },
+        {
+          "text": "A recusa em fornecer dados pessoais ou o fornecimento de dados falsos, quando justificadamente solicitados, configura a contravenção penal.",
+          "rationale": "Correto. É o que dispõe o art. 68 da LCP, caput e parágrafo único.",
+          "isCorrect": true
+        },
+        {
+          "text": "A recusa de identificação é crime hediondo.",
+          "rationale": "Incorreto. É contravenção penal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Em caso de recusa, o policial deve imediatamente lavrar o TCO no local.",
+          "rationale": "Incorreto. Só se lavra TCO se for possível obter os dados. Caso contrário, conduz-se à delegacia.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 68, Lei das Contravenções Penais.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual a diferença entre os crimes de desobediência (art. 330, CP) e resistência (art. 329, CP)?",
+      "answerOptions": [
+        {
+          "text": "A desobediência envolve violência ou ameaça, enquanto a resistência é uma oposição passiva.",
+          "rationale": "Incorreto. É o oposto: resistência envolve violência ou ameaça.",
+          "isCorrect": false
+        },
+        {
+          "text": "A resistência exige violência ou ameaça para se opor ao ato legal, enquanto a desobediência é o descumprimento de uma ordem legal sem violência.",
+          "rationale": "Correto. É a distinção clássica entre os dois tipos penais.",
+          "isCorrect": true
+        },
+        {
+          "text": "A desobediência é um crime militar, enquanto a resistência é um crime comum.",
+          "rationale": "Incorreto. Ambos existem no CP e no CPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "A resistência é uma contravenção penal, e a desobediência é um crime.",
+          "rationale": "Incorreto. Ambos são crimes.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Arts. 329 e 330, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O crime de desacato a superior (art. 298, CPM) é tipificado como:",
+      "answerOptions": [
+        {
+          "text": "Desacatar militar no exercício de função de natureza militar.",
+          "rationale": "Incorreto. Esse é o desacato a militar (art. 299, CPM).",
+          "isCorrect": false
+        },
+        {
+          "text": "Desacatar superior, ofendendo-lhe a dignidade ou o decoro, ou procurando deprimir-lhe a autoridade.",
+          "rationale": "Correto. É a redação do art. 298 do CPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Desacatar funcionário civil no exercício da função.",
+          "rationale": "Incorreto. É o desacato a assemelhado ou funcionário (art. 300, CPM).",
+          "isCorrect": false
+        },
+        {
+          "text": "Desobedecer a ordem legal de autoridade militar.",
+          "rationale": "Incorreto. É o crime de desobediência (art. 301, CPM).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 298, Código Penal Militar.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com a Lei de Abuso de Autoridade (Lei nº 13.869/19), o crime de 'invadir ou adentrar, clandestina ou astuciosamente, imóvel alheio... sem determinação judicial ou fora das condições estabelecidas em lei' tem uma exceção de não haver crime. Qual?",
+      "answerOptions": [
+        {
+          "text": "Se o ingresso for para fiscalizar o comércio local.",
+          "rationale": "Incorreto. Não é exceção legal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se o ingresso for para prestar socorro ou quando houver fundados indícios de flagrante delito ou desastre.",
+          "rationale": "Correto. É o que dispõe o art. 22, §2º da Lei 13.869/19.",
+          "isCorrect": true
+        },
+        {
+          "text": "Se o ingresso for durante o dia.",
+          "rationale": "Incorreto. A Lei de Abuso de Autoridade não faz essa distinção horária para a exceção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se o ingresso for autorizado por um superior hierárquico.",
+          "rationale": "Incorreto. Autorização hierárquica não substitui determinação judicial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 22, §2º, Lei nº 13.869/2019.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O STF, no Informativo 1126 (HC 169.788/SP), decidiu ser lícito o ingresso de policiais em domicílio, sem mandado, quando há fundadas razões sobre a existência de flagrante delito de tráfico de drogas na modalidade 'ter em depósito' e o suspeito:",
+      "answerOptions": [
+        {
+          "text": "Se recusa a abrir a porta.",
+          "rationale": "Incorreto. A recusa, por si só, não é suficiente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Corre para o interior de sua residência ao notar a aproximação da viatura.",
+          "rationale": "Correto. É a situação analisada no HC 169.788/SP.",
+          "isCorrect": true
+        },
+        {
+          "text": "É flagrado por câmeras de segurança.",
+          "rationale": "Incorreto. O flagrante por câmeras não autoriza ingresso imediato.",
+          "isCorrect": false
+        },
+        {
+          "text": "Possui antecedentes criminais.",
+          "rationale": "Incorreto. Antecedentes não são suficientes para justificar ingresso.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Informativo STF 1126, HC 169.788/SP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre a ação penal nos crimes de lesão corporal em contexto de violência doméstica (art. 129, §13, CP), qual é a regra após a Lei nº 14.994/24?",
+      "answerOptions": [
+        {
+          "text": "Ação penal privada.",
+          "rationale": "Incorreto. A Lei 14.994/24 tornou a ação pública incondicionada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação penal pública condicionada à representação.",
+          "rationale": "Incorreto. A condicionante foi afastada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ação penal pública incondicionada.",
+          "rationale": "Correto. É a regra do art. 129, §13 do CP, após a Lei 14.994/24.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ação penal de iniciativa do juiz.",
+          "rationale": "Incorreto. O juiz não tem iniciativa para a ação penal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 129, §13, Código Penal (redação dada pela Lei 14.994/24).",
+      "subject": "tjap"
+    },
+    {
+      "question": "O crime de perseguição (stalking - art. 147-A do CP) tem sua pena aumentada de metade se cometido, entre outras hipóteses:",
+      "answerOptions": [
+        {
+          "text": "Contra pessoa jurídica.",
+          "rationale": "Incorreto. A vítima é pessoa física.",
+          "isCorrect": false
+        },
+        {
+          "text": "Contra mulher por razões da condição de sexo feminino.",
+          "rationale": "Correto. É o que dispõe o art. 147-A, §1º, inciso II do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Em via pública.",
+          "rationale": "Incorreto. O local não é causa de aumento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Por policial militar.",
+          "rationale": "Incorreto. A condição do agente não é causa de aumento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 147-A, §1º, inciso II, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual a consequência para o agente que descumpre decisão judicial que defere medidas protetivas de urgência (art. 24-A, Lei Maria da Penha)?",
+      "answerOptions": [
+        {
+          "text": "Apenas uma advertência.",
+          "rationale": "Incorreto. É crime, com pena de detenção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pena de detenção, de 3 meses a 2 anos, com a possibilidade de prisão em flagrante.",
+          "rationale": "Correto. É a previsão do art. 24-A da Lei Maria da Penha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Multa e prestação de serviços à comunidade.",
+          "rationale": "Incorreto. A pena é privativa de liberdade, não restritiva de direitos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Internação em hospital de custódia.",
+          "rationale": "Incorreto. Não é medida prevista para este crime.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 24-A, Lei nº 11.340/2006.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre o crime de violência psicológica contra a mulher (art. 147-B, CP), é correto afirmar:",
+      "answerOptions": [
+        {
+          "text": "A ação penal é pública condicionada à representação da vítima.",
+          "rationale": "Incorreto. O art. 147-B não prevê condicionante.",
+          "isCorrect": false
+        },
+        {
+          "text": "A conduta não precisa ser reiterada para configurar o crime.",
+          "rationale": "Correto. Diferentemente do stalking, a violência psicológica não exige reiteração.",
+          "isCorrect": true
+        },
+        {
+          "text": "A pena máxima é de 5 anos.",
+          "rationale": "Incorreto. A pena máxima é de 2 anos.",
+          "isCorrect": false
+        },
+        {
+          "text": "O crime só se configura se houver lesão corporal.",
+          "rationale": "Incorreto. É crime autônomo, independente de lesão.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 147-B, Código Penal.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Lei nº 14.994/24 trouxe alterações significativas no combate à violência contra a mulher. No que se refere ao crime de ameaça (art. 147, CP), qual foi a mudança?",
+      "answerOptions": [
+        {
+          "text": "A pena foi reduzida.",
+          "rationale": "Incorreto. A pena foi aumentada (em dobro) em algumas hipóteses.",
+          "isCorrect": false
+        },
+        {
+          "text": "A ação penal passou a ser pública incondicionada e a pena aplicada em dobro quando cometida contra mulher por razões de gênero.",
+          "rationale": "Correto. É o que estabelece o art. 147, §1º e §2º, após a Lei 14.994/24.",
+          "isCorrect": true
+        },
+        {
+          "text": "O crime foi extinto.",
+          "rationale": "Incorreto. O crime permanece, com alterações.",
+          "isCorrect": false
+        },
+        {
+          "text": "A ameaça passou a ser considerada crime hediondo.",
+          "rationale": "Incorreto. Não foi incluída na lista de crimes hediondos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 147, §§1º e 2º, Código Penal (redação dada pela Lei 14.994/24).",
+      "subject": "tjap"
+    },
+    {
+      "question": "Em relação ao porte de arma de fogo por Colecionadores, Atiradores e Caçadores (CACs), o Decreto nº 11.615/2023:",
+      "answerOptions": [
+        {
+          "text": "Aumentou os limites de aquisição de armas e munições.",
+          "rationale": "Incorreto. O decreto reduziu os limites.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reduziu os limites e criou níveis de atirador, com maior controle estatal.",
+          "rationale": "Correto. É a principal mudança trazida pelo Decreto 11.615/2023.",
+          "isCorrect": true
+        },
+        {
+          "text": "Isentou os CACs de qualquer registro.",
+          "rationale": "Incorreto. O registro continua obrigatório.",
+          "isCorrect": false
+        },
+        {
+          "text": "Permitiu o porte de arma em qualquer lugar.",
+          "rationale": "Incorreto. O porte continua restrito.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Decreto nº 11.615/2023.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O crime de comércio ilegal de arma de fogo (art. 17, Estatuto do Desarmamento) equipara-se à atividade comercial qualquer forma de prestação de serviços, fabricação ou comércio irregular, inclusive:",
+      "answerOptions": [
+        {
+          "text": "O exercido em residência.",
+          "rationale": "Correto. É o que dispõe o art. 17, §1º da Lei 10.826/03.",
+          "isCorrect": true
+        },
+        {
+          "text": "A doação para instituições públicas.",
+          "rationale": "Incorreto. Doação para instituições públicas é permitida.",
+          "isCorrect": false
+        },
+        {
+          "text": "A venda para colecionadores.",
+          "rationale": "Incorreto. Venda para CACs autorizados é lícita.",
+          "isCorrect": false
+        },
+        {
+          "text": "O conserto em armarinhos credenciados.",
+          "rationale": "Incorreto. Conserto em local autorizado é atividade lícita.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 17, §1º, Lei nº 10.826/2003.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O §2º do art. 17 do Estatuto do Desarmamento (Pacote Anticrime) criminaliza a venda ou entrega de arma de fogo a agente policial disfarçado quando presentes elementos probatórios razoáveis de conduta criminal preexistente. Essa figura é conhecida como:",
+      "answerOptions": [
+        {
+          "text": "Flagrante preparado.",
+          "rationale": "Incorreto. Flagrante preparado é aquele em que a polícia induz a prática do crime, o que é vedado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flagrante esperado ou parasitário.",
+          "rationale": "Correto. É a figura do flagrante em que a polícia apenas aguarda a consumação de um crime já em andamento.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crime impossível.",
+          "rationale": "Incorreto. Crime impossível é quando o meio é ineficaz ou o objeto improprio.",
+          "isCorrect": false
+        },
+        {
+          "text": "Delito putativo por obra do agente provocador.",
+          "rationale": "Incorreto. É o flagrante preparado, que é crime impossível.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 17, §2º, Lei nº 10.826/2003.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O que define se um simulacro de arma de fogo configura a contravenção penal do art. 19 da Lei das Contravenções Penais (porte de arma), conforme o entendimento do TJDFT?",
+      "answerOptions": [
+        {
+          "text": "A cor do simulacro.",
+          "rationale": "Incorreto. A cor não é relevante para a tipificação.",
+          "isCorrect": false
+        },
+        {
+          "text": "O material de que é feito (plástico ou metal).",
+          "rationale": "Incorreto. O material não é determinante.",
+          "isCorrect": false
+        },
+        {
+          "text": "O porte do simulacro em via pública com nítido caráter intimidatório, sem justa causa.",
+          "rationale": "Correto. É o entendimento do TJDFT, que equipara o simulacro a arma para fins do art. 19 da LCP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas se o simulacro for capaz de disparar um projétil.",
+          "rationale": "Incorreto. Simulacro, por definição, não dispara projétil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Acórdãos do TJDFT sobre o tema.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o Código de Processo Penal Militar (CPPM), o inquérito policial militar pode ser dispensado em algumas situações, como:",
+      "answerOptions": [
+        {
+          "text": "Quando o fato e sua autoria já estiverem esclarecidos por documentos ou outras provas materiais.",
+          "rationale": "Correto. É o que dispõe o art. 28, alínea 'a' do CPPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Em todos os casos de crimes militares.",
+          "rationale": "Incorreto. A dispensa é excepcional.",
+          "isCorrect": false
+        },
+        {
+          "text": "Quando o acusado confessar o crime.",
+          "rationale": "Incorreto. A confissão não dispensa o inquérito.",
+          "isCorrect": false
+        },
+        {
+          "text": "Quando a vítima não quiser representar.",
+          "rationale": "Incorreto. A representação é irrelevante para crimes militares de ação pública.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 28, CPPM.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre o Termo Circunstanciado de Ocorrência (TCO) lavrado pela PMDF, é correto afirmar que:",
+      "answerOptions": [
+        {
+          "text": "Substitui o inquérito policial em todos os casos.",
+          "rationale": "Incorreto. Substitui apenas para infrações de menor potencial ofensivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Não é cabível nos casos de violência doméstica contra a mulher (Lei Maria da Penha).",
+          "rationale": "Correto. O art. 41 da Lei Maria da Penha veda a aplicação da Lei 9.099/95.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pode ser lavrado em crimes militares.",
+          "rationale": "Incorreto. Crimes militares não são infrações de menor potencial ofensivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "É um procedimento investigativo que exige a presença do delegado.",
+          "rationale": "Incorreto. Não tem natureza investigativa e pode ser lavrado por policiais militares.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 41, Lei nº 11.340/2006.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Em relação à denúncia anônima, o Superior Tribunal de Justiça (STJ) entende que:",
+      "answerOptions": [
+        {
+          "text": "Por si só, autoriza a busca pessoal e o ingresso em domicílio.",
+          "rationale": "Incorreto. A jurisprudência exige outros elementos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Não satisfaz a exigência legal para busca pessoal, mas pode ser um elemento a ser considerado em conjunto com outros fatores concretos para justificar uma medida.",
+          "rationale": "Correto. É o entendimento consolidado, especialmente após o RHC 158.580.",
+          "isCorrect": true
+        },
+        {
+          "text": "É sempre considerada válida para qualquer ação policial.",
+          "rationale": "Incorreto. Denúncia anônima isolada não é suficiente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deve ser ignorada pela polícia por falta de fundamentação.",
+          "rationale": "Incorreto. Pode ser ponto de partida para investigação preliminar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "RHC Nº 158580 - BA – 6ª TURMA STJ.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual é o crime tipificado no art. 22 da Lei de Abuso de Autoridade (Lei nº 13.869/19) que guarda relação direta com a atividade policial?",
+      "answerOptions": [
+        {
+          "text": "Deixar de comunicar a prisão ao juiz.",
+          "rationale": "Incorreto. É o art. 13 da Lei de Abuso de Autoridade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Invadir ou adentrar imóvel alheio sem determinação judicial ou fora das condições legais.",
+          "rationale": "Correto. É o tipo penal do art. 22, que trata da invasão de domicílio.",
+          "isCorrect": true
+        },
+        {
+          "text": "Realizar busca pessoal sem mandado.",
+          "rationale": "Incorreto. A busca pessoal independe de mandado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Utilizar algemas sem necessidade.",
+          "rationale": "Incorreto. É o art. 9º da Lei de Abuso de Autoridade.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 22, Lei nº 13.869/2019.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O Código Penal Militar, no art. 45, trata do excesso nas excludentes de ilicitude (estado de necessidade, legítima defesa, etc.). O que ocorre se o agente excede culposamente os limites da necessidade?",
+      "answerOptions": [
+        {
+          "text": "É isento de pena.",
+          "rationale": "Incorreto. A isenção é para o excesso escusável.",
+          "isCorrect": false
+        },
+        {
+          "text": "Responde pelo fato, se este é punível a título de culpa.",
+          "rationale": "Correto. É a regra do caput do art. 45 do CPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tem a pena aumentada em 1/3.",
+          "rationale": "Incorreto. Não há previsão de aumento de pena.",
+          "isCorrect": false
+        },
+        {
+          "text": "É punido por crime de abuso de autoridade.",
+          "rationale": "Incorreto. O excesso é apenado pelo próprio crime, se punível a título de culpa.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 45, Código Penal Militar.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A 'fishing expedition' ou busca exploratória, mencionada no material, refere-se à:",
+      "answerOptions": [
+        {
+          "text": "Busca domiciliar legalmente autorizada por mandado judicial.",
+          "rationale": "Incorreto. Busca com mandado é legal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Abordagem policial baseada em fundada suspeita.",
+          "rationale": "Incorreto. Fundada suspeita é requisito legal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Busca pessoal ou veicular realizada sem justa causa concreta, com base em mera suspeição genérica, para encontrar provas.",
+          "rationale": "Correto. É a definição de fishing expedition, considerada ilegal.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prisão em flagrante delito.",
+          "rationale": "Incorreto. Não se relaciona com prisão.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 5 - Fishing Expedition.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o art. 26 da Lei nº 10.826/2003, são vedadas a fabricação, venda e comercialização de brinquedos, réplicas e simulacros de armas de fogo que com estas se possam confundir. Qual é a exceção?",
+      "answerOptions": [
+        {
+          "text": "Para uso em filmes e peças de teatro.",
+          "rationale": "Incorreto. A lei não prevê essa exceção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Réplicas e simulacros destinados à instrução, adestramento ou coleção de usuário autorizado pelo Comando do Exército.",
+          "rationale": "Correto. É a exceção do parágrafo único do art. 26.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brinquedos que não disparem projéteis.",
+          "rationale": "Incorreto. A vedação não se baseia na capacidade de disparo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Réplicas de armas antigas.",
+          "rationale": "Incorreto. A exceção é para usuário autorizado, não para tipo de arma.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 26, parágrafo único, Lei nº 10.826/2003.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O que é o 'excesso escusável' previsto no parágrafo único do art. 45 do CPM?",
+      "answerOptions": [
+        {
+          "text": "É o excesso que resulta de erro de proibição.",
+          "rationale": "Incorreto. Erro de proibição é outra causa de exclusão da culpabilidade.",
+          "isCorrect": false
+        },
+        {
+          "text": "É o excesso que resulta de escusável surpresa ou perturbação de ânimo em face da situação, sendo impunível.",
+          "rationale": "Correto. É a definição do parágrafo único do art. 45 do CPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "É o excesso doloso, que tem a pena atenuada.",
+          "rationale": "Incorreto. Excesso doloso é tratado no art. 46.",
+          "isCorrect": false
+        },
+        {
+          "text": "É o excesso culposo, punível a título de culpa.",
+          "rationale": "Incorreto. Essa é a regra do caput do art. 45.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 45, parágrafo único, Código Penal Militar.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre a violação de domicílio, o art. 150, §3º, I do Código Penal estabelece que não constitui crime a entrada ou permanência em casa alheia:",
+      "answerOptions": [
+        {
+          "text": "A qualquer hora, com autorização do morador.",
+          "rationale": "Incorreto. A autorização do morador exclui o crime, mas não é a hipótese do inciso I.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durante o dia, com observância das formalidades legais, para efetuar prisão ou outra diligência.",
+          "rationale": "Correto. É a hipótese do art. 150, §3º, inciso I do CP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Para cumprir uma ordem informal de um superior.",
+          "rationale": "Incorreto. A ordem deve ser legal e com observância das formalidades.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durante a noite, para fiscalizar perturbação do sossego.",
+          "rationale": "Incorreto. Durante a noite, a exceção é para flagrante delito, não para fiscalização de sossego.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 150, §3º, inciso I, CP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O 'serviço velado' realizado pela PMDF, conforme Decreto nº 10.443/2020, tem como objetivo:",
+      "answerOptions": [
+        {
+          "text": "Substituir o trabalho da inteligência da Polícia Civil.",
+          "rationale": "Incorreto. É atividade de inteligência da própria PM.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garantir a eficiência das ações de polícia ostensiva e de preservação da ordem pública.",
+          "rationale": "Correto. É o que dispõe o art. 2º, inciso XIX do Decreto nº 10.443/2020.",
+          "isCorrect": true
+        },
+        {
+          "text": "Realizar investigações sigilosas de crimes comuns.",
+          "rationale": "Incorreto. Investigação de crimes comuns é atribuição da PC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiscalizar o trânsito de forma discreta.",
+          "rationale": "Incorreto. O serviço velado é para ações de polícia ostensiva, não para fiscalização de trânsito.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 2º, inciso XIX, Decreto nº 10.443/2020.",
+      "subject": "tjap"
+    },
+    {
+      "question": "No contexto do ciclo completo de polícia, a confecção do TCO pela PMDF e seu envio direto ao Poder Judiciário é vista por parte da doutrina como:",
+      "answerOptions": [
+        {
+          "text": "Uma usurpação da função da Polícia Civil.",
+          "rationale": "Incorreto. O STF já decidiu que não há usurpação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um ato ilegal, pois o TCO é de natureza investigativa.",
+          "rationale": "Incorreto. O STF fixou tese de que o TCO não tem natureza investigativa.",
+          "isCorrect": false
+        },
+        {
+          "text": "A realização do ciclo completo, pois não necessita de investigação posterior da Polícia Civil.",
+          "rationale": "Correto. É a visão apresentada no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uma prática inócua, pois o juiz não aceita TCO da PM.",
+          "rationale": "Incorreto. O TCO da PM é aceito pelo Judiciário.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 2 - Ciclo Completo de Polícia.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre a ação penal nos crimes contra a honra, quando a injúria consiste na utilização de elementos referentes a religião ou à condição de pessoa idosa ou com deficiência (art. 140, §3º, CP):",
+      "answerOptions": [
+        {
+          "text": "É crime de ação penal privada.",
+          "rationale": "Incorreto. A regra é a ação penal pública incondicionada.",
+          "isCorrect": false
+        },
+        {
+          "text": "É crime de ação penal pública incondicionada.",
+          "rationale": "Correto. O art. 145, parágrafo único, do CP estabelece que a ação penal é pública incondicionada para o §3º do art. 140.",
+          "isCorrect": true
+        },
+        {
+          "text": "É crime de ação penal pública condicionada à representação.",
+          "rationale": "Incorreto. Não há condicionante.",
+          "isCorrect": false
+        },
+        {
+          "text": "É considerado crime de racismo.",
+          "rationale": "Incorreto. A injúria racial é que é crime de racismo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 145, parágrafo único, CP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Um policial militar, ao chegar em uma ocorrência de violência doméstica, encontra a vítima com lesões aparentes. A vítima, no entanto, afirma que não quer representar contra o agressor. Qual deve ser a conduta do policial, de acordo com as alterações da Lei 14.994/24 e o entendimento do material?",
+      "answerOptions": [
+        {
+          "text": "Respeitar a vontade da vítima e apenas registrar o fato em boletim de atendimento.",
+          "rationale": "Incorreto. A ação penal é pública incondicionada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dar voz de prisão em flagrante ao agressor, independentemente da vontade da vítima, por se tratar de ação penal pública incondicionada (lesão corporal em contexto de violência doméstica).",
+          "rationale": "Correto. O art. 129, §13 do CP torna a ação pública incondicionada.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lavrar um TCO no local.",
+          "rationale": "Incorreto. Não cabe TCO em violência doméstica (art. 41 da Lei Maria da Penha).",
+          "isCorrect": false
+        },
+        {
+          "text": "Orientar a vítima a procurar a defensoria pública para ingressar com ação privada.",
+          "rationale": "Incorreto. Não é ação privada.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 129, §13, CP (Lei 14.994/24) e art. 41, Lei 11.340/06.",
+      "subject": "tjap"
+    },
+    {
+      "question": "De acordo com o art. 304 do Código de Processo Penal, ao receber um preso em flagrante, a autoridade policial deve:",
+      "answerOptions": [
+        {
+          "text": "Ouvir apenas o condutor e o acusado.",
+          "rationale": "Incorreto. Deve ouvir testemunhas também.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ouvir o condutor, as testemunhas que o acompanham e interrogar o acusado, colhendo as assinaturas.",
+          "rationale": "Correto. É o procedimento do art. 304 do CPP.",
+          "isCorrect": true
+        },
+        {
+          "text": "Encaminhar o preso diretamente ao juiz.",
+          "rationale": "Incorreto. O auto deve ser lavrado antes.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aguardar a presença do advogado para iniciar os procedimentos.",
+          "rationale": "Incorreto. A autoridade pode iniciar os procedimentos independentemente da presença de advogado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 304, CPP.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A Súmula Vinculante 11 do STF estabelece a necessidade de justificativa por escrito para o uso de algemas. Qual a consequência da falta dessa justificativa?",
+      "answerOptions": [
+        {
+          "text": "Apenas uma advertência disciplinar.",
+          "rationale": "Incorreto. A consequência é mais grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade do agente.",
+          "rationale": "Correto. É o que estabelece a Súmula Vinculante 11.",
+          "isCorrect": true
+        },
+        {
+          "text": "A impossibilidade de se decretar a prisão preventiva.",
+          "rationale": "Incorreto. A preventiva pode ser decretada, independentemente do uso de algemas.",
+          "isCorrect": false
+        },
+        {
+          "text": "A soltura imediata do preso.",
+          "rationale": "Incorreto. A nulidade da prisão pode levar à soltura, mas não é automática.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Súmula Vinculante 11, STF.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O art. 292 do Código de Processo Penal permite o uso dos meios necessários para vencer a resistência à prisão. A Resolução Conjunta nº 2/2015 da Polícia Federal reforça a ideia de que:",
+      "answerOptions": [
+        {
+          "text": "O policial deve evitar qualquer uso de força.",
+          "rationale": "Incorreto. A resolução reconhece a necessidade do uso da força.",
+          "isCorrect": false
+        },
+        {
+          "text": "O policial pode e deve usar a força, desde que dentro dos limites necessários para garantir a própria segurança e vencer a resistência.",
+          "rationale": "Correto. É o espírito da resolução, citada no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "O uso da força é sempre excesso e deve ser punido.",
+          "rationale": "Incorreto. O uso da força é permitido dentro dos limites legais.",
+          "isCorrect": false
+        },
+        {
+          "text": "O uso de algemas é obrigatório em todos os casos de resistência.",
+          "rationale": "Incorreto. O uso de algemas é excepcional e deve ser justificado.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Resolução Conjunta nº 2 de 13/10/2015 / DPF.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Qual das opções abaixo NÃO configura uma infração de menor potencial ofensivo para os fins da Lei 9.099/95, sendo, portanto, vedada a lavratura de TCO?",
+      "answerOptions": [
+        {
+          "text": "Crime de ameaça (art. 147, CP) em sua forma simples.",
+          "rationale": "Incorreto. Ameaça simples tem pena máxima de 6 meses, sendo de menor potencial.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime de lesão corporal culposa.",
+          "rationale": "Incorreto. Lesão corporal culposa tem pena máxima de 2 anos, sendo de menor potencial.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crime de roubo (art. 157, CP).",
+          "rationale": "Correto. A pena do roubo é de 4 a 10 anos, muito superior a 2 anos.",
+          "isCorrect": true
+        },
+        {
+          "text": "Contravenção penal de vias de fato.",
+          "rationale": "Incorreto. Contravenções são sempre de menor potencial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 61, Lei nº 9.099/95.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre o crime de falsa identidade (art. 307, CP), é correto afirmar que:",
+      "answerOptions": [
+        {
+          "text": "É crime de ação penal pública incondicionada.",
+          "rationale": "Correto. O art. 307 não prevê condicionante.",
+          "isCorrect": true
+        },
+        {
+          "text": "É crime de ação penal privada.",
+          "rationale": "Incorreto. Não é ação privada.",
+          "isCorrect": false
+        },
+        {
+          "text": "É contravenção penal.",
+          "rationale": "Incorreto. É crime, com pena de detenção.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cabe a lavratura de TCO/PMDF se o fato não constituir elemento de crime mais grave.",
+          "rationale": "Correto. É uma das hipóteses de TCO, desde que a pena não supere 2 anos.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Art. 307, CP e art. 61, Lei 9.099/95.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Em relação ao ingresso forçado em domicílio para cumprir mandado de busca e apreensão, o art. 22, §1º, III da Lei de Abuso de Autoridade (Lei nº 13.869/19) estabelece que:",
+      "answerOptions": [
+        {
+          "text": "É lícito a qualquer hora do dia ou da noite.",
+          "rationale": "Incorreto. A lei estabelece um horário.",
+          "isCorrect": false
+        },
+        {
+          "text": "É crime cumprir mandado de busca e apreensão domiciliar após as 21h ou antes das 5h.",
+          "rationale": "Correto. É a previsão do art. 22, §1º, inciso III.",
+          "isCorrect": true
+        },
+        {
+          "text": "O cumprimento deve ser sempre durante o dia.",
+          "rationale": "Incorreto. A lei permite durante o dia, mas não obriga.",
+          "isCorrect": false
+        },
+        {
+          "text": "É vedado o cumprimento aos fins de semana.",
+          "rationale": "Incorreto. Não há vedação.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 22, §1º, inciso III, Lei nº 13.869/2019.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O Decreto nº 11.615/2023, ao regulamentar a Lei nº 10.826/2003, estabelece que o Certificado de Registro de Arma de Fogo (CRAF) é o documento expedido por quem para comprovar a propriedade da arma?",
+      "answerOptions": [
+        {
+          "text": "Apenas pela Polícia Federal.",
+          "rationale": "Incorreto. O CRAF pode ser expedido por mais de um órgão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas pelo Comando do Exército.",
+          "rationale": "Incorreto. A Polícia Federal também pode expedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pelo Comando do Exército ou pela Polícia Federal.",
+          "rationale": "Correto. É a definição do item 5 da Portaria PMDF nº 1.244/2021.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pelo Departamento de Trânsito (DETRAN).",
+          "rationale": "Incorreto. O DETRAN não tem essa atribuição.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Portaria PMDF nº 1.244/2021, item 5.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre o crime de violação de domicílio, qual a diferença entre a abordagem do Código Penal e do Código Penal Militar no que tange à agravação da pena?",
+      "answerOptions": [
+        {
+          "text": "O CPM agrava a pena se o fato é cometido por militar em serviço ou funcionário público civil fora dos casos legais.",
+          "rationale": "Correto. É o que dispõe o art. 226, §2º do CPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "O CP agrava a pena apenas se houver violência.",
+          "rationale": "Incorreto. O CP também agrava em outras hipóteses.",
+          "isCorrect": false
+        },
+        {
+          "text": "O CPM não prevê a agravação da pena.",
+          "rationale": "Incorreto. O CPM prevê agravação no §2º do art. 226.",
+          "isCorrect": false
+        },
+        {
+          "text": "O CP considera a violação de domicílio um crime hediondo.",
+          "rationale": "Incorreto. Não é crime hediondo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 226, §2º, CPM.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O que é a 'Vitimização Secundária' ou 'Violência Institucional' mencionada no contexto da violência doméstica?",
+      "answerOptions": [
+        {
+          "text": "A violência praticada pelo agressor contra a vítima após a denúncia.",
+          "rationale": "Incorreto. Essa é a violência primária.",
+          "isCorrect": false
+        },
+        {
+          "text": "A revitimização da vítima por procedimentos desnecessários, repetitivos ou invasivos dos agentes públicos e do sistema de justiça.",
+          "rationale": "Correto. É a definição de vitimização secundária.",
+          "isCorrect": true
+        },
+        {
+          "text": "A violência psicológica sofrida pelos familiares da vítima.",
+          "rationale": "Incorreto. É violência por ricochete.",
+          "isCorrect": false
+        },
+        {
+          "text": "O ato de desacato contra os policiais que atendem a ocorrência.",
+          "rationale": "Incorreto. É crime de desacato.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 10.2 - Abuso de Autoridade. Violência Institucional.",
+      "subject": "tjap"
+    },
+    {
+      "question": "No caso concreto de um policial que, de folga e com sua arma da corporação, se depara com um assalto e efetua um disparo, qual o entendimento sobre a natureza do possível crime, se configurado excesso?",
+      "answerOptions": [
+        {
+          "text": "Será sempre um crime militar, por se tratar de militar com arma da corporação.",
+          "rationale": "Incorreto. A competência é definida pelo art. 9º do CPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "A competência será definida com base no art. 9º do Código Penal Militar, podendo ser crime militar ou comum.",
+          "rationale": "Correto. A análise se dará com base no art. 9º do CPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Será sempre um crime comum, pois estava de folga.",
+          "rationale": "Incorreto. A condição de 'em serviço' não é o único critério.",
+          "isCorrect": false
+        },
+        {
+          "text": "Não se configura crime, pois o militar tem direito ao porte mesmo fora de serviço.",
+          "rationale": "Incorreto. O porte é direito, mas o excesso pode configurar crime.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Art. 9º, Código Penal Militar.",
+      "subject": "tjap"
+    },
+    {
+      "question": "A doutrina e a jurisprudência divergem sobre o uso do art. 244 do CPP para fundamentar buscas pessoais realizadas pela polícia militar em patrulhamento ostensivo. O juiz Ronaldo João Roth, citado no material, critica a decisão do STJ (RHC 158.580) porque:",
+      "answerOptions": [
+        {
+          "text": "Ela amplia os poderes da polícia militar.",
+          "rationale": "Incorreto. A crítica é que ela restringe a atividade preventiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ela equipara a atividade de polícia preventiva (baseada no Direito Administrativo) à atividade de polícia investigativa (baseada no CPP), prejudicando o policiamento preventivo.",
+          "rationale": "Correto. É a crítica apresentada no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ela é favorável ao uso de denúncias anônimas.",
+          "rationale": "Incorreto. A decisão do STJ foi contrária às denúncias anônimas isoladas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ela proíbe o uso de algemas.",
+          "rationale": "Incorreto. Não trata de algemas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 5 - Abordagem Preventiva vs. Abordagem Probatória.",
+      "subject": "tjap"
+    },
+    {
+      "question": "O caso concreto apresentado no material (TJDFT) sobre 'pane seca' ilustra que a 'fundada suspeita' para busca pessoal não pode ser baseada apenas em:",
+      "answerOptions": [
+        {
+          "text": "Denúncia anônima.",
+          "rationale": "Incorreto. Embora não seja suficiente isoladamente, não foi o único fator no caso.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nervosismo dos abordados durante uma abordagem por infração administrativa de trânsito.",
+          "rationale": "Correto. O TJDFT entendeu que o nervosismo durante a abordagem por 'pane seca' não era suficiente.",
+          "isCorrect": true
+        },
+        {
+          "text": "Conhecimento prévio da área como ponto de tráfico.",
+          "rationale": "Incorreto. É um elemento que pode ser considerado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fuga do local.",
+          "rationale": "Incorreto. Fuga é um elemento concreto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "TJDFT, Habeas corpus citado na Aula 5.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Analise a seguinte situação: Policiais recebem uma denúncia anônima com riqueza de detalhes (endereço, nome, características físicas) de que um indivíduo está armazenando grande quantidade de drogas em sua residência. Os policiais vão ao local, chamam o nome do suspeito, que sai no corredor e, ao ver a polícia, grita 'Molhou! Molhou!'. O STJ, em decisão citada, entendeu que:",
+      "answerOptions": [
+        {
+          "text": "A denúncia anônima, por si só, não autoriza o ingresso.",
+          "rationale": "Incorreto. O STJ entendeu que, no caso, foi suficiente.",
+          "isCorrect": false
+        },
+        {
+          "text": "O grito 'Molhou!' é uma reação típica de traficantes e, aliado à denúncia detalhada, configura fundada suspeita para o ingresso no domicílio.",
+          "rationale": "Correto. É a decisão citada no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas a fuga do suspeito autorizaria o ingresso.",
+          "rationale": "Incorreto. A fuga não ocorreu.",
+          "isCorrect": false
+        },
+        {
+          "text": "É necessário um mandado de busca, independentemente das circunstâncias.",
+          "rationale": "Incorreto. O STJ entendeu que havia flagrante delito.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 5 - STJ: denúncia anônima rica em detalhes justifica invasão de domicílio (30/05/2022).",
+      "subject": "tjap"
+    },
+    {
+      "question": "O STF, no julgamento do RE 602043, consolidou tese sobre o teto remuneratório (art. 37, XI, CF) em casos de acumulação de cargos. Qual é o entendimento?",
+      "answerOptions": [
+        {
+          "text": "O somatório dos ganhos do agente público não pode ultrapassar o teto.",
+          "rationale": "Incorreto. O STF afastou essa interpretação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cada um dos vínculos formalizados deve ser considerado individualmente para o cálculo do teto, afastada a observância do teto quanto ao somatório.",
+          "rationale": "Correto. É a tese fixada pelo STF.",
+          "isCorrect": true
+        },
+        {
+          "text": "A regra do teto não se aplica aos militares.",
+          "rationale": "Incorreto. Aplica-se, conforme art. 37, XI.",
+          "isCorrect": false
+        },
+        {
+          "text": "A acumulação de cargos é vedada para profissionais de saúde.",
+          "rationale": "Incorreto. É permitida.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Acórdão 1239088, citado no material.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Sobre o Termo de Representação/Requerimento da vítima no TCO/PMDF, é correto afirmar que:",
+      "answerOptions": [
+        {
+          "text": "A vítima deve assinar o termo no momento da ocorrência, obrigatoriamente manifestando seu desejo de prosseguir com a ação.",
+          "rationale": "Incorreto. Ela pode se reservar o direito.",
+          "isCorrect": false
+        },
+        {
+          "text": "A vítima pode manifestar sua vontade de imediato ou reservar-se o direito de fazê-lo no prazo de 6 meses, devendo assinar o termo em ambos os casos.",
+          "rationale": "Correto. É o procedimento descrito no material.",
+          "isCorrect": true
+        },
+        {
+          "text": "Se a vítima se recusar a assinar o termo, o policial pode lavrar o TCO sem a manifestação, pois é um documento meramente formal.",
+          "rationale": "Incorreto. A manifestação é essencial.",
+          "isCorrect": false
+        },
+        {
+          "text": "A assinatura da vítima pode ser substituída pela assinatura de uma testemunha.",
+          "rationale": "Incorreto. A vítima é parte essencial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 4 - Termo de Representação / Requerimento da Vítima.",
+      "subject": "tjap"
+    },
+    {
+      "question": "Em um caso de cumprimento de mandado de prisão em aberto, a guarnição descobre que o procurado está na casa de um parente. O parente nega o consentimento para a entrada. De acordo com o material, o que deve ser feito?",
+      "answerOptions": [
+        {
+          "text": "Ingressar forçadamente, pois o mandado de prisão autoriza o ingresso em qualquer lugar para cumprimento.",
+          "rationale": "Incorreto. O mandado de prisão não autoriza ingresso em domicílio de terceiro.",
+          "isCorrect": false
+        },
+        {
+          "text": "Não ingressar, pois o mandado de prisão não autoriza o ingresso em domicílio de terceiros sem autorização judicial específica ou consentimento.",
+          "rationale": "Correto. É o entendimento apresentado.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arrombar a porta, pois a prisão pode ser feita a qualquer hora.",
+          "rationale": "Incorreto. A hora não é o fator determinante.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aguardar o procurado sair, independentemente do tempo.",
+          "rationale": "Incorreto. É uma opção, mas não a única.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Material da Aula 3 - Mandado de prisão e ingresso em domicílio.",
+      "subject": "tjap"
+    }
+  ]
 }
+
