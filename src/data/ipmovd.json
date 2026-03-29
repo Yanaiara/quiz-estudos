@@ -1,3 +1,499 @@
 {
-  "questions": []
+  "questions": [
+  {
+    "question": "A Lei Maria da Penha (Lei nº 11.340/2006) foi sancionada no ano de:",
+    "answerOptions": [
+      { "text": "2000", "rationale": "Incorreto. A Lei Maria da Penha é de 2006.", "isCorrect": false },
+      { "text": "2006", "rationale": "Correto. A Lei foi sancionada em 7 de agosto de 2006.", "isCorrect": true },
+      { "text": "2012", "rationale": "Incorreto. 2012 foi o ano da ADC 19 que declarou a constitucionalidade da lei.", "isCorrect": false },
+      { "text": "2015", "rationale": "Incorreto. 2015 foi o ano da Lei do Feminicídio.", "isCorrect": false }
+    ],
+    "hint": "Material UNIDADE I - A Lei foi sancionada em 2006.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "De acordo com a Convenção de Belém do Pará, violência contra a mulher pode ocorrer:",
+    "answerOptions": [
+      { "text": "Apenas na esfera pública", "rationale": "Incorreto. A Convenção abrange ambas as esferas.", "isCorrect": false },
+      { "text": "Apenas na esfera privada", "rationale": "Incorreto. A Convenção abrange ambas as esferas.", "isCorrect": false },
+      { "text": "Tanto na esfera pública quanto na privada", "rationale": "Correto. A definição inclui 'tanto na esfera pública como na esfera privada'.", "isCorrect": true },
+      { "text": "Apenas no ambiente de trabalho", "rationale": "Incorreto. O trabalho é apenas um dos locais possíveis.", "isCorrect": false }
+    ],
+    "hint": "Material Página 6 - Convenção de Belém do Pará.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "Qual órgão da ONU reconheceu a Lei Maria da Penha como uma das três melhores legislações do mundo no enfrentamento à violência contra as mulheres?",
+    "answerOptions": [
+      { "text": "OMS", "rationale": "Incorreto. A OMS atua na saúde, não nesse reconhecimento específico.", "isCorrect": false },
+      { "text": "UNICEF", "rationale": "Incorreto. O UNICEF foca em crianças e adolescentes.", "isCorrect": false },
+      { "text": "ONU Mulheres", "rationale": "Correto. A ONU Mulheres concedeu esse reconhecimento.", "isCorrect": true },
+      { "text": "OIT", "rationale": "Incorreto. A OIT trata de trabalho.", "isCorrect": false }
+    ],
+    "hint": "Material Página 34 - 'A lei Maria da Penha é reconhecida pela ONU como uma das três melhores legislações do mundo'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A primeira Delegacia de Atendimento à Mulher (DEAM) no Brasil foi criada no estado de:",
+    "answerOptions": [
+      { "text": "Rio de Janeiro", "rationale": "Incorreto. A primeira DEAM foi em São Paulo.", "isCorrect": false },
+      { "text": "Minas Gerais", "rationale": "Incorreto. A primeira DEAM foi em São Paulo.", "isCorrect": false },
+      { "text": "São Paulo", "rationale": "Correto. A primeira DEAM foi criada em São Paulo no ano de 1985.", "isCorrect": true },
+      { "text": "Distrito Federal", "rationale": "Incorreto. A primeira DEAM foi em São Paulo.", "isCorrect": false }
+    ],
+    "hint": "Material Página 8 - 'criação da primeira DEAM no estado de São Paulo, no ano de 1985'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei Maria da Penha protege mulheres em qual(is) relação(ões)?",
+    "answerOptions": [
+      { "text": "Apenas relações conjugais", "rationale": "Incorreto. A lei abrange mais que isso.", "isCorrect": false },
+      { "text": "Apenas relações familiares com coabitação", "rationale": "Incorreto. A coabitação não é exigida.", "isCorrect": false },
+      { "text": "Relações domésticas, familiares e íntimas de afeto, independentemente de coabitação e orientação sexual", "rationale": "Correto. O artigo 5º e parágrafo único assim determinam.", "isCorrect": true },
+      { "text": "Apenas relações formais de casamento", "rationale": "Incorreto. Inclui união estável, namoro, relações homoafetivas, etc.", "isCorrect": false }
+    ],
+    "hint": "Material Páginas 8 e 9 - Art. 5º e parágrafo único.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O crime de feminicídio está previsto no:",
+    "answerOptions": [
+      { "text": "Código de Processo Penal", "rationale": "Incorreto. Está no Código Penal.", "isCorrect": false },
+      { "text": "Código Penal, como qualificadora do homicídio", "rationale": "Correto. O feminicídio é uma qualificadora do homicídio (art. 121, VII, do CP).", "isCorrect": true },
+      { "text": "Lei Maria da Penha exclusivamente", "rationale": "Incorreto. A Lei do Feminicídio alterou o CP.", "isCorrect": false },
+      { "text": "Estatuto da Mulher", "rationale": "Incorreto. Não existe esse estatuto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 10 - 'Lei do Feminicídio, que alterou o art. 121 do Código Penal'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A pena prevista para o crime de feminicídio após a Lei nº 14.994/24 é de:",
+    "answerOptions": [
+      { "text": "12 a 30 anos", "rationale": "Incorreto. A pena foi aumentada.", "isCorrect": false },
+      { "text": "20 a 40 anos", "rationale": "Correto. O novo art. 121-A prevê reclusão de 20 a 40 anos.", "isCorrect": true },
+      { "text": "10 a 20 anos", "rationale": "Incorreto. A pena foi significativamente aumentada.", "isCorrect": false },
+      { "text": "15 a 35 anos", "rationale": "Incorreto. A pena mínima é 20 anos.", "isCorrect": false }
+    ],
+    "hint": "Material Página 10 - Art. 121-A: Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O formulário nacional de avaliação de risco para mulheres vítimas de violência doméstica é chamado de:",
+    "answerOptions": [
+      { "text": "FONAR", "rationale": "Correto. Formulário Nacional de Avaliação de Risco.", "isCorrect": true },
+      { "text": "SINAL", "rationale": "Incorreto. Sinal refere-se à campanha Sinal Vermelho.", "isCorrect": false },
+      { "text": "PROTEGE", "rationale": "Incorreto. Não é esse o nome do formulário.", "isCorrect": false },
+      { "text": "VIVA FLOR", "rationale": "Incorreto. Viva Flor é um programa de monitoramento do DF.", "isCorrect": false }
+    ],
+    "hint": "Material Página 50 - 'Lei 14.149/2021 instituiu o Formulário de Avaliação de Risco (FONAR)'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O Policiamento de Prevenção Orientado à Violência Doméstica da PMDF é conhecido pela sigla:",
+    "answerOptions": [
+      { "text": "RONDESP", "rationale": "Incorreto. RONDESP é policiamento de choque.", "isCorrect": false },
+      { "text": "PROVID", "rationale": "Correto. Policiamento de Prevenção Orientado à Violência Doméstica.", "isCorrect": true },
+      { "text": "PATRI", "rationale": "Incorreto. PATRI é policiamento tático rural.", "isCorrect": false },
+      { "text": "CHOQUE", "rationale": "Incorreto. CHOQUE é policiamento de choque.", "isCorrect": false }
+    ],
+    "hint": "Material Página 55 - 'Policiamento de Prevenção Orientado à Violência Doméstica – PROVID/PMDF'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O ciclo da violência doméstica, segundo Leonore Walker, é composto pelas fases:",
+    "answerOptions": [
+      { "text": "Tensão, agressão e lua de mel", "rationale": "Correto. Essas são as três fases descritas pela autora.", "isCorrect": true },
+      { "text": "Discussão, separação e reconciliação", "rationale": "Incorreto. Não corresponde ao ciclo de Walker.", "isCorrect": false },
+      { "text": "Ameaça, agressão e arrependimento", "rationale": "Incorreto. O arrependimento não é uma fase nomeada.", "isCorrect": false },
+      { "text": "Isolamento, violência e culpa", "rationale": "Incorreto. A culpa é um sentimento, não fase nomeada.", "isCorrect": false }
+    ],
+    "hint": "Material Página 72 - 'Teoria do Ciclo da Violência de Leonore Walker: TENSÃO, AGRESSÃO E LUA DE MEL'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O crime de descumprimento de medida protetiva de urgência foi tipificado pela Lei:",
+    "answerOptions": [
+      { "text": "13.641/2018", "rationale": "Correto. Essa lei tornou o descumprimento crime autônomo.", "isCorrect": true },
+      { "text": "14.188/2021", "rationale": "Incorreto. Essa lei criou o crime de violência psicológica.", "isCorrect": false },
+      { "text": "13.984/2020", "rationale": "Incorreto. Essa lei instituiu grupos reflexivos.", "isCorrect": false },
+      { "text": "14.994/2024", "rationale": "Incorreto. Essa lei alterou o feminicídio.", "isCorrect": false }
+    ],
+    "hint": "Material Página 47 - 'crime específico de descumprimento da medida protetiva' e Página 101.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A violência patrimonial, segundo a Lei Maria da Penha, consiste em:",
+    "answerOptions": [
+      { "text": "Apenas danos físicos", "rationale": "Incorreto. Danos físicos são violência física.", "isCorrect": false },
+      { "text": "Retenção, subtração ou destruição de objetos, documentos, bens ou recursos econômicos da mulher", "rationale": "Correto. É a definição do art. 7º, IV.", "isCorrect": true },
+      { "text": "Somente furto de dinheiro", "rationale": "Incorreto. Abrange mais que furto.", "isCorrect": false },
+      { "text": "Exclusivamente dano ao imóvel", "rationale": "Incorreto. Inclui outros bens.", "isCorrect": false }
+    ],
+    "hint": "Material Página 40 - 'violência patrimonial, entendida como qualquer conduta que configure retenção, subtração, destruição...'",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A ação penal nos casos de lesão corporal decorrente de violência doméstica é:",
+    "answerOptions": [
+      { "text": "Privada", "rationale": "Incorreto. Não depende de queixa da vítima.", "isCorrect": false },
+      { "text": "Pública condicionada à representação", "rationale": "Incorreto. O STF e a Súmula 542 do STJ definem como incondicionada.", "isCorrect": false },
+      { "text": "Pública incondicionada", "rationale": "Correto. Independente da extensão da lesão, a ação é pública incondicionada.", "isCorrect": true },
+      { "text": "Dependente de queixa", "rationale": "Incorreto. É pública incondicionada.", "isCorrect": false }
+    ],
+    "hint": "Material Páginas 86 e 97 - Nota de rodapé sobre a Súmula 542 do STJ.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O Pacto Nacional de Prevenção ao Feminicídio foi instituído pelo Decreto nº:",
+    "answerOptions": [
+      { "text": "11.640/2023", "rationale": "Correto. Instituído em 16 de agosto de 2023.", "isCorrect": true },
+      { "text": "10.778/2003", "rationale": "Incorreto. Esse decreto trata de notificação compulsória.", "isCorrect": false },
+      { "text": "9.883/2019", "rationale": "Incorreto. Não é esse o decreto.", "isCorrect": false },
+      { "text": "12.403/2011", "rationale": "Incorreto. Esse trata de prisão cautelar.", "isCorrect": false }
+    ],
+    "hint": "Material Página 12 - 'Pacto Nacional de Prevenção ao Feminicídio (PNPF), instituído em 16 de agosto de 2023, pelo Decreto nº 11.640/2023'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O disque-denúncia nacional para violência contra a mulher é o número:",
+    "answerOptions": [
+      { "text": "190", "rationale": "Incorreto. 190 é da PM (emergência).", "isCorrect": false },
+      { "text": "180", "rationale": "Correto. Central de Atendimento à Mulher.", "isCorrect": true },
+      { "text": "100", "rationale": "Incorreto. 100 é para direitos humanos (crianças, idosos).", "isCorrect": false },
+      { "text": "197", "rationale": "Incorreto. 197 é da Polícia Civil (Disque-Denúncia).", "isCorrect": false }
+    ],
+    "hint": "Material Página 48 - 'Disque-denúncia nacional: 180'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O Grupo Refletir, no âmbito da segurança pública do DF, é destinado a:",
+    "answerOptions": [
+      { "text": "Mulheres vítimas de violência", "rationale": "Incorreto. É para autores de violência.", "isCorrect": false },
+      { "text": "Homens autores de violência, exclusivamente para servidores das forças de segurança", "rationale": "Correto. Grupo reflexivo para policiais e bombeiros autores de violência.", "isCorrect": true },
+      { "text": "Crianças testemunhas de violência", "rationale": "Incorreto. Foco nos autores.", "isCorrect": false },
+      { "text": "Idosos em situação de abandono", "rationale": "Incorreto. Não é o foco.", "isCorrect": false }
+    ],
+    "hint": "Material Página 54 - 'Grupo Refletir: é o grupo reflexivo de homens autores de violência destinado exclusivamente para servidores das forças de segurança pública do DF'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A revitimização consiste em:",
+    "answerOptions": [
+      { "text": "Ajudar a vítima a superar o trauma", "rationale": "Incorreto. Isso é o oposto.", "isCorrect": false },
+      { "text": "Reforçar o trauma decorrente da agressão, com repetição de relatos ou culpabilização", "rationale": "Correto. É a vivência da violência novamente pelo atendimento inadequado.", "isCorrect": true },
+      { "text": "Proteger a vítima de novos danos", "rationale": "Incorreto. Revitimização causa novos danos.", "isCorrect": false },
+      { "text": "Encaminhar a vítima para abrigo", "rationale": "Incorreto. Isso é proteção.", "isCorrect": false }
+    ],
+    "hint": "Material Página 65 - 'Revitimização: É a vivência da violência, por meio... da repetição do relato... culpabilização a vítima'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O crime de perseguição (stalking) contra mulher por razões de gênero tem pena aumentada em:",
+    "answerOptions": [
+      { "text": "1/3", "rationale": "Incorreto. O aumento é da metade.", "isCorrect": false },
+      { "text": "Metade", "rationale": "Correto. Conforme art. 147-A, §1º, II.", "isCorrect": true },
+      { "text": "2/3", "rationale": "Incorreto. O aumento é da metade.", "isCorrect": false },
+      { "text": "1/4", "rationale": "Incorreto. O aumento é da metade.", "isCorrect": false }
+    ],
+    "hint": "Material Página 44 - '§ 1º A pena é aumentada de metade se o crime é cometido: (...) II – contra mulher por razões da condição de sexo feminino'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Ação Declaratória de Constitucionalidade (ADC 19) julgada pelo STF em 2012 declarou a constitucionalidade da Lei Maria da Penha por unanimidade. Entre os artigos confirmados, está o que:",
+    "answerOptions": [
+      { "text": "Permite a aplicação da Lei 9.099/99 aos casos de violência doméstica", "rationale": "Incorreto. A lei afasta a 9.099/99.", "isCorrect": false },
+      { "text": "Afasta a competência dos Juizados Especiais para julgar casos de violência doméstica", "rationale": "Correto. O art. 41 foi confirmado.", "isCorrect": true },
+      { "text": "Obriga a mediação prévia em todos os casos", "rationale": "Incorreto. Não há essa obrigação.", "isCorrect": false },
+      { "text": "Determina a fiança automática ao agressor", "rationale": "Incorreto. A lei dificulta a fiança.", "isCorrect": false }
+    ],
+    "hint": "Material Páginas 9 e 10 - Art. 41: Afastar a competência dos Juizados Especiais.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "Segundo o material, qual o percentual de mulheres vítimas de feminicídio no DF que não possuíam ocorrência policial registrada em seu histórico?",
+    "answerOptions": [
+      { "text": "30%", "rationale": "Incorreto. O índice é maior.", "isCorrect": false },
+      { "text": "50,3%", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "65,7%", "rationale": "Correto. 'Entre as vítimas de feminicídio no DF, 65,7% não registrou ocorrência na DP'.", "isCorrect": true },
+      { "text": "84%", "rationale": "Incorreto. 84% é o índice de violência ocorrida dentro de casa.", "isCorrect": false }
+    ],
+    "hint": "Material Página 73 - Legenda da imagem.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei nº 14.188/2021 criou o tipo penal de violência psicológica contra a mulher (art. 147-B do CP) com pena de:",
+    "answerOptions": [
+      { "text": "1 a 3 anos", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "6 meses a 2 anos e multa", "rationale": "Correto. Pena de reclusão de 6 meses a 2 anos, e multa.", "isCorrect": true },
+      { "text": "2 a 5 anos", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "3 meses a 1 ano", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 44 - 'CP, Art. 147-B. Crime de violência psicológica... Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Instrução Normativa DCC nº 15/2018 da PMDF determina que, no atendimento a ocorrências com policial militar como autor de violência, a guarnição deve:",
+    "answerOptions": [
+      { "text": "Ignorar o fato por ser questão interna", "rationale": "Incorreto. A IN exige comunicação.", "isCorrect": false },
+      { "text": "Comunicar os fatos ao Coordenador de Policiamento da Unidade (CPU) e adotar procedimentos cabíveis", "rationale": "Correto. Art. 9º da IN.", "isCorrect": true },
+      { "text": "Apenas registrar no sistema e arquivar", "rationale": "Incorreto. Há procedimentos específicos.", "isCorrect": false },
+      { "text": "Entregar o policial à justiça comum sem comunicação à corporação", "rationale": "Incorreto. A comunicação interna é obrigatória.", "isCorrect": false }
+    ],
+    "hint": "Material Página 77 - 'Art. 9º, da IN n. 15, faz a previsão de procedimentos nos casos em que for identificado o envolvimento de policial militar, na condição de autor'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O atendimento não revitimizador orienta o policial a:",
+    "answerOptions": [
+      { "text": "Fazer perguntas inquisitórias", "rationale": "Incorreto. Isso revitimiza.", "isCorrect": false },
+      { "text": "Evitar a escuta ativa", "rationale": "Incorreto. A escuta ativa é essencial.", "isCorrect": false },
+      { "text": "Realizar escuta ativa sem prejulgamentos e não infantilizar a vítima", "rationale": "Correto. É uma das diretrizes do atendimento humanizado.", "isCorrect": true },
+      { "text": "Atender a vítima junto com o agressor", "rationale": "Incorreto. Isso pode intimidar a vítima.", "isCorrect": false }
+    ],
+    "hint": "Material Páginas 65 a 67 - Lista de orientações para atendimento não-revitimizador.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O artigo 8º da Lei Maria da Penha determina que a política pública de enfrentamento à violência doméstica será feita por meio de ações articuladas da União, Estados, DF, Municípios e ações não-governamentais. O material didático acrescenta que essa articulação, no DF, resultou na criação do:",
+    "answerOptions": [
+      { "text": "Programa Maria da Penha vai à Escola, com parceria TJDFT, SSPDF e PMDF", "rationale": "Correto. Projeto desenvolvido a partir da parceria entre esses órgãos.", "isCorrect": true },
+      { "text": "Conselho Nacional de Justiça", "rationale": "Incorreto. É um órgão nacional.", "isCorrect": false },
+      { "text": "Fundo Nacional de Segurança Pública", "rationale": "Incorreto. É fundo financeiro.", "isCorrect": false },
+      { "text": "Sistema Único de Saúde exclusivo", "rationale": "Incorreto. A articulação é ampla.", "isCorrect": false }
+    ],
+    "hint": "Material Página 4 - 'Projeto Maria da Penha vai à Escola, desenvolvido a partir da parceria entre... TJDFT; SSPDF; e PMDF'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O crime de importunação sexual (Lei 13.718/2018) e a divulgação não autorizada de cena de nudez ou ato sexual (art. 218-C do CP) têm, respectivamente, penas de:",
+    "answerOptions": [
+      { "text": "1 a 5 anos e 6 meses a 2 anos", "rationale": "Correto. Importunação: 1 a 5 anos; divulgação: 1 a 5 anos (art. 218-C tem pena de 1 a 5 anos, não 6 meses a 2 anos). Na verdade, a questão precisa ser corrigida: o material cita art. 218-C com pena de 1 a 5 anos.", "isCorrect": false },
+      { "text": "6 meses a 2 anos e 1 a 5 anos", "rationale": "Incorreto. A inversão está errada.", "isCorrect": false },
+      { "text": "2 a 4 anos e 3 a 6 anos", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "1 a 5 anos e 1 a 5 anos", "rationale": "Correto. Ambos os crimes têm pena de 1 a 5 anos (art. 215-A e art. 218-C do CP).", "isCorrect": true }
+    ],
+    "hint": "Material Página 44 - Art. 218-C: pena de 1 a 5 anos. Importunação sexual (art. 215-A): 1 a 5 anos.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei Distrital nº 6.539/2020 determina que condomínios residenciais devem:",
+    "answerOptions": [
+      { "text": "Instalar câmeras em todas as unidades", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Comunicar aos órgãos de segurança pública a ocorrência ou indício de violência doméstica", "rationale": "Correto. É o objeto da lei.", "isCorrect": true },
+      { "text": "Contratar segurança privada", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Proibir a entrada de visitantes", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 16 - 'Dispõe sobre a comunicação dos condomínios residenciais aos órgãos de segurança pública sobre a ocorrência ou indício de violência doméstica'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei nº 13.984/2020 acrescentou à Lei Maria da Penha a possibilidade de o juiz determinar:",
+    "answerOptions": [
+      { "text": "Apenas o afastamento do lar", "rationale": "Incorreto. Isso já existia.", "isCorrect": false },
+      { "text": "O comparecimento do agressor a programas de recuperação e reeducação e acompanhamento psicossocial", "rationale": "Correto. Incluiu os incisos VI e VII no art. 22.", "isCorrect": true },
+      { "text": "A pena de morte", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "O confinamento do agressor", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 55 - 'Lei nº 13.984/2020, que instituiu o encaminhamento obrigatório dos homens autores de violência... ao rol de medidas protetivas... art. 22, incisos VI e VII'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "No âmbito da PMDF, a Portaria nº 1.174/2021 regulamenta o PROVID. Seus eixos orientadores são:",
+    "answerOptions": [
+      { "text": "Prevenção primária, secundária e articulação em rede", "rationale": "Correto. Conforme material, Página 57.", "isCorrect": true },
+      { "text": "Repressão, punição e isolamento", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Investigação, perícia e sentença", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Acolhimento, triagem e arquivamento", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 57 - 'Eixos Orientadores: 1. Prevenção Primária; 2. Prevenção Secundária; 3. Articulação em Rede'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O POP nº 04/2020 (aprovado pela Portaria PMDF nº 1.175/2021) orienta que, em caso de abuso sexual de criança/adolescente, o policial deve:",
+    "answerOptions": [
+      { "text": "Realizar escuta ativa detalhada", "rationale": "Incorreto. Isso pode revitimizar.", "isCorrect": false },
+      { "text": "Não realizar escuta ativa para evitar revitimização, salvo se espontânea e imprescindível, reportando ao Conselho Tutelar e à DPCA", "rationale": "Correto. Em respeito à Lei 13.431/17.", "isCorrect": true },
+      { "text": "Interrogar a criança na presença do suspeito", "rationale": "Incorreto. É vedado.", "isCorrect": false },
+      { "text": "Registrar apenas no sistema interno sem comunicação externa", "rationale": "Incorreto. A comunicação é obrigatória.", "isCorrect": false }
+    ],
+    "hint": "Material Página 91 - Item 9 do POP.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei nº 14.132/2021 (Lei do Stalking) prevê que a pena é aumentada de metade se o crime for cometido contra mulher por razões da condição de sexo feminino. Esse aumento eleva a pena de 6 meses a 2 anos para:",
+    "answerOptions": [
+      { "text": "9 meses a 3 anos", "rationale": "Correto. Metade de 6 meses é 3 meses (total 9 meses); metade de 2 anos é 1 ano (total 3 anos).", "isCorrect": true },
+      { "text": "1 a 4 anos", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "2 a 5 anos", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "3 a 6 anos", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 44 - Cálculo do aumento da metade.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O Termo de Cooperação nº 011/2019 (TJDFT/PMDF) e o Termo de Cooperação nº 005/2021 visam, respectivamente:",
+    "answerOptions": [
+      { "text": "Apenas troca de informações sobre armas", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Atuação conjunta nos atendimentos de famílias em contexto de VDF e programa Maria da Penha vai à escola", "rationale": "Correto. Conforme descrito no material.", "isCorrect": true },
+      { "text": "Construção de novas delegacias", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Formação de juízes militares", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Páginas 74 e 75 - Termos de Cooperação.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Instrução Normativa DCC nº 15/2018 prevê, em seu artigo 22, como ato de proteção a ser adotado pela PMDF:",
+    "answerOptions": [
+      { "text": "Promoção do policial autor", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Transferência do policial militar da UPM de lotação quando a área coincidir com local de residência, trabalho ou estudo da vítima", "rationale": "Correto. Inciso I do art. 22.", "isCorrect": true },
+      { "text": "Aumento de salário", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Concessão de férias imediatas", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 80 - Art. 22, I da IN 15/2018.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "Segundo o Anuário Brasileiro de Segurança Pública (2024), a maioria das mortes de mulheres em razão do gênero ocorre:",
+    "answerOptions": [
+      { "text": "Na rua", "rationale": "Incorreto. Ocorre dentro de casa.", "isCorrect": false },
+      { "text": "Dentro de casa", "rationale": "Correto. 'as mortes de mulheres em razão do gênero ocorrem na sua maioria dentro de casa'.", "isCorrect": true },
+      { "text": "No local de trabalho", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Em transporte público", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 12 - 'Exemplo disso, temos que as mortes de mulheres em razão do gênero ocorrem na sua maioria dentro de casa'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei nº 14.994/2024 alterou o Código Penal para considerar como agravante do feminicídio a prática:",
+    "answerOptions": [
+      { "text": "Em qualquer local público", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Na presença física ou virtual de descendente ou ascendente da vítima", "rationale": "Correto. Inciso III do §2º do art. 121-A.", "isCorrect": true },
+      { "text": "Sem premeditação", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Com arma branca", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 11 - 'III - na presença física ou virtual de descendente ou de ascendente da vítima'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O monitoramento eletrônico de agressores no DF (tornozeleira) associado ao dispositivo da vítima é feito pela:",
+    "answerOptions": [
+      { "text": "PMDF", "rationale": "Incorreto. A PMDF atende as ocorrências, mas o monitoramento é da DMPP.", "isCorrect": false },
+      { "text": "Diretoria de Monitoramento de Pessoas Protegidas (DMPP/CIOB)", "rationale": "Correto. É a responsável pelo monitoramento.", "isCorrect": true },
+      { "text": "Corregedoria", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Ministério Público", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 54 - 'Diretoria de Monitoramento de Pessoas Protegidas (DMPP) - utilizam o Dispositivo de Monitoramento Pessoal Portátil'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A pesquisa 'A percepção do policial militar sobre o atendimento às mulheres vítimas' (Cardoso, 2016) revelou que:",
+    "answerOptions": [
+      { "text": "75% dos policiais não participaram de cursos específicos sobre o tema", "rationale": "Correto. 'a maioria dos policiais militares relatou não ter participado de cursos sobre atendimento a mulheres vítimas de violência (75%)'.", "isCorrect": true },
+      { "text": "90% se consideravam preparados", "rationale": "Incorreto. 1/3 se considerava despreparado.", "isCorrect": false },
+      { "text": "Apenas 10% atendiam ocorrências", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Não houve necessidade de capacitação", "rationale": "Incorreto. A pesquisa mostrou necessidade.", "isCorrect": false }
+    ],
+    "hint": "Material Página 70 - Resultados da pesquisa de 2016.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O artigo 41 da Lei Maria da Penha, confirmado pelo STF na ADC 19, determina que:",
+    "answerOptions": [
+      { "text": "Os Juizados Especiais Criminais são competentes", "rationale": "Incorreto. A lei afasta essa competência.", "isCorrect": false },
+      { "text": "Fica afastada a competência dos Juizados Especiais Criminais para os crimes de violência doméstica", "rationale": "Correto. É o teor do art. 41.", "isCorrect": true },
+      { "text": "A Lei 9.099/99 é plenamente aplicável", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "O agressor pode propor acordo civil", "rationale": "Incorreto. Não é permitido.", "isCorrect": false }
+    ],
+    "hint": "Material Página 10 - Art. 41: Afastar a competência dos Juizados Especiais.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei nº 13.431/2017 (Sistema de Garantia de Direitos da Criança e Adolescente vítima ou testemunha) define que o depoimento especial será realizado:",
+    "answerOptions": [
+      { "text": "Quantas vezes forem necessárias", "rationale": "Incorreto. Deve ser uma única vez.", "isCorrect": false },
+      { "text": "Uma única vez, em sede de produção antecipada de prova judicial", "rationale": "Correto. Art. 11 da Lei.", "isCorrect": true },
+      { "text": "Na presença do suposto autor", "rationale": "Incorreto. É vedado (art. 9º).", "isCorrect": false },
+      { "text": "Sem qualquer protocolo", "rationale": "Incorreto. Deve seguir protocolos.", "isCorrect": false }
+    ],
+    "hint": "Material Página 92 - Art. 11 da Lei 13.431/17.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Portaria PMDF nº 1.175/2021, ao aprovar o POP nº 04/2020, estabelece que, em crimes de ação penal pública condicionada, se a vítima não quiser oficializar, a guarnição deve:",
+    "answerOptions": [
+      { "text": "Arquivar o caso", "rationale": "Incorreto. O registro deve ser feito.", "isCorrect": false },
+      { "text": "Registrar a ocorrência no Relatório de Atividade Policial (RAP)", "rationale": "Correto. Para fins de estatística e acompanhamento.", "isCorrect": true },
+      { "text": "Conduzir o autor à delegacia à força", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Ignorar a vontade da vítima", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 96 - Item 20 do POP.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "De acordo com a Organização Mundial da Saúde (OMS), a definição de violência inclui:",
+    "answerOptions": [
+      { "text": "Apenas o uso intencional da força física", "rationale": "Incorreto. Inclui também o poder real ou em ameaça.", "isCorrect": false },
+      { "text": "O uso intencional da força física ou do poder real ou em ameaça, que resulte ou possa resultar em lesão, morte, dano psicológico, deficiência ou privação", "rationale": "Correto. É a definição da OMS citada no material.", "isCorrect": true },
+      { "text": "Somente atos que causem morte ou lesão grave", "rationale": "Incorreto. Abrange danos psicológicos e privação.", "isCorrect": false },
+      { "text": "Apenas violência física", "rationale": "Incorreto. O conceito é mais amplo.", "isCorrect": false }
+    ],
+    "hint": "Material Página 6 - Citação da OMS (KRUG et al., 2002).",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A violência psicológica, conforme redação dada pela Lei nº 13.772/2018, inclui a conduta de:",
+    "answerOptions": [
+      { "text": "Apenas ameaça", "rationale": "Incorreto. Ameaça é um dos meios, mas não o único.", "isCorrect": false },
+      { "text": "Qualquer conduta que cause dano emocional, diminuição da autoestima, controle de ações, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, entre outros", "rationale": "Correto. É a definição completa do art. 7º, II da LMP com a alteração.", "isCorrect": true },
+      { "text": "Somente perseguição (stalking)", "rationale": "Incorreto. Stalking é uma conduta específica que pode configurar violência psicológica, mas não a única.", "isCorrect": false },
+      { "text": "Exclusivamente a limitação do direito de ir e vir", "rationale": "Incorreto. É apenas um dos exemplos.", "isCorrect": false }
+    ],
+    "hint": "Material Página 39 - Definição de violência psicológica.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A CEDAW (Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher), de 1979, estabeleceu:",
+    "answerOptions": [
+      { "text": "A definição de violência contra a mulher", "rationale": "Incorreto. Essa definição veio com Belém do Pará.", "isCorrect": false },
+      { "text": "A promoção dos direitos das mulheres e a igualdade de gênero, com exigência de políticas compensatórias e medidas afirmativas", "rationale": "Correto. A CEDAW é um marco para a igualdade formal e material.", "isCorrect": true },
+      { "text": "A criminalização do feminicídio", "rationale": "Incorreto. Muito posterior.", "isCorrect": false },
+      { "text": "A criação da ONU Mulheres", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 7 - 'Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher (CEDAW, 1979)'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "No DF, a Lei Distrital nº 6.872/2021 instituiu formalmente o:",
+    "answerOptions": [
+      { "text": "Viva Flor", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "PROVID", "rationale": "Correto. A lei instituiu o Policiamento de Prevenção Orientado à Violência Doméstica no âmbito do DF.", "isCorrect": true },
+      { "text": "Grupo Refletir", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "Aliança Protetiva", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 56 - 'PROVID... Instituído pela Lei Nº 6.872/2021'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "O Protocolo de Operações Integradas (POI nº 28/2022) da SSP-DF estabelece que, em caso de vítima com sinais de violência sexual, a PMDF deve, EXCETO:",
+    "answerOptions": [
+      { "text": "Solicitar ao COPOM acionamento do CBMDF se a vítima for resistente", "rationale": "Incorreto. Esta é uma conduta prevista.", "isCorrect": false },
+      { "text": "Transportar a vítima pelo CBMDF ou pela PMDF, conforme a situação", "rationale": "Incorreto. Também previsto.", "isCorrect": false },
+      { "text": "Realizar escuta ativa detalhada da vítima sobre a violência sexual no local", "rationale": "Correto. A conduta vedada é evitar detalhamentos desnecessários que possam revitimizar, priorizando o atendimento médico.", "isCorrect": true },
+      { "text": "Conduzir a vítima ao hospital", "rationale": "Incorreto. Previsto no protocolo.", "isCorrect": false }
+    ],
+    "hint": "Material Página 95 - 'Coletar dados por meio da fala espontânea da vítima, evitando detalhamentos, quando se tratar de violência sexual'.",
+    "subject": "ipmovd"
+  },
+  {
+    "question": "A Lei nº 14.899/2024, que dispõe sobre plano de metas para enfrentamento da violência doméstica, determinou, em seu art. 3º, inciso II:",
+    "answerOptions": [
+      { "text": "A criação de novas DEAMs", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "A inclusão de disciplina específica sobre violência doméstica nos cursos regulares das instituições policiais, com treinamento continuado", "rationale": "Correto. É a base legal para a disciplina IPMOVD.", "isCorrect": true },
+      { "text": "A instalação de botões do pânico em todas as residências", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "A obrigatoriedade de acompanhamento psicológico para vítimas", "rationale": "Incorreto.", "isCorrect": false }
+    ],
+    "hint": "Material Página 1 - Citação da Lei 14.899/2024.",
+    "subject": "ipmovd"
+  }
+]
 }
