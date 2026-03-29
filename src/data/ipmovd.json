@@ -1,5 +1,6 @@
 {
-  "questions": [
+  "questions": 
+[
   {
     "question": "A Lei Maria da Penha (Lei nº 11.340/2006) foi sancionada no ano de:",
     "answerOptions": [
@@ -265,14 +266,14 @@
     "subject": "ipmovd"
   },
   {
-    "question": "O crime de importunação sexual (Lei 13.718/2018) e a divulgação não autorizada de cena de nudez ou ato sexual (art. 218-C do CP) têm, respectivamente, penas de:",
+    "question": "O crime de importunação sexual (Lei 13.718/2018) tem pena de:",
     "answerOptions": [
-      { "text": "1 a 5 anos e 6 meses a 2 anos", "rationale": "Correto. Importunação: 1 a 5 anos; divulgação: 1 a 5 anos (art. 218-C tem pena de 1 a 5 anos, não 6 meses a 2 anos). Na verdade, a questão precisa ser corrigida: o material cita art. 218-C com pena de 1 a 5 anos.", "isCorrect": false },
-      { "text": "6 meses a 2 anos e 1 a 5 anos", "rationale": "Incorreto. A inversão está errada.", "isCorrect": false },
-      { "text": "2 a 4 anos e 3 a 6 anos", "rationale": "Incorreto.", "isCorrect": false },
-      { "text": "1 a 5 anos e 1 a 5 anos", "rationale": "Correto. Ambos os crimes têm pena de 1 a 5 anos (art. 215-A e art. 218-C do CP).", "isCorrect": true }
+      { "text": "6 meses a 2 anos", "rationale": "Incorreto. A pena é maior.", "isCorrect": false },
+      { "text": "1 a 5 anos", "rationale": "Correto. Art. 215-A do CP.", "isCorrect": true },
+      { "text": "2 a 6 anos", "rationale": "Incorreto.", "isCorrect": false },
+      { "text": "3 a 8 anos", "rationale": "Incorreto.", "isCorrect": false }
     ],
-    "hint": "Material Página 44 - Art. 218-C: pena de 1 a 5 anos. Importunação sexual (art. 215-A): 1 a 5 anos.",
+    "hint": "Material Página 44 - 'Lei de Importunação Sexual'.",
     "subject": "ipmovd"
   },
   {
